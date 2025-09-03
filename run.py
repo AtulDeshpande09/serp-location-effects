@@ -37,7 +37,7 @@ if __name__ == "__main__":
             results = search_web(query,location,num)
             
             path = location + "/" + query
-            file_path = f"{path}.txt"
+            file_path = f"{path}.json"
             
             with open(file_path,'w') as file:
                 json.dump(results,file,indent=4)

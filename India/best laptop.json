@@ -1,0 +1,1903 @@
+{
+    "search_metadata": {
+        "id": "68b8767d28b27bb7eb2521fd",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/562f9e7bb839bb2c/68b8767d28b27bb7eb2521fd.json",
+        "pixel_position_endpoint": "https://serpapi.com/searches/562f9e7bb839bb2c/68b8767d28b27bb7eb2521fd.json_with_pixel_position",
+        "created_at": "2025-09-03 17:10:21 UTC",
+        "processed_at": "2025-09-03 17:10:21 UTC",
+        "google_url": "https://www.google.com/search?q=best+laptop&oq=best+laptop&uule=w+CAIQICIFSW5kaWE&num=50&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/562f9e7bb839bb2c/68b8767d28b27bb7eb2521fd.html",
+        "total_time_taken": 2.37
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "best laptop",
+        "location_requested": "India",
+        "location_used": "India",
+        "google_domain": "google.com",
+        "num": "50",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "best laptop",
+        "total_results": 2060000000,
+        "time_taken_displayed": 0.53,
+        "organic_results_state": "Results for exact spelling"
+    },
+    "immersive_products": [
+        {
+            "category": "Popular products",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcROpIlbysZgtI4Ch82u7T8iXERNDrknzwFUsTkM7u9VPzb9Pt9e9US68ZP1qGHtxRj9Sk1Oyv5XQuOr4ZgW1kFnZjTbmWMscKAJRmxuLFuml9H84j7FtB3Z",
+            "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQHXFo_4_jfSkgJGci2J3gMfs5gRtqQjLtWp4j8oZ5V76tcJKWfy34pBCFnqxz-2SHx5D256e-9aNEAtsTTvB5jXz-jbEk",
+            "source": "Apple",
+            "title": "Apple MacBook Pro 14 M4",
+            "rating": 4.8,
+            "reviews": 4500,
+            "price": "$1,999.00",
+            "extracted_price": 1999.0,
+            "delivery": "Free next-day delivery",
+            "immersive_product_page_token": "eyJlaSI6ImZuYTRhSW0zSjllS2tkVVA5NzNtcUE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTE1Mjg4MzYwMTA3NzM4OTE5MiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjMyMzc1MTY4MTEyMTcwNzE3MTgiLCJpbWFnZURvY2lkIjoiMjA1NzI0OTAwMzY1NjI4NTYyMiIsInJkcyI6IlBDXzE3MDY5ODE2NTIxOTgyMTczNDEwfFBST0RfUENfMTcwNjk4MTY1MjE5ODIxNzM0MTAiLCJxdWVyeSI6ImJlc3QrbGFwdG9wIiwiZ3BjaWQiOiIxNzA2OTgxNjUyMTk4MjE3MzQxMCIsIm1pZCI6IjU3NjQ2MjgzNjI3MzE4NTYyMyIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSUZTVzVrYVdFIiwiZ2wiOm51bGwsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImZuYTRhSW0zSjllS2tkVVA5NzNtcUE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTE1Mjg4MzYwMTA3NzM4OTE5MiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjMyMzc1MTY4MTEyMTcwNzE3MTgiLCJpbWFnZURvY2lkIjoiMjA1NzI0OTAwMzY1NjI4NTYyMiIsInJkcyI6IlBDXzE3MDY5ODE2NTIxOTgyMTczNDEwfFBST0RfUENfMTcwNjk4MTY1MjE5ODIxNzM0MTAiLCJxdWVyeSI6ImJlc3QrbGFwdG9wIiwiZ3BjaWQiOiIxNzA2OTgxNjUyMTk4MjE3MzQxMCIsIm1pZCI6IjU3NjQ2MjgzNjI3MzE4NTYyMyIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSUZTVzVrYVdFIiwiZ2wiOm51bGwsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ%3D%3D",
+            "product_id": "5152883601077389192",
+            "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&google_domain=google.com&location=India&product_id=5152883601077389192"
+        },
+        {
+            "category": "Popular products",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSPDiHFJ19HAq2U_dBNBC_DQ5V5qD7PwBo1_AoOn62_v3uXk7AOMgj-e-TaKOEPzE_d9bSPHrq4npWFDNzOorFg9hacISkrvn_AIaE1VIwr7snqmhBXpbdKMA",
+            "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQBoJA32c8xSr81n9uCmRSzJfl-3busZiMovh7WYCLJ836SEcMp8ocwOXGEywNzMk-xI8UTJdS77e551Ye-H3G3e0uvPw",
+            "source": "CDW",
+            "title": "Lenovo ThinkBook 16 G7 IML 16\" WUXGA 21MS",
+            "rating": 4.7,
+            "reviews": 136,
+            "price": "$908.99",
+            "extracted_price": 908.99,
+            "immersive_product_page_token": "eyJlaSI6ImZuYTRhSW0zSjllS2tkVVA5NzNtcUE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTUxNDU2MjA2ODA1OTY5ODYxNiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEzMDMxNzEzMTA4NTgwNTQ3NDQ2IiwiaW1hZ2VEb2NpZCI6IjM3NDgxODE0OTAzMjQxMjExNjMiLCJyZHMiOiJQQ18xNDI4MTA1MDE1MDM2MzUxNTc5OHxQUk9EX1BDXzE0MjgxMDUwMTUwMzYzNTE1Nzk4IiwicXVlcnkiOiJiZXN0K2xhcHRvcCIsImdwY2lkIjoiMTQyODEwNTAxNTAzNjM1MTU3OTgiLCJtaWQiOiI1NzY0NjI4NjU2MDg0OTU0MjIiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lGU1c1a2FXRSIsImdsIjpudWxsLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImZuYTRhSW0zSjllS2tkVVA5NzNtcUE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTUxNDU2MjA2ODA1OTY5ODYxNiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEzMDMxNzEzMTA4NTgwNTQ3NDQ2IiwiaW1hZ2VEb2NpZCI6IjM3NDgxODE0OTAzMjQxMjExNjMiLCJyZHMiOiJQQ18xNDI4MTA1MDE1MDM2MzUxNTc5OHxQUk9EX1BDXzE0MjgxMDUwMTUwMzYzNTE1Nzk4IiwicXVlcnkiOiJiZXN0K2xhcHRvcCIsImdwY2lkIjoiMTQyODEwNTAxNTAzNjM1MTU3OTgiLCJtaWQiOiI1NzY0NjI4NjU2MDg0OTU0MjIiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lGU1c1a2FXRSIsImdsIjpudWxsLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0%3D",
+            "product_id": "5514562068059698616",
+            "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&google_domain=google.com&location=India&product_id=5514562068059698616"
+        },
+        {
+            "category": "Popular products",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR5owhvz0qHLAo214uvYXPwFkfmcv9Luepej8KW6HVBxszfy4-c-lMp6CW91EKodJ2Yyo6xSm-H61oYcKL_rSVugsy7JqcVL_mLxC8vezolKCO-wtd7lEMx",
+            "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQlFc_A95cG0jHfmaRfp7ctg11O4mkEi7BF4ZPZDEDlbumwh8UkmjbpPcFKPPbrhPOd6ckumlJDhvdfoU_7qIY9RlQ6dJukbQ",
+            "source": "Lenovo",
+            "title": "Lenovo Yoga 7i 16\" 2 in 1 Laptop",
+            "rating": 4.6,
+            "reviews": 91,
+            "price": "$849.99",
+            "extracted_price": 849.99,
+            "immersive_product_page_token": "eyJlaSI6ImZuYTRhSW0zSjllS2tkVVA5NzNtcUE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTI4OTAxOTQ2NDEyMzMwNDI1MDciLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNTM0Mjc0OTg3NDk2OTI1NTY3MCIsImltYWdlRG9jaWQiOiI3Nzc4MzA0OTkwMjQ2MjAwMTQ5IiwicmRzIjoiUENfMTQwMzg0ODg5OTA5NzIxNzAxMXxQUk9EX1BDXzE0MDM4NDg4OTkwOTcyMTcwMTEiLCJxdWVyeSI6ImJlc3QrbGFwdG9wIiwiZ3BjaWQiOiIxNDAzODQ4ODk5MDk3MjE3MDExIiwibWlkIjoiNTc2NDYyODYyMTA5Nzc2NTcwIiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJRlNXNWthV0UiLCJnbCI6bnVsbCwiaGwiOm51bGwsImVuZ2luZSI6Imdvb2dsZSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImZuYTRhSW0zSjllS2tkVVA5NzNtcUE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTI4OTAxOTQ2NDEyMzMwNDI1MDciLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNTM0Mjc0OTg3NDk2OTI1NTY3MCIsImltYWdlRG9jaWQiOiI3Nzc4MzA0OTkwMjQ2MjAwMTQ5IiwicmRzIjoiUENfMTQwMzg0ODg5OTA5NzIxNzAxMXxQUk9EX1BDXzE0MDM4NDg4OTkwOTcyMTcwMTEiLCJxdWVyeSI6ImJlc3QrbGFwdG9wIiwiZ3BjaWQiOiIxNDAzODQ4ODk5MDk3MjE3MDExIiwibWlkIjoiNTc2NDYyODYyMTA5Nzc2NTcwIiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJRlNXNWthV0UiLCJnbCI6bnVsbCwiaGwiOm51bGwsImVuZ2luZSI6Imdvb2dsZSJ9",
+            "product_id": "12890194641233042507",
+            "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&google_domain=google.com&location=India&product_id=12890194641233042507"
+        },
+        {
+            "category": "Popular products",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSE6Wp-W9XABcEaTMEdh8nBT8JGubOs5rG-XbDAQf0-qcOOGBc9aRJzAp6KnbJ8mliteMTizeoMP_vZ4ux555f_zay3rVGXXFGeJu823d4",
+            "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJLrYt8ApvztGsW8TSy6-5HL7LwDNwH2emYmRabMUepMDXWE3LqD_Jltucg6NfE5z5MV57q9G1n_VVMyiUtZCVGXOuFlVA6g",
+            "source": "Best Buy",
+            "title": "Lenovo Flex 5i Chromebook Plus 14\" 2K Touch Intel i3-1315U",
+            "rating": 4.3,
+            "reviews": 380,
+            "price": "$399.00",
+            "extracted_price": 399.0,
+            "original_price": "$599",
+            "extracted_original_price": 599,
+            "extensions": [
+                "33% OFF"
+            ],
+            "immersive_product_page_token": "eyJlaSI6ImZuYTRhSW0zSjllS2tkVVA5NzNtcUE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTU1NjExNDg5NTY0NDI0MDEwMTQiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNjkwODc3NzIxMTYwNjg4Mzg5MSIsImltYWdlRG9jaWQiOiIxNDg0NTYzNDQyOTM3NjA2MTM1MyIsInJkcyI6IlBDXzE4MzI5NjczNDYxMDM5MjQyNzI5fFBST0RfUENfMTgzMjk2NzM0NjEwMzkyNDI3MjkiLCJxdWVyeSI6ImJlc3QrbGFwdG9wIiwiZ3BjaWQiOiIxODMyOTY3MzQ2MTAzOTI0MjcyOSIsIm1pZCI6IjU3NjQ2MjgyNzY2MDE2NDE5MCIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSUZTVzVrYVdFIiwiZ2wiOm51bGwsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImZuYTRhSW0zSjllS2tkVVA5NzNtcUE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTU1NjExNDg5NTY0NDI0MDEwMTQiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNjkwODc3NzIxMTYwNjg4Mzg5MSIsImltYWdlRG9jaWQiOiIxNDg0NTYzNDQyOTM3NjA2MTM1MyIsInJkcyI6IlBDXzE4MzI5NjczNDYxMDM5MjQyNzI5fFBST0RfUENfMTgzMjk2NzM0NjEwMzkyNDI3MjkiLCJxdWVyeSI6ImJlc3QrbGFwdG9wIiwiZ3BjaWQiOiIxODMyOTY3MzQ2MTAzOTI0MjcyOSIsIm1pZCI6IjU3NjQ2MjgyNzY2MDE2NDE5MCIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSUZTVzVrYVdFIiwiZ2wiOm51bGwsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ%3D%3D",
+            "product_id": "15561148956442401014",
+            "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&google_domain=google.com&location=India&product_id=15561148956442401014"
+        },
+        {
+            "category": "Popular products",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS33MsTwqOm6b0Vfn-jueO0EiCdMJFJMScu7Wj41ws36yB3uSlZaivJ5YCdN3wiomJMNSYTDAf7OqBvhKO2ExbY8OHeOMPbOfccLjTyMzknE1RrPDNvJKj0MQ",
+            "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTzHGH___dQb8XTTQy84ZiyWrT_Dh3uWhKEObLTCIsMpvJlHJz-hZTlG1FZtjauqhSD4VdCjPCzdtwqtfDW_v_PnD5S",
+            "source": "LG Electronics",
+            "title": "LG Gram Pro 16\" 2-in-1 Laptop",
+            "rating": 4.0,
+            "reviews": 32,
+            "price": "$2,549.99",
+            "extracted_price": 2549.99,
+            "immersive_product_page_token": "eyJlaSI6ImZuYTRhSW0zSjllS2tkVVA5NzNtcUE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTQyMTU5ODQyNjYzNzM5MTM2MSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjkxMjY4NzM4NDI4NTE2MjQ4NTgiLCJpbWFnZURvY2lkIjoiOTY0MTAxOTA1Njg5Mzg0NzQwNyIsInJkcyI6IlBDXzExODM3NzIwNTI5Mzg1MDAwNTE0fFBST0RfUENfMTE4Mzc3MjA1MjkzODUwMDA1MTQiLCJxdWVyeSI6ImJlc3QrbGFwdG9wIiwiZ3BjaWQiOiI4MjA3MDUyNTg4MjIyODA3MzA3IiwibWlkIjoiIiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJRlNXNWthV0UiLCJnbCI6bnVsbCwiaGwiOm51bGwsImVuZ2luZSI6Imdvb2dsZSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImZuYTRhSW0zSjllS2tkVVA5NzNtcUE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTQyMTU5ODQyNjYzNzM5MTM2MSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjkxMjY4NzM4NDI4NTE2MjQ4NTgiLCJpbWFnZURvY2lkIjoiOTY0MTAxOTA1Njg5Mzg0NzQwNyIsInJkcyI6IlBDXzExODM3NzIwNTI5Mzg1MDAwNTE0fFBST0RfUENfMTE4Mzc3MjA1MjkzODUwMDA1MTQiLCJxdWVyeSI6ImJlc3QrbGFwdG9wIiwiZ3BjaWQiOiI4MjA3MDUyNTg4MjIyODA3MzA3IiwibWlkIjoiIiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJRlNXNWthV0UiLCJnbCI6bnVsbCwiaGwiOm51bGwsImVuZ2luZSI6Imdvb2dsZSJ9",
+            "product_id": "5421598426637391361",
+            "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&google_domain=google.com&location=India&product_id=5421598426637391361"
+        },
+        {
+            "category": "Popular products",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSP_FBo6XbuMYX4o88jKGeBGM9aRmb506njyrkGtar88C5R7qnk8_UoUCy54E3Q6WVJTjfeXnWxp31pjmgRdaCeyEVsdU5_NkjN8-bBbQct3z7o4KeHdwW7gQ",
+            "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJLrYt8ApvztGsW8TSy6-5HL7LwDNwH2emYmRabMUepMDXWE3LqD_Jltucg6NfE5z5MV57q9G1n_VVMyiUtZCVGXOuFlVA6g",
+            "source": "Best Buy",
+            "title": "ASUS Zenbook 14 OLED",
+            "rating": 4.5,
+            "reviews": 2100,
+            "price": "$1,299.99",
+            "extracted_price": 1299.99,
+            "delivery": "Free delivery by Fri",
+            "immersive_product_page_token": "eyJlaSI6ImZuYTRhSW0zSjllS2tkVVA5NzNtcUE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODEzMTUwMTMzMjA1OTQxNTM2MCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjcyNzQ3MTU0NDQ4MTIyMjIyMzEiLCJpbWFnZURvY2lkIjoiMTY4NDU0NTA2NTA1MzEzMTM5NDMiLCJyZHMiOiJQQ18zNjE0NTkxMTI1Njg0OTk4ODEwfFBST0RfUENfMzYxNDU5MTEyNTY4NDk5ODgxMCIsInF1ZXJ5IjoiYmVzdCtsYXB0b3AiLCJncGNpZCI6IjM2MTQ1OTExMjU2ODQ5OTg4MTAiLCJtaWQiOiI1NzY0NjI3NTA5Mzg0MDYwMTYiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lGU1c1a2FXRSIsImdsIjpudWxsLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImZuYTRhSW0zSjllS2tkVVA5NzNtcUE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODEzMTUwMTMzMjA1OTQxNTM2MCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjcyNzQ3MTU0NDQ4MTIyMjIyMzEiLCJpbWFnZURvY2lkIjoiMTY4NDU0NTA2NTA1MzEzMTM5NDMiLCJyZHMiOiJQQ18zNjE0NTkxMTI1Njg0OTk4ODEwfFBST0RfUENfMzYxNDU5MTEyNTY4NDk5ODgxMCIsInF1ZXJ5IjoiYmVzdCtsYXB0b3AiLCJncGNpZCI6IjM2MTQ1OTExMjU2ODQ5OTg4MTAiLCJtaWQiOiI1NzY0NjI3NTA5Mzg0MDYwMTYiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lGU1c1a2FXRSIsImdsIjpudWxsLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0%3D",
+            "product_id": "8131501332059415360",
+            "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&google_domain=google.com&location=India&product_id=8131501332059415360"
+        },
+        {
+            "category": "Popular products",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTSG_Q21aycp0QvOQOkHuG9XSI1WjLBRcywM-XjZMmW5cX1I0JaXuTZs9O1MObUX2gV8RhK8oWuNIiUxr7rLtiINqdxKOLdt1RGC04ihNUooYRGTWRD5rHW4A",
+            "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQlFc_A95cG0jHfmaRfp7ctg11O4mkEi7BF4ZPZDEDlbumwh8UkmjbpPcFKPPbrhPOd6ckumlJDhvdfoU_7qIY9RlQ6dJukbQ",
+            "source": "Lenovo",
+            "title": "Lenovo Yoga 7 2-in-1 Laptop 16",
+            "rating": 4.7,
+            "reviews": 989,
+            "price": "$829.99",
+            "extracted_price": 829.99,
+            "immersive_product_page_token": "eyJlaSI6ImZuYTRhSW0zSjllS2tkVVA5NzNtcUE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDQ0NTk4NTI4NDAwNzA1NzU1NSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEyMDExNjgwOTI5MzgyMjcxNTEyIiwiaW1hZ2VEb2NpZCI6IjMzMDM0OTI1OTU4ODM0MTAyMzQiLCJyZHMiOiJQQ18xMzYzMTAyMjYwMTg5Njg1MzYwMHxQUk9EX1BDXzEzNjMxMDIyNjAxODk2ODUzNjAwIiwicXVlcnkiOiJiZXN0K2xhcHRvcCIsImdwY2lkIjoiMTM2MzEwMjI2MDE4OTY4NTM2MDAiLCJtaWQiOiI1NzY0NjI4MjkyMTA2ODI5MDIiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lGU1c1a2FXRSIsImdsIjpudWxsLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImZuYTRhSW0zSjllS2tkVVA5NzNtcUE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDQ0NTk4NTI4NDAwNzA1NzU1NSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEyMDExNjgwOTI5MzgyMjcxNTEyIiwiaW1hZ2VEb2NpZCI6IjMzMDM0OTI1OTU4ODM0MTAyMzQiLCJyZHMiOiJQQ18xMzYzMTAyMjYwMTg5Njg1MzYwMHxQUk9EX1BDXzEzNjMxMDIyNjAxODk2ODUzNjAwIiwicXVlcnkiOiJiZXN0K2xhcHRvcCIsImdwY2lkIjoiMTM2MzEwMjI2MDE4OTY4NTM2MDAiLCJtaWQiOiI1NzY0NjI4MjkyMTA2ODI5MDIiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lGU1c1a2FXRSIsImdsIjpudWxsLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0%3D",
+            "product_id": "4445985284007057555",
+            "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&google_domain=google.com&location=India&product_id=4445985284007057555"
+        },
+        {
+            "category": "Popular products",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTmkpVH524ZQRrEM1RjV2z-vokzJPHnVrYbmGocBjVAoHtJc1F9gkEvwer0tS2ROypUa4iaoR-Z8UHSIarbjjs2A9bCzKTx6tc63P583_GLg9fMEN8B5fzmgA",
+            "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcS3WkbIklBUyTU7PZkCJWYWIhQ3cI54mHtxxELAGN9Q6RI8QH3TGRbeEcZQihMRlPe-0w6sq2sYgDHzfVN4OS9V6Yh2wDuRqs4vYw",
+            "source": "Microsoft Store",
+            "title": "Microsoft Surface Laptop Go 3",
+            "rating": 4.6,
+            "reviews": 526,
+            "price": "$799.99",
+            "extracted_price": 799.99,
+            "original_price": "$950",
+            "extracted_original_price": 950,
+            "delivery": "Free delivery",
+            "extensions": [
+                "15% OFF"
+            ],
+            "immersive_product_page_token": "eyJlaSI6ImZuYTRhSW0zSjllS2tkVVA5NzNtcUE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzIwMTM1ODg1ODk1ODc5NjUzOSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijk5NjY0MTI1OTEwNTEyNzIxNzYiLCJpbWFnZURvY2lkIjoiMTI5MjE2MjMzMzUyMzYyOTk3MTUiLCJyZHMiOiJQQ18xNjM5NTcyODUyOTAwMDQ1NDg1fFBST0RfUENfMTYzOTU3Mjg1MjkwMDA0NTQ4NSIsInF1ZXJ5IjoiYmVzdCtsYXB0b3AiLCJncGNpZCI6IjE2Mzk1NzI4NTI5MDAwNDU0ODUiLCJtaWQiOiI1NzY0NjI3NTY2MTI4ODIzODgiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lGU1c1a2FXRSIsImdsIjpudWxsLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImZuYTRhSW0zSjllS2tkVVA5NzNtcUE4IiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzIwMTM1ODg1ODk1ODc5NjUzOSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijk5NjY0MTI1OTEwNTEyNzIxNzYiLCJpbWFnZURvY2lkIjoiMTI5MjE2MjMzMzUyMzYyOTk3MTUiLCJyZHMiOiJQQ18xNjM5NTcyODUyOTAwMDQ1NDg1fFBST0RfUENfMTYzOTU3Mjg1MjkwMDA0NTQ4NSIsInF1ZXJ5IjoiYmVzdCtsYXB0b3AiLCJncGNpZCI6IjE2Mzk1NzI4NTI5MDAwNDU0ODUiLCJtaWQiOiI1NzY0NjI3NTY2MTI4ODIzODgiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lGU1c1a2FXRSIsImdsIjpudWxsLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0%3D",
+            "product_id": "7201358858958796539",
+            "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&google_domain=google.com&location=India&product_id=7201358858958796539"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "Which brand laptop is best?",
+            "type": "featured_snippet",
+            "snippet": "In general, some of the most reliable laptop brands include Apple, Lenovo, HP, Dell, ASUS, and Acer. These brands are known for their quality products, good customer service, and long-term reliability.",
+            "title": "Which Laptop brands are truly reliable? : r/laptops",
+            "date": "Apr 20, 2023",
+            "link": "https://www.reddit.com/r/laptops/comments/12sl5tg/which_laptop_brands_are_truly_reliable/",
+            "displayed_link": "https://www.reddit.com \u203a laptops \u203a comments \u203a which_la...",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSU1EbE5OemhFYVdsUVJrNXdkRkU0ZFdGd1JtOXZkME5tV2tSMVVsTXhSRkY1WDNRNVJsZENaVTlwY1dkRU9XRkxPVXBYVG0xRWJVbHRZbVJCZVdocWVUWTNhVlpUVlRGcGNuQmZkbUpWTUhvd1oyUnVOVEpNTFVSeGR4SVhabTVoTkdGSmJUTktPV1ZMYTJSVlVEazNNMjF4UVRnYUlrRkdUVUZIUjNBNFpraENYMWhPYTNocWNVZHpXR0kzUlZSNVZHbHFVa0ZIUTNjIiwiZmN2IjoiMyIsImVpIjoiZm5hNGFJbTNKOWVLa2RVUDk3M21xQTgiLCJxYyI6IkNndGlaWE4wSUd4aGNIUnZjQkFBZlRMYy1qNCIsInF1ZXN0aW9uIjoiV2hpY2ggYnJhbmQgbGFwdG9wIGlzIGJlc3Q/IiwibGsiOiJHaHAzYUdsamFDQmljbUZ1WkNCc1lYQjBiM0FnYVhNZ1ltVnpkQSIsImJzIjoiYy1PeTQ1SU96OGhNemxCSUtrck1TMUhJU1N3b3lTOVF5Q3hXU0VvdExyR1hXSmRrSkNNbFZZNVRCWmNabHpoRVAwSThMYkc0SkxYSVh1Sy1yWkdFbEZnNVZsa3VEeTRGRkgwWmlTQURTNEJTQ29XbGlUbVpKWlgyRXN2VmpCU2w1TXZ4Sy1NSzRsSU56MGdzQVpsZGtwR3FBRkpWbkpxVGs1bVhEdE1FZHJpOXhEWWhJelVwbFhJaTFBb3dBZ0EiLCJpZCI6ImZjX2ZuYTRhSW0zSjllS2tkVVA5NzNtcUE4XzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSU1EbE5OemhFYVdsUVJrNXdkRkU0ZFdGd1JtOXZkME5tV2tSMVVsTXhSRkY1WDNRNVJsZENaVTlwY1dkRU9XRkxPVXBYVG0xRWJVbHRZbVJCZVdocWVUWTNhVlpUVlRGcGNuQmZkbUpWTUhvd1oyUnVOVEpNTFVSeGR4SVhabTVoTkdGSmJUTktPV1ZMYTJSVlVEazNNMjF4UVRnYUlrRkdUVUZIUjNBNFpraENYMWhPYTNocWNVZHpXR0kzUlZSNVZHbHFVa0ZIUTNjIiwiZmN2IjoiMyIsImVpIjoiZm5hNGFJbTNKOWVLa2RVUDk3M21xQTgiLCJxYyI6IkNndGlaWE4wSUd4aGNIUnZjQkFBZlRMYy1qNCIsInF1ZXN0aW9uIjoiV2hpY2ggYnJhbmQgbGFwdG9wIGlzIGJlc3Q%2FIiwibGsiOiJHaHAzYUdsamFDQmljbUZ1WkNCc1lYQjBiM0FnYVhNZ1ltVnpkQSIsImJzIjoiYy1PeTQ1SU96OGhNemxCSUtrck1TMUhJU1N3b3lTOVF5Q3hXU0VvdExyR1hXSmRrSkNNbFZZNVRCWmNabHpoRVAwSThMYkc0SkxYSVh1Sy1yWkdFbEZnNVZsa3VEeTRGRkgwWmlTQURTNEJTQ29XbGlUbVpKWlgyRXN2VmpCU2w1TXZ4Sy1NSzRsSU56MGdzQVpsZGtwR3FBRkpWbkpxVGs1bVhEdE1FZHJpOXhEWWhJelVwbFhJaTFBb3dBZ0EiLCJpZCI6ImZjX2ZuYTRhSW0zSjllS2tkVVA5NzNtcUE4XzEifQ%3D%3D"
+        },
+        {
+            "question": "Which laptop is faster?",
+            "type": "featured_snippet",
+            "title": "Table of Contents",
+            "date": "Aug 27, 2025",
+            "link": "https://www.zdnet.com/article/fastest-laptops/",
+            "list": [
+                "MacBook Pro M4 Max | Fastest laptop overall. Fastest laptop overall. ... ",
+                "Dell XPS 13 (Snapdragon X Elite) | Fastest ultraportable laptop. ... ",
+                "Asus ProArt P16 | Fastest laptop for content creators. ... ",
+                "Dell 14 Plus | Fastest affordable laptop for work. ... ",
+                "HP EliteBook X G1a | Fastest high-end laptop for work."
+            ],
+            "displayed_link": "https://www.zdnet.com \u203a article \u203a fastest-laptops",
+            "source_logo": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/52e9517c63580f26beca78a9a18e16c09ba123ad378b00938a4a1281c4382292.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSU1EbE5OemhFYVdsUVJrNXdkRkU0ZFdGd1JtOXZkME5tV2tSMVVsTXhSRkY1WDNRNVJsZENaVTlwY1dkRU9XRkxPVXBYVG0xRWJVbHRZbVJCZVdocWVUWTNhVlpUVlRGcGNuQmZkbUpWTUhvd1oyUnVOVEpNTFVSeGR4SVhabTVoTkdGSmJUTktPV1ZMYTJSVlVEazNNMjF4UVRnYUlrRkdUVUZIUjNBNFpraENYMWhPYTNocWNVZHpXR0kzUlZSNVZHbHFVa0ZIUTNjIiwiZmN2IjoiMyIsImVpIjoiZm5hNGFJbTNKOWVLa2RVUDk3M21xQTgiLCJxYyI6IkNndGlaWE4wSUd4aGNIUnZjQkFBZlRMYy1qNCIsInF1ZXN0aW9uIjoiV2hpY2ggbGFwdG9wIGlzIGZhc3Rlcj8iLCJsayI6IkdoWjNhR2xqYUNCc1lYQjBiM0FnYVhNZ1ptRnpkR1Z5IiwiYnMiOiJjLU95NDVJT3o4aE16bEJJS2tyTVMxSElTU3dveVM5UXlDeFdTRW90THJHWFdKZGtKQ01sVlk1VEJaY1psemhFUDBJOExiRzRKTFhJWHVLLXJaR0VsRmc1VmxrdUR5NEZGSDBaaVNBRFM0QlNDb1dsaVRtWkpaWDJFc3ZWakJTbDVNdnhLLU1LNGxJTnowZ3NBWmxka3BHcUFGSlZuSnFUazVtWER0TUVkcmk5eERZaEl6VXBsWElpMUFvd0FnQSIsImlkIjoiZmNfZm5hNGFJbTNKOWVLa2RVUDk3M21xQThfMSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSU1EbE5OemhFYVdsUVJrNXdkRkU0ZFdGd1JtOXZkME5tV2tSMVVsTXhSRkY1WDNRNVJsZENaVTlwY1dkRU9XRkxPVXBYVG0xRWJVbHRZbVJCZVdocWVUWTNhVlpUVlRGcGNuQmZkbUpWTUhvd1oyUnVOVEpNTFVSeGR4SVhabTVoTkdGSmJUTktPV1ZMYTJSVlVEazNNMjF4UVRnYUlrRkdUVUZIUjNBNFpraENYMWhPYTNocWNVZHpXR0kzUlZSNVZHbHFVa0ZIUTNjIiwiZmN2IjoiMyIsImVpIjoiZm5hNGFJbTNKOWVLa2RVUDk3M21xQTgiLCJxYyI6IkNndGlaWE4wSUd4aGNIUnZjQkFBZlRMYy1qNCIsInF1ZXN0aW9uIjoiV2hpY2ggbGFwdG9wIGlzIGZhc3Rlcj8iLCJsayI6IkdoWjNhR2xqYUNCc1lYQjBiM0FnYVhNZ1ptRnpkR1Z5IiwiYnMiOiJjLU95NDVJT3o4aE16bEJJS2tyTVMxSElTU3dveVM5UXlDeFdTRW90THJHWFdKZGtKQ01sVlk1VEJaY1psemhFUDBJOExiRzRKTFhJWHVLLXJaR0VsRmc1VmxrdUR5NEZGSDBaaVNBRFM0QlNDb1dsaVRtWkpaWDJFc3ZWakJTbDVNdnhLLU1LNGxJTnowZ3NBWmxka3BHcUFGSlZuSnFUazVtWER0TUVkcmk5eERZaEl6VXBsWElpMUFvd0FnQSIsImlkIjoiZmNfZm5hNGFJbTNKOWVLa2RVUDk3M21xQThfMSJ9"
+        },
+        {
+            "question": "Which laptop has better quality?",
+            "type": "featured_snippet",
+            "snippet": "Best Laptop Overall The MacBook Air (9/10, WIRED Recommends) has been terrific for years now, offering an incredible combination of performance, battery life, build quality, and portability.",
+            "title": "15 Best Laptops (2025), WIRED-Tested and Approved",
+            "date": "6 days ago",
+            "link": "https://www.wired.com/gallery/best-laptops/#:~:text=Best%20Laptop%20Overall,-Photograph%3A%20Brenda%20Stolyar&text=The%20MacBook%20Air%20(9%2F10,%2C%20build%20quality%2C%20and%20portability.",
+            "displayed_link": "https://www.wired.com \u203a gallery \u203a best-laptops",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi6FCfcQDTxnkUToKu6OO4tsabpxKJJ3GvKG17HeHhkg&s",
+            "source_logo": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/52e9517c63580f26beca78a9a18e16c0e999ee3c21fef01f4e0d1d414682642a.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSU1EbE5OemhFYVdsUVJrNXdkRkU0ZFdGd1JtOXZkME5tV2tSMVVsTXhSRkY1WDNRNVJsZENaVTlwY1dkRU9XRkxPVXBYVG0xRWJVbHRZbVJCZVdocWVUWTNhVlpUVlRGcGNuQmZkbUpWTUhvd1oyUnVOVEpNTFVSeGR4SVhabTVoTkdGSmJUTktPV1ZMYTJSVlVEazNNMjF4UVRnYUlrRkdUVUZIUjNBNFpraENYMWhPYTNocWNVZHpXR0kzUlZSNVZHbHFVa0ZIUTNjIiwiZmN2IjoiMyIsImVpIjoiZm5hNGFJbTNKOWVLa2RVUDk3M21xQTgiLCJxYyI6IkNndGlaWE4wSUd4aGNIUnZjQkFBZlRMYy1qNCIsInF1ZXN0aW9uIjoiV2hpY2ggbGFwdG9wIGhhcyBiZXR0ZXIgcXVhbGl0eT8iLCJsayI6IkdoOTNhR2xqYUNCc1lYQjBiM0FnYUdGeklHSmxkSFJsY2lCeGRXRnNhWFI1IiwiYnMiOiJjLU95NDVJT3o4aE16bEJJS2tyTVMxSElTU3dveVM5UXlDeFdTRW90THJHWFdKZGtKQ01sVlk1VEJaY1psemhFUDBJOExiRzRKTFhJWHVLLXJaR0VsRmc1VmxrdUR5NEZGSDBaaVNBRFM0QlNDb1dsaVRtWkpaWDJFc3ZWakJTbDVNdnhLLU1LNGxJTnowZ3NBWmxka3BHcUFGSlZuSnFUazVtWER0TUVkcmk5eERZaEl6VXBsWElpMUFvd0FnQSIsImlkIjoiZmNfZm5hNGFJbTNKOWVLa2RVUDk3M21xQThfMSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSU1EbE5OemhFYVdsUVJrNXdkRkU0ZFdGd1JtOXZkME5tV2tSMVVsTXhSRkY1WDNRNVJsZENaVTlwY1dkRU9XRkxPVXBYVG0xRWJVbHRZbVJCZVdocWVUWTNhVlpUVlRGcGNuQmZkbUpWTUhvd1oyUnVOVEpNTFVSeGR4SVhabTVoTkdGSmJUTktPV1ZMYTJSVlVEazNNMjF4UVRnYUlrRkdUVUZIUjNBNFpraENYMWhPYTNocWNVZHpXR0kzUlZSNVZHbHFVa0ZIUTNjIiwiZmN2IjoiMyIsImVpIjoiZm5hNGFJbTNKOWVLa2RVUDk3M21xQTgiLCJxYyI6IkNndGlaWE4wSUd4aGNIUnZjQkFBZlRMYy1qNCIsInF1ZXN0aW9uIjoiV2hpY2ggbGFwdG9wIGhhcyBiZXR0ZXIgcXVhbGl0eT8iLCJsayI6IkdoOTNhR2xqYUNCc1lYQjBiM0FnYUdGeklHSmxkSFJsY2lCeGRXRnNhWFI1IiwiYnMiOiJjLU95NDVJT3o4aE16bEJJS2tyTVMxSElTU3dveVM5UXlDeFdTRW90THJHWFdKZGtKQ01sVlk1VEJaY1psemhFUDBJOExiRzRKTFhJWHVLLXJaR0VsRmc1VmxrdUR5NEZGSDBaaVNBRFM0QlNDb1dsaVRtWkpaWDJFc3ZWakJTbDVNdnhLLU1LNGxJTnowZ3NBWmxka3BHcUFGSlZuSnFUazVtWER0TUVkcmk5eERZaEl6VXBsWElpMUFvd0FnQSIsImlkIjoiZmNfZm5hNGFJbTNKOWVLa2RVUDk3M21xQThfMSJ9"
+        },
+        {
+            "question": "What is the top selling laptop brand?",
+            "type": "featured_snippet",
+            "snippet": "Current top vendors market share (2024)",
+            "table": [
+                [
+                    "Top 6 vendors by number of units shipped, 2024"
+                ],
+                [
+                    "Rank",
+                    "Manufacturer",
+                    "Market share"
+                ],
+                [
+                    "1",
+                    "Lenovo",
+                    "25.5%"
+                ],
+                [
+                    "2",
+                    "HP",
+                    "21.6%"
+                ],
+                [
+                    "3",
+                    "Dell",
+                    "16.1%"
+                ]
+            ],
+            "title": "Market share of personal computer vendors - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Market_share_of_personal_computer_vendors",
+            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Market_share_of_perso...",
+            "source_logo": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/52e9517c63580f26beca78a9a18e16c0f22640e7ef7b5b3887c78899099176ad.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSU1EbE5OemhFYVdsUVJrNXdkRkU0ZFdGd1JtOXZkME5tV2tSMVVsTXhSRkY1WDNRNVJsZENaVTlwY1dkRU9XRkxPVXBYVG0xRWJVbHRZbVJCZVdocWVUWTNhVlpUVlRGcGNuQmZkbUpWTUhvd1oyUnVOVEpNTFVSeGR4SVhabTVoTkdGSmJUTktPV1ZMYTJSVlVEazNNMjF4UVRnYUlrRkdUVUZIUjNBNFpraENYMWhPYTNocWNVZHpXR0kzUlZSNVZHbHFVa0ZIUTNjIiwiZmN2IjoiMyIsImVpIjoiZm5hNGFJbTNKOWVLa2RVUDk3M21xQTgiLCJxYyI6IkNndGlaWE4wSUd4aGNIUnZjQkFBZlRMYy1qNCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgdG9wIHNlbGxpbmcgbGFwdG9wIGJyYW5kPyIsImxrIjoiYzVOU0tjOUlMRkhJTEZZb3lVaFZLTWt2VUNoT3pjbkp6RXRYeUVrc0FIR1RpaEx6VWdBIiwiYnMiOiJjLU95NDVJT3o4aE16bEJJS2tyTVMxSElTU3dveVM5UXlDeFdTRW90THJHWFdKZGtKQ01sVlk1VEJaY1psemhFUDBJOExiRzRKTFhJWHVLLXJaR0VsRmc1VmxrdUR5NEZGSDBaaVNBRFM0QlNDb1dsaVRtWkpaWDJFc3ZWakJTbDVNdnhLLU1LNGxJTnowZ3NBWmxka3BHcUFGSlZuSnFUazVtWER0TUVkcmk5eERZaEl6VXBsWElpMUFvd0FnQSIsImlkIjoiZmNfZm5hNGFJbTNKOWVLa2RVUDk3M21xQThfMSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSU1EbE5OemhFYVdsUVJrNXdkRkU0ZFdGd1JtOXZkME5tV2tSMVVsTXhSRkY1WDNRNVJsZENaVTlwY1dkRU9XRkxPVXBYVG0xRWJVbHRZbVJCZVdocWVUWTNhVlpUVlRGcGNuQmZkbUpWTUhvd1oyUnVOVEpNTFVSeGR4SVhabTVoTkdGSmJUTktPV1ZMYTJSVlVEazNNMjF4UVRnYUlrRkdUVUZIUjNBNFpraENYMWhPYTNocWNVZHpXR0kzUlZSNVZHbHFVa0ZIUTNjIiwiZmN2IjoiMyIsImVpIjoiZm5hNGFJbTNKOWVLa2RVUDk3M21xQTgiLCJxYyI6IkNndGlaWE4wSUd4aGNIUnZjQkFBZlRMYy1qNCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgdG9wIHNlbGxpbmcgbGFwdG9wIGJyYW5kPyIsImxrIjoiYzVOU0tjOUlMRkhJTEZZb3lVaFZLTWt2VUNoT3pjbkp6RXRYeUVrc0FIR1RpaEx6VWdBIiwiYnMiOiJjLU95NDVJT3o4aE16bEJJS2tyTVMxSElTU3dveVM5UXlDeFdTRW90THJHWFdKZGtKQ01sVlk1VEJaY1psemhFUDBJOExiRzRKTFhJWHVLLXJaR0VsRmc1VmxrdUR5NEZGSDBaaVNBRFM0QlNDb1dsaVRtWkpaWDJFc3ZWakJTbDVNdnhLLU1LNGxJTnowZ3NBWmxka3BHcUFGSlZuSnFUazVtWER0TUVkcmk5eERZaEl6VXBsWElpMUFvd0FnQSIsImlkIjoiZmNfZm5hNGFJbTNKOWVLa2RVUDk3M21xQThfMSJ9"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "The Best Laptops We've Tested (September 2025)",
+            "link": "https://www.pcmag.com/picks/the-best-laptops",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pcmag.com/picks/the-best-laptops&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQFnoECCsQAQ",
+            "displayed_link": "https://www.pcmag.com \u203a Best Products \u203a Laptops",
+            "thumbnail": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/49836efb669f4c7e86b16cf2a23fbff36e1fcd729def8c893b0e998e13370819.jpeg",
+            "favicon": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/49836efb669f4c7e86b16cf2a23fbff387597cce2164cd9611b2a527b4b4bdb8.png",
+            "snippet": "Our current best laptop for most people is the Dell 14 Plus (DB14250), a top-value midranger that lasts for 20 hours on a charge, but we have plenty more tested ...",
+            "snippet_highlighted_words": [
+                "best laptop"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Laptops",
+                        "link": "https://uk.pcmag.com/laptops/158/the-best-laptops"
+                    },
+                    {
+                        "title": "Asus Zenbook 14 OLED Touch",
+                        "link": "https://www.pcmag.com/reviews/asus-zenbook-14-oled-touch-um3406"
+                    },
+                    {
+                        "title": "Business laptops",
+                        "link": "https://www.pcmag.com/picks/the-best-business-laptops"
+                    }
+                ]
+            },
+            "source": "PCMag"
+        },
+        {
+            "position": 2,
+            "title": "What is the best laptop? : r/computer",
+            "link": "https://www.reddit.com/r/computer/comments/1jj4mor/what_is_the_best_laptop/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/computer/comments/1jj4mor/what_is_the_best_laptop/&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQFnoECBsQAQ",
+            "displayed_link": "30+ comments \u00b7 5 months ago",
+            "thumbnail": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/49836efb669f4c7e86b16cf2a23fbff3f7f8ce84dad10c616993f8a4c6588be8.jpeg",
+            "favicon": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/49836efb669f4c7e86b16cf2a23fbff338c0458e568bd179f93f7351966e036e.png",
+            "snippet": "I'd look for something in the business class category like a Dell Latitude, HP Elitebook, or Lenovo Thinkpad. Think 32 to 64 GB of RAM.",
+            "snippet_highlighted_words": [
+                "Dell Latitude, HP Elitebook, or Lenovo Thinkpad"
+            ],
+            "sitelinks": {
+                "list": [
+                    {
+                        "title": "Best laptop to buy in 2025",
+                        "link": "https://www.reddit.com/r/laptops/comments/1kkgyas/best_laptop_to_buy_in_2025/",
+                        "answer_count": 17,
+                        "date": "May 12, 2025"
+                    },
+                    {
+                        "title": "Best Laptop Currently On The Market?",
+                        "link": "https://www.reddit.com/r/laptops/comments/1lb88mm/best_laptop_currently_on_the_market/",
+                        "answer_count": 7,
+                        "date": "Jun 14, 2025"
+                    }
+                ]
+            },
+            "source": "Reddit \u00b7 r/computer"
+        },
+        {
+            "position": 3,
+            "title": "Laptops & Notebook Computers",
+            "link": "https://www.bestbuy.com/site/computers-pcs/laptop-computers/abcat0502000.c?id=abcat0502000",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bestbuy.com/site/computers-pcs/laptop-computers/abcat0502000.c%3Fid%3Dabcat0502000&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQFnoECBkQAQ",
+            "displayed_link": "https://www.bestbuy.com \u203a Computers & Tablets",
+            "thumbnail": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/49836efb669f4c7e86b16cf2a23fbff36dc4a0f87b40b51012cb57dbaedd31fa.jpeg",
+            "favicon": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/49836efb669f4c7e86b16cf2a23fbff30c0658cc6c6662486b0b29703fdc5f97.png",
+            "snippet": "Best selling laptops (12 items) \u00b7 Apple - MacBook Air 13-inch Laptop - Apple M4 chip Built for Apple Intelligence \u00b7 HP - 14\" Chromebook - Intel Celeron - 4GB ...",
+            "snippet_highlighted_words": [
+                "Apple - MacBook Air 13-inch Laptop"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "extensions": [
+                        "Free 15-day returns"
+                    ]
+                }
+            },
+            "source": "Best Buy"
+        },
+        {
+            "position": 4,
+            "title": "Laptops",
+            "link": "https://www.cnet.com/tech/computing/laptops/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cnet.com/tech/computing/laptops/&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQFnoECE8QAQ",
+            "displayed_link": "https://www.cnet.com \u203a tech \u203a computing \u203a laptops",
+            "thumbnail": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/49836efb669f4c7e86b16cf2a23fbff391b03d3729b0d3595c4d5f78ef980e5f.jpeg",
+            "favicon": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/49836efb669f4c7e86b16cf2a23fbff3e31255a1ecee02cd7d241aed33948306.png",
+            "snippet": "Looking for a new MacBook, Windows laptop or Chromebook? We test and review all types of laptops, and these are our favorites.",
+            "snippet_highlighted_words": [
+                "laptop",
+                "laptops"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Best Windows Laptop for 2025",
+                        "link": "https://www.cnet.com/tech/computing/best-windows-laptop/"
+                    },
+                    {
+                        "title": "Best Laptop for College",
+                        "link": "https://www.cnet.com/tech/computing/best-laptop-for-college/"
+                    }
+                ]
+            },
+            "source": "CNET"
+        },
+        {
+            "position": 5,
+            "title": "Find Great Laptop Computers on Sale | Lenovo US",
+            "link": "https://www.lenovo.com/us/en/d/deals/laptops/?srsltid=AfmBOooMuHhj7ESI8qHaHxn_ksXbVz9PbDcL3P0aCA2FM9-htxekieJ2",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lenovo.com/us/en/d/deals/laptops/%3Fsrsltid%3DAfmBOooMuHhj7ESI8qHaHxn_ksXbVz9PbDcL3P0aCA2FM9-htxekieJ2&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQFnoFCIwBEAE",
+            "displayed_link": "https://www.lenovo.com \u203a deals \u203a laptops",
+            "favicon": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/49836efb669f4c7e86b16cf2a23fbff36881d4cee66a6d13e3482768ce24ea4c.png",
+            "snippet": "Find the best laptop deals today! Lenovo offers a wide range of laptops on sale, including Yoga, Ideapad, ThinkPad, Legion, and Thinkbook.",
+            "snippet_highlighted_words": [
+                "Lenovo offers a wide range of laptops on sale"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "detected_extensions": {
+                        "price_from": 870,
+                        "price_to": 3019,
+                        "currency": "$",
+                        "rating": 3.9,
+                        "reviews": 140
+                    },
+                    "extensions": [
+                        "3.9 store rating (140)",
+                        "$870 to $3,019",
+                        "7\u201319 day delivery",
+                        "Free 30-day returns"
+                    ]
+                }
+            },
+            "source": "Lenovo"
+        },
+        {
+            "position": 6,
+            "title": "Best Laptop for $800 or Less!",
+            "link": "https://www.youtube.com/watch?v=Znjwh6tg6As",
+            "displayed_link": "88.2K+ views \u00b7 1 month ago",
+            "thumbnail": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/49836efb669f4c7e86b16cf2a23fbff3f97a95dac32a50c8a938394eb3a93b8d.jpeg",
+            "favicon": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/49836efb669f4c7e86b16cf2a23fbff3d6065bf57b7216baaf251af6f67b1051.png",
+            "snippet": "We've gone out and got every major manufacturer's laptop that sells for around $800 we have painstakingly compared them together.",
+            "duration": "19:30",
+            "source": "YouTube \u00b7 Just Josh"
+        },
+        {
+            "position": 7,
+            "title": "Amazon Best Sellers: Best Laptop Computers",
+            "link": "https://www.amazon.com/Best-Sellers-Laptop-Computers/zgbs/electronics/565108",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amazon.com/Best-Sellers-Laptop-Computers/zgbs/electronics/565108&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQFnoECEoQAQ",
+            "displayed_link": "https://www.amazon.com \u203a zgbs \u203a electronics",
+            "thumbnail": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/49836efb669f4c7e86b16cf2a23fbff39c6a615b428ea2ebec9827394f6e9547.jpeg",
+            "favicon": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/49836efb669f4c7e86b16cf2a23fbff32ba9b71e293652a29fffbb126f55d32f.png",
+            "snippet": "Apple 2025 MacBook Air 13-inch Laptop with M4 chip: Built for Apple Intelligence, 13.6-inch Liquid Retina Display, 16GB Unified Memory, 256GB SSD Storage",
+            "snippet_highlighted_words": [
+                "Apple 2025 MacBook Air 13-inch Laptop"
+            ],
+            "source": "Amazon.com"
+        },
+        {
+            "position": 8,
+            "title": "The 12 best laptops for high school and college students",
+            "link": "https://www.theverge.com/this-is-my-next/713373/best-laptops-for-students",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.theverge.com/this-is-my-next/713373/best-laptops-for-students&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQFnoECG4QAQ",
+            "displayed_link": "https://www.theverge.com \u203a ... \u203a Gadgets \u203a Tech",
+            "favicon": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/49836efb669f4c7e86b16cf2a23fbff3dddb1a8f4673fc56d93816c0066db5b9.png",
+            "date": "Jul 26, 2025",
+            "snippet": "The Chromebook Spin 714 and its Intel processor offers a great balance of performance, battery life, and specs for the money. It has speedy ...",
+            "snippet_highlighted_words": [
+                "The Chromebook Spin 714"
+            ],
+            "source": "The Verge"
+        },
+        {
+            "position": 9,
+            "title": "Top-Rated Laptops",
+            "link": "https://www.bestbuy.com/site/laptop-computers/all-laptops/pcmcat138500050001.c?id=pcmcat138500050001&qp=customerreviews_facet%3DCustomer%20Rating~Top-Rated",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bestbuy.com/site/laptop-computers/all-laptops/pcmcat138500050001.c%3Fid%3Dpcmcat138500050001%26qp%3Dcustomerreviews_facet%253DCustomer%2520Rating~Top-Rated&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQFnoFCIgBEAE",
+            "displayed_link": "https://www.bestbuy.com \u203a ... \u203a Laptops \u203a All Laptops",
+            "favicon": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/49836efb669f4c7e86b16cf2a23fbff33639f6f04bedf110b3f22959f34b9150.png",
+            "snippet": "Shop for Top-Rated Laptops at Best Buy. Find low everyday prices and buy online for delivery or in-store pick-up.",
+            "snippet_highlighted_words": [
+                "Shop for Top-Rated Laptops at Best Buy"
+            ],
+            "source": "Best Buy"
+        },
+        {
+            "position": 10,
+            "title": "Looking for High-End Laptop",
+            "link": "https://notebooktalk.net/topic/2600-looking-for-high-end-laptop/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://notebooktalk.net/topic/2600-looking-for-high-end-laptop/&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQFnoFCKgBEAE",
+            "displayed_link": "https://notebooktalk.net \u203a ... \u203a What Laptop Should I Buy?",
+            "favicon": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/49836efb669f4c7e86b16cf2a23fbff37299ace77f54631505d86c2da1d9ce48.png",
+            "date": "Feb 27, 2025",
+            "snippet": "Check out the Asus ProArt P16. Probably the best overall windows based laptop available now. It's basically the macbook pro of windows. I have ...",
+            "snippet_highlighted_words": [
+                "best",
+                "laptop"
+            ],
+            "source": "NotebookTalk"
+        },
+        {
+            "position": 11,
+            "title": "What Laptop Brand Is Your Go-To?",
+            "link": "https://www.howtogeek.com/thread/what-laptop-brand-is-your-go-to/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.howtogeek.com/thread/what-laptop-brand-is-your-go-to/&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQFnoECDsQAQ",
+            "displayed_link": "https://www.howtogeek.com \u203a ... \u203a Windows Threads",
+            "favicon": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/49836efb669f4c7e86b16cf2a23fbff361efc633e3d79b9806dcf1ed3312d2a4.png",
+            "date": "Mar 27, 2025",
+            "snippet": "I've owned numerous laptops over 30 years and by far the best brand in usability, durability, and value has been Dell. At the other end of ...",
+            "snippet_highlighted_words": [
+                "Dell"
+            ],
+            "source": "How-To Geek"
+        },
+        {
+            "position": 12,
+            "title": "Best Laptop for Data Science Students ... including ML & AI",
+            "link": "https://www.youtube.com/watch?v=Ton4sQyIZ2Q",
+            "displayed_link": "91.4K+ views \u00b7 3 weeks ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWaWJ3O4kkNJlat3dUSofC18twQIviYK0zP-JXASwEglArdXbz2J8Wy7Dhv_IE&s&ec=73086141",
+            "favicon": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/49836efb669f4c7e86b16cf2a23fbff3484c656a511cbdc55bd27edd48744c6a.png",
+            "snippet": "You can study data science off any laptop even those without a dedicated GPU but having one it will give you an advantage.",
+            "duration": "11:49",
+            "source": "YouTube \u00b7 Just Josh"
+        },
+        {
+            "position": 13,
+            "title": "New Laptop Recommendations",
+            "link": "https://www.bogleheads.org/forum/viewtopic.php?t=314485",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bogleheads.org/forum/viewtopic.php%3Ft%3D314485&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQFnoECFUQAQ",
+            "displayed_link": "https://www.bogleheads.org \u203a forum \u203a viewtopic",
+            "favicon": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/49836efb669f4c7e86b16cf2a23fbff3102878ae16e4eadefb86ebf9c7c15006.png",
+            "date": "May 10, 2020",
+            "snippet": "I think the ~$800 on sale 2020 MacBook Air is about the best value personal computer ever released, and have recommended it to several friends ...",
+            "snippet_highlighted_words": [
+                "2020 MacBook Air"
+            ],
+            "source": "Bogleheads"
+        },
+        {
+            "position": 14,
+            "title": "Best Laptop & Chromebook Reviews",
+            "link": "https://www.consumerreports.org/electronics-computers/laptops-chromebooks/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.consumerreports.org/electronics-computers/laptops-chromebooks/&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQFnoECH8QAQ",
+            "displayed_link": "https://www.consumerreports.org \u203a electronics-computers",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKZteOfnsXpHNI1-scgKE5HJ7vKvJXKq4WTiVxSQdWEwXRY8iOg4_I6g&s",
+            "favicon": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/49836efb669f4c7e86b16cf2a23fbff3507c4122f12a51400c9c1469eccf75f9.png",
+            "snippet": "We test laptop and chromebooks on dozens of measures for our ratings and reviews, so that you can compare performance, battery life, display quality, and more.",
+            "snippet_highlighted_words": [
+                "We test laptop and chromebooks on dozens of measures"
+            ],
+            "source": "Consumer Reports"
+        },
+        {
+            "position": 15,
+            "title": "Best laptops 2025: Premium, budget, gaming, 2-in ...",
+            "link": "https://www.pcworld.com/article/436674/best-pc-laptops.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pcworld.com/article/436674/best-pc-laptops.html&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQFnoFCI8BEAE",
+            "displayed_link": "https://www.pcworld.com \u203a ... \u203a Laptops Best Picks",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDeRoEW4PIrOOzUjC7duR65G5ifnPQmu6rJN6m11ymOq5kHHoo4Tkpsg&s",
+            "favicon": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/49836efb669f4c7e86b16cf2a23fbff36b29385f8fb933799d24fe5c7b46704a.png",
+            "snippet": "What is the best laptop? The Asus Zenbook 14 OLED is probably the best all-around choice for most folks. It costs about $850, runs smoothly, lasts forever on a ...",
+            "snippet_highlighted_words": [
+                "Asus Zenbook 14 OLED"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "detected_extensions": {
+                        "price_from": 299,
+                        "price_to": 1399,
+                        "currency": "$"
+                    },
+                    "extensions": [
+                        "$299 to $1,399"
+                    ]
+                }
+            },
+            "source": "PCWorld"
+        },
+        {
+            "position": 16,
+            "title": "The Best Laptop for $800 or Less",
+            "link": "https://www.youtube.com/shorts/F6UnXybR2ao",
+            "displayed_link": "16.4K+ views \u00b7 3 weeks ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuDsXaKy8oazl6eiq3DhI7e2iM0GkFS43YNn5QVtdKY_woveIOsLixmQBO_0AC&s&ec=73086141",
+            "favicon": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/49836efb669f4c7e86b16cf2a23fbff3c9339837b4ff0b00588f12fecc75a3dc.png",
+            "snippet": "Looking for the best laptop under $800 in 2025? Our Website: http://www.bestlaptop.deals Microsoft Surface Laptop 13: ...",
+            "duration": "1:54",
+            "source": "YouTube \u00b7 Just Josh"
+        },
+        {
+            "position": 17,
+            "title": "Best laptops in 2025: My top 10 based on testing ...",
+            "link": "https://www.laptopmag.com/reviews/best-laptops-1",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.laptopmag.com/reviews/best-laptops-1&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQFnoFCJ0BEAE",
+            "displayed_link": "https://www.laptopmag.com \u203a reviews \u203a best-laptops-1",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqhGG2D7ME3tNdVAMsh4mnya8rD3h3bgHFYF2TXM05phhA4xDDalZJqg&s",
+            "favicon": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/49836efb669f4c7e86b16cf2a23fbff32ee4cc564d9a1514cedbbcba3b5df5ea.png",
+            "date": "Jun 9, 2025",
+            "snippet": "1. Best laptop 2025: MacBook Air M4 2. Best budget laptop: Acer Swift Go 14 3. Best student laptop: Asus Zenbook 14 OLED 4. Best ultraportable: Asus Zenbook S ...",
+            "snippet_highlighted_words": [
+                "MacBook Air M4"
+            ],
+            "source": "Laptop Mag"
+        },
+        {
+            "position": 18,
+            "title": "I've tested over 59 laptops: this is the best ...",
+            "link": "https://mashable.com/article/the-best-windows-laptop-2024-so-far",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://mashable.com/article/the-best-windows-laptop-2024-so-far&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQFnoFCMMBEAE",
+            "displayed_link": "https://mashable.com \u203a Tech \u203a Laptops",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrJpkrKG6P7VuD-238uZ3qa_DZYqVSKV-Qx1K_k7oovLDj_EhyB3Mvjw&s",
+            "favicon": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/49836efb669f4c7e86b16cf2a23fbff3e59ad500037c36e5612251b87b6e172e.png",
+            "snippet": "Microsoft Surface Laptop 7 is the best laptop of 2024: 3 reasons why \u00b7 1. The best battery life we've ever seen \u00b7 2. Microsoft Surface Laptop 7 performance ...",
+            "snippet_highlighted_words": [
+                "Microsoft Surface Laptop 7 is the best laptop of 2024"
+            ],
+            "source": "Mashable"
+        },
+        {
+            "position": 19,
+            "title": "What would you recommend as the best performing laptop ...",
+            "link": "https://www.justanswer.com/printers/45k0i-recommend-best-performing-laptop.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.justanswer.com/printers/45k0i-recommend-best-performing-laptop.html&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQFnoFCKYBEAE",
+            "displayed_link": "https://www.justanswer.com \u203a printers \u203a 45k0i-recomm...",
+            "favicon": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/49836efb669f4c7e86b16cf2a23fbff3c2459524276d0bd2e3c96625dad1d56f.png",
+            "date": "Oct 27, 2010",
+            "snippet": "I believe the Toshiba Port\u00e9g\u00e9 R700 laptop series offers excellent value. All R705 models feature a 13.3\" widescreen, equipped with 4GB of RAM ...",
+            "snippet_highlighted_words": [
+                "Toshiba Port\u00e9g\u00e9 R700 laptop series"
+            ],
+            "source": "JustAnswer"
+        },
+        {
+            "position": 20,
+            "title": "The World's Best Laptop... But You Can't Buy It",
+            "link": "https://www.youtube.com/watch?v=P6cQ-MccSC4",
+            "displayed_link": "67K+ views \u00b7 6 months ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsQuHFqqN19F1wq2eV7YvraLqyPW9EpkZx21tDNnbHrjJFBeGVJqE38LzMS_Mj&s&ec=73086141",
+            "favicon": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/49836efb669f4c7e86b16cf2a23fbff3f266c0d5398db74b5e7a4a124fc1b412.png",
+            "snippet": "I'm going to design the perfect laptop based on everything that we've seen. We believe that most buyers want of three types of laptops.",
+            "duration": "13:41",
+            "key_moments": [
+                {
+                    "time": "00:00",
+                    "title": "Intro",
+                    "link": "https://www.youtube.com/watch?v=P6cQ-MccSC4&t=0",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCD8K-02vyLw-Wl-y_OV3_WBbnSe4G5t3oyo1QQepBiA&s"
+                },
+                {
+                    "time": "01:36",
+                    "title": "Processor",
+                    "link": "https://www.youtube.com/watch?v=P6cQ-MccSC4&t=96",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKJBPEKtCFJtM4lXOGppHY9kfNRDkWlwcdSoffU9uqRg&s"
+                },
+                {
+                    "time": "02:21",
+                    "title": "Chassis",
+                    "link": "https://www.youtube.com/watch?v=P6cQ-MccSC4&t=141",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGZRnX4i7GnRP2E-EG9hgp15L1P524da4ZQFrnDlSzKA&s"
+                },
+                {
+                    "time": "03:20",
+                    "title": "Performance",
+                    "link": "https://www.youtube.com/watch?v=P6cQ-MccSC4&t=200",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD5BOb6EN5JTIx_xHcYRN9pNROngxmNfNqkDgpiTIh8A&s"
+                },
+                {
+                    "time": "05:24",
+                    "title": "Ports",
+                    "link": "https://www.youtube.com/watch?v=P6cQ-MccSC4&t=324",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2phinF4cnnkQ_p4CI0aaRv6Q8A_0n-PZGTmawyOUPlw&s"
+                },
+                {
+                    "time": "06:14",
+                    "title": "Upgradeability",
+                    "link": "https://www.youtube.com/watch?v=P6cQ-MccSC4&t=374",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRifoCU7cPjVow7tQ4lr_Uup46Batv3iyF1amlRVIDNZA&s"
+                },
+                {
+                    "time": "07:11",
+                    "title": "Display",
+                    "link": "https://www.youtube.com/watch?v=P6cQ-MccSC4&t=431",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt8-uGNdtZH75t9CXBXMBrnHojWwONr3abmt_RzwuMXg&s"
+                },
+                {
+                    "time": "08:21",
+                    "title": "Webcam",
+                    "link": "https://www.youtube.com/watch?v=P6cQ-MccSC4&t=501",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSFzXRbgcK0fZZcdIHX-9Hf1DfwlIZpGswyclxburQ3A&s"
+                },
+                {
+                    "time": "08:37",
+                    "title": "Keyboard",
+                    "link": "https://www.youtube.com/watch?v=P6cQ-MccSC4&t=517",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR99HrYKo3uTcQ2iSIQazOIYWEJSnAIo3KACAUTuCHHeA&s"
+                },
+                {
+                    "time": "09:11",
+                    "title": "Trackpad",
+                    "link": "https://www.youtube.com/watch?v=P6cQ-MccSC4&t=551",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe1Eoq7lldfx3WBF8e3txvIZl2kd8zbvMKrt2UsXGzhA&s"
+                },
+                {
+                    "time": "09:21",
+                    "title": "Speakers",
+                    "link": "https://www.youtube.com/watch?v=P6cQ-MccSC4&t=561",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1wYNYunY2-Kk0RF95f3FJCTcheK1kLZ2H2JMpk05HgQ&s"
+                },
+                {
+                    "time": "09:42",
+                    "title": "Pricing",
+                    "link": "https://www.youtube.com/watch?v=P6cQ-MccSC4&t=582",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvFLT053TXtsl8Tu6uJw1eQdE5FNbvU3FT3J-Pgjw97g&s"
+                },
+                {
+                    "time": "10:34",
+                    "title": "Conclusion",
+                    "link": "https://www.youtube.com/watch?v=P6cQ-MccSC4&t=634",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTMIKH1KsqMoVDGbi2XL_ZCPU8Y9aHapTcp1KjWsCMmA&s"
+                },
+                {
+                    "time": "13:03",
+                    "title": "Outro",
+                    "link": "https://www.youtube.com/watch?v=P6cQ-MccSC4&t=783",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH_mvR-GKfbzPTCtcTIgIPjcHkNylo5xzBNUu-sw9cvA&s"
+                }
+            ],
+            "source": "YouTube \u00b7 Just Josh"
+        },
+        {
+            "position": 21,
+            "title": "Best Laptop Deal of the Day: $800 Savings on the Potent ...",
+            "link": "https://www.pcmag.com/deals/best-laptop-deal-of-the-day-800-savings-premium-hp-omen-max-sept-2",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pcmag.com/deals/best-laptop-deal-of-the-day-800-savings-premium-hp-omen-max-sept-2&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQFnoFCLUBEAE",
+            "displayed_link": "https://www.pcmag.com \u203a Deals \u203a Laptops",
+            "favicon": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/49836efb669f4c7e86b16cf2a23fbff33ed831871cd0c537bef5cbf1d6e752e9.png",
+            "date": "23 hours ago",
+            "snippet": "Save 24% on the Omen Max 16, which \u201cranks among the elite in the 16-inch gaming laptop category for raw performance and high-quality materials.\u201d ...",
+            "snippet_highlighted_words": [
+                "laptop"
+            ],
+            "source": "PCMag"
+        },
+        {
+            "position": 22,
+            "title": "Best Laptop Brands: Discover the Leading Names ...",
+            "link": "https://www.qualcomm.com/snapdragon/laptops-and-tablets/best-laptop-brands",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.qualcomm.com/snapdragon/laptops-and-tablets/best-laptop-brands&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQFnoECE4QAQ",
+            "displayed_link": "https://www.qualcomm.com \u203a laptops-and-tablets \u203a best...",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg92KT2zNWHQrLvJHJ319416sK05CD9Hn5efeiHQOO6eRL8Don6nBuow&s",
+            "favicon": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/49836efb669f4c7e86b16cf2a23fbff3c9b3b89679d0021047d95609843ebcf5.png",
+            "snippet": "Best Laptop Brands For You \u00b7 Acer \u00b7 ASUS \u00b7 Dell \u00b7 HP \u00b7 Lenovo \u00b7 Microsoft \u00b7 Samsung \u00b7 AI and the Next Generation of Laptops. An AI Laptop utilizes AI algorithms ...",
+            "snippet_highlighted_words": [
+                "Acer"
+            ],
+            "source": "Qualcomm"
+        },
+        {
+            "position": 23,
+            "title": "What's the best newer laptop that's not too high in price.",
+            "link": "https://www.techrepublic.com/forums/discussions/whats-the-best-newer-laptop-thats-not-too-high-in-price/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.techrepublic.com/forums/discussions/whats-the-best-newer-laptop-thats-not-too-high-in-price/&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQFnoECDcQAQ",
+            "displayed_link": "https://www.techrepublic.com \u203a ... \u203a Laptops Forum",
+            "favicon": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/49836efb669f4c7e86b16cf2a23fbff364be233b12baedb3268d9857952d09ae.png",
+            "date": "Nov 26, 2024",
+            "snippet": "In general: the \u201cbetter\u201d it is (faster CPU, more RAM, more storage, bigger/better screen (both in inches and in resolution), faster WiFi, more slots and ports, ...",
+            "source": "TechRepublic"
+        },
+        {
+            "position": 24,
+            "title": "Is this a good laptop for uni?",
+            "link": "https://www.mumsnet.com/talk/higher_education/5403906-is-this-a-good-laptop-for-uni",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mumsnet.com/talk/higher_education/5403906-is-this-a-good-laptop-for-uni&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQFnoECFcQAQ",
+            "displayed_link": "https://www.mumsnet.com \u203a Talk \u203a Higher education",
+            "favicon": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/49836efb669f4c7e86b16cf2a23fbff3feea4f65442a83479f684c926cfe168f.png",
+            "snippet": "We were looking at the Samsung Book 3 360 13.3\u201dIt seems to have good reviews but not sure if there is something better. He prefers the smaller ...",
+            "snippet_highlighted_words": [
+                "Samsung Book 3 360 13.3\u201d"
+            ],
+            "source": "Mumsnet"
+        },
+        {
+            "position": 25,
+            "title": "What is the best laptop brand for general purpose",
+            "link": "https://pcpartpicker.com/forums/topic/431797-what-is-the-best-laptop-brand-for-general-purpose",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pcpartpicker.com/forums/topic/431797-what-is-the-best-laptop-brand-for-general-purpose&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQFnoECFgQAQ",
+            "displayed_link": "https://pcpartpicker.com \u203a forums \u203a topic \u203a 431797-wh...",
+            "favicon": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/49836efb669f4c7e86b16cf2a23fbff3b5dc0e5d4c42451338a77a7e4efa2a15.png",
+            "snippet": "My daughter says she likes Lenovo and Acer and is leaning in that direction. I think I'll just take my spec sheet requirements to Best Buy, Staples, MDG etc., ...",
+            "snippet_highlighted_words": [
+                "Lenovo and Acer"
+            ],
+            "source": "PCPartPicker"
+        },
+        {
+            "position": 26,
+            "title": "Best laptop to buy now?",
+            "link": "https://www.blackhatworld.com/seo/best-laptop-to-buy-now.1399132/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.blackhatworld.com/seo/best-laptop-to-buy-now.1399132/&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQFnoECG0QAQ",
+            "displayed_link": "https://www.blackhatworld.com \u203a ... \u203a BlackHat Lounge",
+            "favicon": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/49836efb669f4c7e86b16cf2a23fbff35b6b250df14e1ee3b2b119751c67bf82.png",
+            "date": "Apr 1, 2022",
+            "snippet": "In my op, the best thing (pricing vs. value) could be an i5, latest gen CPU. For your work specs, even an i3 could be good. But an i5 is still ...",
+            "snippet_highlighted_words": [
+                "i5, latest gen CPU"
+            ],
+            "source": "BlackHatWorld"
+        },
+        {
+            "position": 27,
+            "title": "Best Laptops I Recommend for Gaming, Editing, Programming ...",
+            "link": "https://www.youtube.com/watch?v=1FBYcOc2PL0&vl=en-US",
+            "displayed_link": "306.1K+ views \u00b7 8 months ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO9eP8PJZdPcigYvO1Zb9r-NueCW7910Q5XFSj37h0ykq_Jyf5md6ggC_GhD_j&s&ec=73086141",
+            "favicon": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/49836efb669f4c7e86b16cf2a23fbff314a3782fb51b01c603b0119f21d07e5d.png",
+            "snippet": "Best Laptops I Recommend for Gaming, Editing, Programming & More! \u00b7 Comments. 557. pro tip: Never buy laptop for gaming (unless u play minecraft ...",
+            "duration": "14:39",
+            "key_moments": [
+                {
+                    "time": "00:00",
+                    "title": "Gaming",
+                    "link": "https://www.youtube.com/watch?v=1FBYcOc2PL0&vl=en-US&t=0",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5qynHVoHhvDNnPq_HkDl27RKLkRS0mqtdZGGSVAmULw&s"
+                },
+                {
+                    "time": "05:04",
+                    "title": "3D Modeling",
+                    "link": "https://www.youtube.com/watch?v=1FBYcOc2PL0&vl=en-US&t=304",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxIUx2AWeJYdXvWgKs7z-oPNA7jU_47Vyu6efwlndkSw&s"
+                },
+                {
+                    "time": "09:06",
+                    "title": "Video Editing",
+                    "link": "https://www.youtube.com/watch?v=1FBYcOc2PL0&vl=en-US&t=546",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc1eGBHi_ELe6QB_AsRvcrpYDmuw-5ZcEwmds7Q8OR5Q&s"
+                },
+                {
+                    "time": "13:02",
+                    "title": "Programming",
+                    "link": "https://www.youtube.com/watch?v=1FBYcOc2PL0&vl=en-US&t=782",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC0jEFprTpOY6yX-WHwfABFDF54ZRtrl3RTtHOQea4tA&s"
+                }
+            ],
+            "source": "YouTube \u00b7 TMT"
+        },
+        {
+            "position": 28,
+            "title": "I tested a bunch of gaming laptops and these are the best",
+            "link": "https://www.theverge.com/22295181/best-gaming-laptop",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.theverge.com/22295181/best-gaming-laptop&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQFnoECFYQAQ",
+            "displayed_link": "https://www.theverge.com \u203a ... \u203a Gadgets \u203a Gaming",
+            "favicon": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/49836efb669f4c7e86b16cf2a23fbff3279afd974a92ad8595d45b4be2b9deb7.png",
+            "snippet": "Our top choice remains the Asus ROG Zephyrus G14, but there are other great options too, like the Lenovo Legion Pro 7i, HP Victus 15, MSI Titan, and Razer ...",
+            "snippet_highlighted_words": [
+                "Asus ROG Zephyrus G14"
+            ],
+            "source": "The Verge"
+        },
+        {
+            "position": 29,
+            "title": "Laptop Reviews",
+            "link": "https://www.rtings.com/laptop",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.rtings.com/laptop&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQFnoFCIABEAE",
+            "displayed_link": "https://www.rtings.com \u203a laptop",
+            "favicon": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/49836efb669f4c7e86b16cf2a23fbff3751e4c6d307c35a2f189a0b7a53c3ee1.png",
+            "snippet": "165 Laptop reviews. Start with our picks for the best laptops below. These are the ones we recommend based on our testing and in-depth laptop reviews.",
+            "snippet_highlighted_words": [
+                "best laptops below"
+            ],
+            "source": "RTINGS.com"
+        },
+        {
+            "position": 30,
+            "title": "I would like to know which computer laptop is the best on ...",
+            "link": "https://www.justanswer.com/computer/0axxn-best-laptop-market-today.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.justanswer.com/computer/0axxn-best-laptop-market-today.html&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQFnoFCIYBEAE",
+            "displayed_link": "https://www.justanswer.com \u203a computer \u203a 0axxn-best-la...",
+            "favicon": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/49836efb669f4c7e86b16cf2a23fbff3ba0288b5e9c7b0f955be95cbe4f6a61e.png",
+            "snippet": "I would like to know which computer laptop is the best on the market today.",
+            "snippet_highlighted_words": [
+                "laptop is the best on the market today"
+            ],
+            "source": "JustAnswer"
+        },
+        {
+            "position": 31,
+            "title": "Labor Day is a great time to buy a new laptop and I've ...",
+            "link": "https://www.tomsguide.com/computing/laptops/labor-day-is-a-great-time-to-buy-a-new-laptop-and-ive-picked-the-best-deals-right-now",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tomsguide.com/computing/laptops/labor-day-is-a-great-time-to-buy-a-new-laptop-and-ive-picked-the-best-deals-right-now&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQFnoFCIkBEAE",
+            "displayed_link": "https://www.tomsguide.com \u203a Computing \u203a Laptops",
+            "favicon": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/49836efb669f4c7e86b16cf2a23fbff343cc26b90608c38e4eb7bca2e2914d5f.png",
+            "date": "1 day ago",
+            "snippet": "I'm a deals editor and I've picked the best laptop deals from Dell, Apple, Best Buy and more ... The Acer Aspire Go 15 made our list of the best ...",
+            "snippet_highlighted_words": [
+                "Acer Aspire Go 15"
+            ],
+            "source": "Tom's Guide"
+        },
+        {
+            "position": 32,
+            "title": "Best Laptop Deals",
+            "link": "https://bestlaptop.deals/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bestlaptop.deals/&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQFnoFCKoBEAE",
+            "displayed_link": "https://bestlaptop.deals",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfaDq5iNPLskQyzr19PxwTQyUGPaIbF12j2NoXSkcB8pp9QUM2q4yGuw&s",
+            "favicon": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/49836efb669f4c7e86b16cf2a23fbff311ec94054874d2722a9d677dc04b8206.png",
+            "snippet": "The Best Laptop at the Best Price \u00b7 Best Laptops for Students \u00b7 Best Laptops for Programmers \u00b7 Best Laptops for Gaming \u00b7 Best Laptops for Video Editing \u00b7 Best ...",
+            "snippet_highlighted_words": [
+                "Best Laptops for Students"
+            ],
+            "source": "Best Laptop Deals"
+        },
+        {
+            "position": 33,
+            "title": "I love Windows PCs, but a $599 MacBook would be mighty ...",
+            "link": "https://www.pcworld.com/article/2885311/i-love-windows-pcs-but-a-599-macbook-would-be-mighty-tempting.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pcworld.com/article/2885311/i-love-windows-pcs-but-a-599-macbook-would-be-mighty-tempting.html&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQFnoFCJ4BEAE",
+            "displayed_link": "https://www.pcworld.com \u203a Feature \u203a Laptops Feature",
+            "favicon": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/49836efb669f4c7e86b16cf2a23fbff30f2ddecba29c1d4a966b7a4857dc15e4.png",
+            "date": "7 hours ago",
+            "snippet": "check out pcworld's best budget laptop. Acer Aspire Go 15 (2024). Acer ... Best laptops 2025: Premium, budget, gaming, 2-in-1, and more ...",
+            "snippet_highlighted_words": [
+                "Acer Aspire Go 15"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "detected_extensions": {
+                        "price": 599.0,
+                        "currency": "$"
+                    },
+                    "extensions": [
+                        "$599.00"
+                    ]
+                }
+            },
+            "source": "PCWorld"
+        },
+        {
+            "position": 34,
+            "title": "Which is the best laptop to buy at US?",
+            "link": "https://www.quora.com/Which-is-the-best-laptop-to-buy-at-US",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quora.com/Which-is-the-best-laptop-to-buy-at-US&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQFnoFCKcBEAE",
+            "displayed_link": "3 answers \u00b7 9 years ago",
+            "favicon": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/49836efb669f4c7e86b16cf2a23fbff327aff15926181493eaf0b7a8ffd13fe5.png",
+            "snippet": "Our current pick for the best laptop of 2022 is the MacBook Air. It's a device that does just about everything right. While it's certainly not a ...",
+            "snippet_highlighted_words": [
+                "MacBook Air"
+            ],
+            "source": "Quora"
+        },
+        {
+            "position": 35,
+            "title": "Best Cheap Laptop for 2025 - Budget Computers Under $500",
+            "link": "https://www.cnet.com/tech/computing/best-budget-laptop/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cnet.com/tech/computing/best-budget-laptop/&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQFnoFCL0BEAE",
+            "displayed_link": "https://www.cnet.com \u203a Tech \u203a Computing \u203a Laptops",
+            "favicon": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/49836efb669f4c7e86b16cf2a23fbff3ac0f2ec863089e90f34c90495b949b31.png",
+            "date": "Aug 4, 2025",
+            "snippet": "What's the best cheap laptop overall? My favorite budget laptop is Apple's 13-inch MacBook Air. When Apple updated it with its latest M4 ...",
+            "snippet_highlighted_words": [
+                "Apple's 13-inch MacBook Air"
+            ],
+            "source": "CNET"
+        },
+        {
+            "position": 36,
+            "title": "Why Is Everyone Buying this Laptop?",
+            "link": "https://www.youtube.com/watch?v=40aK8ibU0fg",
+            "displayed_link": "1.9M+ views \u00b7 5 months ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ4DuD7MiiQMxExsFHEMuKBu9rbNbrIrK3EOjc8qsQbp-3UuZ3CIQz0vUAoHLA&s&ec=73086141",
+            "favicon": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/49836efb669f4c7e86b16cf2a23fbff35f0adf1e445dba39c009f37358cf9ef0.png",
+            "snippet": "... best selling laptop on Amazon, but why? Price? Performance? Build? Well.. given the best seller is just $169 I think you can guess. Discuss ...",
+            "duration": "13:49",
+            "key_moments": [
+                {
+                    "time": "00:00",
+                    "title": "Intro",
+                    "link": "https://www.youtube.com/watch?v=40aK8ibU0fg&t=0",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv6Ccf4zxpvCER2dHhtAPAC-P0EfonivcIUZl03bDYOg&s"
+                },
+                {
+                    "time": "01:10",
+                    "title": "Sponsor (UPDF)",
+                    "link": "https://www.youtube.com/watch?v=40aK8ibU0fg&t=70",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQASvQAlk6fl1qdAqyvl9rq-1GEILd_kKeD5uSMs4hPqw&s"
+                },
+                {
+                    "time": "01:36",
+                    "title": "The first most popular option",
+                    "link": "https://www.youtube.com/watch?v=40aK8ibU0fg&t=96",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiJF41AMn-ABRbqt1DDSJ5bngTF_KDYFARKrbAWuyUcg&s"
+                },
+                {
+                    "time": "02:17",
+                    "title": "Keyboard and trackpad",
+                    "link": "https://www.youtube.com/watch?v=40aK8ibU0fg&t=137",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUFYfYFvqs3d-DCd0CvoC9rhTFuusJTyf3Dz_1aSrJqw&s"
+                },
+                {
+                    "time": "02:49",
+                    "title": "Display quality",
+                    "link": "https://www.youtube.com/watch?v=40aK8ibU0fg&t=169",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj166TrdJr3G41NrrLmBhxgTPjg0t6GpT3OxJw5S29Fg&s"
+                },
+                {
+                    "time": "03:17",
+                    "title": "Performance and limitations",
+                    "link": "https://www.youtube.com/watch?v=40aK8ibU0fg&t=197",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzQ2dOFf29BoalV8ENn5LYaFZh9WFLbBG6yUaCRC9bjA&s"
+                },
+                {
+                    "time": "04:11",
+                    "title": "The second most popular option",
+                    "link": "https://www.youtube.com/watch?v=40aK8ibU0fg&t=251",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfgkZFVdD9RdDGDJm5tKYYJoK6xnR-pAzWfAwy4zkiAw&s"
+                },
+                {
+                    "time": "05:24",
+                    "title": "Performance (Celeron strikes back)",
+                    "link": "https://www.youtube.com/watch?v=40aK8ibU0fg&t=324",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFIrl1ZSdKEb_Zn1tVz3hZ0NHy45HDLp2TBLnTlyL6ug&s"
+                },
+                {
+                    "time": "06:19",
+                    "title": "The third most popular option",
+                    "link": "https://www.youtube.com/watch?v=40aK8ibU0fg&t=379",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbtYgaRNtQ__OzVuFCVbDrE0dW1qkpWIYXRND3A6lb6A&s"
+                },
+                {
+                    "time": "07:30",
+                    "title": "Performance and build quality",
+                    "link": "https://www.youtube.com/watch?v=40aK8ibU0fg&t=450",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDa5XyNvWghThWjT4ZRZOnw6rSbnVMUZefWjGfLaJ3WQ&s"
+                },
+                {
+                    "time": "08:46",
+                    "title": "Why Apple dominates this price range",
+                    "link": "https://www.youtube.com/watch?v=40aK8ibU0fg&t=526",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkJp6Ab3-BPzQaeiQ8O9RtBERoCUsX0w0Y-xZgnZ0Q1g&s"
+                },
+                {
+                    "time": "10:04",
+                    "title": "HP laptop internals and repairability",
+                    "link": "https://www.youtube.com/watch?v=40aK8ibU0fg&t=604",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMGCYRk7Xd-LGa90zw9DCRz3YkNKSIRw8spF5kqdklOQ&s"
+                },
+                {
+                    "time": "11:35",
+                    "title": "Battery life",
+                    "link": "https://www.youtube.com/watch?v=40aK8ibU0fg&t=695",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi6JmDiVXZ-4_AtTKgZ6tCCeU47Lg2uP-zPgJxOZQDGA&s"
+                },
+                {
+                    "time": "11:51",
+                    "title": "Conclusion",
+                    "link": "https://www.youtube.com/watch?v=40aK8ibU0fg&t=711",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfXPvo3UgAGaNGPT-mf48tkjWFbCVTl_I-DVRfbQwKPQ&s"
+                },
+                {
+                    "time": "12:22",
+                    "title": "Sponsor (Rocket Money)",
+                    "link": "https://www.youtube.com/watch?v=40aK8ibU0fg&t=742",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdrST5jbRlTjUXtbbvoK93zIvpuPdJ-mSxkypFAWL6Lw&s"
+                },
+                {
+                    "time": "13:31",
+                    "title": "Credits",
+                    "link": "https://www.youtube.com/watch?v=40aK8ibU0fg&t=811",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3HAaGYErrY0Kj5uJJhmRC-TlQ-jOMPuxqxmCVQdOr2w&s"
+                }
+            ],
+            "source": "YouTube \u00b7 Linus Tech Tips"
+        },
+        {
+            "position": 37,
+            "title": "Buy Laptop Online with Up to 45% OFF at Amazon.in",
+            "link": "https://www.amazon.in/Laptops/b?ie=UTF8&node=1375424031",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amazon.in/Laptops/b%3Fie%3DUTF8%26node%3D1375424031&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQFnoFCLMBEAE",
+            "displayed_link": "https://www.amazon.in \u203a Laptops",
+            "favicon": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/49836efb669f4c7e86b16cf2a23fbff3c85aefcea52bab7e13d7f8141bd13932.png",
+            "snippet": "Amazon Great Freedom Festival Sale brings best deals on new laptops from brands like Dell, HP, Apple & many more. Get Up to 20000 off on exchange & 24 ...",
+            "snippet_highlighted_words": [
+                "best",
+                "laptops"
+            ],
+            "source": "Amazon.in"
+        },
+        {
+            "position": 38,
+            "title": "Does your kid really need a laptop? Here's everything you ...",
+            "link": "https://www.techradar.com/computing/laptops/does-your-kid-really-need-a-laptop-heres-everything-you-need-to-know",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.techradar.com/computing/laptops/does-your-kid-really-need-a-laptop-heres-everything-you-need-to-know&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQFnoFCL8BEAE",
+            "displayed_link": "https://www.techradar.com \u203a Computing \u203a Laptops",
+            "favicon": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/49836efb669f4c7e86b16cf2a23fbff3400c25acdb736e5533bc85d001fb1225.png",
+            "date": "3 days ago",
+            "snippet": "Any of the best Chromebooks will fit the bill here; these Google-powered laptops aren't suited for running more high-powered software, but they' ...",
+            "snippet_highlighted_words": [
+                "best Chromebooks will fit the bill"
+            ],
+            "source": "TechRadar"
+        },
+        {
+            "position": 39,
+            "title": "Best laptops of 2025, tried and tested - CNN",
+            "link": "https://www.cnn.com/cnn-underscored/reviews/best-laptops",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cnn.com/cnn-underscored/reviews/best-laptops&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQFnoFCM4BEAE",
+            "displayed_link": "https://www.cnn.com \u203a cnn-underscored \u203a reviews \u203a be...",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeKst3LKVVP8M1DS_5K6seYtfluDTO2SZtdlhlKYPFNA72BRTOaFQX6w&s",
+            "favicon": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/49836efb669f4c7e86b16cf2a23fbff35fd4b2634cc16073a8a2b186a6e9d033.png",
+            "snippet": "The 2025 MacBook Air is, just like last year's model, the best laptop for most people. The new M4-based Air is $100 cheaper than the M3 model Apple released ...",
+            "snippet_highlighted_words": [
+                "The 2025 MacBook Air is, just like last year's model, the best laptop for most people"
+            ],
+            "source": "CNN"
+        },
+        {
+            "position": 40,
+            "title": "Laptop Deals",
+            "link": "https://www.asus.com/us/deals/laptops/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.asus.com/us/deals/laptops/&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQFnoECDoQAQ",
+            "displayed_link": "https://www.asus.com \u203a deals \u203a laptops",
+            "favicon": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/49836efb669f4c7e86b16cf2a23fbff389ca39a3fe0cef7062a701d8beed2450.png",
+            "snippet": "ASUS TUF Gaming F15 (2022) \u00b7 Windows 11 Home \u00b7 Up to GeForce RTX\u2122 3070 Laptop GPU \u00b7 Intel\u00ae Core\u2122 i7-12700H Processor \u00b7 MUX Switch \u00b7 Up to 15.6\u201d QHD 165Hz 100% ...",
+            "snippet_highlighted_words": [
+                "ASUS TUF Gaming F15 (2022"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "detected_extensions": {
+                        "price_from": 650,
+                        "price_to": 1399,
+                        "currency": "$",
+                        "rating": 4.4,
+                        "reviews": 153
+                    },
+                    "extensions": [
+                        "4.4 store rating (153)",
+                        "$650 to $1,399",
+                        "Free delivery",
+                        "30-day returns"
+                    ]
+                }
+            },
+            "source": "ASUS"
+        },
+        {
+            "position": 41,
+            "title": "Top-Rated Powerful Gaming Laptops | Razer United States",
+            "link": "https://www.razer.com/pc/gaming-laptops?srsltid=AfmBOoo47g8d0WPjWhlpGzK5taKn8fFzEjOBTud8XdtjS73xxRanxlgb",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.razer.com/pc/gaming-laptops%3Fsrsltid%3DAfmBOoo47g8d0WPjWhlpGzK5taKn8fFzEjOBTud8XdtjS73xxRanxlgb&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQFnoECDwQAQ",
+            "displayed_link": "https://www.razer.com \u203a gaming-laptops",
+            "favicon": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/49836efb669f4c7e86b16cf2a23fbff3af199d17b8ebf8d60432298bd8ec9da9.png",
+            "snippet": "Razer's award-winning gaming laptops are designed and powered with the latest in technology for extreme performance to cater both work and play.",
+            "snippet_highlighted_words": [
+                "laptops"
+            ],
+            "source": "Razer"
+        },
+        {
+            "position": 42,
+            "title": "Best Laptop for Students: ULTIMATE GUIDE",
+            "link": "https://www.youtube.com/watch?v=6ssBq4GM_h0&pp=0gcJCdgAo7VqN5tD",
+            "displayed_link": "764.2K+ views \u00b7 1 year ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQATM7CnH7Y-jISM6Mq5QCMCtuNzBJKXiy_dHyE6UmbRpL54GUIJgjZdZpXuug5&s&ec=73086141",
+            "favicon": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/49836efb669f4c7e86b16cf2a23fbff3b229621343c661220e53cb7808b623b6.png",
+            "snippet": "Find the best laptops for students at https://www.justjosh.tech/recommendations/Best-Laptops-for-Students Recommended Laptops: Apple ...",
+            "duration": "18:35",
+            "source": "YouTube \u00b7 Just Josh"
+        },
+        {
+            "position": 43,
+            "title": "Best Laptop Brands",
+            "link": "https://forums.tomsguide.com/threads/best-laptop-brands.64790/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://forums.tomsguide.com/threads/best-laptop-brands.64790/&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQFnoECDgQAQ",
+            "displayed_link": "https://forums.tomsguide.com \u203a threads \u203a best-laptop-br...",
+            "favicon": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/49836efb669f4c7e86b16cf2a23fbff3c23985e38edf476d6851157c0b9fbc78.png",
+            "date": "Feb 3, 2015",
+            "snippet": "The brands I can recommend include Lenovo, MSI, Asus, Toshiba and Acer. I would avoid Dell, and HP. 17\" laptops are truly desktop replacement, ...",
+            "snippet_highlighted_words": [
+                "laptops"
+            ],
+            "source": "Tom's Guide Forum"
+        },
+        {
+            "position": 44,
+            "title": "The Best Laptops You Can Buy",
+            "link": "https://gizmodo.com/this-is-the-laptop-you-should-buy-right-now-1830148676",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://gizmodo.com/this-is-the-laptop-you-should-buy-right-now-1830148676&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQFnoFCJYBEAE",
+            "displayed_link": "https://gizmodo.com \u203a this-is-the-laptop-you-should-bu...",
+            "favicon": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/49836efb669f4c7e86b16cf2a23fbff3adef79319bac2d38c1f15364c4b03468.png",
+            "date": "Dec 28, 2021",
+            "snippet": "Our Pick: Dell XPS 13 (starting at $999). The Dell XPS 13 has always been a fantastic laptop with a great design, some of the thinnest bezels ...",
+            "snippet_highlighted_words": [
+                "laptop"
+            ],
+            "source": "Gizmodo"
+        },
+        {
+            "position": 45,
+            "title": "The best laptops 2025 tested, reviewed and rated",
+            "link": "https://www.techradar.com/news/mobile-computing/laptops/best-laptops-1304361",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.techradar.com/news/mobile-computing/laptops/best-laptops-1304361&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQFnoECGcQAQ",
+            "displayed_link": "https://www.techradar.com \u203a Computing \u203a Laptops",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzTbcdqcxKmbbPboqbaNaee6wQtMR8GcQsFormGDsffHjwkDqVN1jVVw&s",
+            "favicon": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/49836efb669f4c7e86b16cf2a23fbff3a97f2159af47ef8488481c6492307995.png",
+            "date": "Aug 1, 2025",
+            "snippet": "Our number one pick for the best laptop remains the Apple MacBook Air 13-inch (M4). Its excellent performance, premium design and long battery ...",
+            "snippet_highlighted_words": [
+                "best laptop"
+            ],
+            "source": "TechRadar"
+        },
+        {
+            "position": 46,
+            "title": "The 5 Best Windows Laptops of 2025 | Reviews by Wirecutter",
+            "link": "https://www.nytimes.com/wirecutter/reviews/best-windows-laptops/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nytimes.com/wirecutter/reviews/best-windows-laptops/&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQFnoECFkQAQ",
+            "displayed_link": "https://www.nytimes.com \u203a Electronics \u203a Laptops",
+            "favicon": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/49836efb669f4c7e86b16cf2a23fbff35fdc60d5dd109d9cf81c1fbe9ac9a6f9.png",
+            "snippet": "If you need a new computer, the best Windows laptops are powerful, sleek, and long-lasting.",
+            "snippet_highlighted_words": [
+                "best",
+                "laptops"
+            ],
+            "source": "The New York Times"
+        },
+        {
+            "position": 47,
+            "title": "Name the best laptop models ever made. Why would you ...",
+            "link": "https://www.quora.com/Name-the-best-laptop-models-ever-made-Why-would-you-choose-them-as-the-best",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quora.com/Name-the-best-laptop-models-ever-made-Why-would-you-choose-them-as-the-best&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQFnoECGgQAQ",
+            "displayed_link": "7 answers \u00b7 10 years ago",
+            "favicon": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/49836efb669f4c7e86b16cf2a23fbff3be5471b376dc13f5a2c4a2b316421a6a.png",
+            "snippet": "Some of the best models I've worked with were the IBM/Lenovo T410/T420/T430 series, their L410 and L412 series, the Dell D630 series, and the ...",
+            "snippet_highlighted_words": [
+                "best"
+            ],
+            "source": "Quora"
+        },
+        {
+            "position": 48,
+            "title": "best quality laptop brand? Lenovo still good? - Whirlpool Forums",
+            "link": "https://forums.whirlpool.net.au/archive/90xx1qnj",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://forums.whirlpool.net.au/archive/90xx1qnj&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQFnoECG8QAQ",
+            "displayed_link": "https://forums.whirlpool.net.au \u203a archive",
+            "favicon": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/49836efb669f4c7e86b16cf2a23fbff305fe283a4f89b28161eb4af33039c96c.png",
+            "date": "3 days ago",
+            "snippet": "Am currently using Lenovo W540 which i bought used 5 yrs ago (15\" screen,i7 2.7ghz,16gb ram,256gb sata drive, win10 pro) & it is a good solid ...",
+            "snippet_highlighted_words": [
+                "good"
+            ],
+            "source": "Whirlpool Forums"
+        },
+        {
+            "position": 49,
+            "title": "Best Laptops We've Tested (July 2025)",
+            "link": "https://spipphoto.com/index.php/beeedgshop/tech/computing/best-laptop/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://spipphoto.com/index.php/beeedgshop/tech/computing/best-laptop/&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQFnoECHAQAQ",
+            "displayed_link": "https://spipphoto.com \u203a tech \u203a computing \u203a best-laptop",
+            "date": "Jul 10, 2025",
+            "snippet": "With a design that's on par with the Air's, the Surface Laptop 7 is one of the best laptops. So is the Asus Zenbook A14, which is a lightweight ...",
+            "snippet_highlighted_words": [
+                "best laptops"
+            ],
+            "source": "Spip Photo"
+        },
+        {
+            "position": 50,
+            "title": "Gaming Laptops",
+            "link": "https://www.hp.com/in-en/shop/laptops-tablets/laptop-gaming.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.hp.com/in-en/shop/laptops-tablets/laptop-gaming.html&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQFnoECHEQAQ",
+            "displayed_link": "https://www.hp.com \u203a Home \u203a Laptops",
+            "favicon": "https://serpapi.com/searches/68b8767d28b27bb7eb2521fd/images/49836efb669f4c7e86b16cf2a23fbff34c46119e38441e8480140e17ba19c1fa.png",
+            "snippet": "Shop the best HP Gaming Laptops at HP.com India. Enjoy Low Prices when you buy now online.",
+            "snippet_highlighted_words": [
+                "best",
+                "Laptops"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "detected_extensions": {
+                        "rating": 4.5,
+                        "reviews": 103
+                    },
+                    "extensions": [
+                        "4.5 store rating (103)",
+                        "Free delivery",
+                        "30-day returns"
+                    ]
+                }
+            },
+            "source": "HP.com"
+        }
+    ],
+    "related_searches": [
+        {
+            "block_position": 1,
+            "items": [
+                {
+                    "name": "Best Buy",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwgiD9Cprc9fgQueIUMjLdPZr_-kSkfZZJ3ks5&s=0",
+                    "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&gl=us&hl=en&q=Best+Buy&stick=H4sIAAAAAAAAAAFWAKn_CDEiCS9tLzAxenJkePoBALAEAKIFCEJlc3QgQnV52gYZALuiiPkERb8xsTkzsbIW47cH-kf9fWaYqaIIFlBlb3BsZSBhbHNvIHNlYXJjaCBmb3KoCAEL-xlWVgAAAA&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQs9oBKAB6BQjVARAK",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=Best+Buy&stick=H4sIAAAAAAAAAAFWAKn_CDEiCS9tLzAxenJkePoBALAEAKIFCEJlc3QgQnV52gYZALuiiPkERb8xsTkzsbIW47cH-kf9fWaYqaIIFlBlb3BsZSBhbHNvIHNlYXJjaCBmb3KoCAEL-xlWVgAAAA"
+                },
+                {
+                    "name": "Dell Technologies",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9CXOfL-egG7YCS6fNEmN8YtVm5a2kyNPVIakn&s=0",
+                    "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&gl=us&hl=en&q=Dell+Technologies&stick=H4sIAAAAAAAAAAFjAJz_CDEiDS9nLzExYzU0Y2gyam36AQCwBACiBRFEZWxsIFRlY2hub2xvZ2llc9oGGQC7ooj5BEW_MbE5M7GyFuO3B_pH_X1mmKmiCBZQZW9wbGUgYWxzbyBzZWFyY2ggZm9yqAgBQzw3iWMAAAA&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQs9oBKAB6BQjVARAP",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=Dell+Technologies&stick=H4sIAAAAAAAAAAFjAJz_CDEiDS9nLzExYzU0Y2gyam36AQCwBACiBRFEZWxsIFRlY2hub2xvZ2llc9oGGQC7ooj5BEW_MbE5M7GyFuO3B_pH_X1mmKmiCBZQZW9wbGUgYWxzbyBzZWFyY2ggZm9yqAgBQzw3iWMAAAA"
+                },
+                {
+                    "name": "Microsoft",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFLk2t2HQsw4NDcAFIBpmD5FWp1N56-BN035JU&s=0",
+                    "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&gl=us&hl=en&q=Microsoft&stick=H4sIAAAAAAAAAAFWAKn_CDEiCC9tLzA0c3Y0-gEAsAQAogUJTWljcm9zb2Z02gYZALuiiPkERb8xsTkzsbIW47cH-kf9fWaYqaIIFlBlb3BsZSBhbHNvIHNlYXJjaCBmb3KoCAHjH0K5VgAAAA&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQs9oBKAB6BQjVARAU",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=Microsoft&stick=H4sIAAAAAAAAAAFWAKn_CDEiCC9tLzA0c3Y0-gEAsAQAogUJTWljcm9zb2Z02gYZALuiiPkERb8xsTkzsbIW47cH-kf9fWaYqaIIFlBlb3BsZSBhbHNvIHNlYXJjaCBmb3KoCAHjH0K5VgAAAA"
+                },
+                {
+                    "name": "Newegg",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0qUZnbyftpkJ5wftyDtwcP5jniFXrMTeKeOna&s=0",
+                    "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&gl=us&hl=en&q=Newegg&stick=H4sIAAAAAAAAAAFUAKv_CDEiCS9tLzBnMHk5cvoBALAEAKIFBk5ld2VnZ9oGGQC7ooj5BEW_MbE5M7GyFuO3B_pH_X1mmKmiCBZQZW9wbGUgYWxzbyBzZWFyY2ggZm9yqAgBYPcd3FQAAAA&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQs9oBKAB6BQjVARAZ",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=Newegg&stick=H4sIAAAAAAAAAAFUAKv_CDEiCS9tLzBnMHk5cvoBALAEAKIFBk5ld2VnZ9oGGQC7ooj5BEW_MbE5M7GyFuO3B_pH_X1mmKmiCBZQZW9wbGUgYWxzbyBzZWFyY2ggZm9yqAgBYPcd3FQAAAA"
+                },
+                {
+                    "name": "Amazon.com",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlnp6Q8qjuP65yPwpYsTmo3cGp0mBWVcIn6VIK&s=0",
+                    "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&gl=us&hl=en&q=Amazon&stick=H4sIAAAAAAAAAAFTAKz_CDEiCC9tLzBtZ2tn-gEAsAQAogUGQW1hem9u2gYZALuiiPkERb8xsTkzsbIW47cH-kf9fWaYqaIIFlBlb3BsZSBhbHNvIHNlYXJjaCBmb3KoCAFunKVEUwAAAA&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQs9oBKAB6BQjVARAe",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=Amazon&stick=H4sIAAAAAAAAAAFTAKz_CDEiCC9tLzBtZ2tn-gEAsAQAogUGQW1hem9u2gYZALuiiPkERb8xsTkzsbIW47cH-kf9fWaYqaIIFlBlb3BsZSBhbHNvIHNlYXJjaCBmb3KoCAFunKVEUwAAAA"
+                },
+                {
+                    "name": "Walmart",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ92mP2gJPqK12tzk1g9_E2iJei1maZMV2gO7jt&s=0",
+                    "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&gl=us&hl=en&q=Walmart&stick=H4sIAAAAAAAAAAFUAKv_CDEiCC9tLzA4NDF2-gEAsAQAogUHV2FsbWFydNoGGQC7ooj5BEW_MbE5M7GyFuO3B_pH_X1mmKmiCBZQZW9wbGUgYWxzbyBzZWFyY2ggZm9yqAgBrokLl1QAAAA&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQs9oBKAB6BQjVARAj",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=Walmart&stick=H4sIAAAAAAAAAAFUAKv_CDEiCC9tLzA4NDF2-gEAsAQAogUHV2FsbWFydNoGGQC7ooj5BEW_MbE5M7GyFuO3B_pH_X1mmKmiCBZQZW9wbGUgYWxzbyBzZWFyY2ggZm9yqAgBrokLl1QAAAA"
+                }
+            ]
+        },
+        {
+            "block_position": 1,
+            "query": "Best laptop for students",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&gl=us&hl=en&q=Best+laptop+for+students&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ1QJ6BQjaARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=Best+laptop+for+students"
+        },
+        {
+            "block_position": 1,
+            "query": "Best laptop brands",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&gl=us&hl=en&q=Best+laptop+brands&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ1QJ6BQjZARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=Best+laptop+brands"
+        },
+        {
+            "block_position": 1,
+            "query": "Best laptops 2025",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&gl=us&hl=en&q=Best+laptops+2025&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ1QJ6BQjdARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=Best+laptops+2025"
+        },
+        {
+            "block_position": 1,
+            "query": "Best laptop brand for students",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&gl=us&hl=en&q=Best+laptop+brand+for+students&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ1QJ6BQjeARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=Best+laptop+brand+for+students"
+        },
+        {
+            "block_position": 1,
+            "query": "Best laptop under $1000",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&gl=us&hl=en&q=Best+laptop+under+%241000&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ1QJ6BQjYARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=Best+laptop+under+%241000"
+        },
+        {
+            "block_position": 1,
+            "query": "Best laptops for gaming",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&gl=us&hl=en&q=Best+laptops+for+gaming&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ1QJ6BQjjARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=Best+laptops+for+gaming"
+        },
+        {
+            "block_position": 1,
+            "query": "Best laptop under $1,500",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&gl=us&hl=en&q=Best+laptop+under+%241,500&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ1QJ6BQjiARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=Best+laptop+under+%241%2C500"
+        },
+        {
+            "block_position": 1,
+            "query": "Best laptop for teachers",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&gl=us&hl=en&q=Best+laptop+for+teachers&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ1QJ6BQjkARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=Best+laptop+for+teachers"
+        }
+    ],
+    "refine_this_search": [
+        {
+            "query": "Under $1,000",
+            "link": "https://www.google.com/search?q=best+laptop+under+$1,000&gl=us&hl=en&shoprs=CAESDRILEQAAAABlzc1BGAEYBSoLYmVzdCBsYXB0b3AyJQgFEgxVbmRlciAkMSwwMDAYAiINEgsRAAAAAGXNzUEYASoCGAFYi6ogYAE&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQip4GKAF6BQg2EJQB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=best+laptop+under+%241%2C000"
+        },
+        {
+            "query": "For Gaming",
+            "link": "https://www.google.com/search?q=best+laptop+for+gaming&gl=us&hl=en&shoprs=CAEYASoLYmVzdCBsYXB0b3AyHAgBEgpGb3IgR2FtaW5nGAI6CgiU0zoQldM6MANYi6ogYAE&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQip4GKAJ6BQg2EJUB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=best+laptop+for+gaming"
+        },
+        {
+            "query": "Touchscreen",
+            "link": "https://www.google.com/search?q=touchscreen+best+laptop&gl=us&hl=en&shoprs=CAEYASoLYmVzdCBsYXB0b3AyGwgBEgtUb3VjaHNjcmVlbjoKCJyWNxCdljcwA1iLqiBgAQ&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQip4GKAN6BQg2EJYB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=touchscreen+best+laptop"
+        },
+        {
+            "query": "14 \u2013 15 inches",
+            "link": "https://www.google.com/search?q=14+inches+to+15+inches+best+laptop&gl=us&hl=en&shoprs=CAESGioYCMakPhISCQAAACCux0FAEQAAAMDMDENAGAEqC2Jlc3QgbGFwdG9wMlYIARIQMTQg4oCTIDE1IGluY2hlcyIaKhgIxqQ-EhIJAAAAIK7HQUARAAAAwMwMQ0AqGgoWMTQgaW5jaGVzIHRvIDE1IGluY2hlcxgBOggIxqQ-EAAwBliLqiBgAQ&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQip4GKAR6BQg2EJcB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=14+inches+to+15+inches+best+laptop"
+        },
+        {
+            "query": "Over 16 inches",
+            "link": "https://www.google.com/search?q=over+16+inches+best+laptop&gl=us&hl=en&shoprs=CAESESoPCMakPhIJCQAAAIDrUURAGAEqC2Jlc3QgbGFwdG9wMjMIARIOT3ZlciAxNiBpbmNoZXMiESoPCMakPhIJCQAAAIDrUURAKgIYAToICMakPhAAMAZYi6ogYAE&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQip4GKAV6BQg2EJgB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=over+16+inches+best+laptop"
+        },
+        {
+            "query": "15 \u2013 16 inches",
+            "link": "https://www.google.com/search?q=15+inches+to+16+inches+best+laptop&gl=us&hl=en&shoprs=CAESGioYCMakPhISCQAAAMDMDENAEQAAAIDrUURAGAEqC2Jlc3QgbGFwdG9wMlYIARIQMTUg4oCTIDE2IGluY2hlcyIaKhgIxqQ-EhIJAAAAwMwMQ0ARAAAAgOtRREAqGgoWMTUgaW5jaGVzIHRvIDE2IGluY2hlcxgBOggIxqQ-EAAwBliLqiBgAQ&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQip4GKAZ6BQg2EJkB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=15+inches+to+16+inches+best+laptop"
+        },
+        {
+            "query": "Under 14 inches",
+            "link": "https://www.google.com/search?q=under+14+inches+best+laptop&gl=us&hl=en&shoprs=CAESESoPCMakPhIJEQAAACCux0FAGAEqC2Jlc3QgbGFwdG9wMjQIARIPVW5kZXIgMTQgaW5jaGVzIhEqDwjGpD4SCREAAAAgrsdBQCoCGAE6CAjGpD4QADAGWIuqIGAB&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQip4GKAd6BQg2EJoB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=under+14+inches+best+laptop"
+        },
+        {
+            "query": "16 GB RAM",
+            "link": "https://www.google.com/search?q=16+gb+ram+best+laptop&gl=us&hl=en&shoprs=CAESGioYCLCmPhISCQAAAAAAADBAEQAAAAAAADBAGAEqC2Jlc3QgbGFwdG9wMjcIARIJMTYgR0IgUkFNIhoqGAiwpj4SEgkAAAAAAAAwQBEAAAAAAAAwQCoCGAE6CAiwpj4QADAGWIuqIGAB&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQip4GKAh6BQg2EJsB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=16+gb+ram+best+laptop"
+        },
+        {
+            "query": "32 GB RAM",
+            "link": "https://www.google.com/search?q=32+gb+ram+best+laptop&gl=us&hl=en&shoprs=CAESGioYCLCmPhISCQAAAAAAAEBAEQAAAAAAAEBAGAEqC2Jlc3QgbGFwdG9wMjcIARIJMzIgR0IgUkFNIhoqGAiwpj4SEgkAAAAAAABAQBEAAAAAAABAQCoCGAE6CAiwpj4QADAGWIuqIGAB&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQip4GKAl6BQg2EJwB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=32+gb+ram+best+laptop"
+        },
+        {
+            "query": "8 GB RAM",
+            "link": "https://www.google.com/search?q=8+gb+ram+best+laptop&gl=us&hl=en&shoprs=CAESGioYCLCmPhISCQAAAAAAACBAEQAAAAAAACBAGAEqC2Jlc3QgbGFwdG9wMjYIARIIOCBHQiBSQU0iGioYCLCmPhISCQAAAAAAACBAEQAAAAAAACBAKgIYAToICLCmPhAAMAZYi6ogYAE&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQip4GKAp6BQg2EJ0B",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=8+gb+ram+best+laptop"
+        },
+        {
+            "query": "On sale",
+            "link": "https://www.google.com/search?q=best+laptop+sale&gl=us&hl=en&shoprs=CAESBEoCGAEYBioLYmVzdCBsYXB0b3AyEwgGEgdPbiBzYWxlGAIiBEoCGAFYi6ogYAE&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQip4GKAt6BQg2EJ4B",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=best+laptop+sale"
+        },
+        {
+            "query": "64 GB RAM",
+            "link": "https://www.google.com/search?q=64+gb+ram+best+laptop&gl=us&hl=en&shoprs=CAESGioYCLCmPhISCQAAAAAAAFBAEQAAAAAAAFBAGAEqC2Jlc3QgbGFwdG9wMjcIARIJNjQgR0IgUkFNIhoqGAiwpj4SEgkAAAAAAABQQBEAAAAAAABQQCoCGAE6CAiwpj4QADAGWIuqIGAB&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQip4GKAx6BQg2EJ8B",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=64+gb+ram+best+laptop"
+        },
+        {
+            "query": "Brand",
+            "link": "https://www.google.com/search?q=brand+best+laptop&gl=us&hl=en&shoprs=CAEYEioLYmVzdCBsYXB0b3AyCQgSEgVCcmFuZGAB&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQip4GKA16BQg2EKAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=brand+best+laptop"
+        },
+        {
+            "query": "4 GB RAM",
+            "link": "https://www.google.com/search?q=4+gb+ram+best+laptop&gl=us&hl=en&shoprs=CAESGioYCLCmPhISCQAAAAAAABBAEQAAAAAAABBAGAEqC2Jlc3QgbGFwdG9wMjYIARIINCBHQiBSQU0iGioYCLCmPhISCQAAAAAAABBAEQAAAAAAABBAKgIYAToICLCmPhAAMAZYi6ogYAE&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQip4GKA56BQg2EKEB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=4+gb+ram+best+laptop"
+        },
+        {
+            "query": "3 \u2013 3.2 lb",
+            "link": "https://www.google.com/search?q=3+lb+to+3.2+lb+best+laptop&gl=us&hl=en&shoprs=CAESGioYCOKjPhISCQAAAOCjcPU_EQAAAICkg_c_GAEqC2Jlc3QgbGFwdG9wMkoIARIMMyDigJMgMy4yIGxiIhoqGAjioz4SEgkAAADgo3D1PxEAAACApIP3PyoSCg4zIGxiIHRvIDMuMiBsYhgBOggI4qM-EAAwBliLqiBgAQ&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQip4GKA96BQg2EKIB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=3+lb+to+3.2+lb+best+laptop"
+        },
+        {
+            "query": "3.2 \u2013 3.6 lb",
+            "link": "https://www.google.com/search?q=3.2+lb+to+3.6+lb+best+laptop&gl=us&hl=en&shoprs=CAESGioYCOKjPhISCQAAAICkg_c_EQAAAODOavo_GAEqC2Jlc3QgbGFwdG9wMk4IARIOMy4yIOKAkyAzLjYgbGIiGioYCOKjPhISCQAAAICkg_c_EQAAAODOavo_KhQKEDMuMiBsYiB0byAzLjYgbGIYAToICOKjPhAAMAZYi6ogYAE&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQip4GKBB6BQg2EKMB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=3.2+lb+to+3.6+lb+best+laptop"
+        },
+        {
+            "query": "Under 3 lb",
+            "link": "https://www.google.com/search?q=under+3+lb+best+laptop&gl=us&hl=en&shoprs=CAESESoPCOKjPhIJEQAAAOCjcPU_GAEqC2Jlc3QgbGFwdG9wMi8IARIKVW5kZXIgMyBsYiIRKg8I4qM-EgkRAAAA4KNw9T8qAhgBOggI4qM-EAAwBliLqiBgAQ&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQip4GKBF6BQg2EKQB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=under+3+lb+best+laptop"
+        },
+        {
+            "query": "3.6 \u2013 4.1 lb",
+            "link": "https://www.google.com/search?q=3.6+lb+to+4.1+lb+best+laptop&gl=us&hl=en&shoprs=CAESGioYCOKjPhISCQAAAODOavo_EQAAAOAhd_0_GAEqC2Jlc3QgbGFwdG9wMk4IARIOMy42IOKAkyA0LjEgbGIiGioYCOKjPhISCQAAAODOavo_EQAAAOAhd_0_KhQKEDMuNiBsYiB0byA0LjEgbGIYAToICOKjPhAAMAZYi6ogYAE&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQip4GKBJ6BQg2EKUB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=3.6+lb+to+4.1+lb+best+laptop"
+        },
+        {
+            "query": "Over 4.1 lb",
+            "link": "https://www.google.com/search?q=over+4.1+lb+best+laptop&gl=us&hl=en&shoprs=CAESESoPCOKjPhIJCQAAAOAhd_0_GAEqC2Jlc3QgbGFwdG9wMjAIARILT3ZlciA0LjEgbGIiESoPCOKjPhIJCQAAAOAhd_0_KgIYAToICOKjPhAAMAZYi6ogYAE&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQip4GKBN6BQg2EKYB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=over+4.1+lb+best+laptop"
+        },
+        {
+            "query": "Solid State Drive",
+            "link": "https://www.google.com/search?q=solid+state+drive+best+laptop&gl=us&hl=en&shoprs=CAEYASoLYmVzdCBsYXB0b3AyIQgBEhFTb2xpZCBTdGF0ZSBEcml2ZToKCJHTOhCT0zowAliLqiBgAQ&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQip4GKBR6BQg2EKcB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=solid+state+drive+best+laptop"
+        },
+        {
+            "query": "Get it tomorrow",
+            "link": "https://www.google.com/search?q=best+laptop&gl=us&hl=en&shoprs=CAESDZoBCgoIEAE4AUAESAEYFCoLYmVzdCBsYXB0b3AyKAgUEg9HZXQgaXQgdG9tb3Jyb3ciDZoBCgoIEAE4AUAESAEqBBABGAFgAQ&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQip4GKBV6BQg2EKgB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=best+laptop"
+        },
+        {
+            "query": "3.4 \u2013 4.8 GHz CPU",
+            "link": "https://www.google.com/search?q=3.4+ghz+cpu+to+4.8+ghz+cpu+best+laptop&gl=us&hl=en&shoprs=CAESGioYCLGmPhISCQAAAEAzMwtAEQAAAEAzMxNAGAEqC2Jlc3QgbGFwdG9wMl0IARITMy40IOKAkyA0LjggR0h6IENQVSIaKhgIsaY-EhIJAAAAQDMzC0ARAAAAQDMzE0AqHgoaMy40IEdIeiBDUFUgdG8gNC44IEdIeiBDUFUYAToICLGmPhAAMAZYi6ogYAE&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQip4GKBZ6BQg2EKkB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=3.4+ghz+cpu+to+4.8+ghz+cpu+best+laptop"
+        },
+        {
+            "query": "512 GB drive",
+            "link": "https://www.google.com/search?q=512+gb+drive+best+laptop&gl=us&hl=en&shoprs=CAESGioYCMSkPhISCQAAAAAAAIBAEQAAAAAAAIBAGAEqC2Jlc3QgbGFwdG9wMjoIARIMNTEyIEdCIGRyaXZlIhoqGAjEpD4SEgkAAAAAAACAQBEAAAAAAACAQCoCGAE6CAjEpD4QADAGWIuqIGAB&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQip4GKBd6BQg2EKoB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=512+gb+drive+best+laptop"
+        },
+        {
+            "query": "Chromebook",
+            "link": "https://www.google.com/search?q=chromebook+best+laptop&gl=us&hl=en&shoprs=CAEYASoLYmVzdCBsYXB0b3AyGggBEgpDaHJvbWVib29rOgoI0v46ENP-OjAEWIuqIGAB&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQip4GKBh6BQg2EKsB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=chromebook+best+laptop"
+        },
+        {
+            "query": "Intel CPU",
+            "link": "https://www.google.com/search?q=intel+cpu+best+laptop&gl=us&hl=en&shoprs=CAEYASoLYmVzdCBsYXB0b3AyGQgBEglJbnRlbCBDUFU6Cgj9-yoQ_vsqMABYi6ogYAE&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQip4GKBl6BQg2EKwB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=intel+cpu+best+laptop"
+        },
+        {
+            "query": "Over 4.8 GHz CPU",
+            "link": "https://www.google.com/search?q=over+4.8+ghz+cpu+best+laptop&gl=us&hl=en&shoprs=CAESESoPCLGmPhIJCQAAAEAzMxNAGAEqC2Jlc3QgbGFwdG9wMjUIARIQT3ZlciA0LjggR0h6IENQVSIRKg8IsaY-EgkJAAAAQDMzE0AqAhgBOggIsaY-EAAwBliLqiBgAQ&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQip4GKBp6BQg2EK0B",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=over+4.8+ghz+cpu+best+laptop"
+        }
+    ],
+    "refine_search_filters": [
+        {
+            "type": "Price",
+            "options": [
+                {
+                    "title": "Under $1,000",
+                    "link": "https://www.google.com/search?q=best+laptop+under+$1,000&gl=us&hl=en&shoprs=CAESDRILEQAAAABlzc1BGAEYBSoLYmVzdCBsYXB0b3AyJQgFEgxVbmRlciAkMSwwMDAYAiINEgsRAAAAAGXNzUEYASoCGAFYi6ogYAI&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAB6BAg2EAc",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=best+laptop+under+%241%2C000"
+                },
+                {
+                    "title": "Over $1,000",
+                    "link": "https://www.google.com/search?q=best+laptop+over+$1,000&gl=us&hl=en&shoprs=CAESDRILCQAAAABlzc1BGAEYBSoLYmVzdCBsYXB0b3AyJAgFEgtPdmVyICQxLDAwMBgCIg0SCwkAAAAAZc3NQRgBKgIYAViLqiBgAg&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAF6BAg2EAg",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=best+laptop+over+%241%2C000"
+                }
+            ]
+        },
+        {
+            "type": "Sort by",
+            "options": [
+                {
+                    "title": "Price: low to high",
+                    "link": "https://www.google.com/search?q=best+laptop&gl=us&hl=en&shoprs=CAEYFyoLYmVzdCBsYXB0b3AyHAgXEhJQcmljZTogbG93IHRvIGhpZ2gqBBABGAFgAogBAQ&udm=3&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAB6BAg2EA8",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=best+laptop"
+                },
+                {
+                    "title": "Price: high to low",
+                    "link": "https://www.google.com/search?q=best+laptop&gl=us&hl=en&shoprs=CAEYFyoLYmVzdCBsYXB0b3AyHAgXEhJQcmljZTogaGlnaCB0byBsb3cqBBABGAFgAogBAg&udm=3&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAF6BAg2EBA",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=best+laptop"
+                }
+            ]
+        },
+        {
+            "type": "Features",
+            "options": [
+                {
+                    "title": "For Gaming",
+                    "link": "https://www.google.com/search?q=best+laptop+for+gaming&gl=us&hl=en&shoprs=CAEYASoLYmVzdCBsYXB0b3AyHAgBEgpGb3IgR2FtaW5nGAI6CgiU0zoQldM6MANYi6ogYAI&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAB6BAg2EBQ",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=best+laptop+for+gaming"
+                },
+                {
+                    "title": "With Backlit Keyboard",
+                    "link": "https://www.google.com/search?q=best+laptop+with+backlit+keyboard&gl=us&hl=en&shoprs=CAEYASoLYmVzdCBsYXB0b3AyKQgBEhVXaXRoIEJhY2tsaXQgS2V5Ym9hcmQYAjoMCIrYzgEQi9jOATADWIuqIGAC&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAF6BAg2EBU",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=best+laptop+with+backlit+keyboard"
+                },
+                {
+                    "title": "Convertible",
+                    "link": "https://www.google.com/search?q=convertible+best+laptop&gl=us&hl=en&shoprs=CAEYASoLYmVzdCBsYXB0b3AyGwgBEgtDb252ZXJ0aWJsZToKCOORNxDkkTcwA1iLqiBgAg&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAJ6BAg2EBY",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=convertible+best+laptop"
+                },
+                {
+                    "title": "Energy Star",
+                    "link": "https://www.google.com/search?q=energy+star+best+laptop&gl=us&hl=en&shoprs=CAEYASoLYmVzdCBsYXB0b3AyHQgBEgtFbmVyZ3kgU3RhcjoMCPbchwIQ99yHAjADWIuqIGAC&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAN6BAg2EBc",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=energy+star+best+laptop"
+                }
+            ]
+        },
+        {
+            "type": "Screen Size",
+            "options": [
+                {
+                    "title": "Under 14 inches",
+                    "link": "https://www.google.com/search?q=under+14+inches+best+laptop&gl=us&hl=en&shoprs=CAESESoPCMakPhIJEQAAACCux0FAGAEqC2Jlc3QgbGFwdG9wMjQIARIPVW5kZXIgMTQgaW5jaGVzIhEqDwjGpD4SCREAAAAgrsdBQCoCGAE6CAjGpD4QADAGWIuqIGAC&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAB6BAg2EB0",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=under+14+inches+best+laptop"
+                },
+                {
+                    "title": "14 \u2013 15 inches",
+                    "link": "https://www.google.com/search?q=14+inches+to+15+inches+best+laptop&gl=us&hl=en&shoprs=CAESGioYCMakPhISCQAAACCux0FAEQAAAMDMDENAGAEqC2Jlc3QgbGFwdG9wMlYIARIQMTQg4oCTIDE1IGluY2hlcyIaKhgIxqQ-EhIJAAAAIK7HQUARAAAAwMwMQ0AqGgoWMTQgaW5jaGVzIHRvIDE1IGluY2hlcxgBOggIxqQ-EAAwBliLqiBgAg&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAF6BAg2EB4",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=14+inches+to+15+inches+best+laptop"
+                },
+                {
+                    "title": "15 \u2013 16 inches",
+                    "link": "https://www.google.com/search?q=15+inches+to+16+inches+best+laptop&gl=us&hl=en&shoprs=CAESGioYCMakPhISCQAAAMDMDENAEQAAAIDrUURAGAEqC2Jlc3QgbGFwdG9wMlYIARIQMTUg4oCTIDE2IGluY2hlcyIaKhgIxqQ-EhIJAAAAwMwMQ0ARAAAAgOtRREAqGgoWMTUgaW5jaGVzIHRvIDE2IGluY2hlcxgBOggIxqQ-EAAwBliLqiBgAg&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAJ6BAg2EB8",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=15+inches+to+16+inches+best+laptop"
+                },
+                {
+                    "title": "Over 16 inches",
+                    "link": "https://www.google.com/search?q=over+16+inches+best+laptop&gl=us&hl=en&shoprs=CAESESoPCMakPhIJCQAAAIDrUURAGAEqC2Jlc3QgbGFwdG9wMjMIARIOT3ZlciAxNiBpbmNoZXMiESoPCMakPhIJCQAAAIDrUURAKgIYAToICMakPhAAMAZYi6ogYAI&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAN6BAg2ECA",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=over+16+inches+best+laptop"
+                }
+            ]
+        },
+        {
+            "type": "Installed Memory",
+            "options": [
+                {
+                    "title": "4 GB RAM",
+                    "link": "https://www.google.com/search?q=4+gb+ram+best+laptop&gl=us&hl=en&shoprs=CAESGioYCLCmPhISCQAAAAAAABBAEQAAAAAAABBAGAEqC2Jlc3QgbGFwdG9wMjYIARIINCBHQiBSQU0iGioYCLCmPhISCQAAAAAAABBAEQAAAAAAABBAKgIYAToICLCmPhAAMAZYi6ogYAI&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAB6BAg2ECQ",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=4+gb+ram+best+laptop"
+                },
+                {
+                    "title": "8 GB RAM",
+                    "link": "https://www.google.com/search?q=8+gb+ram+best+laptop&gl=us&hl=en&shoprs=CAESGioYCLCmPhISCQAAAAAAACBAEQAAAAAAACBAGAEqC2Jlc3QgbGFwdG9wMjYIARIIOCBHQiBSQU0iGioYCLCmPhISCQAAAAAAACBAEQAAAAAAACBAKgIYAToICLCmPhAAMAZYi6ogYAI&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAF6BAg2ECU",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=8+gb+ram+best+laptop"
+                },
+                {
+                    "title": "12 GB RAM",
+                    "link": "https://www.google.com/search?q=12+gb+ram+best+laptop&gl=us&hl=en&shoprs=CAESGioYCLCmPhISCQAAAAAAAChAEQAAAAAAAChAGAEqC2Jlc3QgbGFwdG9wMjcIARIJMTIgR0IgUkFNIhoqGAiwpj4SEgkAAAAAAAAoQBEAAAAAAAAoQCoCGAE6CAiwpj4QADAGWIuqIGAC&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAJ6BAg2ECY",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=12+gb+ram+best+laptop"
+                },
+                {
+                    "title": "16 GB RAM",
+                    "link": "https://www.google.com/search?q=16+gb+ram+best+laptop&gl=us&hl=en&shoprs=CAESGioYCLCmPhISCQAAAAAAADBAEQAAAAAAADBAGAEqC2Jlc3QgbGFwdG9wMjcIARIJMTYgR0IgUkFNIhoqGAiwpj4SEgkAAAAAAAAwQBEAAAAAAAAwQCoCGAE6CAiwpj4QADAGWIuqIGAC&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAN6BAg2ECc",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=16+gb+ram+best+laptop"
+                }
+            ]
+        },
+        {
+            "type": "Product Rating",
+            "options": [
+                {
+                    "title": "",
+                    "link": "https://www.google.com/search?q=best+laptop&gl=us&hl=en&shoprs=CAESBWIDCJADGB4qC2Jlc3QgbGFwdG9wMhUIHhIINCBhbmQgdXAiBWIDCJADQARgAg&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAB6BAg2EC0",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=best+laptop"
+                }
+            ]
+        },
+        {
+            "type": "Weight",
+            "options": [
+                {
+                    "title": "Under 3 lb",
+                    "link": "https://www.google.com/search?q=under+3+lb+best+laptop&gl=us&hl=en&shoprs=CAESESoPCOKjPhIJEQAAAOCjcPU_GAEqC2Jlc3QgbGFwdG9wMi8IARIKVW5kZXIgMyBsYiIRKg8I4qM-EgkRAAAA4KNw9T8qAhgBOggI4qM-EAAwBliLqiBgAg&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAB6BAg2EDI",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=under+3+lb+best+laptop"
+                },
+                {
+                    "title": "3 \u2013 3.2 lb",
+                    "link": "https://www.google.com/search?q=3+lb+to+3.2+lb+best+laptop&gl=us&hl=en&shoprs=CAESGioYCOKjPhISCQAAAOCjcPU_EQAAAICkg_c_GAEqC2Jlc3QgbGFwdG9wMkoIARIMMyDigJMgMy4yIGxiIhoqGAjioz4SEgkAAADgo3D1PxEAAACApIP3PyoSCg4zIGxiIHRvIDMuMiBsYhgBOggI4qM-EAAwBliLqiBgAg&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAF6BAg2EDM",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=3+lb+to+3.2+lb+best+laptop"
+                },
+                {
+                    "title": "3.2 \u2013 3.6 lb",
+                    "link": "https://www.google.com/search?q=3.2+lb+to+3.6+lb+best+laptop&gl=us&hl=en&shoprs=CAESGioYCOKjPhISCQAAAICkg_c_EQAAAODOavo_GAEqC2Jlc3QgbGFwdG9wMk4IARIOMy4yIOKAkyAzLjYgbGIiGioYCOKjPhISCQAAAICkg_c_EQAAAODOavo_KhQKEDMuMiBsYiB0byAzLjYgbGIYAToICOKjPhAAMAZYi6ogYAI&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAJ6BAg2EDQ",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=3.2+lb+to+3.6+lb+best+laptop"
+                },
+                {
+                    "title": "3.6 \u2013 4.1 lb",
+                    "link": "https://www.google.com/search?q=3.6+lb+to+4.1+lb+best+laptop&gl=us&hl=en&shoprs=CAESGioYCOKjPhISCQAAAODOavo_EQAAAOAhd_0_GAEqC2Jlc3QgbGFwdG9wMk4IARIOMy42IOKAkyA0LjEgbGIiGioYCOKjPhISCQAAAODOavo_EQAAAOAhd_0_KhQKEDMuNiBsYiB0byA0LjEgbGIYAToICOKjPhAAMAZYi6ogYAI&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAN6BAg2EDU",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=3.6+lb+to+4.1+lb+best+laptop"
+                },
+                {
+                    "title": "Over 4.1 lb",
+                    "link": "https://www.google.com/search?q=over+4.1+lb+best+laptop&gl=us&hl=en&shoprs=CAESESoPCOKjPhIJCQAAAOAhd_0_GAEqC2Jlc3QgbGFwdG9wMjAIARILT3ZlciA0LjEgbGIiESoPCOKjPhIJCQAAAOAhd_0_KgIYAToICOKjPhAAMAZYi6ogYAI&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAR6BAg2EDY",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=over+4.1+lb+best+laptop"
+                }
+            ]
+        },
+        {
+            "type": "Drive Type",
+            "options": [
+                {
+                    "title": "Solid State Drive",
+                    "link": "https://www.google.com/search?q=solid+state+drive+best+laptop&gl=us&hl=en&shoprs=CAEYASoLYmVzdCBsYXB0b3AyIQgBEhFTb2xpZCBTdGF0ZSBEcml2ZToKCJHTOhCT0zowAliLqiBgAg&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAB6BAg2EDo",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=solid+state+drive+best+laptop"
+                },
+                {
+                    "title": "Hard Disk Drive",
+                    "link": "https://www.google.com/search?q=hard+disk+drive+best+laptop&gl=us&hl=en&shoprs=CAEYASoLYmVzdCBsYXB0b3AyHwgBEg9IYXJkIERpc2sgRHJpdmU6CgiR0zoQktM6MAJYi6ogYAI&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAF6BAg2EDs",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=hard+disk+drive+best+laptop"
+                }
+            ]
+        },
+        {
+            "type": "Processor Speed",
+            "options": [
+                {
+                    "title": "Under 2 GHz CPU",
+                    "link": "https://www.google.com/search?q=under+2+ghz+cpu+best+laptop&gl=us&hl=en&shoprs=CAESESoPCLGmPhIJEQAAAAAAAABAGAEqC2Jlc3QgbGFwdG9wMjQIARIPVW5kZXIgMiBHSHogQ1BVIhEqDwixpj4SCREAAAAAAAAAQCoCGAE6CAixpj4QADAGWIuqIGAC&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAB6BAg2ED8",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=under+2+ghz+cpu+best+laptop"
+                },
+                {
+                    "title": "2 \u2013 3.4 GHz CPU",
+                    "link": "https://www.google.com/search?q=2+ghz+cpu+to+3.4+ghz+cpu+best+laptop&gl=us&hl=en&shoprs=CAESGioYCLGmPhISCQAAAAAAAABAEQAAAEAzMwtAGAEqC2Jlc3QgbGFwdG9wMlkIARIRMiDigJMgMy40IEdIeiBDUFUiGioYCLGmPhISCQAAAAAAAABAEQAAAEAzMwtAKhwKGDIgR0h6IENQVSB0byAzLjQgR0h6IENQVRgBOggIsaY-EAAwBliLqiBgAg&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAF6BAg2EEA",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=2+ghz+cpu+to+3.4+ghz+cpu+best+laptop"
+                },
+                {
+                    "title": "3.4 \u2013 4.8 GHz CPU",
+                    "link": "https://www.google.com/search?q=3.4+ghz+cpu+to+4.8+ghz+cpu+best+laptop&gl=us&hl=en&shoprs=CAESGioYCLGmPhISCQAAAEAzMwtAEQAAAEAzMxNAGAEqC2Jlc3QgbGFwdG9wMl0IARITMy40IOKAkyA0LjggR0h6IENQVSIaKhgIsaY-EhIJAAAAQDMzC0ARAAAAQDMzE0AqHgoaMy40IEdIeiBDUFUgdG8gNC44IEdIeiBDUFUYAToICLGmPhAAMAZYi6ogYAI&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAJ6BAg2EEE",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=3.4+ghz+cpu+to+4.8+ghz+cpu+best+laptop"
+                },
+                {
+                    "title": "Over 4.8 GHz CPU",
+                    "link": "https://www.google.com/search?q=over+4.8+ghz+cpu+best+laptop&gl=us&hl=en&shoprs=CAESESoPCLGmPhIJCQAAAEAzMxNAGAEqC2Jlc3QgbGFwdG9wMjUIARIQT3ZlciA0LjggR0h6IENQVSIRKg8IsaY-EgkJAAAAQDMzE0AqAhgBOggIsaY-EAAwBliLqiBgAg&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAN6BAg2EEI",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=over+4.8+ghz+cpu+best+laptop"
+                }
+            ]
+        },
+        {
+            "type": "Drive Capacity",
+            "options": [
+                {
+                    "title": "16 GB drive",
+                    "link": "https://www.google.com/search?q=16+gb+drive+best+laptop&gl=us&hl=en&shoprs=CAESGioYCMSkPhISCQAAAAAAADBAEQAAAAAAADBAGAEqC2Jlc3QgbGFwdG9wMjkIARILMTYgR0IgZHJpdmUiGioYCMSkPhISCQAAAAAAADBAEQAAAAAAADBAKgIYAToICMSkPhAAMAZYi6ogYAI&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAB6BAg2EEY",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=16+gb+drive+best+laptop"
+                },
+                {
+                    "title": "32 GB drive",
+                    "link": "https://www.google.com/search?q=32+gb+drive+best+laptop&gl=us&hl=en&shoprs=CAESGioYCMSkPhISCQAAAAAAAEBAEQAAAAAAAEBAGAEqC2Jlc3QgbGFwdG9wMjkIARILMzIgR0IgZHJpdmUiGioYCMSkPhISCQAAAAAAAEBAEQAAAAAAAEBAKgIYAToICMSkPhAAMAZYi6ogYAI&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAF6BAg2EEc",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=32+gb+drive+best+laptop"
+                },
+                {
+                    "title": "64 GB drive",
+                    "link": "https://www.google.com/search?q=64+gb+drive+best+laptop&gl=us&hl=en&shoprs=CAESGioYCMSkPhISCQAAAAAAAFBAEQAAAAAAAFBAGAEqC2Jlc3QgbGFwdG9wMjkIARILNjQgR0IgZHJpdmUiGioYCMSkPhISCQAAAAAAAFBAEQAAAAAAAFBAKgIYAToICMSkPhAAMAZYi6ogYAI&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAJ6BAg2EEg",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=64+gb+drive+best+laptop"
+                },
+                {
+                    "title": "128 GB drive",
+                    "link": "https://www.google.com/search?q=128+gb+drive+best+laptop&gl=us&hl=en&shoprs=CAESGioYCMSkPhISCQAAAAAAAGBAEQAAAAAAAGBAGAEqC2Jlc3QgbGFwdG9wMjoIARIMMTI4IEdCIGRyaXZlIhoqGAjEpD4SEgkAAAAAAABgQBEAAAAAAABgQCoCGAE6CAjEpD4QADAGWIuqIGAC&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAN6BAg2EEk",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=128+gb+drive+best+laptop"
+                }
+            ]
+        },
+        {
+            "type": "Processor Brand",
+            "options": [
+                {
+                    "title": "Intel CPU",
+                    "link": "https://www.google.com/search?q=intel+cpu+best+laptop&gl=us&hl=en&shoprs=CAEYASoLYmVzdCBsYXB0b3AyGQgBEglJbnRlbCBDUFU6Cgj9-yoQ_vsqMABYi6ogYAI&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAB6BAg2EE8",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=intel+cpu+best+laptop"
+                },
+                {
+                    "title": "AMD CPU",
+                    "link": "https://www.google.com/search?q=amd+cpu+best+laptop&gl=us&hl=en&shoprs=CAEYASoLYmVzdCBsYXB0b3AyFwgBEgdBTUQgQ1BVOgoI_fsqEP_7KjAAWIuqIGAC&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAF6BAg2EFA",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=amd+cpu+best+laptop"
+                }
+            ]
+        },
+        {
+            "type": "Graphics Processor",
+            "options": [
+                {
+                    "title": "Intel GPU",
+                    "link": "https://www.google.com/search?q=intel+gpu+best+laptop&gl=us&hl=en&shoprs=CAEYASoLYmVzdCBsYXB0b3AyGQgBEglJbnRlbCBHUFU6CgiS3ywQ-d8sMABYi6ogYAI&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAB6BAg2EFQ",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=intel+gpu+best+laptop"
+                },
+                {
+                    "title": "NVIDIA GPU",
+                    "link": "https://www.google.com/search?q=nvidia+gpu+best+laptop&gl=us&hl=en&shoprs=CAEYASoLYmVzdCBsYXB0b3AyGggBEgpOVklESUEgR1BVOgoIkt8sEPrfLDAAWIuqIGAC&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAF6BAg2EFU",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=nvidia+gpu+best+laptop"
+                },
+                {
+                    "title": "AMD GPU",
+                    "link": "https://www.google.com/search?q=amd+gpu+best+laptop&gl=us&hl=en&shoprs=CAEYASoLYmVzdCBsYXB0b3AyFwgBEgdBTUQgR1BVOgoIkt8sEPjfLDAAWIuqIGAC&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAJ6BAg2EFY",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=amd+gpu+best+laptop"
+                }
+            ]
+        },
+        {
+            "type": "Available Ports",
+            "options": [
+                {
+                    "title": "HDMI",
+                    "link": "https://www.google.com/search?q=hdmi+best+laptop&gl=us&hl=en&shoprs=CAEYASoLYmVzdCBsYXB0b3AyFggBEgRIRE1JOgwIjPX5ARCP9fkBMABYi6ogYAI&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAB6BAg2EFo",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=hdmi+best+laptop"
+                },
+                {
+                    "title": "USB-C",
+                    "link": "https://www.google.com/search?q=usb-c+best+laptop&gl=us&hl=en&shoprs=CAEYASoLYmVzdCBsYXB0b3AyFwgBEgVVU0ItQzoMCIz1-QEQjvX5ATAAWIuqIGAC&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAF6BAg2EFs",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=usb-c+best+laptop"
+                },
+                {
+                    "title": "USB-A",
+                    "link": "https://www.google.com/search?q=usb-a+best+laptop&gl=us&hl=en&shoprs=CAEYASoLYmVzdCBsYXB0b3AyFwgBEgVVU0ItQToMCIz1-QEQjfX5ATAAWIuqIGAC&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAJ6BAg2EFw",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=usb-a+best+laptop"
+                },
+                {
+                    "title": "3.5 mm Jack",
+                    "link": "https://www.google.com/search?q=3.5+mm+jack+best+laptop&gl=us&hl=en&shoprs=CAEYASoLYmVzdCBsYXB0b3AyHQgBEgszLjUgbW0gSmFjazoMCIz1-QEQkvX5ATAAWIuqIGAC&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAN6BAg2EF0",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=3.5+mm+jack+best+laptop"
+                }
+            ]
+        },
+        {
+            "type": "Battery Life",
+            "options": [
+                {
+                    "title": "Under 10 hours battery life",
+                    "link": "https://www.google.com/search?q=under+10+hours+battery+life+best+laptop&gl=us&hl=en&shoprs=CAESESoPCLOmPhIJEQAAAAAAACRAGAEqC2Jlc3QgbGFwdG9wMkAIARIbVW5kZXIgMTAgaG91cnMgYmF0dGVyeSBsaWZlIhEqDwizpj4SCREAAAAAAAAkQCoCGAE6CAizpj4QADAGWIuqIGAC&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAB6BAg2EGM",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=under+10+hours+battery+life+best+laptop"
+                },
+                {
+                    "title": "10 \u2013 13 hours battery life",
+                    "link": "https://www.google.com/search?q=10+hours+battery+life+to+13+hours+battery+life+best+laptop&gl=us&hl=en&shoprs=CAESGioYCLOmPhISCQAAAAAAACRAEQAAAEAzMylAGAEqC2Jlc3QgbGFwdG9wMnoIARIcMTAg4oCTIDEzIGhvdXJzIGJhdHRlcnkgbGlmZSIaKhgIs6Y-EhIJAAAAAAAAJEARAAAAQDMzKUAqMgouMTAgaG91cnMgYmF0dGVyeSBsaWZlIHRvIDEzIGhvdXJzIGJhdHRlcnkgbGlmZRgBOggIs6Y-EAAwBliLqiBgAg&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAF6BAg2EGQ",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=10+hours+battery+life+to+13+hours+battery+life+best+laptop"
+                },
+                {
+                    "title": "13 \u2013 18 hours battery life",
+                    "link": "https://www.google.com/search?q=13+hours+battery+life+to+18+hours+battery+life+best+laptop&gl=us&hl=en&shoprs=CAESGioYCLOmPhISCQAAAEAzMylAEQAAAAAAADJAGAEqC2Jlc3QgbGFwdG9wMnoIARIcMTMg4oCTIDE4IGhvdXJzIGJhdHRlcnkgbGlmZSIaKhgIs6Y-EhIJAAAAQDMzKUARAAAAAAAAMkAqMgouMTMgaG91cnMgYmF0dGVyeSBsaWZlIHRvIDE4IGhvdXJzIGJhdHRlcnkgbGlmZRgBOggIs6Y-EAAwBliLqiBgAg&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAJ6BAg2EGU",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=13+hours+battery+life+to+18+hours+battery+life+best+laptop"
+                },
+                {
+                    "title": "18 \u2013 22 hours battery life",
+                    "link": "https://www.google.com/search?q=18+hours+battery+life+to+22+hours+battery+life+best+laptop&gl=us&hl=en&shoprs=CAESGioYCLOmPhISCQAAAAAAADJAEQAAAAAAADZAGAEqC2Jlc3QgbGFwdG9wMnoIARIcMTgg4oCTIDIyIGhvdXJzIGJhdHRlcnkgbGlmZSIaKhgIs6Y-EhIJAAAAAAAAMkARAAAAAAAANkAqMgouMTggaG91cnMgYmF0dGVyeSBsaWZlIHRvIDIyIGhvdXJzIGJhdHRlcnkgbGlmZRgBOggIs6Y-EAAwBliLqiBgAg&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAN6BAg2EGY",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=18+hours+battery+life+to+22+hours+battery+life+best+laptop"
+                },
+                {
+                    "title": "Over 22 hours battery life",
+                    "link": "https://www.google.com/search?q=over+22+hours+battery+life+best+laptop&gl=us&hl=en&shoprs=CAESESoPCLOmPhIJCQAAAAAAADZAGAEqC2Jlc3QgbGFwdG9wMj8IARIaT3ZlciAyMiBob3VycyBiYXR0ZXJ5IGxpZmUiESoPCLOmPhIJCQAAAAAAADZAKgIYAToICLOmPhAAMAZYi6ogYAI&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAR6BAg2EGc",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=over+22+hours+battery+life+best+laptop"
+                }
+            ]
+        },
+        {
+            "type": "Stores",
+            "options": [
+                {
+                    "title": "Best Buy",
+                    "link": "https://www.google.com/search?q=best+buy+laptop&gl=us&hl=en&shoprs=CAEYAioLYmVzdCBsYXB0b3AyDAgCEghCZXN0IEJ1eViLqiBgAg&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAB6BAg2EGs",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=best+buy+laptop"
+                },
+                {
+                    "title": "Target",
+                    "link": "https://www.google.com/search?q=target+best+laptop&gl=us&hl=en&shoprs=CAEYAioLYmVzdCBsYXB0b3AyCggCEgZUYXJnZXRYi6ogYAI&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAF6BAg2EGw",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=target+best+laptop"
+                },
+                {
+                    "title": "Walmart",
+                    "link": "https://www.google.com/search?q=walmart+best+laptop&gl=us&hl=en&shoprs=CAEYAioLYmVzdCBsYXB0b3AyCwgCEgdXYWxtYXJ0WIuqIGAC&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAJ6BAg2EG0",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=walmart+best+laptop"
+                },
+                {
+                    "title": "B&H Photo Video Audio",
+                    "link": "https://www.google.com/search?q=b%26h+photo+video+audio+best+laptop&gl=us&hl=en&shoprs=CAEYAioLYmVzdCBsYXB0b3AyGQgCEhVCJkggUGhvdG8gVmlkZW8gQXVkaW9Yi6ogYAI&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAN6BAg2EG4",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=b%26h+photo+video+audio+best+laptop"
+                }
+            ]
+        },
+        {
+            "type": "Color",
+            "options": [
+                {
+                    "title": "Black",
+                    "link": "https://www.google.com/search?q=black+best+laptop&gl=us&hl=en&shoprs=CAEYASoLYmVzdCBsYXB0b3AyFQgBEgVCbGFjazoKCJffaBCZ32gwAFiLqiBgAg&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAB6BAg2EHQ",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=black+best+laptop"
+                },
+                {
+                    "title": "Silver",
+                    "link": "https://www.google.com/search?q=silver+best+laptop&gl=us&hl=en&shoprs=CAEYASoLYmVzdCBsYXB0b3AyFggBEgZTaWx2ZXI6CgiX32gQmt9oMABYi6ogYAI&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAF6BAg2EHU",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=silver+best+laptop"
+                },
+                {
+                    "title": "Gold",
+                    "link": "https://www.google.com/search?q=gold+best+laptop&gl=us&hl=en&shoprs=CAEYASoLYmVzdCBsYXB0b3AyFAgBEgRHb2xkOgoIl99oEKDfaDAAWIuqIGAC&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAJ6BAg2EHY",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=gold+best+laptop"
+                },
+                {
+                    "title": "Gray",
+                    "link": "https://www.google.com/search?q=gray+best+laptop&gl=us&hl=en&shoprs=CAEYASoLYmVzdCBsYXB0b3AyFAgBEgRHcmF5OgoIl99oEJzfaDAAWIuqIGAC&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAN6BAg2EHc",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=gray+best+laptop"
+                }
+            ]
+        },
+        {
+            "type": "Number of Cores",
+            "options": [
+                {
+                    "title": "Octa Core",
+                    "link": "https://www.google.com/search?q=octa+core+best+laptop&gl=us&hl=en&shoprs=CAEYASoLYmVzdCBsYXB0b3AyGggBEglPY3RhIENvcmU6Cwih1FEQju7_ATAAWIuqIGAC&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAB6BAg2EH0",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=octa+core+best+laptop"
+                },
+                {
+                    "title": "Quad Core",
+                    "link": "https://www.google.com/search?q=quad+core+best+laptop&gl=us&hl=en&shoprs=CAEYASoLYmVzdCBsYXB0b3AyGQgBEglRdWFkIENvcmU6Cgih1FEQpNRRMABYi6ogYAI&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAF6BAg2EH4",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=quad+core+best+laptop"
+                },
+                {
+                    "title": "Hexa Core",
+                    "link": "https://www.google.com/search?q=hexa+core+best+laptop&gl=us&hl=en&shoprs=CAEYASoLYmVzdCBsYXB0b3AyGggBEglIZXhhIENvcmU6Cwih1FEQje7_ATAAWIuqIGAC&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAJ6BAg2EH8",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=hexa+core+best+laptop"
+                },
+                {
+                    "title": "Dual Core",
+                    "link": "https://www.google.com/search?q=dual+core+best+laptop&gl=us&hl=en&shoprs=CAEYASoLYmVzdCBsYXB0b3AyGQgBEglEdWFsIENvcmU6Cgih1FEQotRRMABYi6ogYAI&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAN6BQg2EIAB",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=dual+core+best+laptop"
+                }
+            ]
+        },
+        {
+            "type": "Resolution",
+            "options": [
+                {
+                    "title": "1920 x 1080",
+                    "link": "https://www.google.com/search?q=1920+x+1080+best+laptop&gl=us&hl=en&shoprs=CAEYASoLYmVzdCBsYXB0b3AyGwgBEgsxOTIwIHggMTA4MDoKCMD7KhDM-yowAFiLqiBgAg&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAB6BQg2EIQB",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=1920+x+1080+best+laptop"
+                },
+                {
+                    "title": "1920 x 1200",
+                    "link": "https://www.google.com/search?q=1920+x+1200+best+laptop&gl=us&hl=en&shoprs=CAEYASoLYmVzdCBsYXB0b3AyGwgBEgsxOTIwIHggMTIwMDoKCMD7KhDB-yowAFiLqiBgAg&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAF6BQg2EIUB",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=1920+x+1200+best+laptop"
+                },
+                {
+                    "title": "1366 x 768",
+                    "link": "https://www.google.com/search?q=1366+x+768+best+laptop&gl=us&hl=en&shoprs=CAEYASoLYmVzdCBsYXB0b3AyGggBEgoxMzY2IHggNzY4OgoIwPsqEMb7KjAAWIuqIGAC&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAJ6BQg2EIYB",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=1366+x+768+best+laptop"
+                },
+                {
+                    "title": "2880 x 1800",
+                    "link": "https://www.google.com/search?q=2880+x+1800+best+laptop&gl=us&hl=en&shoprs=CAEYASoLYmVzdCBsYXB0b3AyGwgBEgsyODgwIHggMTgwMDoKCMD7KhDy1C4wAFiLqiBgAg&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAN6BQg2EIcB",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=2880+x+1800+best+laptop"
+                }
+            ]
+        },
+        {
+            "type": "Biometric Security",
+            "options": [
+                {
+                    "title": "Fingerprint Scan",
+                    "link": "https://www.google.com/search?q=fingerprint+scan+best+laptop&gl=us&hl=en&shoprs=CAEYASoLYmVzdCBsYXB0b3AyIggBEhBGaW5nZXJwcmludCBTY2FuOgwI-ef3ARD75_cBMABYi6ogYAI&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAB6BQg2EI0B",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=fingerprint+scan+best+laptop"
+                },
+                {
+                    "title": "Facial Recognition",
+                    "link": "https://www.google.com/search?q=facial+recognition+best+laptop&gl=us&hl=en&shoprs=CAEYASoLYmVzdCBsYXB0b3AyJAgBEhJGYWNpYWwgUmVjb2duaXRpb246DAj55_cBEPrn9wEwAFiLqiBgAg&sa=X&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ268JKAF6BQg2EI4B",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=facial+recognition+best+laptop"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=best+laptop&num=50&sca_esv=cbb70bed2ede2303&gl=us&hl=en&ei=fna4aIm3J9eKkdUP973mqA8&start=50&sa=N&sstk=Ac65TH6gNzYxsRXCdhr8_VjthyRSyUdIgZ-U9NptOtTNid--U9BbOp_M46bVZCv_iQEdBTyCiDd9HEcNSr2Q60J2YoslDsVYNovgGQ&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ8NMDegQIDRAK",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=best+laptop&num=50&sca_esv=cbb70bed2ede2303&gl=us&hl=en&ei=fna4aIm3J9eKkdUP973mqA8&start=50&sa=N&sstk=Ac65TH6gNzYxsRXCdhr8_VjthyRSyUdIgZ-U9NptOtTNid--U9BbOp_M46bVZCv_iQEdBTyCiDd9HEcNSr2Q60J2YoslDsVYNovgGQ&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ8tMDegQIDRAE",
+            "3": "https://www.google.com/search?q=best+laptop&num=50&sca_esv=cbb70bed2ede2303&gl=us&hl=en&ei=fna4aIm3J9eKkdUP973mqA8&start=100&sa=N&sstk=Ac65TH6gNzYxsRXCdhr8_VjthyRSyUdIgZ-U9NptOtTNid--U9BbOp_M46bVZCv_iQEdBTyCiDd9HEcNSr2Q60J2YoslDsVYNovgGQ&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ8tMDegQIDRAG",
+            "4": "https://www.google.com/search?q=best+laptop&num=50&sca_esv=cbb70bed2ede2303&gl=us&hl=en&ei=fna4aIm3J9eKkdUP973mqA8&start=150&sa=N&sstk=Ac65TH6gNzYxsRXCdhr8_VjthyRSyUdIgZ-U9NptOtTNid--U9BbOp_M46bVZCv_iQEdBTyCiDd9HEcNSr2Q60J2YoslDsVYNovgGQ&ved=2ahUKEwiJ7tfwir2PAxVXRaQEHfeeGfUQ8tMDegQIDRAI"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=best+laptop&start=50",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=best+laptop&start=50",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=best+laptop&start=50",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=best+laptop&start=100",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=best+laptop&start=150"
+        }
+    }
+}

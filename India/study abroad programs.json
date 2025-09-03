@@ -1,0 +1,937 @@
+{
+    "search_metadata": {
+        "id": "68b8768104e10a55b6d638fc",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/7f7178042dc85857/68b8768104e10a55b6d638fc.json",
+        "pixel_position_endpoint": "https://serpapi.com/searches/7f7178042dc85857/68b8768104e10a55b6d638fc.json_with_pixel_position",
+        "created_at": "2025-09-03 17:10:25 UTC",
+        "processed_at": "2025-09-03 17:10:25 UTC",
+        "google_url": "https://www.google.com/search?q=study+abroad+programs&oq=study+abroad+programs&uule=w+CAIQICIFSW5kaWE&num=50&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/7f7178042dc85857/68b8768104e10a55b6d638fc.html",
+        "total_time_taken": 1.81
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "study abroad programs",
+        "location_requested": "India",
+        "location_used": "India",
+        "google_domain": "google.com",
+        "num": "50",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "study abroad programs",
+        "total_results": 310000000,
+        "time_taken_displayed": 0.4,
+        "organic_results_state": "Results for exact spelling"
+    },
+    "related_questions": [
+        {
+            "question": "What are the best study abroad programs?",
+            "type": "featured_snippet",
+            "title": "Best Study Abroad Organizations",
+            "link": "https://www.worldtrips.com/resources/best-study-abroad-organizations",
+            "list": [
+                "IES Abroad. ... ",
+                "CIEE. ... ",
+                "CISabroad. ... ",
+                "American Institute for Foreign Study (AIFS) Abroad. ... ",
+                "CEA CAPA Education Abroad. ... ",
+                "Academic Programs International (API) ... ",
+                "Institute for Study Abroad (IFSA), Butler University. ... ",
+                "Danish Institute for Study Abroad (AIS)"
+            ],
+            "displayed_link": "https://www.worldtrips.com \u203a resources \u203a best-study-abr...",
+            "source_logo": "https://serpapi.com/searches/68b8768104e10a55b6d638fc/images/3a0ee0a1b31286d9f204e4e198600fa3cc0ac148c73ced9dc42469c4a1772d10.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSWVUQnRWRmQyV0ZsUVgyOVhkMGt5TW1WdWFFcHRSVUZ3Umw4M1pqUjNlV2hqZUdWMmRGOXJTazFGZWtRNVVEZGZTVFpSUjNGYVUwZHZaa1Z6VDA1a2NuaFFhbGh6U2kxbmFIWXdjVlJ5VlVSNWVFSXphVGx5VFVKVlVSSVhaMWhoTkdGUWVVOVBPWFZ6YVMxblVERnlSM28yUVdzYUlrRkdUVUZIUjNJNFZYTk9kVWhRZUhCRkxWQlVXbU5DYlhsbmVqbHhNVlZFY0djIiwiZmN2IjoiMyIsImVpIjoiZ1hhNGFQeU9POXVzaS1nUDFyR3o2QWsiLCJxYyI6IkNoVnpkSFZrZVNCaFluSnZZV1FnY0hKdlozSmhiWE1RQUgyM1FESV8iLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSBiZXN0IHN0dWR5IGFicm9hZCBwcm9ncmFtcz8iLCJsayI6IkdpWjNhR0YwSUdseklIUm9aU0JpWlhOMElITjBkV1I1SUdGaWNtOWhaQ0J3Y205bmNtRnRjdyIsImJzIjoiYy1NSzU5SUl6MGdzVVVnc1NsVW95VWhWU0VvdExsRW9MaWxOcVZSSVRDcktUMHhSS0NqS1R5OUt6QzIybC1peE05S1FVaXNIS2M4c0pxQ2F5NDlMMlNPX1hLRWtYeUVyUHpOUElSR3JNbnVKWTRwR0tsSktHUVJWY29Wd3FZVm5aQ1puS0NUbmx4WVZwNEpjQUxZOUxiOElSWU85UkotbmticVVhamt4aXJtQ3VGUWRJVDRIa21sRnFhbTRfSDdKeTBoTlNpV1JDTFVDakFBIiwiaWQiOiJmY19nWGE0YVB5T085dXNpLWdQMXJHejZBa18xIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSWVUQnRWRmQyV0ZsUVgyOVhkMGt5TW1WdWFFcHRSVUZ3Umw4M1pqUjNlV2hqZUdWMmRGOXJTazFGZWtRNVVEZGZTVFpSUjNGYVUwZHZaa1Z6VDA1a2NuaFFhbGh6U2kxbmFIWXdjVlJ5VlVSNWVFSXphVGx5VFVKVlVSSVhaMWhoTkdGUWVVOVBPWFZ6YVMxblVERnlSM28yUVdzYUlrRkdUVUZIUjNJNFZYTk9kVWhRZUhCRkxWQlVXbU5DYlhsbmVqbHhNVlZFY0djIiwiZmN2IjoiMyIsImVpIjoiZ1hhNGFQeU9POXVzaS1nUDFyR3o2QWsiLCJxYyI6IkNoVnpkSFZrZVNCaFluSnZZV1FnY0hKdlozSmhiWE1RQUgyM1FESV8iLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSBiZXN0IHN0dWR5IGFicm9hZCBwcm9ncmFtcz8iLCJsayI6IkdpWjNhR0YwSUdseklIUm9aU0JpWlhOMElITjBkV1I1SUdGaWNtOWhaQ0J3Y205bmNtRnRjdyIsImJzIjoiYy1NSzU5SUl6MGdzVVVnc1NsVW95VWhWU0VvdExsRW9MaWxOcVZSSVRDcktUMHhSS0NqS1R5OUt6QzIybC1peE05S1FVaXNIS2M4c0pxQ2F5NDlMMlNPX1hLRWtYeUVyUHpOUElSR3JNbnVKWTRwR0tsSktHUVJWY29Wd3FZVm5aQ1puS0NUbmx4WVZwNEpjQUxZOUxiOElSWU85UkotbmticVVhamt4aXJtQ3VGUWRJVDRIa21sRnFhbTRfSDdKeTBoTlNpV1JDTFVDakFBIiwiaWQiOiJmY19nWGE0YVB5T085dXNpLWdQMXJHejZBa18xIn0%3D"
+        },
+        {
+            "question": "How to join a study abroad program?",
+            "type": "featured_snippet",
+            "title": "How to Study Abroad",
+            "link": "https://www.gooverseas.com/study-abroad",
+            "list": [
+                "Research locations and universities. Start by thinking about what you're planning to study and the countries that interest you. ... ",
+                "Choose a program. ... ",
+                "Prepare your application. ... ",
+                "Apply for a visa. ... ",
+                "Secure housing and book your flight. ... ",
+                "Start packing and prepare to travel. ... ",
+                "Enjoy your study abroad experience!"
+            ],
+            "displayed_link": "https://www.gooverseas.com \u203a study-abroad",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSWVUQnRWRmQyV0ZsUVgyOVhkMGt5TW1WdWFFcHRSVUZ3Umw4M1pqUjNlV2hqZUdWMmRGOXJTazFGZWtRNVVEZGZTVFpSUjNGYVUwZHZaa1Z6VDA1a2NuaFFhbGh6U2kxbmFIWXdjVlJ5VlVSNWVFSXphVGx5VFVKVlVSSVhaMWhoTkdGUWVVOVBPWFZ6YVMxblVERnlSM28yUVdzYUlrRkdUVUZIUjNJNFZYTk9kVWhRZUhCRkxWQlVXbU5DYlhsbmVqbHhNVlZFY0djIiwiZmN2IjoiMyIsImVpIjoiZ1hhNGFQeU9POXVzaS1nUDFyR3o2QWsiLCJxYyI6IkNoVnpkSFZrZVNCaFluSnZZV1FnY0hKdlozSmhiWE1RQUgyM1FESV8iLCJxdWVzdGlvbiI6IkhvdyB0byBqb2luIGEgc3R1ZHkgYWJyb2FkIHByb2dyYW0/IiwibGsiOiJHaUpvYjNjZ2RHOGdhbTlwYmlCaElITjBkV1I1SUdGaWNtOWhaQ0J3Y205bmNtRnQiLCJicyI6ImMtTUs1OUlJejBnc1VVZ3NTbFVveVVoVlNFb3RMbEVvTGlsTnFWUklUQ3JLVDB4UktDaktUeTlLekMyMmwtaXhNOUtRVWlzSEtjOHNKcUNheTQ5TDJTT19YS0VrWHlFclB6TlBJUkdyTW51Slk0cEdLbEpLR1FSVmNvVndxWVZuWkNabktDVG5seFlWcDRKY0FMWTlMYjhJUllPOVJKLW5rYnFVYWpreGlybUN1RlFkSVQ0SGttbEZxYW00X0g3SnkwaE5TaVdSQ0xVQ2pBQSIsImlkIjoiZmNfZ1hhNGFQeU9POXVzaS1nUDFyR3o2QWtfMSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSWVUQnRWRmQyV0ZsUVgyOVhkMGt5TW1WdWFFcHRSVUZ3Umw4M1pqUjNlV2hqZUdWMmRGOXJTazFGZWtRNVVEZGZTVFpSUjNGYVUwZHZaa1Z6VDA1a2NuaFFhbGh6U2kxbmFIWXdjVlJ5VlVSNWVFSXphVGx5VFVKVlVSSVhaMWhoTkdGUWVVOVBPWFZ6YVMxblVERnlSM28yUVdzYUlrRkdUVUZIUjNJNFZYTk9kVWhRZUhCRkxWQlVXbU5DYlhsbmVqbHhNVlZFY0djIiwiZmN2IjoiMyIsImVpIjoiZ1hhNGFQeU9POXVzaS1nUDFyR3o2QWsiLCJxYyI6IkNoVnpkSFZrZVNCaFluSnZZV1FnY0hKdlozSmhiWE1RQUgyM1FESV8iLCJxdWVzdGlvbiI6IkhvdyB0byBqb2luIGEgc3R1ZHkgYWJyb2FkIHByb2dyYW0%2FIiwibGsiOiJHaUpvYjNjZ2RHOGdhbTlwYmlCaElITjBkV1I1SUdGaWNtOWhaQ0J3Y205bmNtRnQiLCJicyI6ImMtTUs1OUlJejBnc1VVZ3NTbFVveVVoVlNFb3RMbEVvTGlsTnFWUklUQ3JLVDB4UktDaktUeTlLekMyMmwtaXhNOUtRVWlzSEtjOHNKcUNheTQ5TDJTT19YS0VrWHlFclB6TlBJUkdyTW51Slk0cEdLbEpLR1FSVmNvVndxWVZuWkNabktDVG5seFlWcDRKY0FMWTlMYjhJUllPOVJKLW5rYnFVYWpreGlybUN1RlFkSVQ0SGttbEZxYW00X0g3SnkwaE5TaVdSQ0xVQ2pBQSIsImlkIjoiZmNfZ1hhNGFQeU9POXVzaS1nUDFyR3o2QWtfMSJ9"
+        },
+        {
+            "question": "Which course is best for study abroad?",
+            "type": "featured_snippet",
+            "title": "Here's a look at some of the most sought-after courses to consider and the career benefits of studying abroad:",
+            "link": "https://www.globalreach.in/blog-details/best-courses-to-study-abroad-a-guide-to-trending-fields-and-careers",
+            "list": [
+                "Computer Science & IT. ... ",
+                "Business & Management. ... ",
+                "Engineering & Technology. ... ",
+                "Health and Life Sciences. ... ",
+                "Environmental & Sustainability Studies. ... ",
+                "Design & Creative Arts. ... ",
+                "Law & International Relations."
+            ],
+            "displayed_link": "https://www.globalreach.in \u203a blog-details \u203a best-courses-t...",
+            "source_logo": "https://serpapi.com/searches/68b8768104e10a55b6d638fc/images/3a0ee0a1b31286d9f204e4e198600fa354887f873fe17bb937cb359e0d0d5032.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSWVUQnRWRmQyV0ZsUVgyOVhkMGt5TW1WdWFFcHRSVUZ3Umw4M1pqUjNlV2hqZUdWMmRGOXJTazFGZWtRNVVEZGZTVFpSUjNGYVUwZHZaa1Z6VDA1a2NuaFFhbGh6U2kxbmFIWXdjVlJ5VlVSNWVFSXphVGx5VFVKVlVSSVhaMWhoTkdGUWVVOVBPWFZ6YVMxblVERnlSM28yUVdzYUlrRkdUVUZIUjNJNFZYTk9kVWhRZUhCRkxWQlVXbU5DYlhsbmVqbHhNVlZFY0djIiwiZmN2IjoiMyIsImVpIjoiZ1hhNGFQeU9POXVzaS1nUDFyR3o2QWsiLCJxYyI6IkNoVnpkSFZrZVNCaFluSnZZV1FnY0hKdlozSmhiWE1RQUgyM1FESV8iLCJxdWVzdGlvbiI6IldoaWNoIGNvdXJzZSBpcyBiZXN0IGZvciBzdHVkeSBhYnJvYWQ/IiwibGsiOiJHaVYzYUdsamFDQmpiM1Z5YzJVZ2FYTWdZbVZ6ZENCbWIzSWdjM1IxWkhrZ1lXSnliMkZrIiwiYnMiOiJjLU1LNTlJSXowZ3NVVWdzU2xVb3lVaFZTRW90TGxFb0xpbE5xVlJJVENyS1QweFJLQ2pLVHk5S3pDMjJsLWl4TTlLUVVpc0hLYzhzSnFDYXk0OUwyU09fWEtFa1h5RXJQek5QSVJHck1udUpZNHBHS2xKS0dRUlZjb1Z3cVlWblpDWm5LQ1RubHhZVnA0SmNBTFk5TGI4SVJZTzlSSi1ua2JxVWFqa3hpcm1DdUZRZElUNEhrbWxGcWFtNF9IN0p5MGhOU2lXUkNMVUNqQUEiLCJpZCI6ImZjX2dYYTRhUHlPTzl1c2ktZ1Axckd6NkFrXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSWVUQnRWRmQyV0ZsUVgyOVhkMGt5TW1WdWFFcHRSVUZ3Umw4M1pqUjNlV2hqZUdWMmRGOXJTazFGZWtRNVVEZGZTVFpSUjNGYVUwZHZaa1Z6VDA1a2NuaFFhbGh6U2kxbmFIWXdjVlJ5VlVSNWVFSXphVGx5VFVKVlVSSVhaMWhoTkdGUWVVOVBPWFZ6YVMxblVERnlSM28yUVdzYUlrRkdUVUZIUjNJNFZYTk9kVWhRZUhCRkxWQlVXbU5DYlhsbmVqbHhNVlZFY0djIiwiZmN2IjoiMyIsImVpIjoiZ1hhNGFQeU9POXVzaS1nUDFyR3o2QWsiLCJxYyI6IkNoVnpkSFZrZVNCaFluSnZZV1FnY0hKdlozSmhiWE1RQUgyM1FESV8iLCJxdWVzdGlvbiI6IldoaWNoIGNvdXJzZSBpcyBiZXN0IGZvciBzdHVkeSBhYnJvYWQ%2FIiwibGsiOiJHaVYzYUdsamFDQmpiM1Z5YzJVZ2FYTWdZbVZ6ZENCbWIzSWdjM1IxWkhrZ1lXSnliMkZrIiwiYnMiOiJjLU1LNTlJSXowZ3NVVWdzU2xVb3lVaFZTRW90TGxFb0xpbE5xVlJJVENyS1QweFJLQ2pLVHk5S3pDMjJsLWl4TTlLUVVpc0hLYzhzSnFDYXk0OUwyU09fWEtFa1h5RXJQek5QSVJHck1udUpZNHBHS2xKS0dRUlZjb1Z3cVlWblpDWm5LQ1RubHhZVnA0SmNBTFk5TGI4SVJZTzlSSi1ua2JxVWFqa3hpcm1DdUZRZElUNEhrbWxGcWFtNF9IN0p5MGhOU2lXUkNMVUNqQUEiLCJpZCI6ImZjX2dYYTRhUHlPTzl1c2ktZ1Axckd6NkFrXzEifQ%3D%3D"
+        },
+        {
+            "question": "Are there free study abroad programs?",
+            "type": "featured_snippet",
+            "snippet": "Countries such as Germany, Norway, Finland, and the Czech Republic offer tuition-free education to international students. Other countries like France and Sweden offer free education to students from the EU, EEA, and Switzerland. What are the eligibility requirements for free education abroad?",
+            "title": "Study Abroad for Free: Where Can I Find Top Free Universities for 2025?",
+            "link": "https://research.com/education/study-abroad-for-free#:~:text=Countries%20such%20as%20Germany%2C%20Norway,requirements%20for%20free%20education%20abroad%3F",
+            "displayed_link": "https://research.com \u203a education \u203a study-abroad-for-free",
+            "source_logo": "https://serpapi.com/searches/68b8768104e10a55b6d638fc/images/3a0ee0a1b31286d9f204e4e198600fa34c09f0fe6d1698515e0788d1003c18a4.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSWVUQnRWRmQyV0ZsUVgyOVhkMGt5TW1WdWFFcHRSVUZ3Umw4M1pqUjNlV2hqZUdWMmRGOXJTazFGZWtRNVVEZGZTVFpSUjNGYVUwZHZaa1Z6VDA1a2NuaFFhbGh6U2kxbmFIWXdjVlJ5VlVSNWVFSXphVGx5VFVKVlVSSVhaMWhoTkdGUWVVOVBPWFZ6YVMxblVERnlSM28yUVdzYUlrRkdUVUZIUjNJNFZYTk9kVWhRZUhCRkxWQlVXbU5DYlhsbmVqbHhNVlZFY0djIiwiZmN2IjoiMyIsImVpIjoiZ1hhNGFQeU9POXVzaS1nUDFyR3o2QWsiLCJxYyI6IkNoVnpkSFZrZVNCaFluSnZZV1FnY0hKdlozSmhiWE1RQUgyM1FESV8iLCJxdWVzdGlvbiI6IkFyZSB0aGVyZSBmcmVlIHN0dWR5IGFicm9hZCBwcm9ncmFtcz8iLCJsayI6IkdpUmhjbVVnZEdobGNtVWdabkpsWlNCemRIVmtlU0JoWW5KdllXUWdjSEp2WjNKaGJYTSIsImJzIjoiYy1NSzU5SUl6MGdzVVVnc1NsVW95VWhWU0VvdExsRW9MaWxOcVZSSVRDcktUMHhSS0NqS1R5OUt6QzIybC1peE05S1FVaXNIS2M4c0pxQ2F5NDlMMlNPX1hLRWtYeUVyUHpOUElSR3JNbnVKWTRwR0tsSktHUVJWY29Wd3FZVm5aQ1puS0NUbmx4WVZwNEpjQUxZOUxiOElSWU85UkotbmticVVhamt4aXJtQ3VGUWRJVDRIa21sRnFhbTRfSDdKeTBoTlNpV1JDTFVDakFBIiwiaWQiOiJmY19nWGE0YVB5T085dXNpLWdQMXJHejZBa18xIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSWVUQnRWRmQyV0ZsUVgyOVhkMGt5TW1WdWFFcHRSVUZ3Umw4M1pqUjNlV2hqZUdWMmRGOXJTazFGZWtRNVVEZGZTVFpSUjNGYVUwZHZaa1Z6VDA1a2NuaFFhbGh6U2kxbmFIWXdjVlJ5VlVSNWVFSXphVGx5VFVKVlVSSVhaMWhoTkdGUWVVOVBPWFZ6YVMxblVERnlSM28yUVdzYUlrRkdUVUZIUjNJNFZYTk9kVWhRZUhCRkxWQlVXbU5DYlhsbmVqbHhNVlZFY0djIiwiZmN2IjoiMyIsImVpIjoiZ1hhNGFQeU9POXVzaS1nUDFyR3o2QWsiLCJxYyI6IkNoVnpkSFZrZVNCaFluSnZZV1FnY0hKdlozSmhiWE1RQUgyM1FESV8iLCJxdWVzdGlvbiI6IkFyZSB0aGVyZSBmcmVlIHN0dWR5IGFicm9hZCBwcm9ncmFtcz8iLCJsayI6IkdpUmhjbVVnZEdobGNtVWdabkpsWlNCemRIVmtlU0JoWW5KdllXUWdjSEp2WjNKaGJYTSIsImJzIjoiYy1NSzU5SUl6MGdzVVVnc1NsVW95VWhWU0VvdExsRW9MaWxOcVZSSVRDcktUMHhSS0NqS1R5OUt6QzIybC1peE05S1FVaXNIS2M4c0pxQ2F5NDlMMlNPX1hLRWtYeUVyUHpOUElSR3JNbnVKWTRwR0tsSktHUVJWY29Wd3FZVm5aQ1puS0NUbmx4WVZwNEpjQUxZOUxiOElSWU85UkotbmticVVhamt4aXJtQ3VGUWRJVDRIa21sRnFhbTRfSDdKeTBoTlNpV1JDTFVDakFBIiwiaWQiOiJmY19nWGE0YVB5T085dXNpLWdQMXJHejZBa18xIn0%3D"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Study Abroad Programs",
+            "link": "https://www.gooverseas.com/study-abroad",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.gooverseas.com/study-abroad&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0QFnoECBwQAQ",
+            "displayed_link": "https://www.gooverseas.com \u203a study-abroad",
+            "favicon": "https://serpapi.com/searches/68b8768104e10a55b6d638fc/images/7d4b312dbd0cd3ceaf9046ba5c464dfa1eafd99979a78e529cf759081c7b4072.png",
+            "snippet": "Find your dream study abroad program! Compare programs, read verified reviews, and apply for scholarships to help you prepare for studying abroad.",
+            "snippet_highlighted_words": [
+                "Compare programs, read verified reviews, and apply for scholarships"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Study Tourism Abroad",
+                        "link": "https://www.gooverseas.com/study-abroad/tourism"
+                    },
+                    {
+                        "title": "Study Hospitality Abroad",
+                        "link": "https://www.gooverseas.com/study-abroad/hospitality"
+                    },
+                    {
+                        "title": "Study Psychology Abroad",
+                        "link": "https://www.gooverseas.com/study-abroad/psychology"
+                    },
+                    {
+                        "title": "Fall",
+                        "link": "https://www.gooverseas.com/study-abroad/fall"
+                    }
+                ]
+            },
+            "source": "Go Overseas"
+        },
+        {
+            "position": 2,
+            "title": "Study Abroad Programs",
+            "link": "https://www.goabroad.com/study-abroad",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.goabroad.com/study-abroad&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0QFnoECBoQAQ",
+            "displayed_link": "https://www.goabroad.com \u203a study-abroad",
+            "favicon": "https://serpapi.com/searches/68b8768104e10a55b6d638fc/images/7d4b312dbd0cd3ceaf9046ba5c464dfadf048e303cdc991bf8484ea62184790c.png",
+            "snippet": "Learn about study abroad! Read reviews, guides, and articles. Use our comparison tool and get matched with programs to find the best study abroad program.",
+            "snippet_highlighted_words": [
+                "Use our comparison tool and get matched with programs"
+            ],
+            "source": "GoAbroad.com"
+        },
+        {
+            "position": 3,
+            "title": "USA StudyAbroad |",
+            "link": "https://studyabroad.state.gov/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://studyabroad.state.gov/&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0QFnoECB4QAQ",
+            "displayed_link": "https://studyabroad.state.gov",
+            "favicon": "https://serpapi.com/searches/68b8768104e10a55b6d638fc/images/7d4b312dbd0cd3ceaf9046ba5c464dfacd10673722122a23996ab7960d10244e.png",
+            "snippet": "The U.S. Department of State is committed to expanding study abroad opportunities for American students to gain critical skills in support of our national ...",
+            "snippet_highlighted_words": [
+                "expanding study abroad opportunities for American students"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Resources For Study Abroad",
+                        "link": "https://studyabroad.state.gov/study-abroad-resources/resources-study-abroad"
+                    },
+                    {
+                        "title": "For U.S. College and...",
+                        "link": "https://studyabroad.state.gov/us-government-scholarships-and-programs/us-college-and-university-students"
+                    },
+                    {
+                        "title": "The Value of Study Abroad",
+                        "link": "https://studyabroad.state.gov/value-study-abroad/why-study-abroad"
+                    }
+                ]
+            },
+            "source": "U.S. Department of State (.gov)"
+        },
+        {
+            "position": 4,
+            "title": "Find Learning Abroad Courses",
+            "link": "https://www.ceastudyabroad.com/find",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ceastudyabroad.com/find&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0QFnoECBkQAQ",
+            "displayed_link": "https://www.ceastudyabroad.com \u203a find",
+            "favicon": "https://serpapi.com/searches/68b8768104e10a55b6d638fc/images/7d4b312dbd0cd3ceaf9046ba5c464dfa4484939bac0b3c658a2d5052947eb364.png",
+            "snippet": "CEA CAPA's Learning Abroad search engine lets you easily find the Learning Abroad Program that's right for you! Explore length, price, and more!",
+            "snippet_highlighted_words": [
+                "easily find the Learning Abroad Program that's right for you"
+            ],
+            "source": "CEA Study Abroad"
+        },
+        {
+            "position": 5,
+            "title": "EF Study Abroad: Study Abroad programs",
+            "link": "https://www.efstudyabroad.com/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.efstudyabroad.com/&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0QFnoECDUQAQ",
+            "displayed_link": "https://www.efstudyabroad.com",
+            "favicon": "https://serpapi.com/searches/68b8768104e10a55b6d638fc/images/7d4b312dbd0cd3ceaf9046ba5c464dfac4a6cb21ed2c09b217e897cd2c8c96de.png",
+            "snippet": "At EF Study Abroad, we offer future-focused study abroad programs that enhance traditional academia through multi-disciplinary learning and immersion.",
+            "snippet_highlighted_words": [
+                "future-focused study abroad programs"
+            ],
+            "source": "EF Study Abroad Programs"
+        },
+        {
+            "position": 6,
+            "title": "Study Abroad Programs - CIEE",
+            "link": "https://www.ciee.org/go-abroad/college-study-abroad/programs",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ciee.org/go-abroad/college-study-abroad/programs&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0QFnoECD4QAQ",
+            "displayed_link": "https://www.ciee.org \u203a go-abroad \u203a college-study-abroad",
+            "favicon": "https://serpapi.com/searches/68b8768104e10a55b6d638fc/images/7d4b312dbd0cd3ceaf9046ba5c464dfa5bde7595890bd984acbbf16441b61948.png",
+            "snippet": "Search for college study abroad programs in more than 40 countries around the world, including Spain, Italy, China, Germany, Australia, and more with CIEE ...",
+            "snippet_highlighted_words": [
+                "Search for college study abroad programs"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Language + Culture | Barcelona",
+                        "link": "https://www.ciee.org/go-abroad/college-study-abroad/programs/spain/barcelona/language-culture"
+                    },
+                    {
+                        "title": "Social Sciences + Humanities",
+                        "link": "https://www.ciee.org/go-abroad/college-study-abroad/programs/netherlands/amsterdam/social-sciences-humanities"
+                    },
+                    {
+                        "title": "Summer Programs",
+                        "link": "https://www.ciee.org/go-abroad/college-study-abroad/summer-college-study-abroad"
+                    }
+                ]
+            },
+            "source": "ciee.org"
+        },
+        {
+            "position": 7,
+            "title": "Program Types | Study Abroad",
+            "link": "https://studyabroad.miami.edu/explore-our-programs/types-of-programs/index.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://studyabroad.miami.edu/explore-our-programs/types-of-programs/index.html&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0QFnoECDcQAQ",
+            "displayed_link": "https://studyabroad.miami.edu \u203a explore-our-programs",
+            "favicon": "https://serpapi.com/searches/68b8768104e10a55b6d638fc/images/7d4b312dbd0cd3ceaf9046ba5c464dfad5824ca2d1916044a2724296eb1b37be.png",
+            "snippet": "UM offers 16 premier programs where a cohort of UM students studies together at an overseas institution for one semester.",
+            "snippet_highlighted_words": [
+                "UM offers 16 premier programs"
+            ],
+            "source": "University of Miami"
+        },
+        {
+            "position": 8,
+            "title": "ISEP Study Abroad",
+            "link": "https://www.isepstudyabroad.org/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.isepstudyabroad.org/&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0QFnoFCI8BEAE",
+            "displayed_link": "https://www.isepstudyabroad.org",
+            "favicon": "https://serpapi.com/searches/68b8768104e10a55b6d638fc/images/7d4b312dbd0cd3ceaf9046ba5c464dfa4772a0dabd686da64070abf80d4647ad.png",
+            "snippet": "With affordable and immersive study, intern and volunteer programs abroad in more than 50 countries, ISEP opens your path to the world.",
+            "snippet_highlighted_words": [
+                "study",
+                "programs abroad"
+            ],
+            "source": "ISEP Study Abroad"
+        },
+        {
+            "position": 9,
+            "title": "AIFS Abroad | Award Winning Study & Internship Programs ...",
+            "link": "https://www.aifsabroad.com/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.aifsabroad.com/&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0QFnoECDsQAQ",
+            "displayed_link": "https://www.aifsabroad.com",
+            "favicon": "https://serpapi.com/searches/68b8768104e10a55b6d638fc/images/7d4b312dbd0cd3ceaf9046ba5c464dfaa77f659bd4161ed4e655381dbe2bfa7a.png",
+            "snippet": "A wide range of study and intern abroad options that appeal to a variety of majors and motivations, hosted in some of the most popular locations in the world.",
+            "snippet_highlighted_words": [
+                "study and intern abroad options"
+            ],
+            "source": "AIFS Abroad"
+        },
+        {
+            "position": 10,
+            "title": "UC International Programs (Study Abroad)",
+            "link": "https://studyabroad.uc.edu/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://studyabroad.uc.edu/&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0QFnoECG4QAQ",
+            "displayed_link": "https://studyabroad.uc.edu",
+            "snippet": "The University of Cincinnati offers a variety of excellent programs abroad. There are programs that last for 1-3 weeks, a summer, a semester or an entire year.",
+            "snippet_highlighted_words": [
+                "excellent programs abroad"
+            ],
+            "source": "UC International Programs"
+        },
+        {
+            "position": 11,
+            "title": "Study Abroad Programs & Deadlines - JMU",
+            "link": "https://www.jmu.edu/global/abroad/all-programs/index.shtml",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.jmu.edu/global/abroad/all-programs/index.shtml&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0QFnoFCIsBEAE",
+            "displayed_link": "https://www.jmu.edu \u203a global \u203a abroad \u203a all-programs",
+            "favicon": "https://serpapi.com/searches/68b8768104e10a55b6d638fc/images/7d4b312dbd0cd3ceaf9046ba5c464dfa0bdd4feea6d0d5e8ef2c5e8b2fa99f9d.png",
+            "snippet": "Applications for short-term programs running summer 2026, fall semester 2026, and spring semester 2027 will open Monday, September 1st. Select semester programs ...",
+            "snippet_highlighted_words": [
+                "summer 2026, fall semester 2026, and spring semester 2027"
+            ],
+            "source": "James Madison University"
+        },
+        {
+            "position": 12,
+            "title": "IES Abroad: Study Abroad Programs & Internships",
+            "link": "https://www.iesabroad.org/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.iesabroad.org/&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0QFnoFCKgBEAE",
+            "displayed_link": "https://www.iesabroad.org",
+            "favicon": "https://serpapi.com/searches/68b8768104e10a55b6d638fc/images/7d4b312dbd0cd3ceaf9046ba5c464dfa56d46fbca209bbaee653a8955b9af68c.png",
+            "snippet": "As a leading not-for-profit study abroad and internship provider, we set the highest standards of academic quality. From offering 130+ study abroad programs ...",
+            "snippet_highlighted_words": [
+                "130+ study abroad programs"
+            ],
+            "source": "IES Abroad"
+        },
+        {
+            "position": 13,
+            "title": "Learning Abroad - The University of Utah",
+            "link": "https://learningabroad.utah.edu/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://learningabroad.utah.edu/&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0QFnoECD0QAQ",
+            "displayed_link": "https://learningabroad.utah.edu",
+            "snippet": "Immerse yourself in new academic environments and culture through a wide range of study programs. Enhance your language skills, explore global perspectives.",
+            "snippet_highlighted_words": [
+                "Immerse yourself in new academic environments and culture"
+            ],
+            "source": "University of Utah Learning Abroad"
+        },
+        {
+            "position": 14,
+            "title": "Study Abroad - University of Arkansas",
+            "link": "https://studyabroad.uark.edu/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://studyabroad.uark.edu/&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0QFnoECFgQAQ",
+            "displayed_link": "https://studyabroad.uark.edu",
+            "favicon": "https://serpapi.com/searches/68b8768104e10a55b6d638fc/images/7d4b312dbd0cd3ceaf9046ba5c464dfaab68a5894a6e81ed311d592545bccb0c.png",
+            "snippet": "The Office of Study Abroad champions accessible, transformative global experiences that foster academic growth and compassionate intercultural understanding, ...",
+            "snippet_highlighted_words": [
+                "accessible, transformative global experiences"
+            ],
+            "source": "University of Arkansas"
+        },
+        {
+            "position": 15,
+            "title": "Discover Programs | Education Abroad",
+            "link": "https://abroad.globallearning.cornell.edu/discover-programs",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://abroad.globallearning.cornell.edu/discover-programs&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0QFnoECHIQAQ",
+            "displayed_link": "https://abroad.globallearning.cornell.edu \u203a discover-prog...",
+            "favicon": "https://serpapi.com/searches/68b8768104e10a55b6d638fc/images/7d4b312dbd0cd3ceaf9046ba5c464dfabc4fc332cf837d9d53e7d3f08e9e90fe.png",
+            "snippet": "Learn more here about Cornell's portfolio of study abroad programs, including semester, academic year, Global Hubs, and short-term programs.",
+            "snippet_highlighted_words": [
+                "Cornell's portfolio of study abroad programs"
+            ],
+            "source": "Cornell University"
+        },
+        {
+            "position": 16,
+            "title": "Study Abroad Programs",
+            "link": "https://www.fordham.edu/study-abroad/programs/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.fordham.edu/study-abroad/programs/&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0QFnoECH0QAQ",
+            "displayed_link": "https://www.fordham.edu \u203a study-abroad \u203a programs",
+            "favicon": "https://serpapi.com/searches/68b8768104e10a55b6d638fc/images/7d4b312dbd0cd3ceaf9046ba5c464dfab397e67128de1dd64470d5a13b43fed5.png",
+            "snippet": "At Fordham University you can study abroad for a semester, a whole academic year, a summer, or for a week or two as part of one of your NY classes.",
+            "snippet_highlighted_words": [
+                "study abroad for a semester, a whole academic year, a summer, or for a week or two"
+            ],
+            "source": "Fordham University"
+        },
+        {
+            "position": 17,
+            "title": "Semester at Sea | Multi-Country Study Abroad",
+            "link": "https://www.semesteratsea.org/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.semesteratsea.org/&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0QFnoFCIwBEAE",
+            "displayed_link": "https://www.semesteratsea.org",
+            "favicon": "https://serpapi.com/searches/68b8768104e10a55b6d638fc/images/7d4b312dbd0cd3ceaf9046ba5c464dfaf6261325030d1b364fb483010f124584.png",
+            "snippet": "Semester at Sea is a multi-country study abroad program on a ship open to all students of all majors, emphasizing global comparative study.",
+            "snippet_highlighted_words": [
+                "multi-country study abroad program on a ship"
+            ],
+            "source": "Semester at Sea"
+        },
+        {
+            "position": 18,
+            "title": "Find a Program | UCEAP - University of California",
+            "link": "https://uceap.universityofcalifornia.edu/programs",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uceap.universityofcalifornia.edu/programs&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0QFnoFCKoBEAE",
+            "displayed_link": "https://uceap.universityofcalifornia.edu \u203a programs",
+            "favicon": "https://serpapi.com/searches/68b8768104e10a55b6d638fc/images/7d4b312dbd0cd3ceaf9046ba5c464dfa51653197a441f1f2524c8413428e7fc4.png",
+            "snippet": "Explore all that UCEAP has to offer and get one step closer to your study abroad adventure. Program Filter. Region. Africa & The Middle East. Asia & Oceania.",
+            "snippet_highlighted_words": [
+                "Explore all that UCEAP has to offer"
+            ],
+            "source": "UCEAP"
+        },
+        {
+            "position": 19,
+            "title": "Study abroad programs - EF",
+            "link": "https://www.ef.edu/pg/study-abroad/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ef.edu/pg/study-abroad/&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0QFnoFCKMBEAE",
+            "displayed_link": "https://www.ef.edu \u203a EF Programs \u203a Study Abroad",
+            "favicon": "https://serpapi.com/searches/68b8768104e10a55b6d638fc/images/7d4b312dbd0cd3ceaf9046ba5c464dfa0340c60f9468109d8bc9603bfda7179b.jpeg",
+            "snippet": "Our comprehensive programs are designed to enhance language proficiency, prepare for exams, provide internship or volunteer opportunities.",
+            "snippet_highlighted_words": [
+                "programs"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "rating": 4.9,
+                        "reviews": 1639
+                    },
+                    "extensions": [
+                        "4.9(1,639)"
+                    ]
+                }
+            },
+            "source": "ef.edu"
+        },
+        {
+            "position": 20,
+            "title": "Program Search - Study Abroad | Purdue University",
+            "link": "https://www.studyabroad.purdue.edu/programs/search.cfm",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.studyabroad.purdue.edu/programs/search.cfm&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0QFnoFCKUBEAE",
+            "displayed_link": "https://www.studyabroad.purdue.edu \u203a programs \u203a search",
+            "favicon": "https://serpapi.com/searches/68b8768104e10a55b6d638fc/images/7d4b312dbd0cd3ceaf9046ba5c464dfa66a18b814d336ee844b41ee8a918af8c.png",
+            "snippet": "Browse programs, internships, or service learning options, or use the program search. Select the school/college for credit, not necessarily your major.",
+            "snippet_highlighted_words": [
+                "Browse programs, internships, or service learning options"
+            ],
+            "source": "Purdue University"
+        },
+        {
+            "position": 21,
+            "title": "Study Abroad Programs",
+            "link": "https://studyabroad.ku.edu/study-abroad-programs",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://studyabroad.ku.edu/study-abroad-programs&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0QFnoECDkQAQ",
+            "displayed_link": "https://studyabroad.ku.edu \u203a study-abroad-programs",
+            "favicon": "https://serpapi.com/searches/68b8768104e10a55b6d638fc/images/7d4b312dbd0cd3ceaf9046ba5c464dfaad0806810967c2b81849d11dc2a0d614.png",
+            "snippet": "Study Abroad Programs. Academic Disciplines - Any - -Open to All Majors (Others by Petition). Accounting, Aerospace Engineering, African/African American ...",
+            "snippet_highlighted_words": [
+                "Study Abroad Programs"
+            ],
+            "source": "The University of Kansas"
+        },
+        {
+            "position": 22,
+            "title": "Study Abroad",
+            "link": "https://admission.ucla.edu/explore/study-abroad",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://admission.ucla.edu/explore/study-abroad&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0QFnoECDwQAQ",
+            "displayed_link": "https://admission.ucla.edu \u203a explore \u203a study-abroad",
+            "favicon": "https://serpapi.com/searches/68b8768104e10a55b6d638fc/images/7d4b312dbd0cd3ceaf9046ba5c464dfae48897f212a1dea285ed0fffc86a7448.jpeg",
+            "snippet": "Learn about study abroad programs and benefits at UCLA and read students' stories about their experiences studying in other countries.",
+            "snippet_highlighted_words": [
+                "Learn about study abroad programs and benefits at UCLA"
+            ],
+            "source": "UCLA Undergraduate Admission"
+        },
+        {
+            "position": 23,
+            "title": "My Study Abroad Program - Georgia State University",
+            "link": "https://mystudyabroad.gsu.edu/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://mystudyabroad.gsu.edu/&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0QFnoECFEQAQ",
+            "displayed_link": "https://mystudyabroad.gsu.edu",
+            "favicon": "https://serpapi.com/searches/68b8768104e10a55b6d638fc/images/7d4b312dbd0cd3ceaf9046ba5c464dfaf4ea41b4d03fcdbf77be164a156c241c.png",
+            "snippet": "Our mission in Study Abroad Programs is to enable diverse students to participate in safe, inclusive, high-quality, international academic experiences.",
+            "snippet_highlighted_words": [
+                "Study Abroad Programs"
+            ],
+            "source": "Georgia State University"
+        },
+        {
+            "position": 24,
+            "title": "UGA StudyAway",
+            "link": "https://studyaway.uga.edu/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://studyaway.uga.edu/&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0QFnoECFMQAQ",
+            "displayed_link": "https://studyaway.uga.edu",
+            "favicon": "https://serpapi.com/searches/68b8768104e10a55b6d638fc/images/7d4b312dbd0cd3ceaf9046ba5c464dfabd52c6717086474a36b374458963ec00.png",
+            "snippet": "Existing Study Abroad Program Planning \u00b7 Managing a Program Abroad \u00b7 Embedded Programs \u00b7 Independent Experiences Abroad \u00b7 Domestic Field Study Programs \u00b7 Travel ...",
+            "snippet_highlighted_words": [
+                "Existing Study Abroad Program Planning"
+            ],
+            "source": "UGA StudyAway"
+        },
+        {
+            "position": 25,
+            "title": "WorldStrides Higher Ed | Education Abroad",
+            "link": "https://worldstrides.com/en-us/higher-ed",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://worldstrides.com/en-us/higher-ed&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0QFnoECG8QAQ",
+            "displayed_link": "https://worldstrides.com \u203a en-us \u203a higher-ed",
+            "favicon": "https://serpapi.com/searches/68b8768104e10a55b6d638fc/images/7d4b312dbd0cd3ceaf9046ba5c464dfab52429e67fb748d79e2501ce5a7bae14.png",
+            "snippet": "Offering university students and faculty education abroad opportunities, from traditional study abroad and international internships to custom global ...",
+            "snippet_highlighted_words": [
+                "Offering university students and faculty education abroad opportunities"
+            ],
+            "source": "WorldStrides"
+        },
+        {
+            "position": 26,
+            "title": "Study Abroad Programs",
+            "link": "https://www.brooklyn.edu/study-abroad/programs/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.brooklyn.edu/study-abroad/programs/&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0QFnoECHAQAQ",
+            "displayed_link": "https://www.brooklyn.edu \u203a study-abroad \u203a programs",
+            "favicon": "https://serpapi.com/searches/68b8768104e10a55b6d638fc/images/7d4b312dbd0cd3ceaf9046ba5c464dfab2b3f6f64ac827e8a13a23cab4af452b.png",
+            "snippet": "Brooklyn College offers study abroad programs in countries across Africa, Asia, Europe, and South America.",
+            "snippet_highlighted_words": [
+                "Brooklyn College offers study abroad programs"
+            ],
+            "source": "Brooklyn College"
+        },
+        {
+            "position": 27,
+            "title": "Study Abroad Programs | Study Abroad Scholarships ...",
+            "link": "https://www.ceastudyabroad.com/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ceastudyabroad.com/&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0QFnoFCIgBEAE",
+            "displayed_link": "https://www.ceastudyabroad.com",
+            "favicon": "https://serpapi.com/searches/68b8768104e10a55b6d638fc/images/7d4b312dbd0cd3ceaf9046ba5c464dfacfa34bd2a4aa287635264b32e45fac32.png",
+            "snippet": "CEA Study Abroad Programs expand the boundaries of your education and transforms the world into your classroom. 100+ study abroad programs in 21 cities!",
+            "snippet_highlighted_words": [
+                "100+ study abroad programs in 21 cities"
+            ],
+            "source": "CEA Study Abroad"
+        },
+        {
+            "position": 28,
+            "title": "Find a Program | Texas Global",
+            "link": "https://global.utexas.edu/abroad/programs",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://global.utexas.edu/abroad/programs&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0QFnoFCI4BEAE",
+            "displayed_link": "https://global.utexas.edu \u203a abroad \u203a programs",
+            "favicon": "https://serpapi.com/searches/68b8768104e10a55b6d638fc/images/7d4b312dbd0cd3ceaf9046ba5c464dfa880ce658b59e77b4c560a73ddd2c74a7.png",
+            "snippet": "Students can go abroad for study, research, service, internships or a combination of experiences. Find the program experience that best fits your academic and ...",
+            "snippet_highlighted_words": [
+                "Students can go abroad for study, research, service, internships or a combination of experiences"
+            ],
+            "source": "Texas Global"
+        },
+        {
+            "position": 29,
+            "title": "Study Abroad \u2013 UW\u2013Madison",
+            "link": "https://studyabroad.wisc.edu/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://studyabroad.wisc.edu/&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0QFnoFCI0BEAE",
+            "displayed_link": "https://studyabroad.wisc.edu",
+            "favicon": "https://serpapi.com/searches/68b8768104e10a55b6d638fc/images/7d4b312dbd0cd3ceaf9046ba5c464dfa4bf7d094f289efbe81a61d35b903ed45.png",
+            "snippet": "Study abroad for UW academic credit to graduate on time and prepare for the global, interconnected world.",
+            "snippet_highlighted_words": [
+                "Study abroad for UW academic credit"
+            ],
+            "source": "Study Abroad \u2013 UW\u2013Madison"
+        },
+        {
+            "position": 30,
+            "title": "High School Study Abroad",
+            "link": "https://exchanges.state.gov/highschool/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://exchanges.state.gov/highschool/&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0QFnoFCJgBEAE",
+            "displayed_link": "https://exchanges.state.gov \u203a highschool",
+            "favicon": "https://serpapi.com/searches/68b8768104e10a55b6d638fc/images/7d4b312dbd0cd3ceaf9046ba5c464dfa6befc17dbf7f0c5937901b5d9b666e43.png",
+            "snippet": "The US Department of State offers scholarships for American high school students to study abroad from two weeks to an academic year.",
+            "snippet_highlighted_words": [
+                "offers scholarships for American high school students"
+            ],
+            "source": "U.S. Department of State (.gov)"
+        },
+        {
+            "position": 31,
+            "title": "Programs by Area of Study - NCSU Study Abroad",
+            "link": "https://studyabroad.ncsu.edu/programs-by-area-of-study/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://studyabroad.ncsu.edu/programs-by-area-of-study/&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0QFnoFCKcBEAE",
+            "displayed_link": "https://studyabroad.ncsu.edu \u203a programs-by-area-of-stu...",
+            "favicon": "https://serpapi.com/searches/68b8768104e10a55b6d638fc/images/7d4b312dbd0cd3ceaf9046ba5c464dfae580bfa5add59ea122564ba96087790f.png",
+            "snippet": "A wide variety of opportunities exist for study abroad, international internships, and individual exploration.",
+            "snippet_highlighted_words": [
+                "study abroad"
+            ],
+            "source": "NC State University"
+        },
+        {
+            "position": 32,
+            "title": "What are the best programs for study abroad? : r/studyAbroad",
+            "link": "https://www.reddit.com/r/studyAbroad/comments/1lyvwan/what_are_the_best_programs_for_study_abroad/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/studyAbroad/comments/1lyvwan/what_are_the_best_programs_for_study_abroad/&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0QFnoFCKkBEAE",
+            "displayed_link": "4 comments \u00b7 1 month ago",
+            "favicon": "https://serpapi.com/searches/68b8768104e10a55b6d638fc/images/7d4b312dbd0cd3ceaf9046ba5c464dfa87e5f7f88cb33ef43353d239c6c5493e.png",
+            "snippet": "There are a few great programs depending on what you're looking for. If you want a full cultural exchange, options like AFS, Rotary Youth Exchange, and NSLI-Y ...",
+            "snippet_highlighted_words": [
+                "AFS, Rotary Youth Exchange, and NSLI-Y"
+            ],
+            "source": "Reddit \u00b7 r/studyAbroad"
+        },
+        {
+            "position": 33,
+            "title": "Find a program \u2013 Study Abroad",
+            "link": "https://www.washington.edu/studyabroad/students/new-to-study-abroad/find-a-program/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.washington.edu/studyabroad/students/new-to-study-abroad/find-a-program/&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0QFnoFCKYBEAE",
+            "displayed_link": "https://www.washington.edu \u203a studyabroad \u203a students",
+            "favicon": "https://serpapi.com/searches/68b8768104e10a55b6d638fc/images/7d4b312dbd0cd3ceaf9046ba5c464dfa2ec91526a592723bc015ebe54a355f1a.jpeg",
+            "snippet": "Compare the different types of programs that UW Study Abroad offers. Consider various program components such as program duration, cost, location, independence ...",
+            "snippet_highlighted_words": [
+                "Compare the different types of programs that UW Study Abroad offers"
+            ],
+            "source": "UW Homepage"
+        },
+        {
+            "position": 34,
+            "title": "Find a Program",
+            "link": "https://studyabroad.ucsd.edu/students/programs/index.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://studyabroad.ucsd.edu/students/programs/index.html&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0QFnoFCKQBEAE",
+            "displayed_link": "https://studyabroad.ucsd.edu \u203a students \u203a programs",
+            "favicon": "https://serpapi.com/searches/68b8768104e10a55b6d638fc/images/7d4b312dbd0cd3ceaf9046ba5c464dfa197f52372a766e749b5960aa1cf5348a.jpeg",
+            "snippet": "Explore Alternative Breaks, UC San Diego Extended Studies, and other academic department programs. These programs may be for academic credit or experience.",
+            "snippet_highlighted_words": [
+                "programs",
+                "programs"
+            ],
+            "source": "University of California San Diego"
+        },
+        {
+            "position": 35,
+            "title": "Study Abroad",
+            "link": "https://studyabroad.unc.edu/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://studyabroad.unc.edu/&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0QFnoFCLABEAE",
+            "displayed_link": "https://studyabroad.unc.edu",
+            "favicon": "https://serpapi.com/searches/68b8768104e10a55b6d638fc/images/7d4b312dbd0cd3ceaf9046ba5c464dfa828a2f32a9ef882fde74051d92d99b1f.png",
+            "snippet": "Looking ahead to study abroad next spring? \u00b7 Drop-in Hours & Events \u00b7 Study Abroad Advising \u00b7 Scholarships \u00b7 Identity-Based Resources.",
+            "snippet_highlighted_words": [
+                "Drop-in Hours & Events"
+            ],
+            "source": "The University of North Carolina at Chapel Hill"
+        },
+        {
+            "position": 36,
+            "title": "Study Abroad",
+            "link": "https://www.maricopa.edu/students/international-intercultural-education/study-abroad",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.maricopa.edu/students/international-intercultural-education/study-abroad&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0QFnoFCPMBEAE",
+            "displayed_link": "https://www.maricopa.edu \u203a students \u203a study-abroad",
+            "favicon": "https://serpapi.com/searches/68b8768104e10a55b6d638fc/images/7d4b312dbd0cd3ceaf9046ba5c464dfaf446a336757389a37c582394ff666c04.png",
+            "snippet": "Our programs provide students with the opportunity to travel internationally, discover new cultures, and experience personal growth in the process.",
+            "snippet_highlighted_words": [
+                "travel internationally"
+            ],
+            "source": "Maricopa Community Colleges"
+        },
+        {
+            "position": 37,
+            "title": "Studying Abroad",
+            "link": "https://www.nyu.edu/academics/studying-abroad.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nyu.edu/academics/studying-abroad.html&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0QFnoECDYQAQ",
+            "displayed_link": "https://www.nyu.edu \u203a academics \u203a studying-abroad",
+            "favicon": "https://serpapi.com/searches/68b8768104e10a55b6d638fc/images/7d4b312dbd0cd3ceaf9046ba5c464dfac5da00f66acbc632747f0f7e53741668.jpeg",
+            "snippet": "With a little careful planning, you can study abroad for a semester or more while taking courses towards your major and staying on track with your degree ...",
+            "snippet_highlighted_words": [
+                "study abroad for a semester or more"
+            ],
+            "source": "NYU"
+        },
+        {
+            "position": 38,
+            "title": "Study Abroad | University of Miami",
+            "link": "https://studyabroad.miami.edu/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://studyabroad.miami.edu/&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0QFnoECDgQAQ",
+            "displayed_link": "https://studyabroad.miami.edu",
+            "favicon": "https://serpapi.com/searches/68b8768104e10a55b6d638fc/images/7d4b312dbd0cd3ceaf9046ba5c464dfabf864b4240d9f108887fb0ff1e55a2a7.png",
+            "snippet": "Studying abroad is more affordable than you might think! Financial aid and scholarships can be applied to UM-managed semester and year programs. Explore ...",
+            "snippet_highlighted_words": [
+                "UM-managed semester and year programs"
+            ],
+            "source": "University of Miami"
+        },
+        {
+            "position": 39,
+            "title": "College Study Abroad | CIEE",
+            "link": "https://www.ciee.org/go-abroad/college-study-abroad",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ciee.org/go-abroad/college-study-abroad&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0QFnoECFIQAQ",
+            "displayed_link": "https://www.ciee.org \u203a go-abroad \u203a college-study-abroad",
+            "favicon": "https://serpapi.com/searches/68b8768104e10a55b6d638fc/images/7d4b312dbd0cd3ceaf9046ba5c464dfab7de72bf3756134930a193360133a7ff.png",
+            "snippet": "CIEE college study abroad programs allow you to explore 150+ abroad programs in 30+ countries across Europe, Asia, Australia, Africa, Latin America, ...",
+            "snippet_highlighted_words": [
+                "CIEE college study abroad programs"
+            ],
+            "source": "ciee.org"
+        },
+        {
+            "position": 40,
+            "title": "What is the best study abroad programs to use both cost- ...",
+            "link": "https://www.reddit.com/r/studyAbroad/comments/1dlmtjb/what_is_the_best_study_abroad_programs_to_use/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/studyAbroad/comments/1dlmtjb/what_is_the_best_study_abroad_programs_to_use/&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0QFnoECGIQAQ",
+            "displayed_link": "10+ comments \u00b7 1 year ago",
+            "favicon": "https://serpapi.com/searches/68b8768104e10a55b6d638fc/images/7d4b312dbd0cd3ceaf9046ba5c464dfa423e6033d7f472c8fbac26adb202929a.png",
+            "snippet": "Probably an exchange directly through your university. They won't charge extra fees, you pay tuition at your home university and attend a partner university ...",
+            "snippet_highlighted_words": [
+                "university",
+                "university",
+                "university"
+            ],
+            "source": "Reddit \u00b7 r/studyAbroad"
+        },
+        {
+            "position": 41,
+            "title": "Study Abroad Programs | USAC",
+            "link": "https://usac.edu/study-abroad-programs",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://usac.edu/study-abroad-programs&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0QFnoECFQQAQ",
+            "displayed_link": "https://usac.edu \u203a study-abroad-programs",
+            "favicon": "https://serpapi.com/searches/68b8768104e10a55b6d638fc/images/7d4b312dbd0cd3ceaf9046ba5c464dfa0635d45eaca42ab7494483b5e646840b.png",
+            "snippet": "USAC offers two different program models. Specialty programs are run by on-site USAC staff and faculty on a foreign university campus.",
+            "snippet_highlighted_words": [
+                "program",
+                "programs",
+                "university"
+            ],
+            "source": "University Studies Abroad Consortium"
+        },
+        {
+            "position": 42,
+            "title": "Schools with VERY strong study abroad options",
+            "link": "https://talk.collegeconfidential.com/t/schools-with-very-strong-study-abroad-options/3677953",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://talk.collegeconfidential.com/t/schools-with-very-strong-study-abroad-options/3677953&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0QFnoECFcQAQ",
+            "displayed_link": "https://talk.collegeconfidential.com \u203a schools-with-very...",
+            "favicon": "https://serpapi.com/searches/68b8768104e10a55b6d638fc/images/7d4b312dbd0cd3ceaf9046ba5c464dfa45fa43e74d86b9fe138823c86f288c98.png",
+            "date": "Nov 30, 2024",
+            "snippet": "Any school, high ranked or not on the abroad lists, will offer opportunities abroad because all will have affiliate programs - like CIEE, Semester at Sea.",
+            "snippet_highlighted_words": [
+                "abroad",
+                "abroad",
+                "programs"
+            ],
+            "source": "College Confidential Forums - Admissions Discussions and Threads"
+        },
+        {
+            "position": 43,
+            "title": "Study Abroad Programs",
+            "link": "https://www.iesabroad.org/programs",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.iesabroad.org/programs&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0QFnoECFYQAQ",
+            "displayed_link": "https://www.iesabroad.org \u203a programs",
+            "favicon": "https://serpapi.com/searches/68b8768104e10a55b6d638fc/images/7d4b312dbd0cd3ceaf9046ba5c464dfa7fa951bb27a578756a439b978d877bc1.png",
+            "snippet": "Filters \u00b7 Business & Economics \u00b7 Business & Economics \u00b7 Law & Criminology \u00b7 Law & Criminology \u00b7 Psychology & Sciences \u00b7 Psychology & Sciences \u00b7 Social Sciences ...",
+            "source": "IES Abroad"
+        },
+        {
+            "position": 44,
+            "title": "Study Abroad",
+            "link": "https://www.suny.edu/attend/academics/study-abroad/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.suny.edu/attend/academics/study-abroad/&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0QFnoECFUQAQ",
+            "displayed_link": "https://www.suny.edu \u203a attend \u203a academics \u203a study-abroad",
+            "favicon": "https://serpapi.com/searches/68b8768104e10a55b6d638fc/images/7d4b312dbd0cd3ceaf9046ba5c464dfaa05bfe505e0b4d6e0c1e43e7d80695d8.png",
+            "snippet": "State University overseas study programs are, with some exceptions, open to all SUNY and non-SUNY students, with eligibility ranging from first year to ...",
+            "snippet_highlighted_words": [
+                "University overseas",
+                "programs"
+            ],
+            "source": "SUNY - The State University of New York"
+        },
+        {
+            "position": 45,
+            "title": "Study Abroad - Universities",
+            "link": "https://www.flbog.edu/universities/key-university-info/study-abroad/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.flbog.edu/universities/key-university-info/study-abroad/&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0QFnoECHQQAQ",
+            "displayed_link": "https://www.flbog.edu \u203a ... \u203a Key University Info",
+            "favicon": "https://serpapi.com/searches/68b8768104e10a55b6d638fc/images/7d4b312dbd0cd3ceaf9046ba5c464dfa13b91cf669e931c67fe21423b25d2af7.png",
+            "snippet": "University study abroad programs enable students to directly experience different cultures and provide students with opportunities to compare and contrast life.",
+            "snippet_highlighted_words": [
+                "study abroad programs"
+            ],
+            "source": "State University System of Florida"
+        },
+        {
+            "position": 46,
+            "title": "Welcome | UCB Study Abroad",
+            "link": "https://studyabroad.berkeley.edu/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://studyabroad.berkeley.edu/&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0QFnoECHMQAQ",
+            "displayed_link": "https://studyabroad.berkeley.edu",
+            "favicon": "https://serpapi.com/searches/68b8768104e10a55b6d638fc/images/7d4b312dbd0cd3ceaf9046ba5c464dfaefcb001d3fc5435ed8633e789c3b609c.png",
+            "snippet": "Berkeley Study Abroad 101 \u00b7 Top 5 Questions That Students Ask \u00b7 find the right program for you! \u00b7 hear from students and advisers \u00b7 study abroad services ...",
+            "snippet_highlighted_words": [
+                "Study Abroad",
+                "program",
+                "study abroad"
+            ],
+            "source": "Berkeley Study Abroad"
+        },
+        {
+            "position": 47,
+            "title": "2025 Colleges With Great Study Abroad Programs",
+            "link": "https://www.usnews.com/best-colleges/rankings/study-abroad-programs",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.usnews.com/best-colleges/rankings/study-abroad-programs&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0QFnoECHEQAQ",
+            "displayed_link": "https://www.usnews.com \u203a Education \u203a Colleges",
+            "favicon": "https://serpapi.com/searches/68b8768104e10a55b6d638fc/images/7d4b312dbd0cd3ceaf9046ba5c464dfa4ea5b252573351e4b74502ea3e615afc.png",
+            "snippet": "15 institutions with stellar examples of study abroad programs. Colleges and universities that received 10 or more nominations are ranked here.",
+            "snippet_highlighted_words": [
+                "study abroad programs"
+            ],
+            "source": "U.S. News & World Report"
+        },
+        {
+            "position": 48,
+            "title": "| Study Abroad | The University of Chicago",
+            "link": "https://study-abroad.uchicago.edu/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://study-abroad.uchicago.edu/&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0QFnoECG0QAQ",
+            "displayed_link": "https://study-abroad.uchicago.edu",
+            "favicon": "https://serpapi.com/searches/68b8768104e10a55b6d638fc/images/7d4b312dbd0cd3ceaf9046ba5c464dfaf982dd4535274cbc5b395cb9de6cae87.png",
+            "snippet": "The College sponsors 83 study abroad programs in 32 cities in Europe, Asia, Africa, Latin America, and the Middle East. Over 13,000 UChicago undergraduates have ...",
+            "snippet_highlighted_words": [
+                "study abroad programs"
+            ],
+            "source": "University of Chicago Study Abroad"
+        },
+        {
+            "position": 49,
+            "title": "Study Abroad: Academics - Indiana University Bloomington",
+            "link": "https://bloomington.iu.edu/academics/abroad.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bloomington.iu.edu/academics/abroad.html&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0QFnoFCIoBEAE",
+            "displayed_link": "https://bloomington.iu.edu \u203a Academics",
+            "favicon": "https://serpapi.com/searches/68b8768104e10a55b6d638fc/images/7d4b312dbd0cd3ceaf9046ba5c464dfaafe9575339758c3f9863b1890d436fd6.png",
+            "snippet": "IU offers international programs in nearly every program of study. In addition to learning about other cultures and practicing your language skills, overseas ...",
+            "snippet_highlighted_words": [
+                "programs",
+                "program",
+                "study",
+                "learning",
+                "overseas"
+            ],
+            "source": "Indiana University"
+        },
+        {
+            "position": 50,
+            "title": "Learning Abroad - Programs",
+            "link": "https://www.uh.edu/learningabroad/find-a-program/index.php",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.uh.edu/learningabroad/find-a-program/index.php&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0QFnoFCIkBEAE",
+            "displayed_link": "https://www.uh.edu \u203a learningabroad \u203a find-a-program",
+            "snippet": "Learning Abroad has opportunities for every major in over 100 countries through faculty-led, reciprocal exchanges, third party affiliated providers, and ...",
+            "snippet_highlighted_words": [
+                "Learning Abroad"
+            ],
+            "source": "University of Houston"
+        }
+    ],
+    "related_searches": [
+        {
+            "block_position": 1,
+            "items": [
+                {
+                    "name": "CIEE",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeDEpBIanpflPAxAKLDA9yQbn3P28qUQC4e65T&s=0",
+                    "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&gl=us&hl=en&q=CIEE&stick=H4sIAAAAAAAAAOMwVOLSz9U3MCoqjE9O-sXIsIGF4RULDxeS4CsWbi5OENfEzCLHAiFZkF1ZmYOQzMkuKYDz0tIzUpKQlBanW1a9YuHn4tVP1zc0rEhOzjWqSi-HKzcyKqgsRsinVRqZFheUGMPlUywsLIoXsbI4e7q63mKTZNi9qOMni-t-w42Wxhs3iT3ezv7L_W9t2oyVizjEAlLzC3JSFRJzivMVilMTi5IzFNLyi1ZwMAIAi24_suoAAAA&sa=X&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0Qs9oBKAB6BQjfARAK",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=CIEE&stick=H4sIAAAAAAAAAOMwVOLSz9U3MCoqjE9O-sXIsIGF4RULDxeS4CsWbi5OENfEzCLHAiFZkF1ZmYOQzMkuKYDz0tIzUpKQlBanW1a9YuHn4tVP1zc0rEhOzjWqSi-HKzcyKqgsRsinVRqZFheUGMPlUywsLIoXsbI4e7q63mKTZNi9qOMni-t-w42Wxhs3iT3ezv7L_W9t2oyVizjEAlLzC3JSFRJzivMVilMTi5IzFNLyi1ZwMAIAi24_suoAAAA"
+                },
+                {
+                    "name": "Institute for Shipboard Education | Semester at Sea",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPprcXfJCQ4fZeQVMYAE1fQcj4dYD8pkHLqEPk&s=0",
+                    "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&gl=us&hl=en&q=Semester+at+Sea&stick=H4sIAAAAAAAAAOMwVOLUz9U3MDGzyLH4xciwgYXhFQsPFxdIzKioMD456RULNxdCCUKyILuyMgchmZNdUgDnpaVnpCQhKS1Ot6x6xcLPxaufrm9oWJGcnGtUlV4OV25kVFBZjJBPqzQyLS4oMYbLp1hYWBQvYuUPTs1NLS5JLVJILFEITk28xSbJsHtRx08W1_2GGy2NN24Se7yd_Zf739q0GSsXcYgFpOYX5KQqJOYU5ysUpyYWJWcopOUXreBgBADkz3mA9AAAAA&sa=X&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0Qs9oBKAB6BQjfARAP",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=Semester+at+Sea&stick=H4sIAAAAAAAAAOMwVOLUz9U3MDGzyLH4xciwgYXhFQsPFxdIzKioMD456RULNxdCCUKyILuyMgchmZNdUgDnpaVnpCQhKS1Ot6x6xcLPxaufrm9oWJGcnGtUlV4OV25kVFBZjJBPqzQyLS4oMYbLp1hYWBQvYuUPTs1NLS5JLVJILFEITk28xSbJsHtRx08W1_2GGy2NN24Se7yd_Zf739q0GSsXcYgFpOYX5KQqJOYU5ysUpyYWJWcopOUXreBgBADkz3mA9AAAAA"
+                },
+                {
+                    "name": "Institute for the International Education of Students",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpDV5nvhgou6JRFC96aMd_TMRJ_zuetpy0KEQ3&s=0",
+                    "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&gl=us&hl=en&q=IES+Abroad&stick=H4sIAAAAAAAAAOMwVOLSz9U3MCrIrqzM-cXIsIGF4RULDxdEsKgwPjnpFQs3FyeIa2JmkWOBkATrQEjmZJcUwHlp6RkpSUhKi9Mtq16x8HPx6qfrGxpWJCfnGlWll8OVGxkVVBYj5NMqjUyLC0qM4fIpFhYWxYtYuTxdgxUck4ryE1NusUky7F7U8ZPFdb_hRkvjjZvEHm9n_-X-tzZtxspFHGIBqfkFOakKiTnF-QrFqYlFyRkKaflFKzgYAd_kexvwAAAA&sa=X&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0Qs9oBKAB6BQjfARAU",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=IES+Abroad&stick=H4sIAAAAAAAAAOMwVOLSz9U3MCrIrqzM-cXIsIGF4RULDxdEsKgwPjnpFQs3FyeIa2JmkWOBkATrQEjmZJcUwHlp6RkpSUhKi9Mtq16x8HPx6qfrGxpWJCfnGlWll8OVGxkVVBYj5NMqjUyLC0qM4fIpFhYWxYtYuTxdgxUck4ryE1NusUky7F7U8ZPFdb_hRkvjjZvEHm9n_-X-tzZtxspFHGIBqfkFOakKiTnF-QrFqYlFyRkKaflFKzgYAd_kexvwAAAA"
+                },
+                {
+                    "name": "SIT | School for International Training",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMnvhrueuPtwd23vfTkTs1E4i6khm2wJ8mDrGC&s=0",
+                    "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&gl=us&hl=en&q=School+for+International+Training&stick=H4sIAAAAAAAAAOMwVOLUz9U3MMnJLin4xciwgYXhFQsPFxdIzKioMD456RULNxdEiZlFjgVCsiC7sjIHIQnSD-elpWekJCEpLU63rHrFws_Fq5-ub2hYkZyca1SVXg5XbmRUUFmMkE-rNDItLigxhsunWFhYFC9iVQxOzsjPz1FIyy9S8MwrSS3KSyzJzM9LzFEIKUrMzMvMS7_FJsmwe1HHTxbX_YYbLY03bhJ7vJ39l_vf2rQZKxdxiAWk5hfkpCok5hTnKxSnJhYlZ4DMWsHBCADWYsVjBgEAAA&sa=X&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0Qs9oBKAB6BQjfARAZ",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=School+for+International+Training&stick=H4sIAAAAAAAAAOMwVOLUz9U3MMnJLin4xciwgYXhFQsPFxdIzKioMD456RULNxdEiZlFjgVCsiC7sjIHIQnSD-elpWekJCEpLU63rHrFws_Fq5-ub2hYkZyca1SVXg5XbmRUUFmMkE-rNDItLigxhsunWFhYFC9iVQxOzsjPz1FIyy9S8MwrSS3KSyzJzM9LzFEIKUrMzMvMS7_FJsmwe1HHTxbX_YYbLY03bhJ7vJ39l_vf2rQZKxdxiAWk5hfkpCok5hTnKxSnJhYlZ4DMWsHBCADWYsVjBgEAAA"
+                },
+                {
+                    "name": "AFS Intercultural Programs",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdxb3E80kYPhvvS3As-21Je6IgJexGEDrLd_wV&s=0",
+                    "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&gl=us&hl=en&q=AFS+Intercultural+Programs&stick=H4sIAAAAAAAAAOMwVOLUz9U3SEvPSEn6xciwgYXhFQsPFxdIzKioMD456RULNxdYiYmZRY4FQrIgu7IyByGZk11SAOeBTUNSWpxuWfWKhZ-LVz9d39CwIjk516gqvRyu3MiooLIYIZ9WaWRaXFBiDJdPsbCwKF7EKuXoFqzgmVeSWpRcmlNSWpSYoxBQlJ9elJhbfItNkmH3oo6fLK77DTdaGm_cJPZ4O_sv97-1aTNWLuIQC0jNL8hJVUjMKc5XKE5NLErOUEjLL1rBwQgAhB99Xf8AAAA&sa=X&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0Qs9oBKAB6BQjfARAe",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=AFS+Intercultural+Programs&stick=H4sIAAAAAAAAAOMwVOLUz9U3SEvPSEn6xciwgYXhFQsPFxdIzKioMD456RULNxdYiYmZRY4FQrIgu7IyByGZk11SAOeBTUNSWpxuWfWKhZ-LVz9d39CwIjk516gqvRyu3MiooLIYIZ9WaWRaXFBiDJdPsbCwKF7EKuXoFqzgmVeSWpRcmlNSWpSYoxBQlJ9elJhbfItNkmH3oo6fLK77DTdaGm_cJPZ4O_sv97-1aTNWLuIQC0jNL8hJVUjMKc5XKE5NLErOUEjLL1rBwQgAhB99Xf8AAAA"
+                },
+                {
+                    "name": "Cultural Experiences Abroad",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBbA67NX5Si7ofRyngTljFyKe8C9vARbCDbnMI&s=0",
+                    "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&gl=us&hl=en&q=Cultural+Experiences+Abroad&stick=H4sIAAAAAAAAAOMwVOLSz9U3MCooTres-sXIsIGF4RULDxdEsKgwPjnpFQs3FyeIa2JmkWOBkCzIrqzMQUjmZJcUwHlp6RkpSUhKQYa_YuHn4tVP1zc0rEhOzjWqSi-HKzcyKqgsRsinVRqZFheUGMPlUywsLIoXsUo7l-aUlBYl5ii4VhSkFmWm5iWnFis4JhXlJ6bcYpNk2L2o4yeL637DjZbGGzeJPd7O_sv9b23ajJWLOMQCUvMLclIVEnOK8xWKUxOLkjMU0vKLVnAwAgAjAUufAQEAAA&sa=X&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0Qs9oBKAB6BQjfARAj",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=Cultural+Experiences+Abroad&stick=H4sIAAAAAAAAAOMwVOLSz9U3MCooTres-sXIsIGF4RULDxdEsKgwPjnpFQs3FyeIa2JmkWOBkCzIrqzMQUjmZJcUwHlp6RkpSUhKQYa_YuHn4tVP1zc0rEhOzjWqSi-HKzcyKqgsRsinVRqZFheUGMPlUywsLIoXsUo7l-aUlBYl5ii4VhSkFmWm5iWnFis4JhXlJ6bcYpNk2L2o4yeL637DjZbGGzeJPd7O_sv9b23ajJWLOMQCUvMLclIVEnOK8xWKUxOLkjMU0vKLVnAwAgAjAUufAQEAAA"
+                }
+            ]
+        },
+        {
+            "block_position": 1,
+            "query": "Study abroad programs for college students",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&gl=us&hl=en&q=Study+abroad+programs+for+college+students&sa=X&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0Q1QJ6BQjkARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=Study+abroad+programs+for+college+students"
+        },
+        {
+            "block_position": 1,
+            "query": "Study abroad programs high school",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&gl=us&hl=en&q=Study+abroad+programs+high+school&sa=X&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0Q1QJ6BQjmARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=Study+abroad+programs+high+school"
+        },
+        {
+            "block_position": 1,
+            "query": "Study abroad programs for adults",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&gl=us&hl=en&q=Study+abroad+programs+for+adults&sa=X&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0Q1QJ6BQjoARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=Study+abroad+programs+for+adults"
+        },
+        {
+            "block_position": 1,
+            "query": "Study abroad programs for college students free",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&gl=us&hl=en&q=Study+abroad+programs+for+college+students+free&sa=X&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0Q1QJ6BQjpARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=Study+abroad+programs+for+college+students+free"
+        },
+        {
+            "block_position": 1,
+            "query": "Study abroad Programs UNT",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&gl=us&hl=en&q=Study+abroad+Programs+UNT&sa=X&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0Q1QJ6BQjqARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=Study+abroad+Programs+UNT"
+        },
+        {
+            "block_position": 1,
+            "query": "Best study abroad programs",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&gl=us&hl=en&q=Best+study+abroad+programs&sa=X&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0Q1QJ6BQjrARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=Best+study+abroad+programs"
+        },
+        {
+            "block_position": 1,
+            "query": "Study Abroad programs Rutgers",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&gl=us&hl=en&q=Study+Abroad+programs+Rutgers&sa=X&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0Q1QJ6BQjsARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=Study+Abroad+programs+Rutgers"
+        },
+        {
+            "block_position": 1,
+            "query": "Study abroad programs near me",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&gl=us&hl=en&q=Study+abroad+programs+near+me&sa=X&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0Q1QJ6BQjtARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=Study+abroad+programs+near+me"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=study+abroad+programs&num=50&sca_esv=cbb70bed2ede2303&gl=us&hl=en&ei=gXa4aPyOO9usi-gP1rGz6Ak&start=50&sa=N&sstk=Ac65TH70cxFGL-UucTAXOfD87bkBsecgy9GiRL1ZIuw5Rnl29Ami3c80DueKfd2whjI_rAHeodzrNjvhlAHz_IbTAKN-Jtom8VGYXg&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0Q8NMDegQICRAO",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=study+abroad+programs&num=50&sca_esv=cbb70bed2ede2303&gl=us&hl=en&ei=gXa4aPyOO9usi-gP1rGz6Ak&start=50&sa=N&sstk=Ac65TH70cxFGL-UucTAXOfD87bkBsecgy9GiRL1ZIuw5Rnl29Ami3c80DueKfd2whjI_rAHeodzrNjvhlAHz_IbTAKN-Jtom8VGYXg&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0Q8tMDegQICRAE",
+            "3": "https://www.google.com/search?q=study+abroad+programs&num=50&sca_esv=cbb70bed2ede2303&gl=us&hl=en&ei=gXa4aPyOO9usi-gP1rGz6Ak&start=100&sa=N&sstk=Ac65TH70cxFGL-UucTAXOfD87bkBsecgy9GiRL1ZIuw5Rnl29Ami3c80DueKfd2whjI_rAHeodzrNjvhlAHz_IbTAKN-Jtom8VGYXg&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0Q8tMDegQICRAG",
+            "4": "https://www.google.com/search?q=study+abroad+programs&num=50&sca_esv=cbb70bed2ede2303&gl=us&hl=en&ei=gXa4aPyOO9usi-gP1rGz6Ak&start=150&sa=N&sstk=Ac65TH70cxFGL-UucTAXOfD87bkBsecgy9GiRL1ZIuw5Rnl29Ami3c80DueKfd2whjI_rAHeodzrNjvhlAHz_IbTAKN-Jtom8VGYXg&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0Q8tMDegQICRAI",
+            "5": "https://www.google.com/search?q=study+abroad+programs&num=50&sca_esv=cbb70bed2ede2303&gl=us&hl=en&ei=gXa4aPyOO9usi-gP1rGz6Ak&start=200&sa=N&sstk=Ac65TH70cxFGL-UucTAXOfD87bkBsecgy9GiRL1ZIuw5Rnl29Ami3c80DueKfd2whjI_rAHeodzrNjvhlAHz_IbTAKN-Jtom8VGYXg&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0Q8tMDegQICRAK",
+            "6": "https://www.google.com/search?q=study+abroad+programs&num=50&sca_esv=cbb70bed2ede2303&gl=us&hl=en&ei=gXa4aPyOO9usi-gP1rGz6Ak&start=250&sa=N&sstk=Ac65TH70cxFGL-UucTAXOfD87bkBsecgy9GiRL1ZIuw5Rnl29Ami3c80DueKfd2whjI_rAHeodzrNjvhlAHz_IbTAKN-Jtom8VGYXg&ved=2ahUKEwi806Lyir2PAxVb1gIHHdbYDJ0Q8tMDegQICRAM"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=study+abroad+programs&start=50",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=study+abroad+programs&start=50",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=study+abroad+programs&start=50",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=study+abroad+programs&start=100",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=study+abroad+programs&start=150",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=study+abroad+programs&start=200",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=India&num=50&q=study+abroad+programs&start=250"
+        }
+    }
+}

@@ -1,0 +1,1226 @@
+{
+    "search_metadata": {
+        "id": "68b876665922f4bcf6c66da3",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/b2faad71a76dfe6a/68b876665922f4bcf6c66da3.json",
+        "pixel_position_endpoint": "https://serpapi.com/searches/b2faad71a76dfe6a/68b876665922f4bcf6c66da3.json_with_pixel_position",
+        "created_at": "2025-09-03 17:09:58 UTC",
+        "processed_at": "2025-09-03 17:09:58 UTC",
+        "google_url": "https://www.google.com/search?q=climate+change+facts&oq=climate+change+facts&uule=w+CAIQICIFSW5kaWE&num=50&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/b2faad71a76dfe6a/68b876665922f4bcf6c66da3.html",
+        "total_time_taken": 3.76
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "climate change facts",
+        "location_requested": "India",
+        "location_used": "India",
+        "google_domain": "google.com",
+        "num": "50",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "climate change facts",
+        "total_results": 579000000,
+        "time_taken_displayed": 0.47,
+        "organic_results_state": "Results for exact spelling"
+    },
+    "knowledge_graph": {
+        "title": "Climate change",
+        "entity_type": "climate_change",
+        "kgmid": "/m/0d063v",
+        "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/0d063v&hl=en-US&q=Climate+change",
+        "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F0d063v&location=India&num=50&q=Climate+change",
+        "description": "Present-day climate change includes both global warming\u2014the ongoing increase in global average temperature\u2014and its wider effects on Earth's climate system. Climate change in a broader sense also includes previous long-term changes to Earth's climate.",
+        "description_highlighted_words": [],
+        "source": {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Climate_change"
+        }
+    },
+    "inline_images": [
+        {
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Climate+change&stick=H4sIAAAAAAAAAONgFuLUz9U3SDEwMy5TQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1i5XPOycxNLElVSM5IzEtPvcUmybB7UcfPWXXPjx3Jf3XbKrUlb6e3bc6UVa3nAHIM1NJxAAAA&sa=X&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQzO0BKAR6BAgIEBQ#imgrc=H1s0bfIXCPzQ3M",
+            "source": "https://www.ecotricity.co.uk/our-news/2017/six-scary-facts-about-climate-change",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXEho_1um0u4LU-V-gGJLz29DvTyFt9WHqk8gx88GXFIKchkTs8goUmso&s",
+            "original": "https://images.ctfassets.net/620j9bwnh4b6/7wxjzZIHvCtMT4dRV3MKmS/c43397a02071b204ae650b153a34bd20/Six_scary_facts_about_climate_change?w=1521&h=969&fl=progressive&q=60&fm=jpg",
+            "title": "Six scary facts about climate change \u2013 Ecotricity | Ecotricity",
+            "source_name": "Ecotricity"
+        },
+        {
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Climate+change&stick=H4sIAAAAAAAAAONgFuLUz9U3SDEwMy5TQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1i5XPOycxNLElVSM5IzEtPvcUmybB7UcfPWXXPjx3Jf3XbKrUlb6e3bc6UVa3nAHIM1NJxAAAA&sa=X&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQzO0BKAR6BAgIEBQ#imgrc=ejM6mau4adODwM",
+            "source": "https://www.greenmatch.co.uk/blog/facts-about-climate-change",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS--Sal90J1cJKKGG_xH1tFKkHZwSr-9SccPBfO1q9nOXoqJY-bOBG8nPc&s",
+            "original": "https://cdn.greenmatch.co.uk/cdn-cgi/image/format=auto/2/2023/06/MAY23_5_01-Climate-change-facts_right_side_wider_2.png",
+            "title": "52 Climate Change Facts That You Need To Know",
+            "source_name": "GreenMatch"
+        },
+        {
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Climate+change&stick=H4sIAAAAAAAAAONgFuLUz9U3SDEwMy5TQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1i5XPOycxNLElVSM5IzEtPvcUmybB7UcfPWXXPjx3Jf3XbKrUlb6e3bc6UVa3nAHIM1NJxAAAA&sa=X&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQzO0BKAR6BAgIEBQ#imgrc=CduHMCw8wphhTM",
+            "source": "https://www.amazon.com/Climate-Change-Facts-J-Abbot/dp/0986398306",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsJ9A5NEZdXw1Oy3v1D8aPy4Llzam1PUqW9RcXR8UbX6vQl2hG11FP6hY&s",
+            "original": "https://m.media-amazon.com/images/I/81Lie1-u1ML._UF1000,1000_QL80_.jpg",
+            "title": "Climate Change: The Facts: J.Abbot, J.S. Armstrong, A.Bolt ...",
+            "source_name": "Amazon.com"
+        },
+        {
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Climate+change&stick=H4sIAAAAAAAAAONgFuLUz9U3SDEwMy5TQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1i5XPOycxNLElVSM5IzEtPvcUmybB7UcfPWXXPjx3Jf3XbKrUlb6e3bc6UVa3nAHIM1NJxAAAA&sa=X&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQzO0BKAR6BAgIEBQ#imgrc=qvbMvUegTxBv-M",
+            "source": "https://www.conservation.org/stories/climate-change-facts",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2b6NweqMtU5TxT2aKCG2eufBJlO52_jm08HicIbjaYdxPe5JLM_53zH4&s",
+            "original": "https://ciorg.imgix.net/images/default-source/graphics/climate-change-facts_1200x630.jpg?sfvrsn=ea344580_5&auto=compress&auto=format&w=1200&h=630",
+            "title": "Climate Change - 10 Facts You Need To Know",
+            "source_name": "Conservation International"
+        },
+        {
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Climate+change&stick=H4sIAAAAAAAAAONgFuLUz9U3SDEwMy5TQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1i5XPOycxNLElVSM5IzEtPvcUmybB7UcfPWXXPjx3Jf3XbKrUlb6e3bc6UVa3nAHIM1NJxAAAA&sa=X&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQzO0BKAR6BAgIEBQ#imgrc=H7QYIY6dQenJ4M",
+            "source": "https://www.greenmatch.co.uk/blog/facts-about-climate-change",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSejgJXVyXjgFdzCgwWOrJ510QwMho3Rpea6CBL7MEBkexDAz6vUnUKOlc&s",
+            "original": "https://cdn.greenmatch.co.uk/cdn-cgi/image/format=auto/2/2024/08/52-Facts-About-Climate-Change.png",
+            "title": "52 Climate Change Facts That You Need To Know",
+            "source_name": "GreenMatch"
+        },
+        {
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Climate+change&stick=H4sIAAAAAAAAAONgFuLUz9U3SDEwMy5TQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1i5XPOycxNLElVSM5IzEtPvcUmybB7UcfPWXXPjx3Jf3XbKrUlb6e3bc6UVa3nAHIM1NJxAAAA&sa=X&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQzO0BKAR6BAgIEBQ#imgrc=4ECGe1i8m-SkYM",
+            "source": "https://climate-vtad-external.client.mooreboeck.com/climate_resources/26/graphic-the-ipccs-four-key-findings/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSibiFgQABnpqmCMsbOVDsj3rGqMJfIjwFTrTzYhBNurlluHM6lsHMDdWU&s",
+            "original": "https://climate-vtad-external.client.mooreboeck.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbm9XIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7f6d8622e781f473e2bb9e1fb71865a87600cb97/26_ipcc_2.jpeg?disposition=inline",
+            "title": "Graphic: The IPCC's four key findings \u2013 Climate Change ...",
+            "source_name": "Home \u2013 Climate Change: Vital Signs of the Planet"
+        },
+        {
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Climate+change&stick=H4sIAAAAAAAAAONgFuLUz9U3SDEwMy5TQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1i5XPOycxNLElVSM5IzEtPvcUmybB7UcfPWXXPjx3Jf3XbKrUlb6e3bc6UVa3nAHIM1NJxAAAA&sa=X&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQzO0BKAR6BAgIEBQ#imgrc=9KbfVBHu_KbHuM",
+            "source": "https://terrapass.com/blog/ten-terrifying-facts-about-climate-change/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRdPleM01ezeVemnDP1e_eJ6NAlH-3h3g3i9dRo5g1T6vdNZrZvv9xevw&s",
+            "original": "https://terrapass.com/wp-content/uploads/2021/10/climate-change-facts-greenland-antartic-ice-sheets-illustration.jpg",
+            "title": "Ten Terrifying Facts About Climate Change",
+            "source_name": "Terrapass"
+        },
+        {
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Climate+change&stick=H4sIAAAAAAAAAONgFuLUz9U3SDEwMy5TQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1i5XPOycxNLElVSM5IzEtPvcUmybB7UcfPWXXPjx3Jf3XbKrUlb6e3bc6UVa3nAHIM1NJxAAAA&sa=X&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQzO0BKAR6BAgIEBQ#imgrc=SSTz6axBJVcy2M",
+            "source": "https://css.umich.edu/publications/factsheets/climate-change/climate-change-science-and-impacts-factsheet",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-1AAYEz4EOOMlgi53pwM4V9GOO5uatkT9QRdPczIhlSYQyKhKE1ThM2c&s",
+            "original": "https://css.umich.edu/sites/default/files/styles/full_content/public/2024-09/Figure_1_The%20Earth%E2%80%99s%20Greenhouse%20Effect.png.webp?itok=i6BYu7DP",
+            "title": "Climate Change: Science and Impacts Factsheet | Center for ...",
+            "source_name": "Center for Sustainable Systems - University of Michigan"
+        },
+        {
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Climate+change&stick=H4sIAAAAAAAAAONgFuLUz9U3SDEwMy5TQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1i5XPOycxNLElVSM5IzEtPvcUmybB7UcfPWXXPjx3Jf3XbKrUlb6e3bc6UVa3nAHIM1NJxAAAA&sa=X&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQzO0BKAR6BAgIEBQ#imgrc=B4qNlqImB-Uu3M",
+            "source": "https://oceanservice.noaa.gov/facts/coralreef-climate.html",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjYZDbwzBMGeIt0cXw6Lzy2UVjWYQv_Del5D6Hy-7hp_IGjyuO8zUaC-4&s",
+            "original": "https://oceanservice.noaa.gov/facts/coralreef-climate.jpg",
+            "title": "How does climate change affect coral reefs?",
+            "source_name": "NOAA's National Ocean Service - National Oceanic and ..."
+        }
+    ],
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "The State of Global Climate - 5 Key Facts | United Nations",
+            "link": "https://www.un.org/en/video/state-global-climate-5-key-facts",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdzY7fy5bL9OrYGIWl8UbbHHZ87cr5gEQAvlao7uB_XOOy&s",
+            "channel": "UN Story",
+            "duration": "1:49",
+            "platform": "the United Nations"
+        },
+        {
+            "position": 2,
+            "title": "How We Know What We Know about Climate Change",
+            "link": "https://plus.nasa.gov/video/how-we-know-what-we-know-about-climate-change/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYwbbKwdJzmQqUEas38xZr4PrNMj1Jyi7WZaRIxASLg0z7&s",
+            "channel": "NASA+ Streaming Service",
+            "duration": "3:45",
+            "platform": "NASA+"
+        },
+        {
+            "position": 3,
+            "title": "Think Climate Change Isn't Real? These Facts Will Shock You",
+            "link": "https://www.youtube.com/watch?v=rw98pvKzwmc",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0zhEw3boTZFnBZ33juDiDtDwJzJz7zIy8mmxW4dtdAWYB&s",
+            "channel": "Impacting Jamaica",
+            "duration": "4:08",
+            "platform": "YouTube"
+        },
+        {
+            "position": 4,
+            "title": "What is GLOBAL WARMING? Facts for Kids",
+            "link": "https://www.youtube.com/watch?v=ezci9Sv1GzQ",
+            "thumbnail": "https://i.ytimg.com/vi/ezci9Sv1GzQ/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3lM0mM-t0WKqeXFktwQTg-tAtixpA",
+            "channel": "Hey! Guess What",
+            "duration": "3:34",
+            "platform": "YouTube"
+        }
+    ],
+    "short_videos": [
+        {
+            "position": 1,
+            "title": "3 facts about climate change",
+            "source": "YouTube",
+            "profile_name": "spunout",
+            "extensions": [
+                "spunout"
+            ],
+            "source_logo": "https://serpapi.com/searches/68b876665922f4bcf6c66da3/images/c7243bf03ab47c4654e968f044f2b5ff9753332130f4e5fd4fce1d3c5fabde82.png",
+            "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS_m7XyKG6CRx15NP27sAlKIr5HBL1ZUf7-6A",
+            "date": "Sep 26, 2024",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkvay5aEwm-Om_LtgTApNbSE-WoMYAqBEQOCpJjMWZQ3oZNA&s",
+            "link": "https://m.youtube.com/watch?v=9GS75P1L_D8"
+        },
+        {
+            "position": 2,
+            "title": "Here Are The FACTS on Climate Change",
+            "source": "YouTube",
+            "profile_name": "PragerU Shorts",
+            "extensions": [
+                "PragerU Shorts"
+            ],
+            "source_logo": "https://serpapi.com/searches/68b876665922f4bcf6c66da3/images/c7243bf03ab47c46539a538e95b3657470a5ae3820f4423267b908af3447a8e1.png",
+            "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSGPWen0NSdf2ymRg_GETbDjXSV_y0RccUQrQ",
+            "date": "Nov 12, 2024",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT03qv7wptCojZx9Srs7NyEPnA4TWAz5wtFOW4Xz3mZifVxUw&s",
+            "link": "https://www.youtube.com/shorts/UF7P8avgUVk"
+        },
+        {
+            "position": 3,
+            "title": "5 Shocking Facts About Climate Change Everyone Needs to ...",
+            "source": "YouTube",
+            "profile_name": "Captain Top Facts",
+            "extensions": [
+                "Captain Top Facts"
+            ],
+            "source_logo": "https://serpapi.com/searches/68b876665922f4bcf6c66da3/images/c7243bf03ab47c469911d5c359322bc2eb95b2e667789b0e3327f9a9e7164e20.png",
+            "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQ7RpaeU6Bs8v4wQQ-BveJ4a7lREvT9eqZ6Rw",
+            "date": "Sep 27, 2024",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTWfaRHz1prTQLSTjvAjYdKa23ipD-YSpK117_9JpktW_e6Q&s",
+            "link": "https://www.youtube.com/watch?v=imdLrkjIHSQ"
+        },
+        {
+            "position": 4,
+            "title": "Top 5 Facts About Climate Change You Need to Know",
+            "source": "YouTube",
+            "profile_name": "Top 5 Across The Globe - With Raj",
+            "extensions": [
+                "Top 5 Across The Globe - With Raj"
+            ],
+            "source_logo": "https://serpapi.com/searches/68b876665922f4bcf6c66da3/images/c7243bf03ab47c4618438569cf4e766a568d64b154ddd53d6d78006de6ab62ee.png",
+            "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRjFZqXx0HI-gy9uN-rrW0QpaKKcyABQvtoNQ",
+            "date": "Mar 10, 2025",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg33BMjf91roF_tqhHg_OjB1lY7hsAIzRR0HZjRE1UIBbP1g&s",
+            "link": "https://www.youtube.com/watch?v=EMOGuB77DKA"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "What are 5 facts about climate change?",
+            "type": "featured_snippet",
+            "title": "The Evidence for Rapid Climate Change Is Compelling:",
+            "date": "Oct 23, 2024",
+            "link": "https://science.nasa.gov/climate-change/evidence/",
+            "list": [
+                "Global Temperature Is Rising. ... ",
+                "The Ocean Is Getting Warmer. ... ",
+                "The Ice Sheets Are Shrinking. ... ",
+                "Glaciers Are Retreating. ... ",
+                "Snow Cover Is Decreasing. ... ",
+                "Sea Level Is Rising. ... ",
+                "Arctic Sea Ice Is Declining. ... ",
+                "Extreme Events Are Increasing in Frequency."
+            ],
+            "displayed_link": "https://science.nasa.gov \u203a climate-change \u203a evidence",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRlJ6Z3Rjbk5KY1VFNU4yTnVNRE5RWDNKUk1GQkphbnBKYzJSSFUxOVpUbGwxYVRkTk5UZENMVTUzVFU1QmF6ZEZTMGhoVUhjMk1FWXpibDlyY25OMloyWjBPVGQ2VGxOUFVYbHhjRzB3TWs1UWFWTnRhbmx3T0ZaR2R4SVhZVWhoTkdGTGRraFFUVjlZZDFCQlVEWlBTMjV4UVdNYUlrRkdUVUZIUjNKR1ZXMUJZaTFyZWxaZlJtbFlZMVZxWjBSVWNtTXRPVmRLVUhjIiwiZmN2IjoiMyIsImVpIjoiYUhhNGFLdkhQTV9Yd1BBUDZPS25xQWMiLCJxYyI6IkNoUmpiR2x0WVhSbElHTm9ZVzVuWlNCbVlXTjBjeEFBZlZ3a1NqOCIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgNSBmYWN0cyBhYm91dCBjbGltYXRlIGNoYW5nZT8iLCJsayI6IkdpVjNhR0YwSUdGeVpTQTFJR1poWTNSeklHRmliM1YwSUdOc2FXMWhkR1VnWTJoaGJtZGwiLCJicyI6ImMtTUs0VklMejBnc1VVZ3NTbFV3VlVoTFRDNHBWa2hNeWk4dFVVak95Y3hOTEVsVlNNNUl6RXRQdFpmNEpXdWtMcVZhVG94aUxnOHVCYmlwaGdiWVZOcExyTGN5VXBTU0w4ZXZqQ3VNU3hOdVVrbEdxb0s1UW1wYVdpcElYWDRhaGhPX0NocXBTYW5BamNTamxzdUZTODRqdjF3aE9URlBvVHhWSVMyekFzT3dIX3BHOGxLeUdmZ1VDVEFDQUEiLCJpZCI6ImZjX2FIYTRhS3ZIUE1fWHdQQVA2T0tucUFjXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRlJ6Z3Rjbk5KY1VFNU4yTnVNRE5RWDNKUk1GQkphbnBKYzJSSFUxOVpUbGwxYVRkTk5UZENMVTUzVFU1QmF6ZEZTMGhoVUhjMk1FWXpibDlyY25OMloyWjBPVGQ2VGxOUFVYbHhjRzB3TWs1UWFWTnRhbmx3T0ZaR2R4SVhZVWhoTkdGTGRraFFUVjlZZDFCQlVEWlBTMjV4UVdNYUlrRkdUVUZIUjNKR1ZXMUJZaTFyZWxaZlJtbFlZMVZxWjBSVWNtTXRPVmRLVUhjIiwiZmN2IjoiMyIsImVpIjoiYUhhNGFLdkhQTV9Yd1BBUDZPS25xQWMiLCJxYyI6IkNoUmpiR2x0WVhSbElHTm9ZVzVuWlNCbVlXTjBjeEFBZlZ3a1NqOCIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgNSBmYWN0cyBhYm91dCBjbGltYXRlIGNoYW5nZT8iLCJsayI6IkdpVjNhR0YwSUdGeVpTQTFJR1poWTNSeklHRmliM1YwSUdOc2FXMWhkR1VnWTJoaGJtZGwiLCJicyI6ImMtTUs0VklMejBnc1VVZ3NTbFV3VlVoTFRDNHBWa2hNeWk4dFVVak95Y3hOTEVsVlNNNUl6RXRQdFpmNEpXdWtMcVZhVG94aUxnOHVCYmlwaGdiWVZOcExyTGN5VXBTU0w4ZXZqQ3VNU3hOdVVrbEdxb0s1UW1wYVdpcElYWDRhaGhPX0NocXBTYW5BamNTamxzdUZTODRqdjF3aE9URlBvVHhWSVMyekFzT3dIX3BHOGxLeUdmZ1VDVEFDQUEiLCJpZCI6ImZjX2FIYTRhS3ZIUE1fWHdQQVA2T0tucUFjXzEifQ%3D%3D"
+        },
+        {
+            "question": "What are 10 facts about climate?",
+            "type": "featured_snippet",
+            "title": "10 climate change facts you can't afford to ignore",
+            "date": "Jun 5, 2025",
+            "link": "https://www.ecotricity.co.uk/our-news/2025/10-climate-change-facts-you-cant-afford-to-ignore",
+            "list": [
+                "The Earth just keeps getting hotter.",
+                "Plastic pollution is getting worse.",
+                "Greenhouse gas levels are higher than ever.",
+                "Extreme weather is getting more extreme.",
+                "Sea ice is vanishing.",
+                "Record-breaking downpours.",
+                "Biodiversity loss is at an all-time high."
+            ],
+            "displayed_link": "https://www.ecotricity.co.uk \u203a our-news \u203a 10-climate-cha...",
+            "source_logo": "https://serpapi.com/searches/68b876665922f4bcf6c66da3/images/30e16be34fb3492d68f1e31b7a087bb85e31dc4a62d87b6c777733e218f6f4fe.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRlJ6Z3Rjbk5KY1VFNU4yTnVNRE5RWDNKUk1GQkphbnBKYzJSSFUxOVpUbGwxYVRkTk5UZENMVTUzVFU1QmF6ZEZTMGhoVUhjMk1FWXpibDlyY25OMloyWjBPVGQ2VGxOUFVYbHhjRzB3TWs1UWFWTnRhbmx3T0ZaR2R4SVhZVWhoTkdGTGRraFFUVjlZZDFCQlVEWlBTMjV4UVdNYUlrRkdUVUZIUjNKR1ZXMUJZaTFyZWxaZlJtbFlZMVZxWjBSVWNtTXRPVmRLVUhjIiwiZmN2IjoiMyIsImVpIjoiYUhhNGFLdkhQTV9Yd1BBUDZPS25xQWMiLCJxYyI6IkNoUmpiR2x0WVhSbElHTm9ZVzVuWlNCbVlXTjBjeEFBZlZ3a1NqOCIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgMTAgZmFjdHMgYWJvdXQgY2xpbWF0ZT8iLCJsayI6IkdoOTNhR0YwSUdGeVpTQXhNQ0JtWVdOMGN5QmhZbTkxZENCamJHbHRZWFJsIiwiYnMiOiJjLU1LNFZJTHowZ3NVVWdzU2xVd1ZVaExUQzRwVmtoTXlpOHRVVWpPeWN4TkxFbFZTTTVJekV0UHRaZjRKV3VrTHFWYVRveGlMZzh1QmJpcGhnYllWTnBMckxjeVVwU1NMOGV2akN1TVN4TnVVa2xHcW9LNVFtcGFXaXBJWFg0YWhoT19DaHFwU2FuQWpjU2psc3VGUzg0anYxd2hPVEZQb1R4VklTMnpBc093SF9wRzhsS3lHZmdVQ1RBQ0FBIiwiaWQiOiJmY19hSGE0YUt2SFBNX1h3UEFQNk9LbnFBY18xIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRlJ6Z3Rjbk5KY1VFNU4yTnVNRE5RWDNKUk1GQkphbnBKYzJSSFUxOVpUbGwxYVRkTk5UZENMVTUzVFU1QmF6ZEZTMGhoVUhjMk1FWXpibDlyY25OMloyWjBPVGQ2VGxOUFVYbHhjRzB3TWs1UWFWTnRhbmx3T0ZaR2R4SVhZVWhoTkdGTGRraFFUVjlZZDFCQlVEWlBTMjV4UVdNYUlrRkdUVUZIUjNKR1ZXMUJZaTFyZWxaZlJtbFlZMVZxWjBSVWNtTXRPVmRLVUhjIiwiZmN2IjoiMyIsImVpIjoiYUhhNGFLdkhQTV9Yd1BBUDZPS25xQWMiLCJxYyI6IkNoUmpiR2x0WVhSbElHTm9ZVzVuWlNCbVlXTjBjeEFBZlZ3a1NqOCIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgMTAgZmFjdHMgYWJvdXQgY2xpbWF0ZT8iLCJsayI6IkdoOTNhR0YwSUdGeVpTQXhNQ0JtWVdOMGN5QmhZbTkxZENCamJHbHRZWFJsIiwiYnMiOiJjLU1LNFZJTHowZ3NVVWdzU2xVd1ZVaExUQzRwVmtoTXlpOHRVVWpPeWN4TkxFbFZTTTVJekV0UHRaZjRKV3VrTHFWYVRveGlMZzh1QmJpcGhnYllWTnBMckxjeVVwU1NMOGV2akN1TVN4TnVVa2xHcW9LNVFtcGFXaXBJWFg0YWhoT19DaHFwU2FuQWpjU2psc3VGUzg0anYxd2hPVEZQb1R4VklTMnpBc093SF9wRzhsS3lHZmdVQ1RBQ0FBIiwiaWQiOiJmY19hSGE0YUt2SFBNX1h3UEFQNk9LbnFBY18xIn0%3D"
+        },
+        {
+            "question": "What are the 7 effects of climate change?",
+            "type": "featured_snippet",
+            "snippet": "Climate change is the single biggest health threat facing humanity. Climate impacts are already harming health, through air pollution, disease, extreme weather events, forced displacement, pressures on mental health, and increased hunger and poor nutrition in places where people cannot grow or find sufficient food.",
+            "title": "Causes and Effects of Climate Change | United Nations",
+            "link": "https://www.un.org/en/climatechange/science/causes-effects-climate-change#:~:text=Climate%20change%20is%20the%20single,grow%20or%20find%20sufficient%20food.",
+            "displayed_link": "https://www.un.org \u203a climatechange \u203a science \u203a causes-ef...",
+            "source_logo": "https://serpapi.com/searches/68b876665922f4bcf6c66da3/images/30e16be34fb3492d68f1e31b7a087bb8bee7792dc7b0c7c52c99e7c99ed8e340.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRlJ6Z3Rjbk5KY1VFNU4yTnVNRE5RWDNKUk1GQkphbnBKYzJSSFUxOVpUbGwxYVRkTk5UZENMVTUzVFU1QmF6ZEZTMGhoVUhjMk1FWXpibDlyY25OMloyWjBPVGQ2VGxOUFVYbHhjRzB3TWs1UWFWTnRhbmx3T0ZaR2R4SVhZVWhoTkdGTGRraFFUVjlZZDFCQlVEWlBTMjV4UVdNYUlrRkdUVUZIUjNKR1ZXMUJZaTFyZWxaZlJtbFlZMVZxWjBSVWNtTXRPVmRLVUhjIiwiZmN2IjoiMyIsImVpIjoiYUhhNGFLdkhQTV9Yd1BBUDZPS25xQWMiLCJxYyI6IkNoUmpiR2x0WVhSbElHTm9ZVzVuWlNCbVlXTjBjeEFBZlZ3a1NqOCIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIDcgZWZmZWN0cyBvZiBjbGltYXRlIGNoYW5nZT8iLCJsayI6IkdpUjNhR0YwSUdGeVpTQTNJR1ZtWm1WamRITWdiMllnWTJ4cGJXRjBaU0JqYUdGdVoyVSIsImJzIjoiYy1NSzRWSUx6MGdzVVVnc1NsVXdWVWhMVEM0cFZraE15aTh0VVVqT3ljeE5MRWxWU001SXpFdFB0WmY0Sld1a0xxVmFUb3hpTGc4dUJiaXBoZ2JZVk5wTHJMY3lVcFNTTDhldmpDdU1TeE51VWtsR3FvSzVRbXBhV2lwSVhYNGFoaE9fQ2hxcFNhbkFqY1NqbHN1RlM4NGp2MXdoT1RGUG9UeFZJUzJ6QXNPd0hfcEc4bEt5R2ZnVUNUQUNBQSIsImlkIjoiZmNfYUhhNGFLdkhQTV9Yd1BBUDZPS25xQWNfMSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRlJ6Z3Rjbk5KY1VFNU4yTnVNRE5RWDNKUk1GQkphbnBKYzJSSFUxOVpUbGwxYVRkTk5UZENMVTUzVFU1QmF6ZEZTMGhoVUhjMk1FWXpibDlyY25OMloyWjBPVGQ2VGxOUFVYbHhjRzB3TWs1UWFWTnRhbmx3T0ZaR2R4SVhZVWhoTkdGTGRraFFUVjlZZDFCQlVEWlBTMjV4UVdNYUlrRkdUVUZIUjNKR1ZXMUJZaTFyZWxaZlJtbFlZMVZxWjBSVWNtTXRPVmRLVUhjIiwiZmN2IjoiMyIsImVpIjoiYUhhNGFLdkhQTV9Yd1BBUDZPS25xQWMiLCJxYyI6IkNoUmpiR2x0WVhSbElHTm9ZVzVuWlNCbVlXTjBjeEFBZlZ3a1NqOCIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIDcgZWZmZWN0cyBvZiBjbGltYXRlIGNoYW5nZT8iLCJsayI6IkdpUjNhR0YwSUdGeVpTQTNJR1ZtWm1WamRITWdiMllnWTJ4cGJXRjBaU0JqYUdGdVoyVSIsImJzIjoiYy1NSzRWSUx6MGdzVVVnc1NsVXdWVWhMVEM0cFZraE15aTh0VVVqT3ljeE5MRWxWU001SXpFdFB0WmY0Sld1a0xxVmFUb3hpTGc4dUJiaXBoZ2JZVk5wTHJMY3lVcFNTTDhldmpDdU1TeE51VWtsR3FvSzVRbXBhV2lwSVhYNGFoaE9fQ2hxcFNhbkFqY1NqbHN1RlM4NGp2MXdoT1RGUG9UeFZJUzJ6QXNPd0hfcEc4bEt5R2ZnVUNUQUNBQSIsImlkIjoiZmNfYUhhNGFLdkhQTV9Yd1BBUDZPS25xQWNfMSJ9"
+        },
+        {
+            "question": "How can we fix climate change?",
+            "type": "ai_overview",
+            "text_blocks": [
+                {
+                    "type": "paragraph",
+                    "snippet": "To fix climate change, we must drastically reduce greenhouse gas emissions by transitioning away from fossil fuels to renewable energy like solar and wind power, improving energy efficiency, and adopting sustainable transportation and practices. Simultaneously, actions such as reforesting and restoring nature, changing agricultural practices, reducing consumption, and implementing carbon capture technologies are necessary to absorb existing carbon dioxide from the atmosphere.",
+                    "snippet_highlighted_words": [
+                        "drastically reduce greenhouse gas emissions by transitioning away from fossil fuels to renewable energy like solar and wind power, improving energy efficiency, and adopting sustainable transportation and practices"
+                    ],
+                    "reference_indexes": [
+                        0,
+                        2,
+                        3,
+                        4,
+                        6,
+                        12
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "snippet": "Transition to Clean Energy & Reduce Emissions",
+                    "reference_indexes": [
+                        12
+                    ]
+                },
+                {
+                    "type": "list",
+                    "list": [
+                        {
+                            "title": "Invest in Renewable Energy:",
+                            "snippet": "Replace fossil fuels with solar, wind, and other renewable energy sources to power homes and industries.",
+                            "reference_indexes": [
+                                1,
+                                3
+                            ]
+                        },
+                        {
+                            "title": "Improve Energy Efficiency:",
+                            "snippet": "Reduce energy consumption through better home insulation, using energy-efficient appliances, and turning off lights when not needed.",
+                            "reference_indexes": [
+                                2,
+                                5
+                            ]
+                        },
+                        {
+                            "title": "Adopt Sustainable Transportation:",
+                            "snippet": "Walk, bike, use public transport, carpool, and switch to fuel-efficient or electric vehicles to lower emissions from travel.",
+                            "reference_indexes": [
+                                1,
+                                2,
+                                5
+                            ]
+                        },
+                        {
+                            "title": "Reduce Industrial Emissions:",
+                            "snippet": "Update industrial processes to be more energy-efficient and explore carbon capture and storage technologies for unavoidable emissions.",
+                            "reference_indexes": [
+                                3
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "snippet": "Enhance Natural Carbon Sinks",
+                    "reference_indexes": [
+                        9
+                    ]
+                },
+                {
+                    "type": "list",
+                    "list": [
+                        {
+                            "title": "Reforest and Restore Nature:",
+                            "snippet": "Plant trees, restore forests, and protect ecosystems like oceans and seagrasses, which absorb carbon dioxide from the atmosphere.",
+                            "reference_indexes": [
+                                1,
+                                3,
+                                6
+                            ]
+                        },
+                        {
+                            "title": "Promote Sustainable Agriculture:",
+                            "snippet": "Implement farming practices, like using cover crops, that help store more carbon in the soil.",
+                            "reference_indexes": [
+                                0,
+                                3,
+                                6
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "snippet": "Change Consumption Habits"
+                },
+                {
+                    "type": "list",
+                    "list": [
+                        {
+                            "title": "Eat Less Meat:",
+                            "snippet": "Shifting towards more plant-based diets can significantly reduce greenhouse gas emissions from livestock.",
+                            "reference_indexes": [
+                                1,
+                                2,
+                                10
+                            ]
+                        },
+                        {
+                            "title": "Reduce, Reuse, and Recycle:",
+                            "snippet": "Minimize waste and reduce overall consumption of goods, as producing and transporting products requires energy.",
+                            "reference_indexes": [
+                                5,
+                                11
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "snippet": "Implement Broader Strategies"
+                },
+                {
+                    "type": "list",
+                    "list": [
+                        {
+                            "title": "Develop Carbon Removal Technologies:",
+                            "snippet": "Invest in and deploy technologies like direct air capture to remove existing CO2 from the atmosphere.",
+                            "reference_indexes": [
+                                3,
+                                7
+                            ]
+                        },
+                        {
+                            "title": "Adapt to Climate Impacts:",
+                            "snippet": "Design communities and infrastructure with rising sea levels and other climate changes in mind to build resilience.",
+                            "reference_indexes": [
+                                6
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "snippet": "Ultimately, achieving \"net zero\" emissions by 2050, where no more carbon is added to the atmosphere than is removed, is crucial to limit global warming and avoid the worst impacts of climate change.",
+                    "reference_indexes": [
+                        4,
+                        8
+                    ]
+                }
+            ],
+            "references": [
+                {
+                    "title": "What Are the Solutions to Climate Change? - NRDC",
+                    "link": "https://www.nrdc.org/stories/what-are-solutions-climate-change",
+                    "snippet": "Dec 13, 2022 \u2014 What Are the Solutions to Climate Change? * Ending our reliance on fossil fuels. * Greater energy efficiency. * Renew...",
+                    "source": "NRDC",
+                    "index": 0
+                },
+                {
+                    "title": "What are the solutions to climate change? - Greenpeace UK",
+                    "link": "https://www.greenpeace.org.uk/challenges/climate-change/solutions-climate-change/",
+                    "snippet": "Take action to protect pollinators * Keep fossil fuels in the ground. ... * Invest in renewable energy. ... * Switch to sustainab...",
+                    "source": "Greenpeace UK",
+                    "index": 1
+                },
+                {
+                    "title": "Actions for a healthy planet | United Nations",
+                    "link": "https://www.un.org/en/actnow/ten-actions",
+                    "source": "the United Nations",
+                    "index": 2
+                },
+                {
+                    "title": "What Can Be Done About Climate Change | MIT Climate Portal",
+                    "link": "https://climate.mit.edu/what-can-be-done-about-climate-change",
+                    "source": "MIT Climate Portal",
+                    "index": 3
+                },
+                {
+                    "title": "Climate Solutions - Union of Concerned Scientists",
+                    "link": "https://www.ucs.org/climate/solutions#:~:text=While%20climate%20change%20cannot%20be,atmosphere%20than%20is%20taken%20out.",
+                    "snippet": "While climate change cannot be stopped, it can be slowed. To avoid the worst consequences of climate change, we'll need to reach \u201c...",
+                    "source": "Union of Concerned Scientists",
+                    "index": 4
+                },
+                {
+                    "title": "What You Can Do about Climate Change | US EPA",
+                    "link": "https://www.epa.gov/climate-change/what-you-can-do-about-climate-change#:~:text=At%20Home:,opt%20for%20better%20fuel%20efficiency.",
+                    "snippet": "Jan 27, 2025 \u2014 At Home: Select energy- and water-efficient appliances and fixtures. Power your home with renewable energy when possib...",
+                    "source": "Environmental Protection Agency (EPA)",
+                    "index": 5
+                },
+                {
+                    "title": "Are there real ways to fight climate change? Yes.",
+                    "link": "https://www.nationalgeographic.com/environment/article/global-warming-solutions",
+                    "snippet": "May 17, 2023",
+                    "source": "National Geographic",
+                    "index": 6
+                },
+                {
+                    "title": "Climate Change - the United Nations",
+                    "link": "https://www.un.org/en/global-issues/climate-change#:~:text=Global%20Warming%20of%201.5%C2%B0C&text=The%20report%20also%20highlights%20a,removing%20CO2%20from%20the%20air.&text=Your%20browser%20can't%20play%20this%20video.,-Learn%20more&text=Learn%20more-,An%20error%20occurred.,is%20disabled%20in%20your%20browser.",
+                    "snippet": "Global Warming of 1.5\u00b0C ... The report also highlights a number of climate change impacts that could be avoided by limiting global...",
+                    "source": "Welcome to the United Nations",
+                    "index": 7
+                },
+                {
+                    "title": "Net Zero Coalition | United Nations",
+                    "link": "https://www.un.org/en/climatechange/net-zero-coalition#:~:text=Currently%2C%20the%20Earth%20is%20already,reach%20net%20zero%20by%202050.",
+                    "snippet": "Currently, the Earth is already about 1.2\u00b0C warmer than it was in the late 1800s, and emissions continue to rise. To keep global w...",
+                    "source": "Welcome to the United Nations",
+                    "index": 8
+                },
+                {
+                    "title": "Climate change: Strategies for mitigation and adaptation",
+                    "link": "https://www.the-innovation.org/article/doi/10.59717/j.xinn-geo.2023.100015#:~:text=Additionally%2C%20efforts%20to%20restore%20and%20enhance%20natural,sequester%20carbon%20and%20mitigate%20climate%20change%20impacts.",
+                    "snippet": "Jun 23, 2023 \u2014 Additionally, efforts to restore and enhance natural carbon sinks can help to sequester carbon and mitigate climate ch...",
+                    "source": "the-innovation.org",
+                    "index": 9
+                },
+                {
+                    "title": "How You Can Help Mitigate Climate Change as a Student",
+                    "link": "https://www.oxfordscholastica.com/blog/university-preparation-articles/what-students-need-to-know-about-climate-change/#:~:text=2.%20Adopt%20a%20Green%20Diet%20The%20meat,you%20can%20actively%20reduce%20your%20carbon%20footprint.",
+                    "snippet": "Mar 14, 2025 \u2014 2. Adopt a Green Diet The meat and dairy industries contribute significantly to greenhouse gas emissions. By reducing ...",
+                    "source": "Oxford Scholastica",
+                    "index": 10
+                },
+                {
+                    "title": "10 Solutions for Climate Change",
+                    "link": "https://www.scientificamerican.com/article/10-solutions-for-climate-change/#:~:text=Consume%20Less%E2%80%94The%20easiest%20way%20to%20cut%20back,produce%20and%20ship%20products%20around%20the%20globe.",
+                    "snippet": "Nov 26, 2007 \u2014 Consume Less\u2014The easiest way to cut back on greenhouse gas emissions is simply to buy less stuff. Whether by forgoing ...",
+                    "source": "Scientific American",
+                    "index": 11
+                },
+                {
+                    "title": "Unleashing the Power of Climate Mitigation: Building a Sustainable Energy Future Through Renewable Energy, Efficiency, and Innovation",
+                    "link": "https://link.springer.com/chapter/10.1007/978-981-96-0535-4_14#:~:text=Important%20actions%20include%20switching%20to%20cleaner%20energy,addressing%20this%20connection%20(Kabeyi%20and%20Olanrewaju%2C%202022).",
+                    "snippet": "Feb 14, 2025 \u2014 Important actions include switching to cleaner energy sources, improving energy efficiency, and putting carbon capture...",
+                    "source": "Springer",
+                    "index": 12
+                }
+            ],
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRlJ6Z3Rjbk5KY1VFNU4yTnVNRE5RWDNKUk1GQkphbnBKYzJSSFUxOVpUbGwxYVRkTk5UZENMVTUzVFU1QmF6ZEZTMGhoVUhjMk1FWXpibDlyY25OMloyWjBPVGQ2VGxOUFVYbHhjRzB3TWs1UWFWTnRhbmx3T0ZaR2R4SVhZVWhoTkdGTGRraFFUVjlZZDFCQlVEWlBTMjV4UVdNYUlrRkdUVUZIUjNKR1ZXMUJZaTFyZWxaZlJtbFlZMVZxWjBSVWNtTXRPVmRLVUhjIiwiZmN2IjoiMyIsImVpIjoiYUhhNGFLdkhQTV9Yd1BBUDZPS25xQWMiLCJxYyI6IkNoUmpiR2x0WVhSbElHTm9ZVzVuWlNCbVlXTjBjeEFBZlZ3a1NqOCIsInF1ZXN0aW9uIjoiSG93IGNhbiB3ZSBmaXggY2xpbWF0ZSBjaGFuZ2U/IiwibGsiOiJHaDFvYjNjZ1kyRnVJSGRsSUdacGVDQmpiR2x0WVhSbElHTm9ZVzVuWlEiLCJicyI6ImMtTUs0VklMejBnc1VVZ3NTbFV3VlVoTFRDNHBWa2hNeWk4dFVVak95Y3hOTEVsVlNNNUl6RXRQdFpmNEpXdWtMcVZhVG94aUxnOHVCYmlwaGdiWVZOcExyTGN5VXBTU0w4ZXZqQ3VNU3hOdVVrbEdxb0s1UW1wYVdpcElYWDRhaGhPX0NocXBTYW5BamNTamxzdUZTODRqdjF3aE9URlBvVHhWSVMyekFzT3dIX3BHOGxLeUdmZ1VDVEFDQUEiLCJpZCI6ImZjX2FIYTRhS3ZIUE1fWHdQQVA2T0tucUFjXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRlJ6Z3Rjbk5KY1VFNU4yTnVNRE5RWDNKUk1GQkphbnBKYzJSSFUxOVpUbGwxYVRkTk5UZENMVTUzVFU1QmF6ZEZTMGhoVUhjMk1FWXpibDlyY25OMloyWjBPVGQ2VGxOUFVYbHhjRzB3TWs1UWFWTnRhbmx3T0ZaR2R4SVhZVWhoTkdGTGRraFFUVjlZZDFCQlVEWlBTMjV4UVdNYUlrRkdUVUZIUjNKR1ZXMUJZaTFyZWxaZlJtbFlZMVZxWjBSVWNtTXRPVmRLVUhjIiwiZmN2IjoiMyIsImVpIjoiYUhhNGFLdkhQTV9Yd1BBUDZPS25xQWMiLCJxYyI6IkNoUmpiR2x0WVhSbElHTm9ZVzVuWlNCbVlXTjBjeEFBZlZ3a1NqOCIsInF1ZXN0aW9uIjoiSG93IGNhbiB3ZSBmaXggY2xpbWF0ZSBjaGFuZ2U%2FIiwibGsiOiJHaDFvYjNjZ1kyRnVJSGRsSUdacGVDQmpiR2x0WVhSbElHTm9ZVzVuWlEiLCJicyI6ImMtTUs0VklMejBnc1VVZ3NTbFV3VlVoTFRDNHBWa2hNeWk4dFVVak95Y3hOTEVsVlNNNUl6RXRQdFpmNEpXdWtMcVZhVG94aUxnOHVCYmlwaGdiWVZOcExyTGN5VXBTU0w4ZXZqQ3VNU3hOdVVrbEdxb0s1UW1wYVdpcElYWDRhaGhPX0NocXBTYW5BamNTamxzdUZTODRqdjF3aE9URlBvVHhWSVMyekFzT3dIX3BHOGxLeUdmZ1VDVEFDQUEiLCJpZCI6ImZjX2FIYTRhS3ZIUE1fWHdQQVA2T0tucUFjXzEifQ%3D%3D"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Evidence - NASA Science",
+            "link": "https://science.nasa.gov/climate-change/evidence/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://science.nasa.gov/climate-change/evidence/&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQFnoECA8QAQ",
+            "displayed_link": "https://science.nasa.gov \u203a climate-change \u203a evidence",
+            "favicon": "https://serpapi.com/searches/68b876665922f4bcf6c66da3/images/3b7ec26f8d9818bee66633f6740a0cc81960d8bc45d54fbc41fa289b69e1a6f8.png",
+            "date": "Oct 23, 2024",
+            "snippet": "The Evidence for Rapid Climate Change Is Compelling: \u00b7 Global Temperature Is Rising \u00b7 The Ocean Is Getting Warmer \u00b7 The Ice Sheets Are Shrinking.",
+            "snippet_highlighted_words": [
+                "Global Temperature Is Rising"
+            ],
+            "source": "NASA Science (.gov)"
+        },
+        {
+            "position": 2,
+            "title": "Climate change: global temperature",
+            "link": "https://www.climate.gov/news-features/understanding-climate/climate-change-global-temperature",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.climate.gov/news-features/understanding-climate/climate-change-global-temperature&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQFnoECA4QAQ",
+            "displayed_link": "https://www.climate.gov \u203a understanding-climate \u203a clima...",
+            "favicon": "https://serpapi.com/searches/68b876665922f4bcf6c66da3/images/3b7ec26f8d9818bee66633f6740a0cc8e55f0fe9e0c81cb7a5cdad7659849bbb.png",
+            "author": "by R Lindsey",
+            "snippet": "Earth's temperature has risen by an average of 0.11\u00b0 Fahrenheit (0.06\u00b0 Celsius) per decade since 1850, or about 2\u00b0 F in total.",
+            "snippet_highlighted_words": [
+                "Earth's temperature has risen by an average of 0.11\u00b0 Fahrenheit (0.06\u00b0 Celsius) per decade since 1850"
+            ],
+            "source": "National Oceanic and Atmospheric Administration (.gov)"
+        },
+        {
+            "position": 3,
+            "title": "Climate Change - 10 Facts You Need To Know",
+            "link": "https://www.conservation.org/stories/climate-change-facts",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.conservation.org/stories/climate-change-facts&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQFnoECAwQAQ",
+            "displayed_link": "https://www.conservation.org \u203a stories \u203a climate-change-...",
+            "favicon": "https://serpapi.com/searches/68b876665922f4bcf6c66da3/images/3b7ec26f8d9818bee66633f6740a0cc847dffd5b3fe68f2e9f013ff2b5658e87.png",
+            "snippet": "SHARE THESE FACTS ABOUT CLIMATE CHANGE:\u200b \u00b7 Fact 1: 421 parts per million \u00b7 Fact 2: 2024 was the hottest year on record \u00b7 Fact 3: 20% of emissions \u00b7 Fact 4: ...",
+            "snippet_highlighted_words": [
+                "421 parts per million"
+            ],
+            "source": "Conservation International"
+        },
+        {
+            "position": 4,
+            "title": "Climate change impacts",
+            "link": "https://www.noaa.gov/education/resource-collections/climate/climate-change-impacts",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.noaa.gov/education/resource-collections/climate/climate-change-impacts&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQFnoECA0QAQ",
+            "displayed_link": "https://www.noaa.gov \u203a education \u203a resource-collections",
+            "favicon": "https://serpapi.com/searches/68b876665922f4bcf6c66da3/images/3b7ec26f8d9818bee66633f6740a0cc8ff352b51b52ef3c90dfce5a93e68484e.png",
+            "snippet": "Global temperatures increased. Temperature increased about 2\u00b0F (1.1\u00b0C) from 1850 to 2023. \u00b7 Sea level rise has sped up. \u00b7 Glaciers are shrinking \u00b7 Arctic sea ice ...",
+            "snippet_highlighted_words": [
+                "Global temperatures increased"
+            ],
+            "source": "National Oceanic and Atmospheric Administration (.gov)"
+        },
+        {
+            "position": 5,
+            "title": "Climate Action Fast Facts",
+            "link": "https://www.un.org/en/climatechange/science/key-findings",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.un.org/en/climatechange/science/key-findings&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQFnoFCKEBEAE",
+            "displayed_link": "https://www.un.org \u203a science \u203a key-findings",
+            "favicon": "https://serpapi.com/searches/68b876665922f4bcf6c66da3/images/3b7ec26f8d9818bee66633f6740a0cc8af2a1135f4dbeceb4ffe1af52a6de5da.png",
+            "snippet": "Global surface temperature has increased faster since 1970 than in any other 50-year period over at least the last 2000 years. \u00b7 The Earth is now between 1.34\u00b0C ...",
+            "snippet_highlighted_words": [
+                "Global surface temperature has increased faster since 1970"
+            ],
+            "source": "Welcome to the United Nations"
+        },
+        {
+            "position": 6,
+            "title": "What is climate change: facts for kids",
+            "link": "https://www.natgeokids.com/au/discover/geography/general-geography/what-is-climate-change/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.natgeokids.com/au/discover/geography/general-geography/what-is-climate-change/&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQFnoFCM4BEAE",
+            "displayed_link": "https://www.natgeokids.com \u203a general-geography \u203a wh...",
+            "favicon": "https://serpapi.com/searches/68b876665922f4bcf6c66da3/images/3b7ec26f8d9818bee66633f6740a0cc8050f49c61c13e0734f327af35a29b0ff.jpeg",
+            "snippet": "Climate change (or global warming), is the process of our planet heating up. Scientists estimate that since the Industrial Revolution, human activity has ...",
+            "snippet_highlighted_words": [
+                "Climate change (or global warming), is the process of our planet heating up"
+            ],
+            "source": "National Geographic Kids"
+        },
+        {
+            "position": 7,
+            "title": "Global Warming 101 - Definition, Facts, Causes and Effects ...",
+            "link": "https://www.nrdc.org/stories/global-warming-101",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nrdc.org/stories/global-warming-101&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQFnoECEYQAQ",
+            "displayed_link": "https://www.nrdc.org \u203a stories \u203a global-warming-101",
+            "favicon": "https://serpapi.com/searches/68b876665922f4bcf6c66da3/images/3b7ec26f8d9818bee66633f6740a0cc8e474e49455848e3131082c3222de0fa9.png",
+            "date": "Dec 20, 2024",
+            "snippet": "Global warming results from the increasing concentration of carbon dioxide (CO2) and other greenhouse gases that trap heat in the earth's atmosphere.",
+            "snippet_highlighted_words": [
+                "Global warming results from the increasing concentration of carbon dioxide (CO2"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Causes Climate Change",
+                        "link": "https://www.nrdc.org/stories/what-are-causes-climate-change"
+                    },
+                    {
+                        "title": "Effects of Climate Change",
+                        "link": "https://www.nrdc.org/stories/what-are-effects-climate-change"
+                    },
+                    {
+                        "title": "Climate Tipping Points",
+                        "link": "https://www.nrdc.org/stories/climate-tipping-points-are-closer-once-thought"
+                    }
+                ]
+            },
+            "source": "NRDC"
+        },
+        {
+            "position": 8,
+            "title": "Facts About Climate Change & FAQ's",
+            "link": "https://www.nature.org/en-us/what-we-do/our-priorities/tackle-climate-change/climate-change-stories/climate-change-frequently-asked-questions/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nature.org/en-us/what-we-do/our-priorities/tackle-climate-change/climate-change-stories/climate-change-frequently-asked-questions/&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQFnoECGwQAQ",
+            "displayed_link": "https://www.nature.org \u203a en-us \u203a climate-change-stories",
+            "favicon": "https://serpapi.com/searches/68b876665922f4bcf6c66da3/images/3b7ec26f8d9818bee66633f6740a0cc89bd464a12f641ee48554704be1690ba2.png",
+            "date": "May 21, 2025",
+            "snippet": "Warmer water takes up more space, causing sea level to rise. As land-based ice melts, this addition of water from land to the ocean causes the ...",
+            "snippet_highlighted_words": [
+                "Warmer water takes up more space, causing sea level to rise"
+            ],
+            "source": "The Nature Conservancy"
+        },
+        {
+            "position": 9,
+            "title": "11 Interesting Climate Change Facts",
+            "link": "https://earth.org/data_visualization/11-interesting-facts-about-climate-change/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://earth.org/data_visualization/11-interesting-facts-about-climate-change/&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQFnoFCIIBEAE",
+            "displayed_link": "https://earth.org \u203a data_visualization \u203a 11-interesting-fa...",
+            "favicon": "https://serpapi.com/searches/68b876665922f4bcf6c66da3/images/3b7ec26f8d9818bee66633f6740a0cc837623fd851e84ca1305c2a25c05911aa.png",
+            "snippet": "11 Interesting Climate Change Facts \u00b7 1. We are certain we caused it \u00b7 2. The last decade was the hottest in 125,000 years \u00b7 3. The ocean absorbs most of the ...",
+            "snippet_highlighted_words": [
+                "1. We are certain we caused it"
+            ],
+            "source": "Earth.Org"
+        },
+        {
+            "position": 10,
+            "title": "Global climate change - statistics & facts",
+            "link": "https://www.statista.com/topics/1148/global-climate-change/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.statista.com/topics/1148/global-climate-change/&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQFnoFCJYBEAE",
+            "displayed_link": "https://www.statista.com \u203a ... \u203a Climate and Weather",
+            "favicon": "https://serpapi.com/searches/68b876665922f4bcf6c66da3/images/3b7ec26f8d9818bee66633f6740a0cc8201ae4df1c05193fa3ccdbb555f13c05.png",
+            "snippet": "Human activities are driving climate change. Soaring emissions have seen the amount of carbon dioxide in the atmosphere increase 50 percent above pre- ...",
+            "snippet_highlighted_words": [
+                "Human activities are driving climate change"
+            ],
+            "source": "Statista"
+        },
+        {
+            "position": 11,
+            "title": "What Is Climate Change?",
+            "link": "https://www.un.org/en/climatechange/what-is-climate-change",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.un.org/en/climatechange/what-is-climate-change&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQFnoFCLIBEAE",
+            "displayed_link": "https://www.un.org \u203a climatechange \u203a what-is-climate-ch...",
+            "favicon": "https://serpapi.com/searches/68b876665922f4bcf6c66da3/images/3b7ec26f8d9818bee66633f6740a0cc8fc7e2655d451046a863f5746ceeefe16.png",
+            "snippet": "Climate change refers to long-term shifts in temperatures and weather patterns. Such shifts can be natural, due to changes in the sun's activity or large ...",
+            "snippet_highlighted_words": [
+                "long-term shifts in temperatures and weather patterns"
+            ],
+            "source": "Welcome to the United Nations"
+        },
+        {
+            "position": 12,
+            "title": "Climate Change Facts for Kids",
+            "link": "https://www.theworldcounts.com/stories/climate-change-facts-for-kids",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.theworldcounts.com/stories/climate-change-facts-for-kids&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQFnoFCLYBEAE",
+            "displayed_link": "https://www.theworldcounts.com \u203a stories \u203a climate-cha...",
+            "favicon": "https://serpapi.com/searches/68b876665922f4bcf6c66da3/images/3b7ec26f8d9818bee66633f6740a0cc8551e9d4440e0c5c26060d2a857a22dbe.png",
+            "snippet": "90% of scientists agree that this current change in our climate is caused by humans. The hottest temperatures over the last 100 years happened after the year ...",
+            "snippet_highlighted_words": [
+                "90% of scientists agree that this current change in our climate is caused by humans"
+            ],
+            "source": "The World Counts"
+        },
+        {
+            "position": 13,
+            "title": "Climate change",
+            "link": "https://www.who.int/news-room/fact-sheets/detail/climate-change-and-health",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.who.int/news-room/fact-sheets/detail/climate-change-and-health&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQFnoFCMkBEAE",
+            "displayed_link": "https://www.who.int \u203a Newsroom \u203a Fact sheets \u203a Detail",
+            "favicon": "https://serpapi.com/searches/68b876665922f4bcf6c66da3/images/3b7ec26f8d9818bee66633f6740a0cc8a8639a78afe751d10121c40b18f0c75f.png",
+            "date": "Oct 12, 2023",
+            "snippet": "Key facts \u00b7 Climate change is directly contributing to humanitarian emergencies from heatwaves, wildfires, floods, tropical storms and hurricanes ...",
+            "snippet_highlighted_words": [
+                "Climate change is directly contributing to humanitarian emergencies"
+            ],
+            "source": "World Health Organization (WHO)"
+        },
+        {
+            "position": 14,
+            "title": "Facts about the climate emergency",
+            "link": "https://www.unep.org/facts-about-climate-emergency",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.unep.org/facts-about-climate-emergency&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQFnoFCNABEAE",
+            "displayed_link": "https://www.unep.org \u203a facts-about-climate-emergency",
+            "favicon": "https://serpapi.com/searches/68b876665922f4bcf6c66da3/images/3b7ec26f8d9818bee66633f6740a0cc834f3dd2e3414a0086bd1424acfa36460.png",
+            "date": "Oct 6, 2022",
+            "snippet": "Every fraction of additional warming above 1.5\u00b0C will bring worsening impacts, threatening lives, food sources, livelihoods and economies ...",
+            "source": "UNEP - UN Environment Programme"
+        },
+        {
+            "position": 15,
+            "title": "Climate change",
+            "link": "https://en.wikipedia.org/wiki/Climate_change",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Climate_change&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQFnoECEQQAQ",
+            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Climate_change",
+            "favicon": "https://serpapi.com/searches/68b876665922f4bcf6c66da3/images/3b7ec26f8d9818bee66633f6740a0cc86803afd6bfabf1014046d14d800e370a.png",
+            "snippet": "Climate change has an increasingly large impact on the environment. Deserts are expanding, while heat waves and wildfires are becoming more common. ... Amplified ...",
+            "snippet_highlighted_words": [
+                "Climate change has an increasingly large impact on the environment"
+            ],
+            "source": "Wikipedia"
+        },
+        {
+            "position": 16,
+            "title": "Climate change: evidence and causes",
+            "link": "https://royalsociety.org/news-resources/projects/climate-change-evidence-causes/basics-of-climate-change/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://royalsociety.org/news-resources/projects/climate-change-evidence-causes/basics-of-climate-change/&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQFnoECFcQAQ",
+            "displayed_link": "https://royalsociety.org \u203a basics-of-climate-change",
+            "favicon": "https://serpapi.com/searches/68b876665922f4bcf6c66da3/images/3b7ec26f8d9818bee66633f6740a0cc854dbbc419db07a5bdae2835eda792d26.jpeg",
+            "snippet": "Since preindustrial times, the atmospheric concentration of CO2 has increased by over 40%, methane has increased by more than 150%, and nitrous oxide has ...",
+            "snippet_highlighted_words": [
+                "atmospheric concentration of CO2 has increased by over 40"
+            ],
+            "source": "Royal Society"
+        },
+        {
+            "position": 17,
+            "title": "Carbon Dioxide | Vital Signs \u2013 Climate Change - NASA",
+            "link": "https://climate.nasa.gov/vital-signs/carbon-dioxide/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://climate.nasa.gov/vital-signs/carbon-dioxide/&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQFnoECGoQAQ",
+            "displayed_link": "https://climate.nasa.gov \u203a vital-signs \u203a carbon-dioxide",
+            "favicon": "https://serpapi.com/searches/68b876665922f4bcf6c66da3/images/3b7ec26f8d9818bee66633f6740a0cc8a824394072f13ffb826d41be48b1d90d.png",
+            "snippet": "Human activities have raised the atmosphere's carbon dioxide content by 50% in less than 200 years.",
+            "source": "NASA (.gov)"
+        },
+        {
+            "position": 18,
+            "title": "Here are 10 myths about climate change - WWF-UK",
+            "link": "https://www.wwf.org.uk/updates/here-are-10-myths-about-climate-change",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.wwf.org.uk/updates/here-are-10-myths-about-climate-change&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQFnoECGsQAQ",
+            "displayed_link": "https://www.wwf.org.uk \u203a updates \u203a here-are-10-myths...",
+            "favicon": "https://serpapi.com/searches/68b876665922f4bcf6c66da3/images/3b7ec26f8d9818bee66633f6740a0cc815fc11a913cdc6f244ce1cd2c6f5598c.png",
+            "snippet": "Global temperatures are now at their highest since records began. In fact, the 10 warmest years on Earth, since 1880, have occurred since 2014. And just last ...",
+            "snippet_highlighted_words": [
+                "Global temperatures are now at their highest since records began"
+            ],
+            "source": "wwf.org.uk"
+        },
+        {
+            "position": 19,
+            "title": "Climate Change: Science and Impacts Factsheet",
+            "link": "https://css.umich.edu/publications/factsheets/climate-change/climate-change-science-and-impacts-factsheet",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://css.umich.edu/publications/factsheets/climate-change/climate-change-science-and-impacts-factsheet&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQFnoFCIABEAE",
+            "displayed_link": "https://css.umich.edu \u203a publications \u203a factsheets \u203a climat...",
+            "favicon": "https://serpapi.com/searches/68b876665922f4bcf6c66da3/images/3b7ec26f8d9818bee66633f6740a0cc8a42415722d8e9c18fc1ee0ce4f98a897.png",
+            "snippet": "Climate change is altering temperature, precipitation, sea levels, and will adversely impact human and natural systems.",
+            "snippet_highlighted_words": [
+                "Climate change is altering temperature, precipitation, sea levels"
+            ],
+            "source": "Center for Sustainable Systems"
+        },
+        {
+            "position": 20,
+            "title": "Six scary facts about climate change",
+            "link": "https://www.ecotricity.co.uk/our-news/2017/six-scary-facts-about-climate-change",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ecotricity.co.uk/our-news/2017/six-scary-facts-about-climate-change&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQFnoFCIMBEAE",
+            "displayed_link": "https://www.ecotricity.co.uk \u203a our-news \u203a six-scary-fact...",
+            "favicon": "https://serpapi.com/searches/68b876665922f4bcf6c66da3/images/3b7ec26f8d9818bee66633f6740a0cc852fc9ba7a2977922c0e88b1790533462.png",
+            "snippet": "Six scary facts about climate change \u00b7 1. Climate change could be irreversible by 2030 \u00b7 2. Greenhouse gas levels are at an all-time high \u00b7 3. More than 1 ...",
+            "snippet_highlighted_words": [
+                "1. Climate change could be irreversible by 2030"
+            ],
+            "source": "Ecotricity"
+        },
+        {
+            "position": 21,
+            "title": "Climate change: atmospheric carbon dioxide",
+            "link": "https://www.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQFnoFCJcBEAE",
+            "displayed_link": "https://www.climate.gov \u203a understanding-climate \u203a clima...",
+            "favicon": "https://serpapi.com/searches/68b876665922f4bcf6c66da3/images/3b7ec26f8d9818bee66633f6740a0cc87d3ba74a9366a040c2c460cf7f603600.png",
+            "author": "by R Toolkit",
+            "snippet": "In the past 60 years, carbon dioxide in the atmosphere has increased 100-200 times faster than it did during the end of the last ice age.",
+            "source": "National Oceanic and Atmospheric Administration (.gov)"
+        },
+        {
+            "position": 22,
+            "title": "Climate Change Indicators in the United States",
+            "link": "https://www.epa.gov/climate-indicators",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.epa.gov/climate-indicators&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQFnoFCJ0BEAE",
+            "displayed_link": "https://www.epa.gov \u203a climate-indicators",
+            "favicon": "https://serpapi.com/searches/68b876665922f4bcf6c66da3/images/3b7ec26f8d9818bee66633f6740a0cc8f9ddd63c258d829acd0b01c28f7af331.png",
+            "snippet": "Temperatures are rising, snow and rainfall patterns are shifting, and more extreme climate events \u2013 like heavy rainstorms and record high temperatures \u2013 are ...",
+            "snippet_highlighted_words": [
+                "Temperatures are rising"
+            ],
+            "source": "U.S. Environmental Protection Agency (.gov)"
+        },
+        {
+            "position": 23,
+            "title": "Climate change: Facts about our warming planet",
+            "link": "https://www.livescience.com/planet-earth/climate-change/climate-change-facts-about-our-warming-planet",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.livescience.com/planet-earth/climate-change/climate-change-facts-about-our-warming-planet&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQFnoFCLUBEAE",
+            "displayed_link": "https://www.livescience.com \u203a ... \u203a Climate change",
+            "favicon": "https://serpapi.com/searches/68b876665922f4bcf6c66da3/images/3b7ec26f8d9818bee66633f6740a0cc86e72702abbdcc7a94df389b7ba7f63c1.png",
+            "date": "Apr 14, 2025",
+            "snippet": "5 fast facts about climate change \u00b7 Since 1982, Earth has warmed 0.36 F (0.20 C) every decade. \u00b7 About 3.6 billion people live in areas that ...",
+            "snippet_highlighted_words": [
+                "Since 1982, Earth has warmed 0.36 F (0.20 C) every decade"
+            ],
+            "source": "Live Science"
+        },
+        {
+            "position": 24,
+            "title": "Climate change",
+            "link": "https://www.who.int/health-topics/climate-change",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.who.int/health-topics/climate-change&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQFnoFCLMBEAE",
+            "displayed_link": "https://www.who.int \u203a Health topics",
+            "favicon": "https://serpapi.com/searches/68b876665922f4bcf6c66da3/images/3b7ec26f8d9818bee66633f6740a0cc8e7215bb208af12143e6a577c40d59124.png",
+            "snippet": "Between 2030 and 2050, climate change is expected to cause approximately 250 000 additional deaths per year from malnutrition, malaria, diarrhoea and heat ...",
+            "snippet_highlighted_words": [
+                "climate change"
+            ],
+            "source": "World Health Organization (WHO)"
+        },
+        {
+            "position": 25,
+            "title": "Climate change",
+            "link": "https://kids.nationalgeographic.com/science/article/climate-change",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://kids.nationalgeographic.com/science/article/climate-change&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQFnoFCLkBEAE",
+            "displayed_link": "https://kids.nationalgeographic.com \u203a science \u203a article",
+            "favicon": "https://serpapi.com/searches/68b876665922f4bcf6c66da3/images/3b7ec26f8d9818bee66633f6740a0cc8044586d83d175b24f7f90371690492c4.jpeg",
+            "snippet": "Climate change affects more than temperature. Warmer water changes the patterns of ocean currents, affecting global weather patterns.",
+            "snippet_highlighted_words": [
+                "Climate change affects more than temperature"
+            ],
+            "source": "National Geographic Kids"
+        },
+        {
+            "position": 26,
+            "title": "Is climate change real? Here are 7 solid facts.",
+            "link": "https://www.edf.org/climate/how-climate-change-plunders-planet/climate-change-facts",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.edf.org/climate/how-climate-change-plunders-planet/climate-change-facts&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQFnoFCLgBEAE",
+            "displayed_link": "https://www.edf.org \u203a how-climate-change-plunders-planet",
+            "favicon": "https://serpapi.com/searches/68b876665922f4bcf6c66da3/images/3b7ec26f8d9818bee66633f6740a0cc88f68b5333db90e9a50b8d9e26c60cf33.png",
+            "date": "May 1, 2022",
+            "snippet": "1. Climate change is real and human-made, and there is overwhelming scientific consensus that this is true. Human-produced pollution is the main ...",
+            "snippet_highlighted_words": [
+                "Climate change is real and human-made"
+            ],
+            "source": "Environmental Defense Fund"
+        },
+        {
+            "position": 27,
+            "title": "Fast Facts | AMNH",
+            "link": "https://www.amnh.org/exhibitions/climate-change/fast-facts",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amnh.org/exhibitions/climate-change/fast-facts&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQFnoFCNEBEAE",
+            "displayed_link": "https://www.amnh.org \u203a exhibitions \u203a climate-change",
+            "favicon": "https://serpapi.com/searches/68b876665922f4bcf6c66da3/images/3b7ec26f8d9818bee66633f6740a0cc8c282283cac5055d429349c3aee7d7646.png",
+            "snippet": "Climate change means more extreme weather. Over the last 60 years, heavy rain and snow storms have become 24% more frequent in the U.S. Warmer ocean waters also ...",
+            "snippet_highlighted_words": [
+                "heavy rain and snow storms have become 24% more frequent in the U.S"
+            ],
+            "source": "American Museum of Natural History"
+        },
+        {
+            "position": 28,
+            "title": "Effects of Climate Change",
+            "link": "https://www.worldwildlife.org/threats/effects-of-climate-change",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.worldwildlife.org/threats/effects-of-climate-change&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQFnoFCNIBEAE",
+            "displayed_link": "https://www.worldwildlife.org \u203a threats \u203a effects-of-cli...",
+            "favicon": "https://serpapi.com/searches/68b876665922f4bcf6c66da3/images/3b7ec26f8d9818bee66633f6740a0cc8a2c9421fb70e6873ef351142c853b772.png",
+            "snippet": "Sea levels are rising and oceans are becoming warmer. Longer, more intense droughts threaten crops, wildlife and freshwater supplies.",
+            "snippet_highlighted_words": [
+                "Sea levels are rising and oceans are becoming warmer"
+            ],
+            "source": "World Wildlife Fund"
+        },
+        {
+            "position": 29,
+            "title": "Causes of climate change - European Commission",
+            "link": "https://climate.ec.europa.eu/climate-change/causes-climate-change_en",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://climate.ec.europa.eu/climate-change/causes-climate-change_en&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQFnoFCM8BEAE",
+            "displayed_link": "https://climate.ec.europa.eu \u203a Home \u203a Climate change",
+            "favicon": "https://serpapi.com/searches/68b876665922f4bcf6c66da3/images/3b7ec26f8d9818bee66633f6740a0cc8b350e2ba0d4edf567301b9e0fdd6f609.png",
+            "snippet": "Burning fossil fuels, cutting down forests and farming livestock are increasingly influencing the climate and the earth's temperature.",
+            "snippet_highlighted_words": [
+                "Burning fossil fuels, cutting down forests and farming livestock"
+            ],
+            "source": "europa.eu"
+        },
+        {
+            "position": 30,
+            "title": "Climate Change Facts",
+            "link": "https://www.torontoenvironment.org/climate_change_facts",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.torontoenvironment.org/climate_change_facts&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQFnoFCNgBEAE",
+            "displayed_link": "https://www.torontoenvironment.org \u203a climate_change_f...",
+            "favicon": "https://serpapi.com/searches/68b876665922f4bcf6c66da3/images/3b7ec26f8d9818bee66633f6740a0cc8451774e71e74c68aa8ee2edf034c8ceb.png",
+            "snippet": "Our planet is warming faster than at any time in the last 10,000 years. As a northern country, Canada will experience some of the greatest warming on Earth.",
+            "snippet_highlighted_words": [
+                "Our planet is warming faster than at any time in the last 10,000 years"
+            ],
+            "source": "Toronto Environmental Alliance"
+        },
+        {
+            "position": 31,
+            "title": "What is climate change? A really simple guide",
+            "link": "https://www.bbc.com/news/articles/c9w15nggj58o",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bbc.com/news/articles/c9w15nggj58o&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQFnoECEMQAQ",
+            "displayed_link": "https://www.bbc.com \u203a news \u203a articles",
+            "favicon": "https://serpapi.com/searches/68b876665922f4bcf6c66da3/images/3b7ec26f8d9818bee66633f6740a0cc8412990243fe1058e0fd2cd36a2afe72c.png",
+            "date": "Jul 30, 2025",
+            "snippet": "Climate change is the long-term shift in the Earth's average temperatures and weather conditions. The world has been warming up quickly over the ...",
+            "snippet_highlighted_words": [
+                "Climate change"
+            ],
+            "source": "BBC"
+        },
+        {
+            "position": 32,
+            "title": "Climate Change in Data: The Physical Science Basis",
+            "link": "https://www.ipcc.ch/climate-change-in-data",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ipcc.ch/climate-change-in-data&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQFnoFCLQBEAE",
+            "displayed_link": "https://www.ipcc.ch \u203a climate-change-in-data",
+            "favicon": "https://serpapi.com/searches/68b876665922f4bcf6c66da3/images/3b7ec26f8d9818bee66633f6740a0cc8569263b8124ddd74d8124754f9e1f59f.png",
+            "snippet": "Human activities have warmed Earth's climate by more than 1\u00b0C since the late 19th century, and the effects on our climate are unprecedented.",
+            "snippet_highlighted_words": [
+                "climate",
+                "climate"
+            ],
+            "source": "Intergovernmental Panel on Climate Change (IPCC)"
+        },
+        {
+            "position": 33,
+            "title": "9 facts about climate change",
+            "link": "https://spunout.ie/life/climate/10-facts-about-climate-change/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://spunout.ie/life/climate/10-facts-about-climate-change/&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQFnoECFgQAQ",
+            "displayed_link": "https://spunout.ie \u203a life \u203a 10-facts-about-climate-change",
+            "favicon": "https://serpapi.com/searches/68b876665922f4bcf6c66da3/images/3b7ec26f8d9818bee66633f6740a0cc83bfe8fb18fe7334da1fef8b506f691fe.png",
+            "snippet": "Fact 1: Most of the increase in global temperatures since 1950 has been caused by human activity. While there are some causes of climate change that are ...",
+            "snippet_highlighted_words": [
+                "Most of the increase in global temperatures since 1950 has been caused by human activity"
+            ],
+            "source": "SpunOut"
+        },
+        {
+            "position": 34,
+            "title": "Climate change facts you need to know in 2025",
+            "link": "https://charitydigital.org.uk/topics/climate-change-facts-you-need-to-know-in-2025-10655",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://charitydigital.org.uk/topics/climate-change-facts-you-need-to-know-in-2025-10655&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQFnoECFYQAQ",
+            "displayed_link": "https://charitydigital.org.uk \u203a topics \u203a climate-change-fa...",
+            "favicon": "https://serpapi.com/searches/68b876665922f4bcf6c66da3/images/3b7ec26f8d9818bee66633f6740a0cc8a6e948d14ff2b981160688cd10fad9e1.png",
+            "snippet": "We note the latest facts and stats about climate change, with reference to carbon emissions, net zero, global warming, biodiversity and wildlife, melting ice, ...",
+            "snippet_highlighted_words": [
+                "carbon emissions, net zero, global warming, biodiversity and wildlife, melting ice"
+            ],
+            "source": "Charity Digital"
+        },
+        {
+            "position": 35,
+            "title": "What We Know About Climate Change",
+            "link": "https://climate.mit.edu/what-we-know-about-climate-change",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://climate.mit.edu/what-we-know-about-climate-change&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQFnoECG0QAQ",
+            "displayed_link": "https://climate.mit.edu \u203a what-we-know-about-climate-ch...",
+            "favicon": "https://serpapi.com/searches/68b876665922f4bcf6c66da3/images/3b7ec26f8d9818bee66633f6740a0cc8df26cfd37416a6148a5a22c890463d9d.png",
+            "snippet": "In fact, ice core data shows us that there is now more CO2 in our atmosphere than at any point in at least the past 800,000 years. Because of this, our planet ...",
+            "snippet_highlighted_words": [
+                "there is now more CO2 in our atmosphere than at any point in at least the past 800,000 years"
+            ],
+            "source": "MIT Climate Portal"
+        },
+        {
+            "position": 36,
+            "title": "Fossil fuels and climate change: the facts",
+            "link": "https://www.clientearth.org/latest/news/fossil-fuels-and-climate-change-the-facts/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.clientearth.org/latest/news/fossil-fuels-and-climate-change-the-facts/&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQFnoECG4QAQ",
+            "displayed_link": "https://www.clientearth.org \u203a latest \u203a news \u203a fossil-fuels...",
+            "favicon": "https://serpapi.com/searches/68b876665922f4bcf6c66da3/images/3b7ec26f8d9818bee66633f6740a0cc860335e6e27e15efa8483d9919cf3e883.png",
+            "snippet": "Greenhouse gases trap heat in our atmosphere, causing global warming. Already the average global temperature has increased by 1C, and global temperatures passed ...",
+            "snippet_highlighted_words": [
+                "Greenhouse gases trap heat in our atmosphere, causing global warming"
+            ],
+            "source": "ClientEarth"
+        },
+        {
+            "position": 37,
+            "title": "52 Climate Change Facts That You Need To Know",
+            "link": "https://www.greenmatch.co.uk/blog/facts-about-climate-change",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.greenmatch.co.uk/blog/facts-about-climate-change&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQFnoECHAQAQ",
+            "displayed_link": "https://www.greenmatch.co.uk \u203a Blog",
+            "favicon": "https://serpapi.com/searches/68b876665922f4bcf6c66da3/images/3b7ec26f8d9818bee66633f6740a0cc80216c7c5cdac95b4ec016143e3131b27.png",
+            "date": "Sep 16, 2024",
+            "snippet": "Human emissions of greenhouse gases are the primary driver of climate change. CO2 levels have reached their highest in 2 million years, standing ...",
+            "snippet_highlighted_words": [
+                "Human emissions of greenhouse gases are the primary driver of climate change"
+            ],
+            "source": "GreenMatch.co.uk"
+        },
+        {
+            "position": 38,
+            "title": "Causes of Climate Change | US EPA",
+            "link": "https://www.epa.gov/climatechange-science/causes-climate-change",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.epa.gov/climatechange-science/causes-climate-change&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQFnoECH4QAQ",
+            "displayed_link": "https://www.epa.gov \u203a climatechange-science \u203a causes-c...",
+            "favicon": "https://serpapi.com/searches/68b876665922f4bcf6c66da3/images/3b7ec26f8d9818bee66633f6740a0cc819f11a98bd33cbca7ea8904051f408bd.png",
+            "snippet": "Human activities have released large amounts of carbon dioxide and other greenhouse gases into the atmosphere, which has changed the earth's climate.",
+            "snippet_highlighted_words": [
+                "changed",
+                "climate"
+            ],
+            "source": "U.S. Environmental Protection Agency (.gov)"
+        },
+        {
+            "position": 39,
+            "title": "10 Climate Change Facts Everyone Should Know",
+            "link": "https://givingcompass.org/partners/climate-action/ten-climate-change-facts-everyone-should-know",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://givingcompass.org/partners/climate-action/ten-climate-change-facts-everyone-should-know&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQFnoFCIUBEAE",
+            "displayed_link": "https://givingcompass.org \u203a partners \u203a climate-action \u203a t...",
+            "favicon": "https://serpapi.com/searches/68b876665922f4bcf6c66da3/images/3b7ec26f8d9818bee66633f6740a0cc8cf4ca6cd0b031368d074b0959c68bb66.png",
+            "snippet": "Fact 9: The average number of people exposed to heatwaves has increased by approximately 125 million since the beginning of the century. Source: UN News. Fact ...",
+            "source": "Giving Compass"
+        },
+        {
+            "position": 40,
+            "title": "Climate change explained",
+            "link": "https://www.gov.uk/guidance/climate-change-explained",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.gov.uk/guidance/climate-change-explained&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQFnoFCIEBEAE",
+            "displayed_link": "https://www.gov.uk \u203a ... \u203a Climate change adaptation",
+            "favicon": "https://serpapi.com/searches/68b876665922f4bcf6c66da3/images/3b7ec26f8d9818bee66633f6740a0cc8ff3d8580a4949ba29363809fbb44971f.png",
+            "date": "Jun 20, 2023",
+            "snippet": "From 1993 to 2018, glacier melt accounted for about 21% of global sea-level rise, and ocean warming 42%. The rate of sea level rise has more ...",
+            "snippet_highlighted_words": [
+                "global"
+            ],
+            "source": "GOV.UK"
+        },
+        {
+            "position": 41,
+            "title": "Water and Climate Change",
+            "link": "https://www.unwater.org/water-facts/water-and-climate-change",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.unwater.org/water-facts/water-and-climate-change&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQFnoFCIcBEAE",
+            "displayed_link": "https://www.unwater.org \u203a Water Facts",
+            "favicon": "https://serpapi.com/searches/68b876665922f4bcf6c66da3/images/3b7ec26f8d9818bee66633f6740a0cc83baf6829f87f246828a399813407ab5c.png",
+            "snippet": "Facts and Figures \u00b7 In 2023, glaciers lost more than 600 gigatons of water, the largest mass loss registered in the last five decades. \u00b7 Increased glacier melting ...",
+            "snippet_highlighted_words": [
+                "Facts"
+            ],
+            "source": "UN-Water"
+        },
+        {
+            "position": 42,
+            "title": "Debunking eight common myths about climate change",
+            "link": "https://www.unep.org/news-and-stories/story/debunking-eight-common-myths-about-climate-change",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.unep.org/news-and-stories/story/debunking-eight-common-myths-about-climate-change&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQFnoFCIYBEAE",
+            "displayed_link": "https://www.unep.org \u203a News, Stories & Speeches",
+            "favicon": "https://serpapi.com/searches/68b876665922f4bcf6c66da3/images/3b7ec26f8d9818bee66633f6740a0cc82277aa4f983bbcf6a1928c4debe9dea5.png",
+            "date": "Jun 4, 2024",
+            "snippet": "A 2021 study revealed that 99 per cent of peer-reviewed scientific literature found that climate change was human-induced. That was in line with ...",
+            "snippet_highlighted_words": [
+                "climate change"
+            ],
+            "source": "UNEP - UN Environment Programme"
+        },
+        {
+            "position": 43,
+            "title": "Climate Change",
+            "link": "https://ourworldindata.org/climate-change",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ourworldindata.org/climate-change&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQFnoFCJsBEAE",
+            "displayed_link": "https://ourworldindata.org \u203a climate-change",
+            "favicon": "https://serpapi.com/searches/68b876665922f4bcf6c66da3/images/3b7ec26f8d9818bee66633f6740a0cc8b5da3bf5308588f5124b6956977f2214.png",
+            "snippet": "Current climate change is primarily caused by human emissions of greenhouse gases. This warming can drive large changes in sea level, sea ice and glacier ...",
+            "snippet_highlighted_words": [
+                "climate change"
+            ],
+            "source": "Our World in Data"
+        },
+        {
+            "position": 44,
+            "title": "Ten Key Facts \u2013 Climate Change",
+            "link": "https://www.americansecurityproject.org/ten-key-facts-climate-change/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.americansecurityproject.org/ten-key-facts-climate-change/&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQFnoFCJ4BEAE",
+            "displayed_link": "https://www.americansecurityproject.org \u203a ten-key-facts...",
+            "favicon": "https://serpapi.com/searches/68b876665922f4bcf6c66da3/images/3b7ec26f8d9818bee66633f6740a0cc84cfc7111702245399c2ca9227dacce15.png",
+            "snippet": "The facts about climate change are clear: the earth is warming, man-made emissions are causing the warming, and the effects will get worse over time.",
+            "snippet_highlighted_words": [
+                "facts",
+                "climate change"
+            ],
+            "source": "American Security Project"
+        },
+        {
+            "position": 45,
+            "title": "Climate change in Europe: facts and figures | Topics",
+            "link": "https://www.europarl.europa.eu/topics/en/article/20180703STO07123/climate-change-in-europe-facts-and-figures",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.europarl.europa.eu/topics/en/article/20180703STO07123/climate-change-in-europe-facts-and-figures&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQFnoFCJ8BEAE",
+            "displayed_link": "https://www.europarl.europa.eu \u203a topics \u203a article \u203a clim...",
+            "favicon": "https://serpapi.com/searches/68b876665922f4bcf6c66da3/images/3b7ec26f8d9818bee66633f6740a0cc8be154bb6c49d7a7ed254fc9c6b9e2cc4.jpeg",
+            "date": "Dec 6, 2024",
+            "snippet": "Emissions have been consistently decreasing from 1990 to 2023. It is estimated that in 2023, EU emissions were 37% lower than in 1990, after a ...",
+            "source": "European Parliament"
+        },
+        {
+            "position": 46,
+            "title": "Climate | National Oceanic and Atmospheric Administration",
+            "link": "https://www.noaa.gov/climate",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.noaa.gov/climate&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQFnoFCJoBEAE",
+            "displayed_link": "https://www.noaa.gov \u203a climate",
+            "favicon": "https://serpapi.com/searches/68b876665922f4bcf6c66da3/images/3b7ec26f8d9818bee66633f6740a0cc802fca6f4a25dc8783dfbd20a61460f71.png",
+            "snippet": "From 1980 to August 2024, the U.S. has experienced 396 weather and climate disasters where overall damages reached at least $1 billion. The total cost of these ...",
+            "snippet_highlighted_words": [
+                "climate"
+            ],
+            "source": "National Oceanic and Atmospheric Administration (.gov)"
+        },
+        {
+            "position": 47,
+            "title": "Climate change facts and figures you need to know",
+            "link": "https://www.concern.org.uk/news/climate-change-facts-and-figures",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.concern.org.uk/news/climate-change-facts-and-figures&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQFnoFCKwBEAE",
+            "displayed_link": "https://www.concern.org.uk \u203a news \u203a climate-change-fa...",
+            "favicon": "https://serpapi.com/searches/68b876665922f4bcf6c66da3/images/3b7ec26f8d9818bee66633f6740a0cc8f8534bbf66afa17bdf81d0490ebd16b8.png",
+            "snippet": "Climate change leads to higher rates of food- and water-borne disease, as well as vector-borne diseases including malaria, yellow fever and dengue.",
+            "snippet_highlighted_words": [
+                "Climate change"
+            ],
+            "source": "concern.org.uk"
+        },
+        {
+            "position": 48,
+            "title": "Global Warming - National Geographic Education",
+            "link": "https://education.nationalgeographic.org/resource/global-warming/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://education.nationalgeographic.org/resource/global-warming/&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQFnoFCLEBEAE",
+            "displayed_link": "https://education.nationalgeographic.org \u203a resource \u203a gl...",
+            "favicon": "https://serpapi.com/searches/68b876665922f4bcf6c66da3/images/3b7ec26f8d9818bee66633f6740a0cc86ea1f7e9d36b5ecd60f23a9c835760e8.png",
+            "date": "Apr 8, 2025",
+            "snippet": "Global warming refers to Earth's rising average temperature, while climate change refers to changes in weather patterns and growing seasons around the world.",
+            "snippet_highlighted_words": [
+                "climate change"
+            ],
+            "source": "National Geographic Society"
+        }
+    ],
+    "related_searches": [
+        {
+            "block_position": 1,
+            "query": "Climate change facts for students",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Climate+change+facts+for+students&sa=X&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQ1QJ6BQjXARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=Climate+change+facts+for+students"
+        },
+        {
+            "block_position": 1,
+            "query": "10 interesting facts about climate change",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=10+interesting+facts+about+climate+change&sa=X&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQ1QJ6BQjmARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=10+interesting+facts+about+climate+change"
+        },
+        {
+            "block_position": 1,
+            "query": "50 facts about climate change",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=50+facts+about+climate+change&sa=X&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQ1QJ6BQjnARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=50+facts+about+climate+change"
+        },
+        {
+            "block_position": 1,
+            "query": "10 effects of climate change",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=10+effects+of+climate+change&sa=X&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQ1QJ6BQjoARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=10+effects+of+climate+change"
+        },
+        {
+            "block_position": 1,
+            "query": "climate change: evidence and causes",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=climate+change:+evidence+and+causes&sa=X&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQ1QJ6BQjkARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=climate+change%3A+evidence+and+causes"
+        },
+        {
+            "block_position": 1,
+            "query": "A short history of climate change",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=A+short+history+of+climate+change&sa=X&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQ1QJ6BQjlARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=A+short+history+of+climate+change"
+        },
+        {
+            "block_position": 1,
+            "query": "Global temperature graph 1000000 years",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Global+temperature+graph+1000000+years&sa=X&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQ1QJ6BQjpARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=Global+temperature+graph+1000000+years"
+        },
+        {
+            "block_position": 1,
+            "query": "Causes of climate change",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Causes+of+climate+change&sa=X&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQ1QJ6BQjjARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=Causes+of+climate+change"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=climate+change+facts&num=50&sca_esv=cbb70bed2ede2303&ei=aHa4aKvHPM_XwPAP6OKnqAc&start=50&sa=N&sstk=Ac65TH6-ZkUvD61wY8fKX8AVeYDLzzeAfgT1xtwUJc8BJoVPdQ26K1UyxyIgQpQEVJDBVkuZtc6APWCci3n5wekjJuGklqBu9gpnIw&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQ8NMDegQIGRAM",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=climate+change+facts&num=50&sca_esv=cbb70bed2ede2303&ei=aHa4aKvHPM_XwPAP6OKnqAc&start=50&sa=N&sstk=Ac65TH6-ZkUvD61wY8fKX8AVeYDLzzeAfgT1xtwUJc8BJoVPdQ26K1UyxyIgQpQEVJDBVkuZtc6APWCci3n5wekjJuGklqBu9gpnIw&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQ8tMDegQIGRAE",
+            "3": "https://www.google.com/search?q=climate+change+facts&num=50&sca_esv=cbb70bed2ede2303&ei=aHa4aKvHPM_XwPAP6OKnqAc&start=100&sa=N&sstk=Ac65TH6-ZkUvD61wY8fKX8AVeYDLzzeAfgT1xtwUJc8BJoVPdQ26K1UyxyIgQpQEVJDBVkuZtc6APWCci3n5wekjJuGklqBu9gpnIw&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQ8tMDegQIGRAG",
+            "4": "https://www.google.com/search?q=climate+change+facts&num=50&sca_esv=cbb70bed2ede2303&ei=aHa4aKvHPM_XwPAP6OKnqAc&start=150&sa=N&sstk=Ac65TH6-ZkUvD61wY8fKX8AVeYDLzzeAfgT1xtwUJc8BJoVPdQ26K1UyxyIgQpQEVJDBVkuZtc6APWCci3n5wekjJuGklqBu9gpnIw&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQ8tMDegQIGRAI",
+            "5": "https://www.google.com/search?q=climate+change+facts&num=50&sca_esv=cbb70bed2ede2303&ei=aHa4aKvHPM_XwPAP6OKnqAc&start=200&sa=N&sstk=Ac65TH6-ZkUvD61wY8fKX8AVeYDLzzeAfgT1xtwUJc8BJoVPdQ26K1UyxyIgQpQEVJDBVkuZtc6APWCci3n5wekjJuGklqBu9gpnIw&ved=2ahUKEwirm67mir2PAxXPKxAIHWjxCXUQ8tMDegQIGRAK"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=climate+change+facts&start=50",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=climate+change+facts&start=50",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=climate+change+facts&start=50",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=climate+change+facts&start=100",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=climate+change+facts&start=150",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=climate+change+facts&start=200"
+        }
+    }
+}

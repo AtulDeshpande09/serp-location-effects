@@ -1,0 +1,1137 @@
+{
+    "search_metadata": {
+        "id": "68b8768370e9d04ca2ef3332",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/7a4318f24e6d33c2/68b8768370e9d04ca2ef3332.json",
+        "pixel_position_endpoint": "https://serpapi.com/searches/7a4318f24e6d33c2/68b8768370e9d04ca2ef3332.json_with_pixel_position",
+        "created_at": "2025-09-03 17:10:27 UTC",
+        "processed_at": "2025-09-03 17:10:27 UTC",
+        "google_url": "https://www.google.com/search?q=buy+electronics+online&oq=buy+electronics+online&uule=w+CAIQICIFSW5kaWE&num=50&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/7a4318f24e6d33c2/68b8768370e9d04ca2ef3332.html",
+        "total_time_taken": 1.0
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "buy electronics online",
+        "location_requested": "India",
+        "location_used": "India",
+        "google_domain": "google.com",
+        "num": "50",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "buy electronics online",
+        "total_results": 1100000000,
+        "time_taken_displayed": 0.49,
+        "organic_results_state": "Results for exact spelling"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Electronics - TVs, Home Theater, Phones, Wearable Tech",
+            "link": "https://www.newegg.com/Electronics/Store/ID-10?srsltid=AfmBOoq9EDGyuxr1KCJO7Rke29nBo--v65ExiQbBjqr0kKeKDuUlJhct",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.newegg.com/Electronics/Store/ID-10%3Fsrsltid%3DAfmBOoq9EDGyuxr1KCJO7Rke29nBo--v65ExiQbBjqr0kKeKDuUlJhct&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0QFnoECBkQAQ",
+            "displayed_link": "https://www.newegg.com \u203a Electronics \u203a Store",
+            "favicon": "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/696837270c68254451e24009b534c81932e3ced2e9a25029355c933480e78548.jpeg",
+            "snippet": "Enjoy entertainment to the fullest with electronic products such as TV monitors, cell phones, and audio systems. Browse standard and high-end models on ...",
+            "snippet_highlighted_words": [
+                "electronic products"
+            ],
+            "source": "Newegg"
+        },
+        {
+            "position": 2,
+            "title": "Circuit City",
+            "link": "https://www.circuitcity.com/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.circuitcity.com/&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0QFnoECBcQAQ",
+            "displayed_link": "https://www.circuitcity.com",
+            "favicon": "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/696837270c68254451e24009b534c819d0987f85a43ae0ab01c1e6808ba40ca9.png",
+            "snippet": "Car Electronics & GPS \u00b7 GPS Navigation \u00b7 Dash Cameras \u00b7 Wearable Tech \u00b7 Fitness & Sport Watches \u00b7 Smart Watches \u00b7 Fitness Trackers \u00b7 Everyday Watches.",
+            "snippet_highlighted_words": [
+                "Car Electronics & GPS"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "detected_extensions": {
+                        "price": 35,
+                        "currency": "$"
+                    },
+                    "extensions": [
+                        "Free delivery over $35",
+                        "30-day returns"
+                    ]
+                }
+            },
+            "source": "Circuit City"
+        },
+        {
+            "position": 3,
+            "title": "Electronics Store",
+            "link": "https://www.bestbuy.com/site/electronics/misc/pcmcat144600050035.c?id=pcmcat144600050035",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bestbuy.com/site/electronics/misc/pcmcat144600050035.c%3Fid%3Dpcmcat144600050035&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0QFnoECBoQAQ",
+            "displayed_link": "https://www.bestbuy.com \u203a misc \u203a pcmcat144600050035",
+            "favicon": "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/696837270c68254451e24009b534c81984794401347304dab84e52c2b90ed247.png",
+            "snippet": "If you've come to Best Buy looking for Top Deals on electronics, you're in the right place. From high-end equipment to basic gadgets, audio devices to computers ...",
+            "snippet_highlighted_words": [
+                "Top Deals on electronics"
+            ],
+            "source": "Best Buy"
+        },
+        {
+            "position": 4,
+            "title": "Electronic Express",
+            "link": "https://www.electronicexpress.com/?srsltid=AfmBOoqo8tICNJ5eCzF-WRQ40tlrPtUv5sZLiRhTXjGm_o2yDBn9WWpv",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.electronicexpress.com/%3Fsrsltid%3DAfmBOoqo8tICNJ5eCzF-WRQ40tlrPtUv5sZLiRhTXjGm_o2yDBn9WWpv&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0QFnoECBgQAQ",
+            "displayed_link": "https://www.electronicexpress.com",
+            "favicon": "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/696837270c68254451e24009b534c8197cc8fcaebbd4074bbf5831e64afb35b9.png",
+            "snippet": "The Best Selection, Best Service, and the Lowest Prices Guaranteed. Locations \u00b7 Luxury Brands \u00b7 Flash Deals \u00b7 Outlet Store \u00b7 Toys \u00b7 Contact \u00b7 Tracking ...",
+            "snippet_highlighted_words": [
+                "The Best Selection, Best Service, and the Lowest Prices Guaranteed"
+            ],
+            "source": "Electronic Express"
+        },
+        {
+            "position": 5,
+            "title": "Cheap Electronics Online for Sale",
+            "link": "https://dailysale.com/collections/electronics?srsltid=AfmBOooIHpj9ktKKJzBCaQ7ae4NAfAWgWPXIs1CTclKF-wE7zhwhmFeQ",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://dailysale.com/collections/electronics%3Fsrsltid%3DAfmBOooIHpj9ktKKJzBCaQ7ae4NAfAWgWPXIs1CTclKF-wE7zhwhmFeQ&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0QFnoECCcQAQ",
+            "displayed_link": "https://dailysale.com \u203a collections \u203a electronics",
+            "thumbnail": "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/696837270c68254451e24009b534c819bb808f23fc6b85c1a9363dfcc98144af.jpeg",
+            "favicon": "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/696837270c68254451e24009b534c819f33dab333c3a2ec007d8c402b56c8992.png",
+            "snippet": "Find cheap electronics online here at DailySale. We offer great service and the best-quality electronic deals online.",
+            "snippet_highlighted_words": [
+                "Find cheap electronics online here at DailySale"
+            ],
+            "images": [
+                "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/696837270c68254451e24009b534c819eed210491f64cfcde1369ccd53b132ac.jpeg"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "detected_extensions": {
+                        "price_from": 4,
+                        "price_to": 79,
+                        "currency": "$"
+                    },
+                    "extensions": [
+                        "$4 to $79",
+                        "Items up to 85% off"
+                    ]
+                }
+            },
+            "source": "DailySale"
+        },
+        {
+            "position": 6,
+            "title": "Electronics",
+            "link": "https://www.target.com/c/electronics/-/N-5xtg6",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.target.com/c/electronics/-/N-5xtg6&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0QFnoECBwQAQ",
+            "displayed_link": "https://www.target.com \u203a electronics",
+            "favicon": "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/696837270c68254451e24009b534c8192b6f7d2e999f9d75823e20a3e653d0a6.png",
+            "snippet": "Find the latest electronics at Target. Shop TVs, laptops, video games, and more from top brands. Choose from Same Day Delivery, Drive Up or Order Pickup.",
+            "snippet_highlighted_words": [
+                "Choose from Same Day Delivery, Drive Up or Order Pickup"
+            ],
+            "source": "Target"
+        },
+        {
+            "position": 7,
+            "title": "Electronics",
+            "link": "https://www.walmart.com/cp/electronics/3944",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.walmart.com/cp/electronics/3944&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0QFnoECCYQAQ",
+            "displayed_link": "https://www.walmart.com \u203a electronics",
+            "thumbnail": "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/696837270c68254451e24009b534c819132dfb62fa7559bb26771ff1740a82bc.jpeg",
+            "favicon": "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/696837270c68254451e24009b534c8195fd4cfecde4c688bcac39e0d6a52e2c0.png",
+            "snippet": "Shop for Electronics at Walmart.com. Shop for the best selection of electronics at Every Day Low Prices. Save Money, Live Better.",
+            "snippet_highlighted_words": [
+                "Shop for Electronics at Walmart.com"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "detected_extensions": {
+                        "rating": 4.3,
+                        "reviews": 891
+                    },
+                    "extensions": [
+                        "4.3 store rating (891)",
+                        "Free 90-day returns"
+                    ]
+                }
+            },
+            "source": "Walmart"
+        },
+        {
+            "position": 8,
+            "title": "Electronics",
+            "link": "https://www.amazon.com/electronics-store/b?ie=UTF8&node=172282",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amazon.com/electronics-store/b%3Fie%3DUTF8%26node%3D172282&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0QFnoECE0QAQ",
+            "displayed_link": "https://www.amazon.com \u203a electronics-store",
+            "thumbnail": "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/696837270c68254451e24009b534c8196aae1fcbc54a710c0545d2a6b275ccf5.jpeg",
+            "favicon": "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/696837270c68254451e24009b534c819960c5931274d89904ca64ec997aee6b4.png",
+            "snippet": "Shop by category \u00b7 Cell Phones \u00b7 Computers & Accessories \u00b7 Video Games \u00b7 Televisions \u00b7 Headphones \u00b7 Office Supplies \u00b7 Photography & Videography \u00b7 Wearable Tech.",
+            "snippet_highlighted_words": [
+                "Shop by category"
+            ],
+            "images": [
+                "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/696837270c68254451e24009b534c819e6d2464b7c805aba385c6e6b6acc469e.jpeg"
+            ],
+            "source": "Amazon.com"
+        },
+        {
+            "position": 9,
+            "title": "TVs and Electronics - Buy Electronic Products Online from ...",
+            "link": "https://www.sears.com/tvs-electronics/b-1231469010",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sears.com/tvs-electronics/b-1231469010&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0QFnoECD4QAQ",
+            "displayed_link": "https://www.sears.com \u203a tvs-electronics",
+            "thumbnail": "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/696837270c68254451e24009b534c8195038f901bc8e5c1c0082a8aec5d95270.jpeg",
+            "favicon": "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/696837270c68254451e24009b534c819fbaf4d706e7029c4e9d0ba0ba9908213.png",
+            "snippet": "Shop TVs, laptops, cell phones, speakers, video games and more at Sears from brands like Apple and Sony for your professional needs and your daily dose of ...",
+            "snippet_highlighted_words": [
+                "Shop TVs, laptops, cell phones, speakers, video games and more at Sears"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "detected_extensions": {
+                        "price_from": 34,
+                        "price_to": 367,
+                        "currency": "$"
+                    },
+                    "extensions": [
+                        "$34 to $367"
+                    ]
+                }
+            },
+            "source": "Sears"
+        },
+        {
+            "position": 10,
+            "title": "Home-Electronics",
+            "link": "https://www.adorama.com/l/Home-Electronics",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.adorama.com/l/Home-Electronics&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0QFnoFCJABEAE",
+            "displayed_link": "https://www.adorama.com \u203a Home-Electronics",
+            "thumbnail": "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/696837270c68254451e24009b534c819a7616dd39d5e05216d100f46fe8dded0.jpeg",
+            "favicon": "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/696837270c68254451e24009b534c819a60bee2cd0e6b4d985dbb05ec72102a9.png",
+            "snippet": "Browse a wide selection of electronics for your home including home theater systems & speakers, security systems & more. From brands like Apple, ...",
+            "snippet_highlighted_words": [
+                "electronics for your home"
+            ],
+            "source": "Adorama"
+        },
+        {
+            "position": 11,
+            "title": "Top 10 Online Stores for Consumer Electronics Brands ...",
+            "link": "https://www.pricespider.com/blog/top-10-online-stores-for-consumer-electronics-brands-2023/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pricespider.com/blog/top-10-online-stores-for-consumer-electronics-brands-2023/&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0QFnoECEAQAQ",
+            "displayed_link": "https://www.pricespider.com \u203a Resources",
+            "thumbnail": "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/696837270c68254451e24009b534c819917a40865b837dde93609c1dd1392848.jpeg",
+            "favicon": "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/696837270c68254451e24009b534c819640eb8db3c30bc4661dfdeef2d8d535d.png",
+            "snippet": "Here are the 10 online stores that received the most clicks from consumer electronics brands through Where to Buy in 2022.",
+            "snippet_highlighted_words": [
+                "online",
+                "electronics",
+                "Buy"
+            ],
+            "source": "PriceSpider"
+        },
+        {
+            "position": 12,
+            "title": "Micro Center - Computer & Electronics Retailer - Shop Now",
+            "link": "https://www.microcenter.com/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.microcenter.com/&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0QFnoFCIwBEAE",
+            "displayed_link": "https://www.microcenter.com",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_jyn8qRgqOZ7uVKJrXFtxtUn0OEpma3yPl5OlEz0&s",
+            "favicon": "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/696837270c68254451e24009b534c819eb7a294300ffd12902532f2ebcbcdeb5.png",
+            "snippet": "Shop Micro Center for electronics, PCs, laptops, Apple products, and much more. Enjoy in-store pickup, top deals, and expert same-day tech support.",
+            "snippet_highlighted_words": [
+                "electronics"
+            ],
+            "images": [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_jyn8qRgqOZ7uVKJrXFtxtUn0OEpma3yPl5OlEz0&s"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "extensions": [
+                        "Items up to 40% off"
+                    ]
+                }
+            },
+            "source": "Micro Center"
+        },
+        {
+            "position": 13,
+            "title": "Best Buy | Official Online Store | Shop Now & Save",
+            "link": "https://www.bestbuy.com/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bestbuy.com/&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0QFnoFCIkBEAE",
+            "displayed_link": "https://www.bestbuy.com",
+            "favicon": "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/696837270c68254451e24009b534c81985d2ff0022fc9bdf61a517e2226900b5.png",
+            "snippet": "Shop Best Buy for electronics, computers, appliances, cell phones, video games & more new tech. Store pickup & free 2-day shipping on thousands of items.",
+            "snippet_highlighted_words": [
+                "Buy",
+                "electronics"
+            ],
+            "source": "Best Buy"
+        },
+        {
+            "position": 14,
+            "title": "Buy Electronics Online",
+            "link": "https://www.hsn.com/shop/electronics/ec",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.hsn.com/shop/electronics/ec&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0QFnoFCMABEAE",
+            "displayed_link": "https://www.hsn.com \u203a shop \u203a electronics",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgHmzJ8dHS7E1k2RgzZb5IFsbksa5MGSbsthRsFGwOqmqntkHg-iw6b59nlQ5yL_zZWA&s",
+            "favicon": "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/696837270c68254451e24009b534c819b5e21b164ba2beefce730960037408f0.png",
+            "snippet": "Shop HSN.com for the latest electronics. From smartphones and TVs to tablets and cameras, discover the best deals on top tech.",
+            "snippet_highlighted_words": [
+                "Shop HSN.com for the latest electronics"
+            ],
+            "images": [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgHmzJ8dHS7E1k2RgzZb5IFsbksa5MGSbsthRsFGwOqmqntkHg-iw6b59nlQ5yL_zZWA&s"
+            ],
+            "source": "HSN"
+        },
+        {
+            "position": 15,
+            "title": "LG Electronics & Home Appliances | Shop Now | LG USA",
+            "link": "https://www.lg.com/us",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.lg.com/us&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0QFnoECDIQAQ",
+            "displayed_link": "https://www.lg.com \u203a ...",
+            "favicon": "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/696837270c68254451e24009b534c819e33fd85dec1c4a47931caf29eaeb4419.png",
+            "snippet": "Shop top appliances and electronics \u00b7 Top Deals \u00b7 Kitchen \u00b7 Laundry \u00b7 TV & Audio \u00b7 Laptops & Monitors \u00b7 Vacuum & A/C.",
+            "snippet_highlighted_words": [
+                "Shop top appliances and electronics"
+            ],
+            "source": "LG Electronics"
+        },
+        {
+            "position": 16,
+            "title": "Samsung US | Mobile | TV | Home Electronics | Home ...",
+            "link": "https://www.samsung.com/us/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.samsung.com/us/&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0QFnoECFIQAQ",
+            "displayed_link": "https://www.samsung.com \u203a ...",
+            "favicon": "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/696837270c68254451e24009b534c819b4d0652cfa947e9b27188556d55242ad.png",
+            "snippet": "Discover the latest in electronic & smart appliance technology with Samsung. Find the next big thing from smartphones & tablets to laptops & tvs & more.",
+            "snippet_highlighted_words": [
+                "Samsung"
+            ],
+            "source": "Samsung"
+        },
+        {
+            "position": 17,
+            "title": "Rating the Retailers: The Best Places to Buy PCs and ...",
+            "link": "https://www.pcmag.com/articles/readers-choice-2024-tech-retailers",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pcmag.com/articles/readers-choice-2024-tech-retailers&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0QFnoECHYQAQ",
+            "displayed_link": "https://www.pcmag.com \u203a Articles \u203a Readers' Choice",
+            "favicon": "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/696837270c68254451e24009b534c819020da81a0cfab5deccca8870f9cb7a1d.png",
+            "snippet": "We asked thousands of PCMag readers to share the stores they buy electronics from and rate them on a wide range of qualitative measures, including things ...",
+            "snippet_highlighted_words": [
+                "buy electronics"
+            ],
+            "source": "PCMag"
+        },
+        {
+            "position": 18,
+            "title": "Electronics Store: Tech, PC Parts, AI PC & More | Newegg",
+            "link": "https://www.newegg.com/?srsltid=AfmBOoqat-HW0P_12uWH53ylpP29rTNhd0u4lpNiG-CsfrxgmBfhXW2A",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.newegg.com/%3Fsrsltid%3DAfmBOoqat-HW0P_12uWH53ylpP29rTNhd0u4lpNiG-CsfrxgmBfhXW2A&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0QFnoFCIYBEAE",
+            "displayed_link": "https://www.newegg.com",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWcpI3KTBvApC0vaBtLj77QV_jvkKTCuNjS1-NxTCYoU3NAwSswlIBZQ&s",
+            "favicon": "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/696837270c68254451e24009b534c819873874f855158d39f94c5f4031b03294.jpeg",
+            "snippet": "Shop Newegg today for all of your gaming, PC & technology needs. Don't miss today's best electronics deals with fast shipping & great customer service!",
+            "snippet_highlighted_words": [
+                "best electronics deals"
+            ],
+            "source": "Newegg"
+        },
+        {
+            "position": 19,
+            "title": "Does anyone know a good website to buy electronics for ...",
+            "link": "https://www.reddit.com/r/Frugal/comments/114xcvy/does_anyone_know_a_good_website_to_buy/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/Frugal/comments/114xcvy/does_anyone_know_a_good_website_to_buy/&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0QFnoFCJIBEAE",
+            "displayed_link": "10+ comments \u00b7 2 years ago",
+            "favicon": "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/696837270c68254451e24009b534c819c74df17ec9b58ffe57ad4ccc5fab7c49.png",
+            "snippet": "I regularly browse ebay for cheap/old/used electronics, but i used to frequent blairtech.com (new name from blairtg.com) to get used workstations.",
+            "snippet_highlighted_words": [
+                "ebay"
+            ],
+            "source": "Reddit \u00b7 r/Frugal"
+        },
+        {
+            "position": 20,
+            "title": "Shop Discounted Electronics",
+            "link": "https://paymore.com/shop/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://paymore.com/shop/&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0QFnoFCKkBEAE",
+            "displayed_link": "https://paymore.com \u203a shop",
+            "favicon": "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/696837270c68254451e24009b534c819bd2b182cef6df850732829b9bbaa0ecb.png",
+            "snippet": "Shop thousands of high-quality pre-owned devices at PayMore for a fraction of the price of buying new. Every device we sell is thoroughly inspected, tested, and ...",
+            "snippet_highlighted_words": [
+                "Shop thousands of high-quality pre-owned devices at PayMore"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "detected_extensions": {
+                        "price_from": 60,
+                        "price_to": 500,
+                        "currency": "$",
+                        "rating": 4.7,
+                        "reviews": 130
+                    },
+                    "extensions": [
+                        "4.7 store rating (130)",
+                        "$60 to $500",
+                        "Free delivery",
+                        "7-day returns"
+                    ]
+                }
+            },
+            "source": "PayMore"
+        },
+        {
+            "position": 21,
+            "title": "Buy Electronics Online From China Electronics Store",
+            "link": "https://www.geekbuying.com/category",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.geekbuying.com/category&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0QFnoFCKYBEAE",
+            "displayed_link": "https://www.geekbuying.com \u203a category",
+            "favicon": "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/696837270c68254451e24009b534c819ebae7dce1a124efa95999beadc327fa2.png",
+            "snippet": "Video Games Accessories \u00b7 Smart Home \u00b7 3D Printers & Accessories \u00b7 E-Bikes, Scooters & Wheels \u00b7 Laser Engravers & Cutters \u00b7 Bluetooth Speakers \u00b7 Headphones ...",
+            "snippet_highlighted_words": [
+                "Video Games Accessories"
+            ],
+            "source": "Geek Buying"
+        },
+        {
+            "position": 22,
+            "title": "Where to buy cheap second hand electronics? Any online ...",
+            "link": "https://www.reddit.com/r/Frugal/comments/13cjbaj/where_to_buy_cheap_second_hand_electronics_any/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/Frugal/comments/13cjbaj/where_to_buy_cheap_second_hand_electronics_any/&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0QFnoFCLoBEAE",
+            "displayed_link": "20+ comments \u00b7 2 years ago",
+            "favicon": "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/696837270c68254451e24009b534c81991abb67333f86dd58b2e1bc7ecab4a99.png",
+            "snippet": "I've had good luck with buying refurbished items from eBay buying from vendors who have all around good ratings.",
+            "snippet_highlighted_words": [
+                "eBay"
+            ],
+            "source": "Reddit \u00b7 r/Frugal"
+        },
+        {
+            "position": 23,
+            "title": "Electronics products for sale",
+            "link": "https://www.ebay.com/b/Electronics/bn_7000259124",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ebay.com/b/Electronics/bn_7000259124&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0QFnoECD8QAQ",
+            "displayed_link": "https://www.ebay.com \u203a Electronics",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9_zclrBP1WtyI_bQhIXtyHKAmynLAVh36eW08zqWQlLg-_tBofphR&s=10",
+            "favicon": "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/696837270c68254451e24009b534c819dfa7c7b98a5892e726bcd38afc2406d5.png",
+            "snippet": "Get the best deals on Electronics when you shop the largest online selection at eBay.com. Free shipping on many items | Browse your favorite brands ...",
+            "snippet_highlighted_words": [
+                "Get the best deals on Electronics"
+            ],
+            "source": "eBay"
+        },
+        {
+            "position": 24,
+            "title": "Altex Computers & Electronics",
+            "link": "https://altex.com/?srsltid=AfmBOorB4DAFXYsfngmbSI_DLHzasiPTnfiiUIbWrhWjZesQu4jX95lC",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://altex.com/%3Fsrsltid%3DAfmBOorB4DAFXYsfngmbSI_DLHzasiPTnfiiUIbWrhWjZesQu4jX95lC&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0QFnoECGoQAQ",
+            "displayed_link": "https://altex.com",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKDQgLRcaAuvpBNXGwEl_WwZhSYUROd84HsheBTGhot9sSQkkE3-pZ&s",
+            "favicon": "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/696837270c68254451e24009b534c81959bd2672a84c5bdba444568918b34aa1.png",
+            "snippet": "Altex Computers & Electronics has been your trusted source for technology solutions since 1980. We offer a wide selection of computers, laptops, tablets, ...",
+            "snippet_highlighted_words": [
+                "Altex Computers & Electronics"
+            ],
+            "images": [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKDQgLRcaAuvpBNXGwEl_WwZhSYUROd84HsheBTGhot9sSQkkE3-pZ&s"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "detected_extensions": {
+                        "price_from": 95,
+                        "price_to": 1100,
+                        "currency": "$"
+                    },
+                    "extensions": [
+                        "$95 to $1,100"
+                    ]
+                }
+            },
+            "source": "Altex Computers & Electronics"
+        },
+        {
+            "position": 25,
+            "title": "SparkFun Electronics - SparkFun Electronics",
+            "link": "https://www.sparkfun.com/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sparkfun.com/&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0QFnoECGAQAQ",
+            "displayed_link": "https://www.sparkfun.com",
+            "favicon": "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/696837270c68254451e24009b534c819c4cea72164fd80e6c03183e25387588c.jpeg",
+            "snippet": "SparkFun Electronics is an online retail store that sells the bits and pieces to make your electronics projects possible.",
+            "snippet_highlighted_words": [
+                "SparkFun Electronics"
+            ],
+            "source": "SparkFun Electronics"
+        },
+        {
+            "position": 26,
+            "title": "Top 5 Best Online Retailers (For Buying Electronics & Tech)",
+            "link": "https://www.youtube.com/watch?v=hJuoXUgbYQc",
+            "displayed_link": "77.5K+ views \u00b7 9 years ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9HejQP99p68m_yqFOy4gr0nQLgJmSWyzK1zZxjh3yVX-QlTB_NZoMiSTveyrC&s&ec=73086137",
+            "favicon": "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/696837270c68254451e24009b534c819f63e11770d6152f778eb8b50a710891f.png",
+            "snippet": "These are the top five online Electronics retailers based on my personal experience as well as viewer surveys from a variety of different Publications.",
+            "duration": "7:38",
+            "key_moments": [
+                {
+                    "time": "00:56",
+                    "title": "Costco Dicom",
+                    "link": "https://www.youtube.com/watch?v=hJuoXUgbYQc&t=56",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb5cdGw3u_vnvckIularMVdAoQfe3fY_eubD77aHlAzw&s"
+                },
+                {
+                    "time": "01:45",
+                    "title": "Bows",
+                    "link": "https://www.youtube.com/watch?v=hJuoXUgbYQc&t=105",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdHv3KrfoJhUFmSCgB6Z-YbciFCl19IxfQ1uMwnwgpcg&s"
+                },
+                {
+                    "time": "03:28",
+                    "title": "Crutchfield",
+                    "link": "https://www.youtube.com/watch?v=hJuoXUgbYQc&t=208",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxeiIOjptRrpfbXoPsMMH0KPy41v4pJ4FqW0AT0gcCig&s"
+                },
+                {
+                    "time": "04:09",
+                    "title": "Bh Photo Video Comm",
+                    "link": "https://www.youtube.com/watch?v=hJuoXUgbYQc&t=249",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1j90KOksCzjxtM20AmaHr-ExcXv9jgBTMf_RmlZgEEw&s"
+                },
+                {
+                    "time": "05:01",
+                    "title": "Apple Store",
+                    "link": "https://www.youtube.com/watch?v=hJuoXUgbYQc&t=301",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbOTLSWH1S-wJ4oLgT-dn9ALlX5F9l2iIF3rbHa-b-yA&s"
+                },
+                {
+                    "time": "05:29",
+                    "title": "New Egg",
+                    "link": "https://www.youtube.com/watch?v=hJuoXUgbYQc&t=329",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7_fLBpVn_-Ib8Vn9J-iRA3nCA74ePtLHxn8sDfqBvqg&s"
+                },
+                {
+                    "time": "05:52",
+                    "title": "Tigerdirect",
+                    "link": "https://www.youtube.com/watch?v=hJuoXUgbYQc&t=352",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7AZSlRE-MIMpIe3hsUPSnoL5lBP3y5MsHPL2uT9dd4w&s"
+                }
+            ],
+            "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcT_CxoaCLHx1oY_5_-5gDShJzQoAPHP9DOPdA",
+            "source": "YouTube \u00b7 EposVox"
+        },
+        {
+            "position": 27,
+            "title": "Shop Tax-Free Electronics Online Anytime, Anywhere",
+            "link": "https://www.ishopchangi.com/en/category/electronics",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ishopchangi.com/en/category/electronics&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0QFnoECGcQAQ",
+            "displayed_link": "https://www.ishopchangi.com \u203a category \u203a electronics",
+            "favicon": "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/696837270c68254451e24009b534c819a34773a69e5d5a6a917e297b5a3d3f62.png",
+            "snippet": "Level up your tech game with a wide selection of the best electronics from top brands on iShopChangi Singapore. Shop tax-free as you fly!",
+            "snippet_highlighted_words": [
+                "electronics"
+            ],
+            "source": "iShopChangi"
+        },
+        {
+            "position": 28,
+            "title": "Online Shopping: 6 Best Places to Buy Electronics",
+            "link": "https://forum.dontpayfull.com/threads/online-shopping-6-best-places-to-buy-electronics.22370/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://forum.dontpayfull.com/threads/online-shopping-6-best-places-to-buy-electronics.22370/&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0QFnoECHcQAQ",
+            "displayed_link": "https://forum.dontpayfull.com \u203a threads \u203a online-shopp...",
+            "favicon": "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/696837270c68254451e24009b534c8199780167cba549d5a03a7962df6754d1a.png",
+            "date": "Nov 14, 2014",
+            "snippet": "This article list the 6 best places to shop for electronics online.Crutchfield.com BHPhotoVideo.com Amazon.com Costco.com Newegg.com Apple.",
+            "snippet_highlighted_words": [
+                "electronics online"
+            ],
+            "source": "DontPayFull"
+        },
+        {
+            "position": 29,
+            "title": "Buy Electronics Online at Best Prices",
+            "link": "https://www.tataneu.com/v2/slp/electronics",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tataneu.com/v2/slp/electronics&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0QFnoECH4QAQ",
+            "displayed_link": "https://www.tataneu.com \u203a slp \u203a electronics",
+            "favicon": "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/696837270c68254451e24009b534c8194ea7c34f16ffee6c6a46125f33a106fb.png",
+            "snippet": "Get a complete online electronics shopping experience at Tata Neu's electronics store. Buy mobile phones, laptops, tablets, home appliances, smart watches ...",
+            "snippet_highlighted_words": [
+                "Get a complete online electronics shopping experience at Tata Neu's electronics store"
+            ],
+            "source": "Tata Neu"
+        },
+        {
+            "position": 30,
+            "title": "Top 5 Websites for Buying Electronics Online",
+            "link": "https://www.reference.com/business-finance/top-websites-buying-electronics-online-comprehensive-review",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reference.com/business-finance/top-websites-buying-electronics-online-comprehensive-review&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0QFnoECH8QAQ",
+            "displayed_link": "https://www.reference.com \u203a Business & Finance",
+            "favicon": "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/696837270c68254451e24009b534c8198b9de71e2889b0cfccb44e8dd80cb44b.png",
+            "snippet": "Top 5 Websites for Buying Electronics Online: A Comprehensive Review \u00b7 Amazon \u2013 The E-commerce Giant \u00b7 Best Buy \u2013 Expert Advice at Your Fingertips \u00b7 Newegg \u2013 Tech ...",
+            "snippet_highlighted_words": [
+                "Amazon \u2013 The E-commerce Giant"
+            ],
+            "source": "Reference.com"
+        },
+        {
+            "position": 31,
+            "title": "Shop Electronics Overstock Deals",
+            "link": "https://www.heartlandamerica.com/electronics.html?srsltid=AfmBOorVtD91Qi9ECwCy_qoiFczRij7IgzktoGM1uzpbUd-KINgqPaN2",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.heartlandamerica.com/electronics.html%3Fsrsltid%3DAfmBOorVtD91Qi9ECwCy_qoiFczRij7IgzktoGM1uzpbUd-KINgqPaN2&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0QFnoFCI8BEAE",
+            "displayed_link": "https://www.heartlandamerica.com \u203a electronics",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR-RIhUqre6uS1thvxmgJOmDOSJ-FOgRHpfyn75iQmYLRDRAqZ2pwaghO_-rRnhnb5pA&s",
+            "favicon": "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/696837270c68254451e24009b534c819304b0f08947465222bdc793395945f7b.png",
+            "snippet": "Heartland America offers a wide variety of electronics online at unbeatable prices. You can find portable TVs, LCD TVs, HD TVs for home or office, as well as ...",
+            "snippet_highlighted_words": [
+                "Heartland America offers a wide variety of electronics online"
+            ],
+            "images": [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR-RIhUqre6uS1thvxmgJOmDOSJ-FOgRHpfyn75iQmYLRDRAqZ2pwaghO_-rRnhnb5pA&s"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "detected_extensions": {
+                        "price_from": 30,
+                        "price_to": 180,
+                        "currency": "$"
+                    },
+                    "extensions": [
+                        "$30 to $180"
+                    ]
+                }
+            },
+            "source": "Heartland America"
+        },
+        {
+            "position": 32,
+            "title": "Croma Electronics | Online Electronics Shopping | Buy ...",
+            "link": "https://www.croma.com/?srsltid=AfmBOor8IycpeDVmLJm7NKJZiPWYA_6ZlhAaSqyNiEzaNYVQcexz0CPk",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.croma.com/%3Fsrsltid%3DAfmBOor8IycpeDVmLJm7NKJZiPWYA_6ZlhAaSqyNiEzaNYVQcexz0CPk&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0QFnoFCJ8BEAE",
+            "displayed_link": "https://www.croma.com",
+            "favicon": "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/696837270c68254451e24009b534c819416aba91beefd8f6e1602aca3eabc9e4.png",
+            "snippet": "Croma Retail is one stop destination for online shopping in India. Buy online all the products that you need here. Shop online in India through Croma Retail ...",
+            "snippet_highlighted_words": [
+                "Croma Retail is one stop destination for online shopping"
+            ],
+            "source": "Croma"
+        },
+        {
+            "position": 33,
+            "title": "Electronics - Best Sellers",
+            "link": "https://www.amazon.com/Best-Sellers-Electronics/zgbs/electronics",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amazon.com/Best-Sellers-Electronics/zgbs/electronics&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0QFnoFCJ4BEAE",
+            "displayed_link": "https://www.amazon.com \u203a zgbs \u203a electronics",
+            "favicon": "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/696837270c68254451e24009b534c8196d6c9e1da53c35e77ce2063edeeea323.png",
+            "snippet": "Discover the best Electronics in Best Sellers. Find the top 100 most popular items in Amazon Electronics Best Sellers.",
+            "snippet_highlighted_words": [
+                "Amazon Electronics Best Sellers"
+            ],
+            "source": "Amazon.com"
+        },
+        {
+            "position": 34,
+            "title": "Electronics",
+            "link": "https://www.costco.com/electronics.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.costco.com/electronics.html&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0QFnoFCKUBEAE",
+            "displayed_link": "https://www.costco.com \u203a electronics",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBGEUm21lEC5zKDFQTvIWvKBiFjaMMnRWrFxTtTI_n86yoIGkxGE5w&s",
+            "favicon": "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/696837270c68254451e24009b534c8198821ce9268f6e6276080ab08950f1b55.png",
+            "snippet": "Shop Costco's huge selection of TVs, cameras, video cameras, video games, security systems, cell phones and more, all at affordable Costco prices.",
+            "source": "Costco"
+        },
+        {
+            "position": 35,
+            "title": "Electronics Products Delivery or Pickup Near Me",
+            "link": "https://www.instacart.com/categories/1772-electronics",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instacart.com/categories/1772-electronics&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0QFnoFCLMBEAE",
+            "displayed_link": "https://www.instacart.com \u203a categories \u203a 1772-electronics",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs5PXDwh7qRwNeCQJTS4Ow-BSxWz9gY5AMXqlZcjSEHQp5tECdCyrg&s",
+            "favicon": "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/696837270c68254451e24009b534c8192e522b6eeba2ad5944201f5a12f299de.png",
+            "snippet": "Order Phones, Smart Home, Television, and more from local and national retailers near you and enjoy on-demand, contactless delivery or pickup within 2 hours.",
+            "snippet_highlighted_words": [
+                "Order Phones, Smart Home, Television, and more"
+            ],
+            "source": "Instacart"
+        },
+        {
+            "position": 36,
+            "title": "RadioShack",
+            "link": "https://www.radioshack.com/?srsltid=AfmBOoq2wpwbteAXGFz0WvPVap7TEoPhQZT3OK2uUjOvOXzJJCh9JFI9",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.radioshack.com/%3Fsrsltid%3DAfmBOoq2wpwbteAXGFz0WvPVap7TEoPhQZT3OK2uUjOvOXzJJCh9JFI9&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0QFnoFCK8BEAE",
+            "displayed_link": "https://www.radioshack.com",
+            "favicon": "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/696837270c68254451e24009b534c8198826b5e4650c070777bb83c10495308a.png",
+            "snippet": "Welcome to RadioShack's official website. Search and shop for electronics, gaming devices, powerbanks, audio products and business traveling gear.",
+            "snippet_highlighted_words": [
+                "Search and shop for electronics"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "detected_extensions": {
+                        "price": 50,
+                        "price_from": 7,
+                        "price_to": 90,
+                        "currency": "$"
+                    },
+                    "extensions": [
+                        "$7 to $90",
+                        "Free delivery over $50",
+                        "30-day returns"
+                    ]
+                }
+            },
+            "source": "Radio Shack"
+        },
+        {
+            "position": 37,
+            "title": "Electronics & Devices on Afterpay - Buy now pay later with ...",
+            "link": "https://www.afterpay.com/en-US/categories/tech",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.afterpay.com/en-US/categories/tech&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0QFnoFCKsBEAE",
+            "displayed_link": "https://www.afterpay.com \u203a en-US \u203a categories \u203a tech",
+            "snippet": "Discover the full list of Electronics & Devices retailers and stores on Afterpay. Buy now, Pay Later in 4 easy payments. No interest, no establishment fees.",
+            "snippet_highlighted_words": [
+                "Electronics & Devices retailers and stores on Afterpay"
+            ],
+            "source": "Afterpay"
+        },
+        {
+            "position": 38,
+            "title": "Where to Find Affordable Electronic Products Online?",
+            "link": "https://theceocreative.com/where-to-find-affordable-electronic-products-online/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://theceocreative.com/where-to-find-affordable-electronic-products-online/&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0QFnoFCLQBEAE",
+            "displayed_link": "https://theceocreative.com \u203a where-to-find-affordable-el...",
+            "favicon": "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/696837270c68254451e24009b534c819334b9f9de33544c7e61df64bd69e6811.png",
+            "date": "Jun 5, 2025",
+            "snippet": "1. Amazon: Electronic Deals and Discounts \u00b7 2. Best Buy: A Hub of Affordable Electronics \u00b7 3. Newegg: Tech-lover's Paradise at Competitive Prices.",
+            "snippet_highlighted_words": [
+                "Amazon: Electronic Deals and Discounts"
+            ],
+            "source": "The CEO Creative"
+        },
+        {
+            "position": 39,
+            "title": "Electronics Store: Buy",
+            "link": "https://www.tatacliq.com/electronics",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tatacliq.com/electronics&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0QFnoFCL4BEAE",
+            "displayed_link": "https://www.tatacliq.com \u203a electronics",
+            "favicon": "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/696837270c68254451e24009b534c819886725d24b211b35b242ae121e7c2609.png",
+            "snippet": "Tata CLiQ Electronics - Shop for electronic products like smartphones, laptops, home appliances, large appliances & more online at Tata CLiQ India. Buy ...",
+            "snippet_highlighted_words": [
+                "Shop for electronic products"
+            ],
+            "source": "Tata CLiQ"
+        },
+        {
+            "position": 40,
+            "title": "Online Electronic Shopping Store in India | Best Electronic Store",
+            "link": "https://www.reliancedigital.in/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reliancedigital.in/&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0QFnoECFAQAQ",
+            "displayed_link": "https://www.reliancedigital.in",
+            "favicon": "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/696837270c68254451e24009b534c8192e0c395d4c7c80128a95775dc6a549e4.jpeg",
+            "snippet": "Buy electronics online at India's best electronics store \u2013 Reliance Digital. Best Electronic shop for TVs, laptops, mobiles, cameras & smart home ...",
+            "snippet_highlighted_words": [
+                "Buy electronics online"
+            ],
+            "source": "Reliance Digital"
+        },
+        {
+            "position": 41,
+            "title": "Buy Now, Pay Later Electronics & Appliances",
+            "link": "https://zip.co/us/shop/appliances-electronics",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://zip.co/us/shop/appliances-electronics&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0QFnoECGUQAQ",
+            "displayed_link": "https://zip.co \u203a shop \u203a appliances-electronics",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtHqu0O8miBe_JYeAncFnW1KTfYoMVD-VGhjN9x4dt9zSJG_CETr9O4dx5QTbpqZYymg&s",
+            "favicon": "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/696837270c68254451e24009b534c819bb54b5f331e589a3535daaa001422d39.png",
+            "snippet": "A buy now, pay later plan lets you get what you need today and pay off your purchase over time, giving you a simple, stress-free way to shop online and in- ...",
+            "snippet_highlighted_words": [
+                "buy",
+                "online"
+            ],
+            "images": [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtHqu0O8miBe_JYeAncFnW1KTfYoMVD-VGhjN9x4dt9zSJG_CETr9O4dx5QTbpqZYymg&s"
+            ],
+            "source": "Zip"
+        },
+        {
+            "position": 42,
+            "title": "Google Store for Google Made Devices & Accessories",
+            "link": "https://store.google.com/?hl=en-US",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://store.google.com/%3Fhl%3Den-US&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0QFnoECFMQAQ",
+            "displayed_link": "https://store.google.com \u203a ...",
+            "favicon": "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/696837270c68254451e24009b534c8192e8e17e3ece3a7449d2686911f97e48a.png",
+            "snippet": "Additional trade-in terms are located here. Buy a Pixel 10 Pro or Pro XL (Unlocked) and get $200 in Google Store credit. Customers will receive an email ...",
+            "snippet_highlighted_words": [
+                "Buy"
+            ],
+            "source": "Google Store"
+        },
+        {
+            "position": 43,
+            "title": "Back Market: Refurbished tech that's better for the planet",
+            "link": "https://www.backmarket.com/en-us?srsltid=AfmBOor8TCk2OwhUixI-cBMNnWgnMkVUyYD3q7YuJXhrMCscP1KnXaij",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.backmarket.com/en-us%3Fsrsltid%3DAfmBOor8TCk2OwhUixI-cBMNnWgnMkVUyYD3q7YuJXhrMCscP1KnXaij&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0QFnoECFEQAQ",
+            "displayed_link": "https://www.backmarket.com \u203a en-us",
+            "favicon": "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/696837270c68254451e24009b534c81981b4ed6fbc1a9da7ba2fc1896cfb6bf2.png",
+            "snippet": "Buy and sell tech that's better for the planet. Professionally refurbished ... Can you help me recycle my old phone or other electronics? We can do you ...",
+            "snippet_highlighted_words": [
+                "Buy",
+                "electronics"
+            ],
+            "source": "backmarket.com"
+        },
+        {
+            "position": 44,
+            "title": "Electronics",
+            "link": "https://www.nfm.com/electronics",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nfm.com/electronics&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0QFnoECGgQAQ",
+            "displayed_link": "https://www.nfm.com \u203a electronics",
+            "favicon": "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/696837270c68254451e24009b534c819834b8736510fb02fb2f8166b0f44dbcf.png",
+            "snippet": "With one of the largest selections in the Midwest and an online electronics store that's always open, you can shop deals on electronics with confidence. From ...",
+            "snippet_highlighted_words": [
+                "online electronics",
+                "electronics"
+            ],
+            "source": "NFM"
+        },
+        {
+            "position": 45,
+            "title": "JioMart Electronic Online Shopping",
+            "link": "https://www.jiomart.com/c/electronics/4",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.jiomart.com/c/electronics/4&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0QFnoECGYQAQ",
+            "displayed_link": "https://www.jiomart.com \u203a All Categories",
+            "favicon": "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/696837270c68254451e24009b534c819b969583748462b74936273a1ddecce39.jpeg",
+            "snippet": "JioMart Electronics Online Store - Buy electronic products online from a wide range of mobiles & tablets, tv & speakers, computers, gaming, ...",
+            "snippet_highlighted_words": [
+                "Electronics Online",
+                "Buy electronic",
+                "online"
+            ],
+            "source": "JioMart"
+        },
+        {
+            "position": 46,
+            "title": "Electronics",
+            "link": "https://www.macys.com/shop/electronics/all-electronics?id=168970",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.macys.com/shop/electronics/all-electronics%3Fid%3D168970&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0QFnoECHwQAQ",
+            "displayed_link": "https://www.macys.com \u203a electronics \u203a all-electronics",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEjZQW1dc-8iYXeLoBJPqkKXiri576pS0LTC2vwvcvgJA2MkMs1kTM&s",
+            "favicon": "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/696837270c68254451e24009b534c8194b426182f83505536b0e05ede4e05a4a.png",
+            "snippet": "Buy More, Save More: $25 off $100 \u00b7 Sale & Clearance \u00b7 Dinnerware \u00b7 Table Linens ... GungHo Online Entertainment, Inc. Hasselblad \u00b7 havit \u00b7 Hercules \u00b7 Hisense ...",
+            "snippet_highlighted_words": [
+                "Buy",
+                "Online"
+            ],
+            "images": [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEjZQW1dc-8iYXeLoBJPqkKXiri576pS0LTC2vwvcvgJA2MkMs1kTM&s"
+            ],
+            "source": "Macy's"
+        },
+        {
+            "position": 47,
+            "title": "Home Electronics - Buy electronics online at ... - IKEA",
+            "link": "https://www.ikea.com/in/en/cat/home-electronics-he001/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ikea.com/in/en/cat/home-electronics-he001/&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0QFnoECF8QAQ",
+            "displayed_link": "https://www.ikea.com \u203a cat \u203a home-electronics-he001",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeaz_svCsB9z0zx54p20onNFr569agXXRu6A4V0qKF_mfSYYmrtmuD&s",
+            "favicon": "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/696837270c68254451e24009b534c819c445576663119910d3ae7a823633ed7c.png",
+            "snippet": "Upgrade your living space with items from our home electronics range. From smart lighting to speakers, we've got the products that can elevate your home.",
+            "snippet_highlighted_words": [
+                "electronics"
+            ],
+            "source": "IKEA"
+        },
+        {
+            "position": 48,
+            "title": "http://www.cbsnews.com/8301-505144_162-41542865/on...",
+            "link": "http://www.cbsnews.com/8301-505144_162-41542865/online-shopping-6-best-places-to-buy-electronics/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://www.cbsnews.com/8301-505144_162-41542865/online-shopping-6-best-places-to-buy-electronics/&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0QFnoECDYQAQ",
+            "displayed_link": "http://www.cbsnews.com \u203a online-shopping-6-best-plac...",
+            "favicon": "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/696837270c68254451e24009b534c8192dbe5d425e72622255575b0894490cf8.png",
+            "snippet": "No information is available for this page.",
+            "source": "CBS News"
+        },
+        {
+            "position": 49,
+            "title": "Gazelle: Buy Pre-Owned & Used iPhones, Cell Phones & More",
+            "link": "https://buy.gazelle.com/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://buy.gazelle.com/&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0QFnoECDgQAQ",
+            "displayed_link": "https://buy.gazelle.com",
+            "favicon": "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/696837270c68254451e24009b534c819c5c2d8ba93788f749d7a1eb6d8cf8873.png",
+            "snippet": "Whether you're looking for a still-great iPhone, refurbished cell phone, or iPad, find an amazing deal on Gazelle refurbished pre-owned devices.",
+            "rich_snippet": {
+                "bottom": {
+                    "detected_extensions": {
+                        "price_from": 163,
+                        "price_to": 755,
+                        "currency": "$",
+                        "rating": 3.9,
+                        "reviews": 6600
+                    },
+                    "extensions": [
+                        "3.9 store rating (6.6K)",
+                        "$163 to $755",
+                        "Free delivery",
+                        "Free 30-day returns"
+                    ]
+                }
+            },
+            "source": "Gazelle"
+        },
+        {
+            "position": 50,
+            "title": "Sony Electronics - Televisions, Audio, Cameras, Mobile, Video ...",
+            "link": "https://electronics.sony.com/?srsltid=AfmBOorWOP0zW_aCZ7b1onQ7jVu1PkWo9zi9jiBB0d4RA6lnxLJMcbWj",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://electronics.sony.com/%3Fsrsltid%3DAfmBOorWOP0zW_aCZ7b1onQ7jVu1PkWo9zi9jiBB0d4RA6lnxLJMcbWj&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0QFnoECDMQAQ",
+            "displayed_link": "https://electronics.sony.com",
+            "favicon": "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/696837270c68254451e24009b534c819f7cd045da1ee3a41d9f34a85e84e9c8a.png",
+            "snippet": "Benefits of Buying Directly from Sony. Free Shipping & Easy Returns. Many items arrive in 2 days or less. Estimated delivery dates ...",
+            "snippet_highlighted_words": [
+                "Buying"
+            ],
+            "source": "Sony Electronics"
+        }
+    ],
+    "related_searches": [
+        {
+            "block_position": 1,
+            "items": [
+                {
+                    "name": "Amazon.com",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlnp6Q8qjuP65yPwpYsTmo3cGp0mBWVcIn6VIK&s=0",
+                    "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Amazon&stick=H4sIAAAAAAAAAAFTAKz_CDEiCC9tLzBtZ2tn-gEAsAQAogUGQW1hem9u2gYZALuiiPkERb8xsTkzsbIW47cH-kf9fWaYqaIIFlBlb3BsZSBhbHNvIHNlYXJjaCBmb3KoCAFunKVEUwAAAA&sa=X&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0Qs9oBKAB6BQjJARAK",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=Amazon&stick=H4sIAAAAAAAAAAFTAKz_CDEiCC9tLzBtZ2tn-gEAsAQAogUGQW1hem9u2gYZALuiiPkERb8xsTkzsbIW47cH-kf9fWaYqaIIFlBlb3BsZSBhbHNvIHNlYXJjaCBmb3KoCAFunKVEUwAAAA"
+                },
+                {
+                    "name": "Best Buy",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwgiD9Cprc9fgQueIUMjLdPZr_-kSkfZZJ3ks5&s=0",
+                    "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Best+Buy&stick=H4sIAAAAAAAAAAFWAKn_CDEiCS9tLzAxenJkePoBALAEAKIFCEJlc3QgQnV52gYZALuiiPkERb8xsTkzsbIW47cH-kf9fWaYqaIIFlBlb3BsZSBhbHNvIHNlYXJjaCBmb3KoCAEL-xlWVgAAAA&sa=X&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0Qs9oBKAB6BQjJARAP",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=Best+Buy&stick=H4sIAAAAAAAAAAFWAKn_CDEiCS9tLzAxenJkePoBALAEAKIFCEJlc3QgQnV52gYZALuiiPkERb8xsTkzsbIW47cH-kf9fWaYqaIIFlBlb3BsZSBhbHNvIHNlYXJjaCBmb3KoCAEL-xlWVgAAAA"
+                },
+                {
+                    "name": "Home Depot",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuRCxKEOA8QtPk_thlre_vk3q5WKv9pWEO2O-E&s=0",
+                    "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Home+Depot&stick=H4sIAAAAAAAAAAFYAKf_CDEiCS9tLzAxemoxdPoBALAEAKIFCkhvbWUgRGVwb3TaBhkAu6KI-QRFvzGxOTOxshbjtwf6R_19ZpipoggWUGVvcGxlIGFsc28gc2VhcmNoIGZvcqgIAYWdZ69YAAAA&sa=X&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0Qs9oBKAB6BQjJARAU",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=Home+Depot&stick=H4sIAAAAAAAAAAFYAKf_CDEiCS9tLzAxemoxdPoBALAEAKIFCkhvbWUgRGVwb3TaBhkAu6KI-QRFvzGxOTOxshbjtwf6R_19ZpipoggWUGVvcGxlIGFsc28gc2VhcmNoIGZvcqgIAYWdZ69YAAAA"
+                },
+                {
+                    "name": "eBay",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz8xkpnpCsY-cF9Mh4fsjXE13QS5txhR58qfON&s=0",
+                    "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=eBay&stick=H4sIAAAAAAAAAAFRAK7_CDEiCC9tLzB6OTBj-gEAsAQAogUEZUJhedoGGQC7ooj5BEW_MbE5M7GyFuO3B_pH_X1mmKmiCBZQZW9wbGUgYWxzbyBzZWFyY2ggZm9yqAgB8-5mEFEAAAA&sa=X&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0Qs9oBKAB6BQjJARAZ",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=eBay&stick=H4sIAAAAAAAAAAFRAK7_CDEiCC9tLzB6OTBj-gEAsAQAogUEZUJhedoGGQC7ooj5BEW_MbE5M7GyFuO3B_pH_X1mmKmiCBZQZW9wbGUgYWxzbyBzZWFyY2ggZm9yqAgB8-5mEFEAAAA"
+                },
+                {
+                    "name": "Walmart",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ92mP2gJPqK12tzk1g9_E2iJei1maZMV2gO7jt&s=0",
+                    "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Walmart&stick=H4sIAAAAAAAAAAFUAKv_CDEiCC9tLzA4NDF2-gEAsAQAogUHV2FsbWFydNoGGQC7ooj5BEW_MbE5M7GyFuO3B_pH_X1mmKmiCBZQZW9wbGUgYWxzbyBzZWFyY2ggZm9yqAgBrokLl1QAAAA&sa=X&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0Qs9oBKAB6BQjJARAe",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=Walmart&stick=H4sIAAAAAAAAAAFUAKv_CDEiCC9tLzA4NDF2-gEAsAQAogUHV2FsbWFydNoGGQC7ooj5BEW_MbE5M7GyFuO3B_pH_X1mmKmiCBZQZW9wbGUgYWxzbyBzZWFyY2ggZm9yqAgBrokLl1QAAAA"
+                },
+                {
+                    "name": "Shopify",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUtl32jcftvc8oduOiZgfMYQs1WraIEeYR8gRh&s=0",
+                    "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Shopify&stick=H4sIAAAAAAAAAAFWAKn_CDEiCi9tLzAybnRidzj6AQCwBACiBQdTaG9waWZ52gYZALuiiPkERb8xsTkzsbIW47cH-kf9fWaYqaIIFlBlb3BsZSBhbHNvIHNlYXJjaCBmb3KoCAE1aiNwVgAAAA&sa=X&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0Qs9oBKAB6BQjJARAj",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=Shopify&stick=H4sIAAAAAAAAAAFWAKn_CDEiCi9tLzAybnRidzj6AQCwBACiBQdTaG9waWZ52gYZALuiiPkERb8xsTkzsbIW47cH-kf9fWaYqaIIFlBlb3BsZSBhbHNvIHNlYXJjaCBmb3KoCAE1aiNwVgAAAA"
+                }
+            ]
+        },
+        {
+            "block_position": 1,
+            "query": "Best place to buy electronics online",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Best+place+to+buy+electronics+online&sa=X&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0Q1QJ6BQjSARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=Best+place+to+buy+electronics+online"
+        },
+        {
+            "block_position": 1,
+            "query": "Buy electronics online cheap",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Buy+electronics+online+cheap&sa=X&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0Q1QJ6BQjUARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=Buy+electronics+online+cheap"
+        },
+        {
+            "block_position": 1,
+            "query": "Best online electronics store in USA",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Best+online+electronics+store+in+USA&sa=X&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0Q1QJ6BQjWARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=Best+online+electronics+store+in+USA"
+        },
+        {
+            "block_position": 1,
+            "query": "Best Buy",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Best+Buy&sa=X&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0Q1QJ6BQjMARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=Best+Buy"
+        },
+        {
+            "block_position": 1,
+            "query": "Electronics store online usa",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Electronics+store+online+usa&sa=X&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0Q1QJ6BQjNARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=Electronics+store+online+usa"
+        },
+        {
+            "block_position": 1,
+            "query": "Top 10 electronic stores in USA",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Top+10+electronic+stores+in+USA&sa=X&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0Q1QJ6BQjPARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=Top+10+electronic+stores+in+USA"
+        },
+        {
+            "block_position": 1,
+            "query": "Online electronics parts store",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Online+electronics+parts+store&sa=X&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0Q1QJ6BQjOARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=Online+electronics+parts+store"
+        },
+        {
+            "block_position": 1,
+            "query": "Electronic Express near me",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Electronic+Express+near+me&sa=X&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0Q1QJ6BQjLARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=Electronic+Express+near+me"
+        }
+    ],
+    "refine_this_search": [
+        {
+            "query": "On sale",
+            "link": "https://www.google.com/search?q=buy+electronics+online+sale&shoprs=CAESBEoCGAEYBioWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTITCAYSB09uIHNhbGUYAiIESgIYAVjapyBgAQ&sa=X&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0Qip4GKAB6BAgLEAM",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=buy+electronics+online+sale"
+        },
+        {
+            "query": "Under $100",
+            "link": "https://www.google.com/search?q=buy+electronics+online+under+$100&shoprs=CAESDRILEQAAAACE15dBGAEYBSoWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIjCAUSClVuZGVyICQxMDAYAiINEgsRAAAAAITXl0EYASoCGAFY2qcgYAE&sa=X&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0Qip4GKAF6BAgLEAQ",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=buy+electronics+online+under+%24100"
+        },
+        {
+            "query": "Usa",
+            "link": "https://www.google.com/search?q=usa+buy+electronics+online&shoprs=CAEYEioWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIHCBISA1VzYWAB&sa=X&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0Qip4GKAJ6BAgLEAU",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=usa+buy+electronics+online"
+        },
+        {
+            "query": "Nearby",
+            "link": "https://www.google.com/search?q=buy+electronics+online+nearby&shoprs=CAEYAyoWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIMCAMSBk5lYXJieRgCWNqnIGAB&sa=X&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0Qip4GKAN6BAgLEAY",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=buy+electronics+online+nearby"
+        },
+        {
+            "query": "New",
+            "link": "https://www.google.com/search?q=new+buy+electronics+online&shoprs=CAEYCioWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIHCAoSA05ld1japyBgAQ&sa=X&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0Qip4GKAR6BAgLEAc",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=new+buy+electronics+online"
+        },
+        {
+            "query": "Used",
+            "link": "https://www.google.com/search?q=used+buy+electronics+online&shoprs=CAEYCioWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIICAoSBFVzZWRY2qcgYAE&sa=X&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0Qip4GKAV6BAgLEAg",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=used+buy+electronics+online",
+            "thumbnail": "https://serpapi.com/searches/68b8768370e9d04ca2ef3332/images/cfdcf2d0607e0789169fef3cb3ba15584e89a699ff7e24400a200f168fc99864.svg+xml"
+        },
+        {
+            "query": "Free",
+            "link": "https://www.google.com/search?q=free+buy+electronics+online&shoprs=CAEYEioWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIICBISBEZyZWVgAQ&sa=X&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0Qip4GKAZ6BAgLEAk",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=free+buy+electronics+online"
+        },
+        {
+            "query": "Store",
+            "link": "https://www.google.com/search?q=store+buy+electronics+online&shoprs=CAEYEioWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIJCBISBVN0b3JlYAE&sa=X&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0Qip4GKAd6BAgLEAo",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=store+buy+electronics+online"
+        },
+        {
+            "query": "Free shipping",
+            "link": "https://www.google.com/search?q=buy+electronics+online+free+shipping&shoprs=CAESBFICEAEYGSoWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIXCBkSDUZyZWUgc2hpcHBpbmciBFICEAFgAQ&sa=X&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0Qip4GKAh6BAgLEAs",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=buy+electronics+online+free+shipping"
+        },
+        {
+            "query": "TVs",
+            "link": "https://www.google.com/search?q=tvs+buy+electronics+online&shoprs=CAEYCSoWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIHCAkSA1RWc2AB&sa=X&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0Qip4GKAl6BAgLEAw",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=tvs+buy+electronics+online"
+        },
+        {
+            "query": "Laptops",
+            "link": "https://www.google.com/search?q=laptops+buy+electronics+online&shoprs=CAEYCSoWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTILCAkSB0xhcHRvcHNgAQ&sa=X&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0Qip4GKAp6BAgLEA0",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=laptops+buy+electronics+online"
+        },
+        {
+            "query": "Get it tomorrow",
+            "link": "https://www.google.com/search?q=buy+electronics+online&shoprs=CAESDZoBCgoIEAE4AUAESAEYFCoWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIoCBQSD0dldCBpdCB0b21vcnJvdyINmgEKCggQATgBQARIASoEEAEYAWAB&sa=X&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0Qip4GKAt6BAgLEA4",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=buy+electronics+online"
+        },
+        {
+            "query": "Books",
+            "link": "https://www.google.com/search?q=books+buy+electronics+online&shoprs=CAEYCSoWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIJCAkSBUJvb2tzYAE&sa=X&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0Qip4GKAx6BAgLEA8",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=books+buy+electronics+online"
+        },
+        {
+            "query": "Speakers",
+            "link": "https://www.google.com/search?q=speakers+buy+electronics+online&shoprs=CAEYCSoWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIMCAkSCFNwZWFrZXJzYAE&sa=X&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0Qip4GKA16BAgLEBA",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=speakers+buy+electronics+online"
+        },
+        {
+            "query": "Pink",
+            "link": "https://www.google.com/search?q=pink+buy+electronics+online&shoprs=CAEYASoWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIWCAESBFBpbms6DAjYjPUBEOmK9QEwC1japyBgAQ&sa=X&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0Qip4GKA56BAgLEBE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=pink+buy+electronics+online"
+        },
+        {
+            "query": "Desktop Computers",
+            "link": "https://www.google.com/search?q=desktop+computers+buy+electronics+online&shoprs=CAEYCSoWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIVCAkSEURlc2t0b3AgQ29tcHV0ZXJzYAE&sa=X&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0Qip4GKA96BAgLEBI",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=desktop+computers+buy+electronics+online"
+        },
+        {
+            "query": "Calculators",
+            "link": "https://www.google.com/search?q=calculators+buy+electronics+online&shoprs=CAEYCSoWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIPCAkSC0NhbGN1bGF0b3JzYAE&sa=X&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0Qip4GKBB6BAgLEBM",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=calculators+buy+electronics+online"
+        },
+        {
+            "query": "Cell Phones",
+            "link": "https://www.google.com/search?q=cell+phones+buy+electronics+online&shoprs=CAEYCSoWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIPCAkSC0NlbGwgUGhvbmVzYAE&sa=X&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0Qip4GKBF6BAgLEBQ",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=cell+phones+buy+electronics+online"
+        },
+        {
+            "query": "Computer Monitors",
+            "link": "https://www.google.com/search?q=computer+monitors+buy+electronics+online&shoprs=CAEYCSoWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIVCAkSEUNvbXB1dGVyIE1vbml0b3JzYAE&sa=X&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0Qip4GKBJ6BAgLEBU",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=computer+monitors+buy+electronics+online"
+        },
+        {
+            "query": "Black",
+            "link": "https://www.google.com/search?q=black+buy+electronics+online&shoprs=CAEYASoWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIXCAESBUJsYWNrOgwI2Iz1ARDlivUBMAtY2qcgYAE&sa=X&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0Qip4GKBN6BAgLEBY",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=black+buy+electronics+online"
+        },
+        {
+            "query": "Digital",
+            "link": "https://www.google.com/search?q=digital+buy+electronics+online&shoprs=CAEYEioWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTILCBISB0RpZ2l0YWxgAQ&sa=X&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0Qip4GKBR6BAgLEBc",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=digital+buy+electronics+online"
+        },
+        {
+            "query": "Reviews",
+            "link": "https://www.google.com/search?q=reviews+buy+electronics+online&shoprs=CAEYEioWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTILCBISB1Jldmlld3NgAQ&sa=X&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0Qip4GKBV6BAgLEBg",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=reviews+buy+electronics+online"
+        },
+        {
+            "query": "Smartphone",
+            "link": "https://www.google.com/search?q=smartphone+buy+electronics+online&shoprs=CAEYASoWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIaCAESClNtYXJ0cGhvbmU6Cgi73SwQvN0sMANY2qcgYAE&sa=X&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0Qip4GKBZ6BAgLEBk",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=smartphone+buy+electronics+online"
+        },
+        {
+            "query": "Green",
+            "link": "https://www.google.com/search?q=green+buy+electronics+online&shoprs=CAEYASoWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIXCAESBUdyZWVuOgwI2Iz1ARDoivUBMAtY2qcgYAE&sa=X&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0Qip4GKBd6BAgLEBo",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=green+buy+electronics+online"
+        },
+        {
+            "query": "Gray",
+            "link": "https://www.google.com/search?q=gray+buy+electronics+online&shoprs=CAEYASoWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIWCAESBEdyYXk6DAjYjPUBEOqK9QEwC1japyBgAQ&sa=X&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0Qip4GKBh6BAgLEBs",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=gray+buy+electronics+online"
+        },
+        {
+            "query": "Jersey",
+            "link": "https://www.google.com/search?q=jersey+buy+electronics+online&shoprs=CAEYEioWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIKCBISBkplcnNleWAB&sa=X&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0Qip4GKBl6BAgLEBw",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=jersey+buy+electronics+online"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=buy+electronics+online&num=50&sca_esv=cbb70bed2ede2303&ei=g3a4aK3HMtrNp84Pm8GS6A8&start=50&sa=N&sstk=Ac65TH62uZO4eMMjmMOwCcVw1fppNm9wwnp27zJQr-OpK1lTZNRcCuzWwce6XuYbA-_6w_Ai2I2D_kDf0bi2jvuAYbEjyt6BKmrS8g&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0Q8NMDegQICBAK",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=buy+electronics+online&num=50&sca_esv=cbb70bed2ede2303&ei=g3a4aK3HMtrNp84Pm8GS6A8&start=50&sa=N&sstk=Ac65TH62uZO4eMMjmMOwCcVw1fppNm9wwnp27zJQr-OpK1lTZNRcCuzWwce6XuYbA-_6w_Ai2I2D_kDf0bi2jvuAYbEjyt6BKmrS8g&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0Q8tMDegQICBAE",
+            "3": "https://www.google.com/search?q=buy+electronics+online&num=50&sca_esv=cbb70bed2ede2303&ei=g3a4aK3HMtrNp84Pm8GS6A8&start=100&sa=N&sstk=Ac65TH62uZO4eMMjmMOwCcVw1fppNm9wwnp27zJQr-OpK1lTZNRcCuzWwce6XuYbA-_6w_Ai2I2D_kDf0bi2jvuAYbEjyt6BKmrS8g&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0Q8tMDegQICBAG",
+            "4": "https://www.google.com/search?q=buy+electronics+online&num=50&sca_esv=cbb70bed2ede2303&ei=g3a4aK3HMtrNp84Pm8GS6A8&start=150&sa=N&sstk=Ac65TH62uZO4eMMjmMOwCcVw1fppNm9wwnp27zJQr-OpK1lTZNRcCuzWwce6XuYbA-_6w_Ai2I2D_kDf0bi2jvuAYbEjyt6BKmrS8g&ved=2ahUKEwjtlJTzir2PAxXa5skDHZugBP0Q8tMDegQICBAI"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=buy+electronics+online&start=50",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=buy+electronics+online&start=50",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=buy+electronics+online&start=50",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=buy+electronics+online&start=100",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=buy+electronics+online&start=150"
+        }
+    }
+}

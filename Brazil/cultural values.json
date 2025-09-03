@@ -1,0 +1,1287 @@
+{
+    "search_metadata": {
+        "id": "68b876d180f30ed67f5c0d1f",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/cd754450617e9268/68b876d180f30ed67f5c0d1f.json",
+        "pixel_position_endpoint": "https://serpapi.com/searches/cd754450617e9268/68b876d180f30ed67f5c0d1f.json_with_pixel_position",
+        "created_at": "2025-09-03 17:11:45 UTC",
+        "processed_at": "2025-09-03 17:11:45 UTC",
+        "google_url": "https://www.google.com/search?q=cultural+values&oq=cultural+values&uule=w+CAIQICIGQnJhemls&num=50&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/cd754450617e9268/68b876d180f30ed67f5c0d1f.html",
+        "total_time_taken": 1.01
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "cultural values",
+        "location_requested": "Brazil",
+        "location_used": "Brazil",
+        "google_domain": "google.com",
+        "num": "50",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "cultural values",
+        "total_results": 893000000,
+        "time_taken_displayed": 0.35,
+        "organic_results_state": "Results for exact spelling"
+    },
+    "knowledge_graph": {
+        "title": "Value",
+        "type": "Ethics",
+        "entity_type": "kp3_verticals",
+        "kgmid": "/m/0bhrmc",
+        "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/0bhrmc&hl=en-US&q=Value",
+        "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F0bhrmc&location=Brazil&num=50&q=Value",
+        "header_images": [
+            {
+                "image": "https://serpapi.com/searches/68b876d180f30ed67f5c0d1f/images/7d5314e199646076549a16ff0fc4bef6d8f7af6414dea4e17d70bfb55121f1af6f3345e5b6131468.webp",
+                "source": "https://helpfulprofessor.com/cultural-values-examples/"
+            },
+            {
+                "image": "https://serpapi.com/searches/68b876d180f30ed67f5c0d1f/images/7d5314e199646076549a16ff0fc4bef6d8f7af6414dea4e192e544a39376ad8a8f429b698f78386e.webp",
+                "source": "https://geriatrics.stanford.edu/ethnomed/ethno-med/latino/culturally-appropriate-care/fund/traditions.html"
+            },
+            {
+                "image": "https://serpapi.com/searches/68b876d180f30ed67f5c0d1f/images/7d5314e199646076549a16ff0fc4bef6d8f7af6414dea4e1965b58878c948bf377900f932a9adb61.webp",
+                "source": "https://www.researchgate.net/figure/Sub-sets-of-cultural-values-in-nature_fig1_265288499"
+            },
+            {
+                "image": "https://serpapi.com/searches/68b876d180f30ed67f5c0d1f/images/7d5314e199646076549a16ff0fc4bef6d8f7af6414dea4e1417b3da766e97ff861adffbb1ff3f24d.webp",
+                "source": "https://newsroom.haas.berkeley.edu/embracing-diverse-values-in-company-culture-pays-off-literally/"
+            }
+        ],
+        "description": "In ethics and social sciences, value denotes the degree of importance of some thing or action, with the aim of determining which actions are best to do or what way is best to live, or to describe the significance of different actions.",
+        "description_highlighted_words": [],
+        "source": {
+            "name": "\u00a0Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Value_(ethics)"
+        }
+    },
+    "inline_images": [
+        {
+            "thumbnail": "https://serpapi.com/searches/68b876d180f30ed67f5c0d1f/images/a90d1438ad92f209200cdc2f3a250be2341400c9340d76582cf425ada608451a.jpeg"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "What are examples of cultural values?",
+            "type": "ai_overview",
+            "text_blocks": [
+                {
+                    "type": "paragraph",
+                    "snippet": "Examples of cultural values include individualism vs. collectivism, where American culture emphasizes personal independence while African cultures may prioritize community and extended family ties. Other values include power distance, like the expectation for leaders to hold all the power in some cultures, and time orientation, which can range from a focus on immediate results to long-term planning. Values such as respect for elders (common in Asian cultures), egalitarianism (Scandinavian cultures), and aesthetics (Italian culture's la bella figura) also highlight the diversity of human belief systems.",
+                    "snippet_highlighted_words": [
+                        "individualism vs. collectivism"
+                    ],
+                    "reference_indexes": [
+                        3,
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "snippet": "Examples of Cultural Values"
+                },
+                {
+                    "type": "list",
+                    "list": [
+                        {
+                            "title": "Individualism vs. Collectivism:",
+                            "snippet": "Some cultures prioritize individual goals, freedom, and independence (e.g., American culture), while others emphasize the group's harmony, cohesion, and needs.",
+                            "reference_indexes": [
+                                4,
+                                5
+                            ]
+                        },
+                        {
+                            "title": "Power Distance:",
+                            "snippet": "This dimension reflects the degree to which a culture accepts the unequal distribution of power, with some cultures expecting a clear hierarchy and authority in leadership roles.",
+                            "reference_indexes": [
+                                1
+                            ]
+                        },
+                        {
+                            "title": "Uncertainty Avoidance:",
+                            "snippet": "Cultures vary in their comfort with ambiguity and change; some prefer flexible, adaptive environments, while others seek stability and prefer to avoid risk.",
+                            "reference_indexes": [
+                                0,
+                                2,
+                                3,
+                                7,
+                                8,
+                                9
+                            ]
+                        },
+                        {
+                            "title": "Time Orientation:",
+                            "snippet": "This can vary from a focus on the present and immediate results to a long-term view that emphasizes future planning and outcomes.",
+                            "reference_indexes": [
+                                3
+                            ]
+                        },
+                        {
+                            "title": "Cooperative vs. Competitive:",
+                            "snippet": "Some cultures value collaboration and teamwork, while others encourage competition as a driver of success.",
+                            "reference_indexes": [
+                                1
+                            ]
+                        },
+                        {
+                            "title": "Respect for Elders:",
+                            "snippet": "In many Asian cultures, there is a strong emphasis on showing high regard and respect for older individuals.",
+                            "reference_indexes": [
+                                5
+                            ]
+                        },
+                        {
+                            "title": "Egalitarianism:",
+                            "snippet": "Cultures such as those in Scandinavia place a high value on equality, fairness, and inclusion for all members of society.",
+                            "reference_indexes": [
+                                5
+                            ]
+                        },
+                        {
+                            "title": "Community and Extended Family:",
+                            "snippet": "In contrast to individualism, cultures like those in Africa place significant importance on communal ties and the support of the extended family.",
+                            "reference_indexes": [
+                                5
+                            ]
+                        },
+                        {
+                            "title": "Aesthetics and Presentation:",
+                            "snippet": "Italian culture, for example, values \"la bella figura,\" which emphasizes aesthetics, manners, and making a good impression.",
+                            "reference_indexes": [
+                                5
+                            ]
+                        },
+                        {
+                            "title": "Assertiveness:",
+                            "snippet": "Some cultures value assertiveness and direct communication, while others prefer a more neutral and reserved approach.",
+                            "reference_indexes": [
+                                2,
+                                6
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "references": [
+                {
+                    "title": "Cultural Norms | Definition, Values & Examples - Lesson - Study.com",
+                    "link": "https://study.com/academy/lesson/cultural-norms-definition-values-quiz.html#:~:text=If%20a%20person%20belches%20at,while%20speaking%20to%20be%20disrespectful.",
+                    "snippet": "If a person belches at the dinner table after eating a meal, that would be considered rude in most Western cultures whereas it wou...",
+                    "source": "Study.com",
+                    "index": 0
+                },
+                {
+                    "title": "Cultural values - Care Quality Commission",
+                    "link": "https://www.cqc.org.uk/guidance-providers/adult-social-care/cultural-values",
+                    "snippet": "Jan 29, 2024",
+                    "source": "CQC",
+                    "index": 1
+                },
+                {
+                    "title": "Cultural Empathy: The 10 Dimensions of Cultural Value - LEADconnects",
+                    "link": "https://leadconnects.org/cultural-empathy-the-10-dimensions-of-cultural-value/",
+                    "snippet": "Sep 24, 2015",
+                    "source": "LEADconnects",
+                    "index": 2
+                },
+                {
+                    "title": "Cultural Values Profile - Cultural Intelligence Center",
+                    "link": "https://culturalq.com/products-services/assessments/cultural-values-profile/",
+                    "source": "Cultural Intelligence Center",
+                    "index": 3
+                },
+                {
+                    "title": "4 Common Cultural Values In Our Society - Medium",
+                    "link": "https://medium.com/@ogvs.com/4-common-cultural-values-in-our-society-7165e1ba2aa4#:~:text=A%20culture%20that%20has%20lower,parents%20in%20their%20old%20age.&text=A%20culture%20that%20values%20indulgence,enjoyment%20rather%20than%20group%20activities.&text=A%20culture%20that%20values%20individualism,are%20broader%20and%20more%20inclusive.",
+                    "snippet": "Sep 12, 2018 \u2014 A culture that has lower humane orientation values emphasizes individuals solving their own problems and issues themse...",
+                    "source": "Medium",
+                    "index": 4
+                },
+                {
+                    "title": "What Are Cultural Values: Understanding Their Impact and ...",
+                    "link": "https://examup.com/blog/cultural-values#:~:text=Diverse%20Cultural%20Values%20Examples%20from,good%20impression%20in%20Italian%20culture.",
+                    "snippet": "Diverse Cultural Values Examples from around the Globe Cultural values vary significantly across societies, influencing behavior a...",
+                    "source": "ExamUp",
+                    "index": 5
+                },
+                {
+                    "title": "Cultural Values - an overview | ScienceDirect Topics",
+                    "link": "https://www.sciencedirect.com/topics/social-sciences/cultural-values#:~:text=Feminine%20societies%20emphasize%20a%20friendly,%2C%20and%20value%20fairness%2C%20respectively.",
+                    "snippet": "Feminine societies emphasize a friendly environment, job security, cooperation, quality of life, warm personal relationships, and ...",
+                    "source": "ScienceDirect.com",
+                    "index": 6
+                },
+                {
+                    "title": "Embrace Cultural Nuance: Boost Your Global Success",
+                    "link": "https://laoret.com/blog/cultural-nuance/#:~:text=In%20contrast%2C%20cultures%20with%20low%20uncertainty%20avoidance,as%20an%20opportunity%20rather%20than%20a%20threat.",
+                    "snippet": "Dec 26, 2024 \u2014 In contrast, cultures with low uncertainty avoidance are more comfortable with ambiguity and risk-taking, embracing fl...",
+                    "source": "Laoret",
+                    "index": 7
+                },
+                {
+                    "title": "Cross-cultural, values and ethics differences and similarities between the US and Asian countries",
+                    "link": "https://www.emerald.com/jtmc/article/9/3/303/255978/Cross-cultural-values-and-ethics-differences-and#:~:text=In%20contrast%2C%20people%20who%20live%20in%20countries,and%20tolerance%20for%20diversity%20(%20Chang%2C%202011).",
+                    "snippet": "Sep 30, 2014 \u2014 In contrast, people who live in countries that have low UA, such as the USA, tend to be more \u201ccomfortable with ambigui...",
+                    "source": "emerald.com",
+                    "index": 8
+                },
+                {
+                    "title": "Cultural Gerontology: Valuing Older People",
+                    "link": "https://link.springer.com/chapter/10.1007/978-94-007-6134-6_8#:~:text=The%20contrary%20is%20the%20case%2C%20since%20cultural,an%20urban%20area%2C%20Salford%20in%20the%20UK.",
+                    "snippet": "Jan 24, 2013 \u2014 The contrary is the case, since cultural attitudes change all the time\u2014albeit in ways that are predictable only in par...",
+                    "source": "Springer",
+                    "index": 9
+                }
+            ],
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSWNGQXRXbUV4VEZjMGMwRmtkbXBxU1VScVUzaDVaVzFyWDNZMGRuRXlNMGRzVDFCa2R6Wk5Na2xWUlVOTk0zaGhaMDl4VURaamFGQnFlVzFCZVcxUVluWkVUekU0U1ZjdGJGb3hNbVZYZFRReU1FTlZXVUpJTWpkYWR4SVhNRmhoTkdGT0xWSkpOazlaZDJKclVIazJTMFEyUVUwYUlrRkdUVUZIUjNKdFRHbDBNRFoyVWtwdmNFZDRNR3RhTUhJMFdWYzNSRFpwTlZFIiwiZmN2IjoiMyIsImVpIjoiMFhhNGFOLVJJNk9Zd2JrUHk2S0Q2QU0iLCJxYyI6IkNnOWpkV3gwZFhKaGJDQjJZV3gxWlhNUUFIM1NHaWtfIiwicXVlc3Rpb24iOiJXaGF0IGFyZSBleGFtcGxlcyBvZiBjdWx0dXJhbCB2YWx1ZXM/IiwibGsiOiJHaFZsWnlCdlppQmpkV3gwZFhKaGJDQjJZV3gxWlhNIiwiYnMiOiJjLU55NWxJTnowZ3NVVWdzU2xWSXJVak1MY2hKTFZiSVQxTklMczBwS1MxS3pGRW9TOHdwVFMyMmwxaGpiaVF1SlpxYWprV1N5NEZMR1c1SVNVYXFRbEptdW9JbHBoRUhFNHpFcEVTd1NYTDVjQ21obUpDV1daYUthY0JUS1NObEtjVnlRZ3E1YkxtazRhYmxWa0tsVS1IR0hNZ3drcGFTQkJ1VFdZeXBRSUFSQUEiLCJpZCI6ImZjXzBYYTRhTi1SSTZPWXdia1B5NktENkFNXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSWNGQXRXbUV4VEZjMGMwRmtkbXBxU1VScVUzaDVaVzFyWDNZMGRuRXlNMGRzVDFCa2R6Wk5Na2xWUlVOTk0zaGhaMDl4VURaamFGQnFlVzFCZVcxUVluWkVUekU0U1ZjdGJGb3hNbVZYZFRReU1FTlZXVUpJTWpkYWR4SVhNRmhoTkdGT0xWSkpOazlaZDJKclVIazJTMFEyUVUwYUlrRkdUVUZIUjNKdFRHbDBNRFoyVWtwdmNFZDRNR3RhTUhJMFdWYzNSRFpwTlZFIiwiZmN2IjoiMyIsImVpIjoiMFhhNGFOLVJJNk9Zd2JrUHk2S0Q2QU0iLCJxYyI6IkNnOWpkV3gwZFhKaGJDQjJZV3gxWlhNUUFIM1NHaWtfIiwicXVlc3Rpb24iOiJXaGF0IGFyZSBleGFtcGxlcyBvZiBjdWx0dXJhbCB2YWx1ZXM%2FIiwibGsiOiJHaFZsWnlCdlppQmpkV3gwZFhKaGJDQjJZV3gxWlhNIiwiYnMiOiJjLU55NWxJTnowZ3NVVWdzU2xWSXJVak1MY2hKTFZiSVQxTklMczBwS1MxS3pGRW9TOHdwVFMyMmwxaGpiaVF1SlpxYWprV1N5NEZMR1c1SVNVYXFRbEptdW9JbHBoRUhFNHpFcEVTd1NYTDVjQ21obUpDV1daYUthY0JUS1NObEtjVnlRZ3E1YkxtazRhYmxWa0tsVS1IR0hNZ3drcGFTQkJ1VFdZeXBRSUFSQUEiLCJpZCI6ImZjXzBYYTRhTi1SSTZPWXdia1B5NktENkFNXzEifQ%3D%3D"
+        },
+        {
+            "question": "What are the big 9 cultural values?",
+            "type": "featured_snippet",
+            "snippet": "The rankings are based on the \"Big 9\" dimensions of culture (collaboration, integrity, agility, diversity, customer orientation, execution, innovation, performance, and respect).",
+            "title": "Corporate Culture Index Ranks and Compares Top U.S. Companies",
+            "link": "https://www.td.org/content/td-magazine/corporate-culture-index-ranks-and-compares-top-u-s-companies#:~:text=The%20rankings%20are%20based%20on,%2C%20performance%2C%20and%20respect).",
+            "displayed_link": "https://www.td.org \u203a content \u203a td-magazine \u203a corporate-c...",
+            "source_logo": "https://serpapi.com/searches/68b876d180f30ed67f5c0d1f/images/d29f4c967ec4208452512cc34cef8fb5f80ac517978884c6b91c4257fdac12a2.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSWNGQXRXbUV4VEZjMGMwRmtkbXBxU1VScVUzaDVaVzFyWDNZMGRuRXlNMGRzVDFCa2R6Wk5Na2xWUlVOTk0zaGhaMDl4VURaamFGQnFlVzFCZVcxUVluWkVUekU0U1ZjdGJGb3hNbVZYZFRReU1FTlZXVUpJTWpkYWR4SVhNRmhoTkdGT0xWSkpOazlaZDJKclVIazJTMFEyUVUwYUlrRkdUVUZIUjNKdFRHbDBNRFoyVWtwdmNFZDRNR3RhTUhJMFdWYzNSRFpwTlZFIiwiZmN2IjoiMyIsImVpIjoiMFhhNGFOLVJJNk9Zd2JrUHk2S0Q2QU0iLCJxYyI6IkNnOWpkV3gwZFhKaGJDQjJZV3gxWlhNUUFIM1NHaWtfIiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgYmlnIDkgY3VsdHVyYWwgdmFsdWVzPyIsImxrIjoiR2hSaWFXY2dPU0JqZFd4MGRYSmhiQ0IyWVd4MVpRIiwiYnMiOiJjLU55NWxJTnowZ3NVVWdzU2xWSXJVak1MY2hKTFZiSVQxTklMczBwS1MxS3pGRW9TOHdwVFMyMmwxaGpiaVF1SlpxYWprV1N5NEZMR1c1SVNVYXFRbEptdW9JbHBoRUhFNHpFcEVTd1NYTDVjQ21obUpDV1daYUthY0JUS1NObEtjVnlRZ3E1YkxtazRhYmxWa0tsVS1IR0hNZ3drcGFTQkJ1VFdZeXBRSUFSQUEiLCJpZCI6ImZjXzBYYTRhTi1SSTZPWXdia1B5NktENkFNXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSWNGQXRXbUV4VEZjMGMwRmtkbXBxU1VScVUzaDVaVzFyWDNZMGRuRXlNMGRzVDFCa2R6Wk5Na2xWUlVOTk0zaGhaMDl4VURaamFGQnFlVzFCZVcxUVluWkVUekU0U1ZjdGJGb3hNbVZYZFRReU1FTlZXVUpJTWpkYWR4SVhNRmhoTkdGT0xWSkpOazlaZDJKclVIazJTMFEyUVUwYUlrRkdUVUZIUjNKdFRHbDBNRFoyVWtwdmNFZDRNR3RhTUhJMFdWYzNSRFpwTlZFIiwiZmN2IjoiMyIsImVpIjoiMFhhNGFOLVJJNk9Zd2JrUHk2S0Q2QU0iLCJxYyI6IkNnOWpkV3gwZFhKaGJDQjJZV3gxWlhNUUFIM1NHaWtfIiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgYmlnIDkgY3VsdHVyYWwgdmFsdWVzPyIsImxrIjoiR2hSaWFXY2dPU0JqZFd4MGRYSmhiQ0IyWVd4MVpRIiwiYnMiOiJjLU55NWxJTnowZ3NVVWdzU2xWSXJVak1MY2hKTFZiSVQxTklMczBwS1MxS3pGRW9TOHdwVFMyMmwxaGpiaVF1SlpxYWprV1N5NEZMR1c1SVNVYXFRbEptdW9JbHBoRUhFNHpFcEVTd1NYTDVjQ21obUpDV1daYUthY0JUS1NObEtjVnlRZ3E1YkxtazRhYmxWa0tsVS1IR0hNZ3drcGFTQkJ1VFdZeXBRSUFSQUEiLCJpZCI6ImZjXzBYYTRhTi1SSTZPWXdia1B5NktENkFNXzEifQ%3D%3D"
+        },
+        {
+            "question": "What are the five cultural values?",
+            "type": "featured_snippet",
+            "title": "Hofstede's Five Dimensions of Culture",
+            "link": "https://www.futurelearn.com/info/courses/managing-company-culture/0/steps/216758",
+            "list": [
+                "Power distance.",
+                "Uncertainty avoidance.",
+                "Individualism-collectivism.",
+                "Masculinity-femininity.",
+                "Time orientation."
+            ],
+            "displayed_link": "https://www.futurelearn.com \u203a info \u203a courses \u203a steps",
+            "source_logo": "https://serpapi.com/searches/68b876d180f30ed67f5c0d1f/images/d29f4c967ec4208452512cc34cef8fb53a2cd13157df4e23cc15c73f504758e5.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSWNGQXRXbUV4VEZjMGMwRmtkbXBxU1VScVUzaDVaVzFyWDNZMGRuRXlNMGRzVDFCa2R6Wk5Na2xWUlVOTk0zaGhaMDl4VURaamFGQnFlVzFCZVcxUVluWkVUekU0U1ZjdGJGb3hNbVZYZFRReU1FTlZXVUpJTWpkYWR4SVhNRmhoTkdGT0xWSkpOazlaZDJKclVIazJTMFEyUVUwYUlrRkdUVUZIUjNKdFRHbDBNRFoyVWtwdmNFZDRNR3RhTUhJMFdWYzNSRFpwTlZFIiwiZmN2IjoiMyIsImVpIjoiMFhhNGFOLVJJNk9Zd2JrUHk2S0Q2QU0iLCJxYyI6IkNnOWpkV3gwZFhKaGJDQjJZV3gxWlhNUUFIM1NHaWtfIiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgZml2ZSBjdWx0dXJhbCB2YWx1ZXM/IiwibGsiOiJHaUYzYUdGMElHRnlaU0IwYUdVZ1ptbDJaU0JqZFd4MGRYSmhiQ0IyWVd4MVpYTSIsImJzIjoiYy1OeTVsSU56MGdzVVVnc1NsVklyVWpNTGNoSkxWYklUMU5JTHMwcEtTMUt6RkVvUzh3cFRTMjJsMWhqYmlRdUpacWFqa1dTeTRGTEdXNUlTVWFxUWxKbXVvSWxwaEVIRTR6RXBFU3dTWEw1Y0NtaG1KQ1dXWmFLYWNCVEtTTmxLY1Z5UWdxNWJMbWs0YWJsVmtLbFUtSEdITWd3a3BhU0JCdVRXWXlwUUlBUkFBIiwiaWQiOiJmY18wWGE0YU4tUkk2T1l3YmtQeTZLRDZBTV8xIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSWNGQXRXbUV4VEZjMGMwRmtkbXBxU1VScVUzaDVaVzFyWDNZMGRuRXlNMGRzVDFCa2R6Wk5Na2xWUlVOTk0zaGhaMDl4VURaamFGQnFlVzFCZVcxUVluWkVUekU0U1ZjdGJGb3hNbVZYZFRReU1FTlZXVUpJTWpkYWR4SVhNRmhoTkdGT0xWSkpOazlaZDJKclVIazJTMFEyUVUwYUlrRkdUVUZIUjNKdFRHbDBNRFoyVWtwdmNFZDRNR3RhTUhJMFdWYzNSRFpwTlZFIiwiZmN2IjoiMyIsImVpIjoiMFhhNGFOLVJJNk9Zd2JrUHk2S0Q2QU0iLCJxYyI6IkNnOWpkV3gwZFhKaGJDQjJZV3gxWlhNUUFIM1NHaWtfIiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgZml2ZSBjdWx0dXJhbCB2YWx1ZXM%2FIiwibGsiOiJHaUYzYUdGMElHRnlaU0IwYUdVZ1ptbDJaU0JqZFd4MGRYSmhiQ0IyWVd4MVpYTSIsImJzIjoiYy1OeTVsSU56MGdzVVVnc1NsVklyVWpNTGNoSkxWYklUMU5JTHMwcEtTMUt6RkVvUzh3cFRTMjJsMWhqYmlRdUpacWFqa1dTeTRGTEdXNUlTVWFxUWxKbXVvSWxwaEVIRTR6RXBFU3dTWEw1Y0NtaG1KQ1dXWmFLYWNCVEtTTmxLY1Z5UWdxNWJMbWs0YWJsVmtLbFUtSEdITWd3a3BhU0JCdVRXWXlwUUlBUkFBIiwiaWQiOiJmY18wWGE0YU4tUkk2T1l3YmtQeTZLRDZBTV8xIn0%3D"
+        },
+        {
+            "question": "What are my culture values?",
+            "type": "featured_snippet",
+            "snippet": "Cultural values simply describe how individuals prefer to navigate life, complete tasks and interact with others. These values vary greatly between age groups, religions and countries of origin.",
+            "title": "What are Your Cultural Values? - World Relief",
+            "date": "Oct 3, 2024",
+            "link": "https://worldrelief.org/spblog-what-are-your-cultural-values/#:~:text=Cultural%20values%20simply%20describe%20how,religions%20and%20countries%20of%20origin.",
+            "displayed_link": "https://worldrelief.org \u203a spblog-what-are-your-cultural-...",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSWNGQXRXbUV4VEZjMGMwRmtkbXBxU1VScVUzaDVaVzFyWDNZMGRuRXlNMGRzVDFCa2R6Wk5Na2xWUlVOTk0zaGhaMDl4VURaamFGQnFlVzFCZVcxUVluWkVUekU0U1ZjdGJGb3hNbVZYZFRReU1FTlZXVUpJTWpkYWR4SVhNRmhoTkdGT0xWSkpOazlaZDJKclVIazJTMFEyUVUwYUlrRkdUVUZIUjNKdFRHbDBNRFoyVWtwdmNFZDRNR3RhTUhJMFdWYzNSRFpwTlZFIiwiZmN2IjoiMyIsImVpIjoiMFhhNGFOLVJJNk9Zd2JrUHk2S0Q2QU0iLCJxYyI6IkNnOWpkV3gwZFhKaGJDQjJZV3gxWlhNUUFIM1NHaWtfIiwicXVlc3Rpb24iOiJXaGF0IGFyZSBteSBjdWx0dXJlIHZhbHVlcz8iLCJsayI6IkdobDNhR0YwSUdseklHMTVJR04xYkhSMWNtVWdkbUZzZFdWeiIsImJzIjoiYy1OeTVsSU56MGdzVVVnc1NsVklyVWpNTGNoSkxWYklUMU5JTHMwcEtTMUt6RkVvUzh3cFRTMjJsMWhqYmlRdUpacWFqa1dTeTRGTEdXNUlTVWFxUWxKbXVvSWxwaEVIRTR6RXBFU3dTWEw1Y0NtaG1KQ1dXWmFLYWNCVEtTTmxLY1Z5UWdxNWJMbWs0YWJsVmtLbFUtSEdITWd3a3BhU0JCdVRXWXlwUUlBUkFBIiwiaWQiOiJmY18wWGE0YU4tUkk2T1l3YmtQeTZLRDZBTV8xIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSWNGQXRXbUV4VEZjMGMwRmtkbXBxU1VScVUzaDVaVzFyWDNZMGRuRXlNMGRzVDFCa2R6Wk5Na2xWUlVOTk0zaGhaMDl4VURaamFGQnFlVzFCZVcxUVluWkVUekU0U1ZjdGJGb3hNbVZYZFRReU1FTlZXVUpJTWpkYWR4SVhNRmhoTkdGT0xWSkpOazlaZDJKclVIazJTMFEyUVUwYUlrRkdUVUZIUjNKdFRHbDBNRFoyVWtwdmNFZDRNR3RhTUhJMFdWYzNSRFpwTlZFIiwiZmN2IjoiMyIsImVpIjoiMFhhNGFOLVJJNk9Zd2JrUHk2S0Q2QU0iLCJxYyI6IkNnOWpkV3gwZFhKaGJDQjJZV3gxWlhNUUFIM1NHaWtfIiwicXVlc3Rpb24iOiJXaGF0IGFyZSBteSBjdWx0dXJlIHZhbHVlcz8iLCJsayI6IkdobDNhR0YwSUdseklHMTVJR04xYkhSMWNtVWdkbUZzZFdWeiIsImJzIjoiYy1OeTVsSU56MGdzVVVnc1NsVklyVWpNTGNoSkxWYklUMU5JTHMwcEtTMUt6RkVvUzh3cFRTMjJsMWhqYmlRdUpacWFqa1dTeTRGTEdXNUlTVWFxUWxKbXVvSWxwaEVIRTR6RXBFU3dTWEw1Y0NtaG1KQ1dXWmFLYWNCVEtTTmxLY1Z5UWdxNWJMbWs0YWJsVmtLbFUtSEdITWd3a3BhU0JCdVRXWXlwUUlBUkFBIiwiaWQiOiJmY18wWGE0YU4tUkk2T1l3YmtQeTZLRDZBTV8xIn0%3D"
+        }
+    ],
+    "ai_overview": {
+        "text_blocks": [
+            {
+                "type": "paragraph",
+                "snippet": "Cultural values are the guiding principles, morals, and ideals that an entire community or society believes to be good, right, and important. These shared values influence how people perceive the world, interact with others, make decisions, and behave, forming the foundation of a culture's identity and traditions. Examples include individualism, respect for elders, family values, and egalitarianism.",
+                "snippet_highlighted_words": [
+                    "the guiding principles, morals, and ideals that an entire community or society believes to be good, right, and important"
+                ],
+                "reference_indexes": [
+                    2,
+                    3,
+                    5,
+                    6,
+                    10
+                ]
+            },
+            {
+                "type": "paragraph",
+                "snippet": "What are Cultural Values?"
+            },
+            {
+                "type": "list",
+                "list": [
+                    {
+                        "title": "Core Principles:",
+                        "snippet": "They are fundamental beliefs about what is good, desirable, and just.",
+                        "reference_indexes": [
+                            3
+                        ]
+                    },
+                    {
+                        "title": "Guiding Behavior:",
+                        "snippet": "These values dictate acceptable conduct, shape behaviors, and influence priorities within a group.",
+                        "reference_indexes": [
+                            6,
+                            10
+                        ]
+                    },
+                    {
+                        "title": "Shaping Perception:",
+                        "snippet": "They affect how individuals within a culture understand and navigate the world.",
+                        "reference_indexes": [
+                            6
+                        ]
+                    },
+                    {
+                        "title": "Foundation of Society:",
+                        "snippet": "Cultural values provide the underlying principles for a society's way of life and its harmonious relationships.",
+                        "reference_indexes": [
+                            3,
+                            5
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "snippet": "How are Cultural Values Influenced?"
+            },
+            {
+                "type": "list",
+                "list": [
+                    {
+                        "title": "Tradition and History:",
+                        "snippet": "Values are often passed down through generations, rooted in history, religion, and custom.",
+                        "reference_indexes": [
+                            2,
+                            5
+                        ]
+                    },
+                    {
+                        "title": "Social Context:",
+                        "snippet": "Factors like profession, age, gender, and faith can influence an individual's cultural values.",
+                        "reference_indexes": [
+                            0
+                        ]
+                    },
+                    {
+                        "title": "Conflicting Values:",
+                        "snippet": "A culture can harbor conflicting values, such as material success versus charity, or equality versus individualism.",
+                        "reference_indexes": [
+                            3
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "snippet": "Examples of Cultural Values"
+            },
+            {
+                "type": "list",
+                "list": [
+                    {
+                        "snippet": "Individualism/Collectivism: A focus on the individual versus a focus on the group or community.",
+                        "reference_indexes": [
+                            1,
+                            4
+                        ]
+                    },
+                    {
+                        "snippet": "Power Distance: The degree to which people accept hierarchical leadership and inequality in power.",
+                        "reference_indexes": [
+                            1
+                        ]
+                    },
+                    {
+                        "snippet": "Respect for Elders: A deeply ingrained cultural value in many societies.",
+                        "reference_indexes": [
+                            2
+                        ]
+                    },
+                    {
+                        "snippet": "Family and Community: The emphasis placed on close family ties and the collective well-being of a community.",
+                        "reference_indexes": [
+                            2,
+                            7,
+                            8,
+                            9,
+                            11
+                        ]
+                    }
+                ]
+            }
+        ],
+        "references": [
+            {
+                "title": "Cultural values - Care Quality Commission",
+                "link": "https://www.cqc.org.uk/guidance-providers/adult-social-care/cultural-values",
+                "snippet": "Jan 29, 2024",
+                "source": "CQC",
+                "index": 0
+            },
+            {
+                "title": "Cultural Values Profile - Cultural Intelligence Center",
+                "link": "https://culturalq.com/products-services/assessments/cultural-values-profile/",
+                "source": "Cultural Intelligence Center",
+                "index": 1
+            },
+            {
+                "title": "38 Cultural Values Examples (2025) - Helpful Professor",
+                "link": "https://helpfulprofessor.com/cultural-values-examples/",
+                "snippet": "What is this? Cultural values are the key principles or morals that underpin a cultural group. They may be based on religion, trad...",
+                "source": "Helpful Professor",
+                "index": 2
+            },
+            {
+                "title": "What are Cultural Values?",
+                "link": "https://m.youtube.com/watch?v=v03-Q8Tt2fY&pp=ygUPI2N1bHR1cmFsYXNwZWN0&t=2",
+                "snippet": "Feb 15, 2022 \u2014 what are cultural values broadly construed a culture's values are its ideas about what is good right fair and just. in...",
+                "source": "YouTube \u00b7 PHILO-notes",
+                "index": 3
+            },
+            {
+                "title": "What are Your Cultural Values? - World Relief",
+                "link": "https://worldrelief.org/spblog-what-are-your-cultural-values/#:~:text=Cultural%20values%20simply%20describe%20how,Leaders%20are%20approachable.",
+                "snippet": "Oct 3, 2024 \u2014 Cultural values simply describe how individuals prefer to navigate life, complete tasks and interact with others. These...",
+                "source": "World Relief",
+                "index": 4
+            },
+            {
+                "title": "Cultural Values Definition & Examples - Lesson - Study.com",
+                "link": "https://study.com/academy/lesson/cultural-values-definition-examples-importance.html#:~:text=Cultural%20Values-,What%20are%20cultural%20values?,traditions%2C%20rituals%2C%20and%20beliefs.",
+                "snippet": "What are cultural values? The definition of cultural values is the core principles or ideals that an entire community or society i...",
+                "source": "Study.com",
+                "index": 5
+            },
+            {
+                "title": "Cultural Values - (Intro to Anthropology) - Vocab, Definition, Explanations | Fiveable",
+                "link": "https://library.fiveable.me/key-terms/intro-anthropology/cultural-values#:~:text=Cultural%20values%20serve%20as%20the%20foundation%20for,what%20is%20considered%20acceptable%2C%20desirable%2C%20or%20important.",
+                "snippet": "Cultural values serve as the foundation for how individuals within a cultural group perceive the world and interact with one anoth...",
+                "source": "Fiveable",
+                "index": 6
+            },
+            {
+                "title": "What are the five most important values of your culture? - Brainly",
+                "link": "https://brainly.com/question/28223012#:~:text=The%20five%20most%20important%20values%20often%20reflected%20in%20cultures%20include,and%20behaviors%20of%20a%20society.",
+                "snippet": "Aug 12, 2022 \u2014 The five most important values often reflected in cultures include Respect for Authority, Family and Community, Educat...",
+                "source": "brainly.co",
+                "index": 7
+            },
+            {
+                "title": "Aspects of Family Values & Life - AP French Study Guide | Fiveable",
+                "link": "https://library.fiveable.me/ap-french/unit-1/aspects-family-values-life/study-guide/9s2rZlEjKErsUTgKiHCA#:~:text=Family%20and%20community:%20Family%20and%20community%20are,maintaining%20close%20relationships%20with%20their%20loved%20ones.",
+                "snippet": "Family and community: Family and community are often highly valued, and many people place a strong emphasis on maintaining close r...",
+                "source": "Fiveable",
+                "index": 8
+            },
+            {
+                "title": "Cultural Determinants of Help Seeking: A model for research and practice",
+                "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2796597/#:~:text=These%20values%20foster%20a%20focus%20on%20the,as%20proper%20respect%20and%20conduct%20with%20ancestors.",
+                "snippet": "These values foster a focus on the in-group, especially ones family. In a philosophical system such as this, wellness is attribute...",
+                "source": "National Institutes of Health (NIH) | (.gov)",
+                "index": 9
+            },
+            {
+                "title": "Cultural Dimensions and Social Behavior | Social Psychology Class Notes | Fiveable",
+                "link": "https://library.fiveable.me/social-psychology/unit-14/cultural-dimensions-social-behavior/study-guide/dd2RP8oxyTIQPMee#:~:text=Cultural%20Values:%20Cultural%20values%20refer%20to%20the,decisions%2C%20influencing%20social%20behavior%20on%20various%20levels.",
+                "snippet": "Cultural Values: Cultural values refer to the core principles and ideals that guide the behavior, beliefs, and practices of a part...",
+                "source": "Fiveable",
+                "index": 10
+            },
+            {
+                "title": "Native American Ethics: Moral Foundations | Native American Philosophy Class Notes",
+                "link": "https://library.fiveable.me/native-american-philosophy/unit-4#:~:text=Community%20and%20Kinship%20Values%20Prioritize%20the%20well%2Dbeing,blood%20relatives%20to%20include%20the%20entire%20community",
+                "snippet": "Community and Kinship Values Prioritize the well-being and survival of the community over individual interests Foster a strong sen...",
+                "source": "Fiveable",
+                "index": 11
+            }
+        ]
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Cultural Values Profile",
+            "link": "https://culturalq.com/products-services/assessments/cultural-values-profile/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://culturalq.com/products-services/assessments/cultural-values-profile/&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0QFnoECBgQAQ",
+            "displayed_link": "https://culturalq.com \u203a Products & Services \u203a Assessments",
+            "favicon": "https://serpapi.com/searches/68b876d180f30ed67f5c0d1f/images/ec187383cbc24d450f5568274ec584fb6a9122a46a8a0850d8858c1c0ccb9383.png",
+            "snippet": "Simply put, Cultural Values (CVs) are preferences people have for how they navigate life. These values indicate how people prefer to interact, communicate, plan, and complete tasks.",
+            "snippet_highlighted_words": [
+                "preferences people have for how they navigate life"
+            ],
+            "source": "Cultural Intelligence Center"
+        },
+        {
+            "position": 2,
+            "title": "38 Cultural Values Examples (2025)",
+            "link": "https://helpfulprofessor.com/cultural-values-examples/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://helpfulprofessor.com/cultural-values-examples/&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0QFnoECBcQAQ",
+            "displayed_link": "https://helpfulprofessor.com \u203a cultural-values-examples",
+            "favicon": "https://serpapi.com/searches/68b876d180f30ed67f5c0d1f/images/ec187383cbc24d450f5568274ec584fbe30e7d28b724591b38c0a91b5db7924b.png",
+            "snippet": "Examples of cultural values include respect for elders, family values, individualism, and egalitarianism.",
+            "snippet_highlighted_words": [
+                "cultural values"
+            ],
+            "source": "Helpful Professor"
+        },
+        {
+            "position": 3,
+            "title": "What are Your Cultural Values?",
+            "link": "https://worldrelief.org/spblog-what-are-your-cultural-values/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://worldrelief.org/spblog-what-are-your-cultural-values/&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0QFnoECFAQAQ",
+            "displayed_link": "https://worldrelief.org \u203a spblog-what-are-your-cultural-...",
+            "favicon": "https://serpapi.com/searches/68b876d180f30ed67f5c0d1f/images/ec187383cbc24d450f5568274ec584fb71e7b977c7b96ca5a005b009474e699a.png",
+            "date": "Oct 3, 2024",
+            "snippet": "Cultural values simply describe how individuals prefer to navigate life, complete tasks and interact with others.",
+            "snippet_highlighted_words": [
+                "Cultural values"
+            ],
+            "source": "World Relief"
+        },
+        {
+            "position": 4,
+            "title": "Cultural Values - an overview",
+            "link": "https://www.sciencedirect.com/topics/social-sciences/cultural-values",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sciencedirect.com/topics/social-sciences/cultural-values&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0QFnoECEwQAQ",
+            "displayed_link": "https://www.sciencedirect.com \u203a topics \u203a social-sciences",
+            "favicon": "https://serpapi.com/searches/68b876d180f30ed67f5c0d1f/images/ec187383cbc24d450f5568274ec584fbaa3d67896a1e6294ecc2c14102f443eb.png",
+            "snippet": "Cultural values are defined as desirable goals and guiding principles that are shared among members of a social collective, reflecting the norms and beliefs prevalent within a particular culture. They represent the underlying ideals that influence individual and societal behavior across different cultural contexts.",
+            "snippet_highlighted_words": [
+                "desirable goals and guiding principles that are shared among members of a social collective"
+            ],
+            "source": "ScienceDirect.com"
+        },
+        {
+            "position": 5,
+            "title": "Cultural values",
+            "link": "https://www.cqc.org.uk/guidance-providers/adult-social-care/cultural-values",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cqc.org.uk/guidance-providers/adult-social-care/cultural-values&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0QFnoFCJ8BEAE",
+            "displayed_link": "https://www.cqc.org.uk \u203a adult-social-care \u203a cultural-val...",
+            "favicon": "https://serpapi.com/searches/68b876d180f30ed67f5c0d1f/images/ec187383cbc24d450f5568274ec584fb45547fbb36aa20652134561df118e3de.png",
+            "date": "Jan 29, 2024",
+            "snippet": "Cultural values are a culture's core beliefs about what's good or right. We all have cultural values. These are sometimes called 'cultural value preferences'. They're informed by the cultures we most associate ourselves with. These values are neither positive nor negative - they're just differences.",
+            "snippet_highlighted_words": [
+                "a culture's core beliefs about what's good or right"
+            ],
+            "source": "Care Quality Commission"
+        },
+        {
+            "position": 6,
+            "title": "Five cultural values that will enhance your study & job ...",
+            "link": "https://nationaljurist.com/five-cultural-values-will-enhance-your-study-job-search-us-2/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://nationaljurist.com/five-cultural-values-will-enhance-your-study-job-search-us-2/&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0QFnoECFEQAQ",
+            "displayed_link": "https://nationaljurist.com \u203a five-cultural-values-will-enh...",
+            "favicon": "https://serpapi.com/searches/68b876d180f30ed67f5c0d1f/images/ec187383cbc24d450f5568274ec584fba64e9604585d569eaf26ff8361b49edd.png",
+            "date": "Feb 16, 2022",
+            "snippet": "Five cultural values that will enhance your study & job search in the U.S. \u00b7 1. Individualism and Personal Responsibility \u00b7 2. Egalitarianism \u00b7 3. Communication Style \u00b7 4. Conception of time \u00b7 5. Status.",
+            "snippet_highlighted_words": [
+                "1. Individualism and Personal Responsibility"
+            ],
+            "source": "National Jurist"
+        },
+        {
+            "position": 7,
+            "title": "What Are Cultural Values? By Riana R. York College The ...",
+            "link": "https://files.commons.gc.cuny.edu/wp-content/blogs.dir/16021/files/2018/10/What-are-Cultural-Values-by-Riana-R.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://files.commons.gc.cuny.edu/wp-content/blogs.dir/16021/files/2018/10/What-are-Cultural-Values-by-Riana-R.pdf&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0QFnoFCIgBEAE",
+            "displayed_link": "https://files.commons.gc.cuny.edu \u203a files \u203a 2018/10",
+            "author": "by R Riana",
+            "snippet": "Cultural values are beliefs and ideals passed down through generations, defining what is right and bad for a group, and supporting a society's preservation.",
+            "snippet_highlighted_words": [
+                "beliefs and ideals passed down through generations"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "pages": 23
+                    },
+                    "extensions": [
+                        "23 pages"
+                    ]
+                }
+            },
+            "source": "The City University of New York"
+        },
+        {
+            "position": 8,
+            "title": "Cultural Values Definition & Examples - Lesson",
+            "link": "https://study.com/academy/lesson/cultural-values-definition-examples-importance.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://study.com/academy/lesson/cultural-values-definition-examples-importance.html&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0QFnoFCKABEAE",
+            "displayed_link": "https://study.com \u203a academy \u203a cultural-values-definitio...",
+            "favicon": "https://serpapi.com/searches/68b876d180f30ed67f5c0d1f/images/ec187383cbc24d450f5568274ec584fbdbfe67dbb23983438edb38b13dd0c5f8.png",
+            "snippet": "The definition of cultural values is the core principles or ideals that an entire community or society is based around.",
+            "snippet_highlighted_words": [
+                "cultural values"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Cultural Values",
+                        "link": "https://study.com/academy/lesson/cultural-values-definition-examples-importance.html#section---CulturalValues"
+                    },
+                    {
+                        "title": "Cultural Values Examples",
+                        "link": "https://study.com/academy/lesson/cultural-values-definition-examples-importance.html#section---CulturalValuesExamples"
+                    },
+                    {
+                        "title": "Cultural Values Can Change",
+                        "link": "https://study.com/academy/lesson/cultural-values-definition-examples-importance.html#section---CulturalValuesCanChange"
+                    }
+                ]
+            },
+            "source": "Study.com"
+        },
+        {
+            "position": 9,
+            "title": "Full article: Cultural value as meaning-making",
+            "link": "https://www.tandfonline.com/doi/full/10.1080/09548963.2024.2381767",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tandfonline.com/doi/full/10.1080/09548963.2024.2381767&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0QFnoFCL8BEAE",
+            "displayed_link": "https://www.tandfonline.com \u203a ... \u203a Volume 34, Issue 4",
+            "favicon": "https://serpapi.com/searches/68b876d180f30ed67f5c0d1f/images/ec187383cbc24d450f5568274ec584fb7882f141297eeece153dba3fb27c6dd3.png",
+            "author": "by P Kaszynska",
+            "snippet": "This article defines cultural value as a non-monetary and fundamental expression of the value of culture.",
+            "snippet_highlighted_words": [
+                "non-monetary and fundamental expression of the value of culture"
+            ],
+            "source": "Taylor & Francis Online"
+        },
+        {
+            "position": 10,
+            "title": "Cultural Values and Their Impact on Education",
+            "link": "https://www.ebsco.com/research-starters/education/cultural-values-and-their-impact-education",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ebsco.com/research-starters/education/cultural-values-and-their-impact-education&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0QFnoECE4QAQ",
+            "displayed_link": "https://www.ebsco.com \u203a research-starters \u203a cultural-val...",
+            "favicon": "https://serpapi.com/searches/68b876d180f30ed67f5c0d1f/images/ec187383cbc24d450f5568274ec584fb80023c7171d347db93281dbafb0dbfb1.jpeg",
+            "snippet": "Cultural values play a significant role in shaping educational experiences and outcomes for students. Defined as the shared beliefs, practices, symbols, and norms within a society, cultural values influence how individuals perceive and engage with learning environments.",
+            "snippet_highlighted_words": [
+                "shared beliefs, practices, symbols, and norms within a society"
+            ],
+            "source": "EBSCO"
+        },
+        {
+            "position": 11,
+            "title": "Cultural Values",
+            "link": "https://geriatrics.stanford.edu/ethnomed/ethno-med/alaskan/culturally-appropriate-care/fund/cultural_values.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://geriatrics.stanford.edu/ethnomed/ethno-med/alaskan/culturally-appropriate-care/fund/cultural_values.html&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0QFnoECG0QAQ",
+            "displayed_link": "https://geriatrics.stanford.edu \u203a alaskan \u203a fund \u203a cultura...",
+            "favicon": "https://serpapi.com/searches/68b876d180f30ed67f5c0d1f/images/ec187383cbc24d450f5568274ec584fbd5ce125fa99bb365309d53a667f2b996.png",
+            "snippet": "Cultural Values \u00b7 Show Respect to Others: Each Person Has a Special Gift \u00b7 Share What You Have: Giving Makes You Richer \u00b7 Know Who You Are: You Are a Reflection on Your Family \u00b7 Accept What Life Brings: You Cannot Control Many Things \u00b7 Have Patience: Some Things Cannot Be Rushed \u00b7 Live Carefully: What You Do Will Come ...",
+            "snippet_highlighted_words": [
+                "Show Respect to Others: Each Person Has a Special Gift"
+            ],
+            "source": "Stanford University"
+        },
+        {
+            "position": 12,
+            "title": "What are Cultural Values?",
+            "link": "https://www.youtube.com/watch?v=v03-Q8Tt2fY&pp=ygUMI3NvY2lvbW9yYWxz",
+            "displayed_link": "50.4K+ views \u00b7 3 years ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-QT6RFbMYxXAsRlDEAGqjsVEtKaR1m2YBUnj13hAXOuSJDoHTfkEwk08ldZxk&s&ec=73086137",
+            "favicon": "https://serpapi.com/searches/68b876d180f30ed67f5c0d1f/images/ec187383cbc24d450f5568274ec584fb08aaea96bd8e9ce296b7879b460be428.png",
+            "snippet": "This video lecture discusses very briefly the meaning, nature, and dynamics of cultural values. Transcript of this video lecture is available at: https://philonotes.com... ***** What is Society? Meaning and Characteristics Youtube Link: \u2022 What is Society? (Soci... Different Types of Society Youtube ...",
+            "duration": "2:45",
+            "key_moments": [
+                {
+                    "time": "00:28",
+                    "title": "Components of Cultural Values",
+                    "link": "https://www.youtube.com/watch?v=v03-Q8Tt2fY&pp=ygUMI3NvY2lvbW9yYWxz&t=28",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQCgSnutX5Cqj_sxZxaiwFW1WSKD9igVD5uLOQhKBw5A&s"
+                },
+                {
+                    "time": "00:42",
+                    "title": "Embeddedness of Cultural Values",
+                    "link": "https://www.youtube.com/watch?v=v03-Q8Tt2fY&pp=ygUMI3NvY2lvbW9yYWxz&t=42",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ7oXtcv-GmEgPHDILU6eP3-we7j1FOytxWZ2oBbhr0w&s"
+                },
+                {
+                    "time": "00:59",
+                    "title": "Conflict Theory vs Functionalism",
+                    "link": "https://www.youtube.com/watch?v=v03-Q8Tt2fY&pp=ygUMI3NvY2lvbW9yYWxz&t=59",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3GMn0Odt4ZZsL4EIGiuONNS-ZguIShU3TWiIEriPiIg&s"
+                },
+                {
+                    "time": "02:04",
+                    "title": "Conflicting Values",
+                    "link": "https://www.youtube.com/watch?v=v03-Q8Tt2fY&pp=ygUMI3NvY2lvbW9yYWxz&t=124",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSItRagcPSGj_DUfDRWstwSPwjyNHkVOlg08smxaG9PA&s"
+                }
+            ],
+            "source": "YouTube \u00b7 PHILO-notes"
+        },
+        {
+            "position": 13,
+            "title": "Culture, Values, and Beliefs | Introduction to Sociology",
+            "link": "https://courses.lumenlearning.com/wm-introductiontosociology/chapter/values-and-beliefs/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://courses.lumenlearning.com/wm-introductiontosociology/chapter/values-and-beliefs/&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0QFnoFCIIBEAE",
+            "displayed_link": "https://courses.lumenlearning.com \u203a chapter \u203a values-an...",
+            "favicon": "https://serpapi.com/searches/68b876d180f30ed67f5c0d1f/images/ec187383cbc24d450f5568274ec584fb6f64dacaf5210d2a09fd3b89563f6405.png",
+            "snippet": "Values also vary from culture to culture. For example, cultures differ in their values about what kinds of physical closeness are appropriate in public.",
+            "source": "Lumen Learning"
+        },
+        {
+            "position": 14,
+            "title": "1.3 Cultural Characteristics: Value Dimensions of Culture",
+            "link": "https://open.library.okstate.edu/interculturalcommunication/chapter/cultural-characteristics/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://open.library.okstate.edu/interculturalcommunication/chapter/cultural-characteristics/&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0QFnoFCJ0BEAE",
+            "displayed_link": "https://open.library.okstate.edu \u203a chapter \u203a cultural-char...",
+            "favicon": "https://serpapi.com/searches/68b876d180f30ed67f5c0d1f/images/ec187383cbc24d450f5568274ec584fbeefe78d8ae2d4a58d28f440d5baa7c7f.png",
+            "snippet": "According to Hofstede, the five main dimensions are identity, power, gender, uncertainty, and time.",
+            "snippet_highlighted_words": [
+                "identity, power, gender, uncertainty, and time"
+            ],
+            "source": "OPEN OKSTATE"
+        },
+        {
+            "position": 15,
+            "title": "What are the most common cultural values?",
+            "link": "https://www.quora.com/What-are-the-most-common-cultural-values",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quora.com/What-are-the-most-common-cultural-values&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0QFnoFCKcBEAE",
+            "displayed_link": "4 answers \u00b7 11 years ago",
+            "favicon": "https://serpapi.com/searches/68b876d180f30ed67f5c0d1f/images/ec187383cbc24d450f5568274ec584fbfe3448f0c0a98424a242552a7f93adef.png",
+            "snippet": "Cultural values are norms of behaviour on the basis of beliefs about what is right and appropriate. These are not rules or forced behaviours ...",
+            "snippet_highlighted_words": [
+                "norms of behaviour on the basis of beliefs about what is right and appropriate"
+            ],
+            "source": "Quora"
+        },
+        {
+            "position": 16,
+            "title": "Cultural Traditions, Beliefs and Values",
+            "link": "https://geriatrics.stanford.edu/ethnomed/ethno-med/latino/culturally-appropriate-care/fund/traditions.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://geriatrics.stanford.edu/ethnomed/ethno-med/latino/culturally-appropriate-care/fund/traditions.html&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0QFnoFCKMBEAE",
+            "displayed_link": "https://geriatrics.stanford.edu \u203a ethno-med \u203a latino \u203a fund",
+            "favicon": "https://serpapi.com/searches/68b876d180f30ed67f5c0d1f/images/ec187383cbc24d450f5568274ec584fbc1f344be4a3832786c75262c03f9c0b2.png",
+            "snippet": "Culture can be identified as one's world view which includes \u201cexperiences, expressions, symbols, materials, customs, behaviors, morals, values, attitudes, and ...",
+            "snippet_highlighted_words": [
+                "values"
+            ],
+            "source": "Stanford University"
+        },
+        {
+            "position": 17,
+            "title": "Cultural Values Definition & Examples - Video",
+            "link": "https://study.com/academy/lesson/video/cultural-values-definition-examples-importance.html",
+            "displayed_link": "https://study.com \u00b7 Feb 16, 2024",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQchhzBqX4lVc8C342cJf11fxqrFQVXhq99W4Nf00YTUBgYqAW6rduqdeAEU71O&s&ec=73086137",
+            "favicon": "https://serpapi.com/searches/68b876d180f30ed67f5c0d1f/images/ec187383cbc24d450f5568274ec584fbde12e44d441348ae4b719713e16836b3.png",
+            "snippet": "Cultural values are the core principles and ideals that form the foundation of a community's identity. This video explores how cultural values manifest through ...",
+            "duration": "4:11",
+            "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSwW8YUxddzWx5FRvHKoBxEnuO8zzDgndsDnQ",
+            "source": "Study.com \u00b7 The Study.com Video Team"
+        },
+        {
+            "position": 18,
+            "title": "Values: Cultural and individual. - APA PsycNET",
+            "link": "https://psycnet.apa.org/record/2011-10517-018",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://psycnet.apa.org/record/2011-10517-018&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0QFnoFCLsBEAE",
+            "displayed_link": "https://psycnet.apa.org \u203a record",
+            "favicon": "https://serpapi.com/searches/68b876d180f30ed67f5c0d1f/images/ec187383cbc24d450f5568274ec584fb07bc13366bfba20c2e8afb57c2d9c29e.png",
+            "author": "by SH Schwartz",
+            "snippet": "This chapter presents and contrasts my individual-level and culture-level theories and suggests bow to apply them fruitfully together.",
+            "source": "APA PsycNET"
+        },
+        {
+            "position": 19,
+            "title": "3.2: Values and Beliefs",
+            "link": "https://socialsci.libretexts.org/Bookshelves/Early_Childhood_Education/Child_Family_and_Community_(Laff_and_Ruiz)/03%3A_What_is_Culture_and_Why_is_it_Important/3.02%3A_Values_and_Beliefs",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://socialsci.libretexts.org/Bookshelves/Early_Childhood_Education/Child_Family_and_Community_(Laff_and_Ruiz)/03%253A_What_is_Culture_and_Why_is_it_Important/3.02%253A_Values_and_Beliefs&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0QFnoFCL4BEAE",
+            "displayed_link": "https://socialsci.libretexts.org \u203a Bookshelves \u203a 3.02:_Va...",
+            "favicon": "https://serpapi.com/searches/68b876d180f30ed67f5c0d1f/images/ec187383cbc24d450f5568274ec584fb53707faeb87c5cbd595a0ca769f463d9.png",
+            "date": "Nov 25, 2024",
+            "snippet": "Values are a culture's standard for discerning what is good and just in society. Values are deeply embedded and critical for transmitting and teaching a ...",
+            "snippet_highlighted_words": [
+                "Values are a culture's standard for discerning what is good and just in society"
+            ],
+            "source": "Social Sci LibreTexts"
+        },
+        {
+            "position": 20,
+            "title": "The Core of Our Differences: Eight National Cultural ...",
+            "link": "https://www.linkedin.com/pulse/core-our-differences-eight-national-cultural-values-when-menzies",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/pulse/core-our-differences-eight-national-cultural-values-when-menzies&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0QFnoECFQQAQ",
+            "displayed_link": "110+ reactions \u00b7 9 years ago",
+            "favicon": "https://serpapi.com/searches/68b876d180f30ed67f5c0d1f/images/ec187383cbc24d450f5568274ec584fbcb915da9f67d8e3f275bb4df87098d58.png",
+            "snippet": "National cultural values are shared ideas of what is good, right, and desirable in a national society. They are a society's preferences for managing survival ...",
+            "snippet_highlighted_words": [
+                "shared ideas of what is good, right, and desirable in a national society"
+            ],
+            "source": "LinkedIn \u00b7 Felicity Menzies"
+        },
+        {
+            "position": 21,
+            "title": "A Theory of Cultural Values and Some Implications for Work",
+            "link": "https://www.researchgate.net/publication/227981399_A_Theory_of_Cultural_Values_and_Some_Implications_for_Work",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.researchgate.net/publication/227981399_A_Theory_of_Cultural_Values_and_Some_Implications_for_Work&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0QFnoECFMQAQ",
+            "displayed_link": "https://www.researchgate.net \u203a publication \u203a 22798139...",
+            "favicon": "https://serpapi.com/searches/68b876d180f30ed67f5c0d1f/images/ec187383cbc24d450f5568274ec584fb05319f131e7c733a70789267ea106351.png",
+            "date": "Aug 7, 2025",
+            "snippet": "A theory of the types of values on which cultures can be compared is presented and validated with data from 49 nations from around the world.",
+            "snippet_highlighted_words": [
+                "values"
+            ],
+            "source": "ResearchGate"
+        },
+        {
+            "position": 22,
+            "title": "Cultural Norms | Definition, Values & Examples - Lesson",
+            "link": "https://study.com/academy/lesson/cultural-norms-definition-values-quiz.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://study.com/academy/lesson/cultural-norms-definition-values-quiz.html&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0QFnoECGcQAQ",
+            "displayed_link": "https://study.com \u203a ... \u203a Social Psychology (Sociology)",
+            "favicon": "https://serpapi.com/searches/68b876d180f30ed67f5c0d1f/images/ec187383cbc24d450f5568274ec584fbc8c064592cbdcaee3ce07b6c31fc6796.png",
+            "snippet": "Cultural norms refers to shared beliefs, or values and the human behaviors that support these values within a given society.",
+            "snippet_highlighted_words": [
+                "shared beliefs, or values"
+            ],
+            "source": "Study.com"
+        },
+        {
+            "position": 23,
+            "title": "Cultural Values Are What Make Diverse Cultures Unique",
+            "link": "https://cioviews.com/cultural-values-are-what-make-diverse-cultures-unique/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cioviews.com/cultural-values-are-what-make-diverse-cultures-unique/&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0QFnoECGsQAQ",
+            "displayed_link": "https://cioviews.com \u203a cultural-values-are-what-make-div...",
+            "favicon": "https://serpapi.com/searches/68b876d180f30ed67f5c0d1f/images/ec187383cbc24d450f5568274ec584fb9ff730248e3aa1c2ac0d7ea24a8e616e.png",
+            "snippet": "Cultural values are a series of principles and values passed on generation after generation by our ancestors.",
+            "snippet_highlighted_words": [
+                "Cultural values"
+            ],
+            "source": "cio views"
+        },
+        {
+            "position": 24,
+            "title": "What is Cultural Values | IGI Global Scientific Publishing",
+            "link": "https://www.igi-global.com/dictionary/cultural-values/40861",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.igi-global.com/dictionary/cultural-values/40861&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0QFnoFCIQBEAE",
+            "displayed_link": "https://www.igi-global.com \u203a dictionary \u203a cultural-values",
+            "favicon": "https://serpapi.com/searches/68b876d180f30ed67f5c0d1f/images/ec187383cbc24d450f5568274ec584fbb754964b82fcc975ed415dad12514abb.png",
+            "snippet": "Set of values and generic beliefs that individuals naturally learn through education and socialization and that are recognized and shared by the members of a ...",
+            "snippet_highlighted_words": [
+                "Set of values and generic beliefs that individuals naturally learn"
+            ],
+            "source": "IGI Global"
+        },
+        {
+            "position": 25,
+            "title": "Nine Cultural Value Differences You Need to Know",
+            "link": "https://cultureplusconsulting.com/nine-cultural-value-differences-you-need-to-know/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cultureplusconsulting.com/nine-cultural-value-differences-you-need-to-know/&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0QFnoFCIYBEAE",
+            "displayed_link": "https://cultureplusconsulting.com \u203a nine-cultural-value-...",
+            "favicon": "https://serpapi.com/searches/68b876d180f30ed67f5c0d1f/images/ec187383cbc24d450f5568274ec584fbae6101b48211a824bfc62c9c086ca51a.jpeg",
+            "date": "Jan 1, 2025",
+            "snippet": "This article explores the visible and hidden aspects of culture, the significance of values, and nine key national cultural value differences.",
+            "snippet_highlighted_words": [
+                "nine key national cultural value differences"
+            ],
+            "source": "Culture Plus Consulting"
+        },
+        {
+            "position": 26,
+            "title": "(PDF) On Culture and Cultural Values",
+            "link": "https://www.researchgate.net/publication/381823237_On_Culture_and_Cultural_Values",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.researchgate.net/publication/381823237_On_Culture_and_Cultural_Values&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0QFnoFCKIBEAE",
+            "displayed_link": "https://www.researchgate.net \u203a publication \u203a 38182323...",
+            "favicon": "https://serpapi.com/searches/68b876d180f30ed67f5c0d1f/images/ec187383cbc24d450f5568274ec584fbae9044e06e17406b0586c973711a6348.png",
+            "date": "Jun 6, 2024",
+            "snippet": "This article will delve into the analysis of cultural values and its indispensable role in modern social life.",
+            "snippet_highlighted_words": [
+                "cultural values"
+            ],
+            "source": "ResearchGate"
+        },
+        {
+            "position": 27,
+            "title": "How to define culture? What are cultural values, beliefs ...",
+            "link": "https://www.quora.com/How-do-you-define-culture-What-are-cultural-values-beliefs-and-norms-Can-you-provide-examples-and-discuss-it-briefly",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quora.com/How-do-you-define-culture-What-are-cultural-values-beliefs-and-norms-Can-you-provide-examples-and-discuss-it-briefly&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0QFnoFCKYBEAE",
+            "displayed_link": "2 answers \u00b7 4 years ago",
+            "favicon": "https://serpapi.com/searches/68b876d180f30ed67f5c0d1f/images/ec187383cbc24d450f5568274ec584fb5fb46d49c0c8c10762f9fea6bda04295.png",
+            "snippet": "Cultural values are norms of behaviour on the basis of beliefs about what is right and appropriate. These are not rules or forced behaviours nor ...",
+            "snippet_highlighted_words": [
+                "norms of behaviour on the basis of beliefs about what is right and appropriate"
+            ],
+            "source": "Quora"
+        },
+        {
+            "position": 28,
+            "title": "Cultural Values - an overview",
+            "link": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/cultural-values",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/cultural-values&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0QFnoFCKEBEAE",
+            "displayed_link": "https://www.sciencedirect.com \u203a topics \u203a cultural-values",
+            "favicon": "https://serpapi.com/searches/68b876d180f30ed67f5c0d1f/images/ec187383cbc24d450f5568274ec584fbf4c08fd7a07e382322838eef342aea65.png",
+            "snippet": "Cultural values refer to the evolving ethical and moral frameworks that shape collective identities and perceptions of right and wrong within societies.",
+            "snippet_highlighted_words": [
+                "evolving ethical and moral frameworks that shape collective identities and per"
+            ],
+            "source": "ScienceDirect.com"
+        },
+        {
+            "position": 29,
+            "title": "Understanding Cultural Values in Sociology",
+            "link": "https://easysociology.com/sociology-of-culture/understanding-cultural-values-in-sociology/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://easysociology.com/sociology-of-culture/understanding-cultural-values-in-sociology/&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0QFnoFCJ4BEAE",
+            "displayed_link": "https://easysociology.com \u203a Sociology of Culture",
+            "favicon": "https://serpapi.com/searches/68b876d180f30ed67f5c0d1f/images/ec187383cbc24d450f5568274ec584fb17be4099e0998db0f9cd569296f3bb8d.jpeg",
+            "date": "Jan 3, 2024",
+            "snippet": "Cultural values are the shared beliefs, norms, customs, and attitudes that define a particular group or society.",
+            "snippet_highlighted_words": [
+                "shared beliefs, norms, customs, and attitudes"
+            ],
+            "source": "Easy Sociology"
+        },
+        {
+            "position": 30,
+            "title": "Cultural values of water | 2021 World ...",
+            "link": "https://www.unesco.org/reports/wwdr/2021/en/cultural-values-water",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.unesco.org/reports/wwdr/2021/en/cultural-values-water&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0QFnoFCL0BEAE",
+            "displayed_link": "https://www.unesco.org \u203a reports \u203a wwdr \u203a cultural-val...",
+            "favicon": "https://serpapi.com/searches/68b876d180f30ed67f5c0d1f/images/ec187383cbc24d450f5568274ec584fb2466f270458b811546d46bb3656e2dd1.png",
+            "date": "Sep 21, 2023",
+            "snippet": "The values of water to human well-being extend well beyond its role in supporting life-sustaining functions, and include mental health, spiritual well-being, ...",
+            "snippet_highlighted_words": [
+                "mental health, spiritual well-being"
+            ],
+            "source": "UNESCO"
+        },
+        {
+            "position": 31,
+            "title": "The Mexican American Cultural Values scales for ...",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2904976/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pmc.ncbi.nlm.nih.gov/articles/PMC2904976/&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0QFnoFCLwBEAE",
+            "displayed_link": "https://pmc.ncbi.nlm.nih.gov \u203a articles \u203a PMC2904976",
+            "author": "by GP Knight",
+            "snippet": "These included Mexican American ethnic pride, ethnic socialization, social support, acceptance, parental monitoring, and positive role models in the family. For ...",
+            "source": "National Institutes of Health (NIH) | (.gov)"
+        },
+        {
+            "position": 32,
+            "title": "CULTURAL VALUE collocation | meaning and examples of use",
+            "link": "https://dictionary.cambridge.org/us/example/english/cultural-value",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://dictionary.cambridge.org/us/example/english/cultural-value&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0QFnoFCMABEAE",
+            "displayed_link": "https://dictionary.cambridge.org \u203a example \u203a english",
+            "favicon": "https://serpapi.com/searches/68b876d180f30ed67f5c0d1f/images/ec187383cbc24d450f5568274ec584fbc1fc2735c6f4e64d85d212315fa936c6.jpeg",
+            "date": "7 days ago",
+            "snippet": "cultural value collocation in English meanings of cultural and value These words are often used together. Click on the links below to explore the meanings.",
+            "snippet_highlighted_words": [
+                "cultural value collocation in English"
+            ],
+            "source": "Cambridge Dictionary"
+        },
+        {
+            "position": 33,
+            "title": "Cultural Values: Examples, Beliefs & Norms",
+            "link": "https://www.studysmarter.co.uk/explanations/business-studies/organizational-behavior/cultural-values/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.studysmarter.co.uk/explanations/business-studies/organizational-behavior/cultural-values/&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0QFnoFCMEBEAE",
+            "displayed_link": "https://www.studysmarter.co.uk \u203a organizational-behavior",
+            "favicon": "https://serpapi.com/searches/68b876d180f30ed67f5c0d1f/images/ec187383cbc24d450f5568274ec584fb579794d3b53597c98e21b470ad15c385.jpeg",
+            "date": "Oct 22, 2023",
+            "snippet": "Cultural values are socially constructed beliefs and norms that guide the behaviour of individuals within a particular group.",
+            "snippet_highlighted_words": [
+                "Cultural values"
+            ],
+            "source": "StudySmarter UK"
+        },
+        {
+            "position": 34,
+            "title": "Understanding Cultural Values \u2013 INFO",
+            "link": "https://connecting2culture.com/understanding-cultural-values-info/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://connecting2culture.com/understanding-cultural-values-info/&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0QFnoFCMIBEAE",
+            "displayed_link": "https://connecting2culture.com \u203a understanding-cultural...",
+            "favicon": "https://serpapi.com/searches/68b876d180f30ed67f5c0d1f/images/ec187383cbc24d450f5568274ec584fb76779462dfa5186082af2163fc926258.png",
+            "snippet": "Our values are based on what we believe is good or best in the world around us. Most of our behavior flows out of our values.",
+            "snippet_highlighted_words": [
+                "what we believe is good or best in the world around us"
+            ],
+            "source": "connecting2culture.com"
+        },
+        {
+            "position": 35,
+            "title": "Cultural Values, Institutions, and Trust - 1st Edition",
+            "link": "https://www.routledge.com/Cultural-Values-Institutions-and-Trust/Kim-Kim/p/book/9781032139661?srsltid=AfmBOoprUXy6rg1_15ZwSFh5oVvYDQjvgsS7J8qLtt3Jjv5eTT-Poa0D",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.routledge.com/Cultural-Values-Institutions-and-Trust/Kim-Kim/p/book/9781032139661%3Fsrsltid%3DAfmBOoprUXy6rg1_15ZwSFh5oVvYDQjvgsS7J8qLtt3Jjv5eTT-Poa0D&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0QFnoFCMMBEAE",
+            "displayed_link": "https://www.routledge.com \u203a Kim-Kim \u203a book",
+            "favicon": "https://serpapi.com/searches/68b876d180f30ed67f5c0d1f/images/ec187383cbc24d450f5568274ec584fbfe6fa33795094ccfa190dd70aac488d8.png",
+            "snippet": "They focus on a range of concepts, including generalized trust and familism; causal relationships among cultural values, particularized trust, and ...",
+            "snippet_highlighted_words": [
+                "They focus on a range of concepts"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "detected_extensions": {
+                        "price": 43.99,
+                        "currency": "$"
+                    },
+                    "extensions": [
+                        "$43.99"
+                    ]
+                }
+            },
+            "source": "Routledge"
+        },
+        {
+            "position": 36,
+            "title": "American Values and Assumptions",
+            "link": "https://www.up.edu/iss/advising-services/american-values.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.up.edu/iss/advising-services/american-values.html&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0QFnoECFIQAQ",
+            "displayed_link": "https://www.up.edu \u203a iss \u203a advising-services \u203a american...",
+            "favicon": "https://serpapi.com/searches/68b876d180f30ed67f5c0d1f/images/ec187383cbc24d450f5568274ec584fbd22ee22deff7a4d6b7b14b346dd6f150.png",
+            "snippet": "\"Values\" are ideas about what is right and wrong, desirable and undesirable, normal and abnormal, proper and improper.",
+            "snippet_highlighted_words": [
+                "Values"
+            ],
+            "source": "University of Portland"
+        },
+        {
+            "position": 37,
+            "title": "50 Examples of Cultural Values",
+            "link": "https://simplicable.com/culture/cultural-values",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://simplicable.com/culture/cultural-values&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0QFnoECE8QAQ",
+            "displayed_link": "https://simplicable.com \u203a culture \u203a cultural-values",
+            "favicon": "https://serpapi.com/searches/68b876d180f30ed67f5c0d1f/images/ec187383cbc24d450f5568274ec584fb3a8f838c80df909089077a1d7964f96c.png",
+            "date": "Sep 25, 2023",
+            "snippet": "Cultural values are shared beliefs about behavior, society and way of life that emerge with the history of a traditional culture such as a nation.",
+            "snippet_highlighted_words": [
+                "shared beliefs about behavior, society and way of life"
+            ],
+            "source": "Simplicable"
+        },
+        {
+            "position": 38,
+            "title": "On Culture and Cultural Values",
+            "link": "https://www.ijsshr.in/v7i6/104.php",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ijsshr.in/v7i6/104.php&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0QFnoECGoQAQ",
+            "displayed_link": "https://www.ijsshr.in \u203a ...",
+            "favicon": "https://serpapi.com/searches/68b876d180f30ed67f5c0d1f/images/ec187383cbc24d450f5568274ec584fb3317fafbd5d540262c5e2f7c1816a9d3.png",
+            "date": "Jun 6, 2024",
+            "snippet": "Culture embodies both the spiritual and material expressions that humans have created and continue to create, ranging from works of art, ...",
+            "source": "International Journal of Social Science And Human Research"
+        },
+        {
+            "position": 39,
+            "title": "Cultural Values - Sociology",
+            "link": "https://www.cliffsnotes.com/study-guides/sociology/culture-and-societies/cultural-values",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cliffsnotes.com/study-guides/sociology/culture-and-societies/cultural-values&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0QFnoECGgQAQ",
+            "displayed_link": "https://www.cliffsnotes.com \u203a culture-and-societies \u203a cult...",
+            "favicon": "https://serpapi.com/searches/68b876d180f30ed67f5c0d1f/images/ec187383cbc24d450f5568274ec584fb514aba8c2099e645f2b6214a8033fa76.png",
+            "snippet": "A culture's values are its ideas about what is good, right, fair, and just. Sociologists disagree, however, on how to conceptualize values.",
+            "snippet_highlighted_words": [
+                "its ideas about what is good, right, fair, and just"
+            ],
+            "source": "CliffsNotes"
+        },
+        {
+            "position": 40,
+            "title": "NCCC: Curricula Enhancement Module Series",
+            "link": "https://nccc.georgetown.edu/curricula/awareness/C5.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://nccc.georgetown.edu/curricula/awareness/C5.html&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0QFnoECG4QAQ",
+            "displayed_link": "https://nccc.georgetown.edu \u203a curricula \u203a awareness",
+            "favicon": "https://serpapi.com/searches/68b876d180f30ed67f5c0d1f/images/ec187383cbc24d450f5568274ec584fb5e77e2a1019274e5225fce23c66d9f91.png",
+            "snippet": "\u201cCulture is a set of meanings, behavioral norms, and values used by members of a particular society, as they construct their unique view of the world.\u201d Alarcon, ...",
+            "snippet_highlighted_words": [
+                "meanings, behavioral norms, and values"
+            ],
+            "source": "National Center for Cultural Competence"
+        },
+        {
+            "position": 41,
+            "title": "Cultural Values - (Intro to Cultural Anthropology)",
+            "link": "https://library.fiveable.me/key-terms/introduction-cultural-anthropology/cultural-values",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://library.fiveable.me/key-terms/introduction-cultural-anthropology/cultural-values&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0QFnoECG8QAQ",
+            "displayed_link": "https://library.fiveable.me \u203a key-terms \u203a cultural-values",
+            "favicon": "https://serpapi.com/searches/68b876d180f30ed67f5c0d1f/images/ec187383cbc24d450f5568274ec584fb4aa3a49d90dc9c7ea265f1adde6f32cc.png",
+            "snippet": "Cultural values are the deeply held beliefs and principles that shape the behavior, norms, and practices of a group.",
+            "snippet_highlighted_words": [
+                "Cultural values"
+            ],
+            "source": "Fiveable"
+        },
+        {
+            "position": 42,
+            "title": "7. Your Culture and Awareness of Cultural Values",
+            "link": "https://pressbooks.bccampus.ca/pathwaystosuccess/chapter/your-culture-and-awareness-of-cultural-values/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pressbooks.bccampus.ca/pathwaystosuccess/chapter/your-culture-and-awareness-of-cultural-values/&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0QFnoECGwQAQ",
+            "displayed_link": "https://pressbooks.bccampus.ca \u203a chapter \u203a your-culture...",
+            "favicon": "https://serpapi.com/searches/68b876d180f30ed67f5c0d1f/images/ec187383cbc24d450f5568274ec584fb4ded2bb8402d220d161bf00cc6b99300.png",
+            "snippet": "According to Heathfield ( 2018), culture involves beliefs, attitudes, values, and traditions that are shared by a group of people. Let's do the following ...",
+            "snippet_highlighted_words": [
+                "beliefs",
+                "values"
+            ],
+            "source": "BCcampus Pressbooks"
+        },
+        {
+            "position": 43,
+            "title": "What are Cultural Values?",
+            "link": "https://www.youtube.com/watch?v=ITqqp-J8EkE",
+            "displayed_link": "7K+ views \u00b7 4 years ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfemYKde6lQqgQlkiQ2b8e_Wv93MxnhPRGNPA73jJRlZuvIsCw4v8Ew6hWJpGL&s&ec=73086137",
+            "favicon": "https://serpapi.com/searches/68b876d180f30ed67f5c0d1f/images/ec187383cbc24d450f5568274ec584fbbe81a28e331c61c0e077f591f5e496b2.png",
+            "snippet": "All humans have \u201cCultural Values\u201d that they learn starting in childhood. Cultural Values are neither good nor bad, but they describe basic tendencies in the way that people prefer to work and live. By understanding your own preferences in this area and comparing them with typical norms for other ...",
+            "duration": "1:15",
+            "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSfgG7QgRrfYsAXlBDwF2jDpOmtdNZTD-l6IQ",
+            "source": "YouTube \u00b7 Cultural Intelligence Center"
+        },
+        {
+            "position": 44,
+            "title": "25+ Cultural Values Examples to Download",
+            "link": "https://www.examples.com/business/cultural-values.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.examples.com/business/cultural-values.html&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0QFnoFCIMBEAE",
+            "displayed_link": "https://www.examples.com \u203a Business",
+            "favicon": "https://serpapi.com/searches/68b876d180f30ed67f5c0d1f/images/ec187383cbc24d450f5568274ec584fb94d6be9a3ce143ae5f0ab660b41df66b.png",
+            "date": "Sep 26, 2024",
+            "snippet": "Cultural values are specific social norms, values, interests, and attitudes that have a heavy basis on the habits of the people's cultures.",
+            "snippet_highlighted_words": [
+                "Cultural values"
+            ],
+            "source": "Examples.com"
+        },
+        {
+            "position": 45,
+            "title": "Understanding Cultural Values in Daily Life",
+            "link": "https://majalahsunday.com/understanding-cultural-values-in-daily-life/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://majalahsunday.com/understanding-cultural-values-in-daily-life/&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0QFnoFCIUBEAE",
+            "displayed_link": "https://majalahsunday.com \u203a understanding-cultural-val...",
+            "favicon": "https://serpapi.com/searches/68b876d180f30ed67f5c0d1f/images/ec187383cbc24d450f5568274ec584fb4dc00e7623605279e95cacc3216a9c07.png",
+            "snippet": "Cultural values are a wealth of principles or beliefs that are considered important by a group of people.",
+            "snippet_highlighted_words": [
+                "Cultural values"
+            ],
+            "source": "Majalah Sunday"
+        },
+        {
+            "position": 46,
+            "title": "What Are Cultural Values: Understanding Their Impact and ...",
+            "link": "https://examup.com/blog/cultural-values",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://examup.com/blog/cultural-values&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0QFnoFCIcBEAE",
+            "displayed_link": "https://examup.com \u203a Blog",
+            "favicon": "https://serpapi.com/searches/68b876d180f30ed67f5c0d1f/images/ec187383cbc24d450f5568274ec584fb44836d8acd1000f3f2e53694146c0d4a.png",
+            "snippet": "Cultural values are shared beliefs that form a society's identity, dictating what is essential, acceptable, or desirable. On the other hand, cultural norms are ...",
+            "snippet_highlighted_words": [
+                "Cultural values"
+            ],
+            "source": "ExamUp"
+        },
+        {
+            "position": 47,
+            "title": "Cultures and Persons",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6901915/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pmc.ncbi.nlm.nih.gov/articles/PMC6901915/&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0QFnoFCIkBEAE",
+            "displayed_link": "https://pmc.ncbi.nlm.nih.gov \u203a articles \u203a PMC6901915",
+            "author": "by PB Smith",
+            "snippet": "This enculturation is then revealed in the individual's response profile of values, beliefs, choices, and behaviors at any given time. Cross-cultural ...",
+            "snippet_highlighted_words": [
+                "values",
+                "beliefs",
+                "cultural"
+            ],
+            "source": "National Institutes of Health (NIH) | (.gov)"
+        },
+        {
+            "position": 48,
+            "title": "Culture and Values",
+            "link": "https://online.kidsdiscover.com/unit/a-world-of-culture/topic/culture-and-values",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://online.kidsdiscover.com/unit/a-world-of-culture/topic/culture-and-values&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0QFnoFCIoBEAE",
+            "displayed_link": "https://online.kidsdiscover.com \u203a unit \u203a topic \u203a culture-a...",
+            "favicon": "https://serpapi.com/searches/68b876d180f30ed67f5c0d1f/images/ec187383cbc24d450f5568274ec584fb11e7037140540e627fe43199bbbda45d.jpeg",
+            "snippet": "Do you try to help others and treat people fairly? Do you care deeply about your family? These are all examples of your values, or the ideas and beliefs that ...",
+            "snippet_highlighted_words": [
+                "values",
+                "beliefs"
+            ],
+            "source": "Kids Discover"
+        },
+        {
+            "position": 49,
+            "title": "Culture vs. Values: What's the Difference? (With Examples)",
+            "link": "https://www.indeed.com/career-advice/career-development/culture-vs-values",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.indeed.com/career-advice/career-development/culture-vs-values&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0QFnoECGkQAQ",
+            "displayed_link": "https://www.indeed.com \u203a ... \u203a Career development",
+            "favicon": "https://serpapi.com/searches/68b876d180f30ed67f5c0d1f/images/ec187383cbc24d450f5568274ec584fb7b7ce532afa4a8b933eff9b460c2c013.png",
+            "date": "Jul 24, 2025",
+            "snippet": "Many companies establish a set of core values they use to inform leadership, employees and customers about their beliefs, commitments and ...",
+            "snippet_highlighted_words": [
+                "values",
+                "beliefs"
+            ],
+            "source": "Indeed"
+        },
+        {
+            "position": 50,
+            "title": "Cultural values - Service Growth",
+            "link": "https://www.servicegrowth.com/world-of-work/cultural-values/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.servicegrowth.com/world-of-work/cultural-values/&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0QFnoECE0QAQ",
+            "displayed_link": "https://www.servicegrowth.com \u203a World of Work",
+            "favicon": "https://serpapi.com/searches/68b876d180f30ed67f5c0d1f/images/ec187383cbc24d450f5568274ec584fb2fabf1d231c7fc0df355a6da33c588fd.png",
+            "snippet": "Cultural values affect every aspect of our lives, including how we interpret others' actions and what we view as priorities.",
+            "snippet_highlighted_words": [
+                "Cultural values",
+                "affect every aspect of our lives"
+            ],
+            "source": "servicegrowth.com"
+        }
+    ],
+    "related_searches": [
+        {
+            "block_position": 1,
+            "query": "Cultural values examples",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Cultural+values+examples&sa=X&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0Q1QJ6BQjfARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Brazil&num=50&q=Cultural+values+examples"
+        },
+        {
+            "block_position": 1,
+            "query": "Cultural values in society",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Cultural+values+in+society&sa=X&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0Q1QJ6BQjlARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Brazil&num=50&q=Cultural+values+in+society"
+        },
+        {
+            "block_position": 1,
+            "query": "What are the 10 cultural values",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=What+are+the+10+cultural+values&sa=X&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0Q1QJ6BQjkARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Brazil&num=50&q=What+are+the+10+cultural+values"
+        },
+        {
+            "block_position": 1,
+            "query": "What are the 10 cultural values and examples",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=What+are+the+10+cultural+values+and+examples&sa=X&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0Q1QJ6BQjjARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Brazil&num=50&q=What+are+the+10+cultural+values+and+examples"
+        },
+        {
+            "block_position": 1,
+            "query": "Cultural values list",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Cultural+values+list&sa=X&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0Q1QJ6BQjiARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Brazil&num=50&q=Cultural+values+list"
+        },
+        {
+            "block_position": 1,
+            "query": "Cultural values PDF",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Cultural+values+PDF&sa=X&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0Q1QJ6BQjgARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Brazil&num=50&q=Cultural+values+PDF"
+        },
+        {
+            "block_position": 1,
+            "query": "Cultural values for students",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Cultural+values+for+students&sa=X&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0Q1QJ6BQjhARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Brazil&num=50&q=Cultural+values+for+students"
+        },
+        {
+            "block_position": 1,
+            "query": "Five cultural values",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Five+cultural+values&sa=X&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0Q1QJ6BQjeARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Brazil&num=50&q=Five+cultural+values"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=cultural+values&num=50&sca_esv=cbb70bed2ede2303&ei=0Xa4aN-RI6OYwbkPy6KD6AM&start=50&sa=N&sstk=Ac65TH7dlyp-jGF1DUyMoj-rKamriaYXq-drgZI2o1SZ7gfKpDGqE0Nif_--ep-NnUE2pl4QZikmpfz2J1R903fgtTj2C8XjxkPoiQ&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0Q8NMDegQIDBAM",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=cultural+values&num=50&sca_esv=cbb70bed2ede2303&ei=0Xa4aN-RI6OYwbkPy6KD6AM&start=50&sa=N&sstk=Ac65TH7dlyp-jGF1DUyMoj-rKamriaYXq-drgZI2o1SZ7gfKpDGqE0Nif_--ep-NnUE2pl4QZikmpfz2J1R903fgtTj2C8XjxkPoiQ&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0Q8tMDegQIDBAE",
+            "3": "https://www.google.com/search?q=cultural+values&num=50&sca_esv=cbb70bed2ede2303&ei=0Xa4aN-RI6OYwbkPy6KD6AM&start=100&sa=N&sstk=Ac65TH7dlyp-jGF1DUyMoj-rKamriaYXq-drgZI2o1SZ7gfKpDGqE0Nif_--ep-NnUE2pl4QZikmpfz2J1R903fgtTj2C8XjxkPoiQ&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0Q8tMDegQIDBAG",
+            "4": "https://www.google.com/search?q=cultural+values&num=50&sca_esv=cbb70bed2ede2303&ei=0Xa4aN-RI6OYwbkPy6KD6AM&start=150&sa=N&sstk=Ac65TH7dlyp-jGF1DUyMoj-rKamriaYXq-drgZI2o1SZ7gfKpDGqE0Nif_--ep-NnUE2pl4QZikmpfz2J1R903fgtTj2C8XjxkPoiQ&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0Q8tMDegQIDBAI",
+            "5": "https://www.google.com/search?q=cultural+values&num=50&sca_esv=cbb70bed2ede2303&ei=0Xa4aN-RI6OYwbkPy6KD6AM&start=200&sa=N&sstk=Ac65TH7dlyp-jGF1DUyMoj-rKamriaYXq-drgZI2o1SZ7gfKpDGqE0Nif_--ep-NnUE2pl4QZikmpfz2J1R903fgtTj2C8XjxkPoiQ&ved=2ahUKEwifvp2Yi72PAxUjTDABHUvRAD0Q8tMDegQIDBAK"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Brazil&num=50&q=cultural+values&start=50",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Brazil&num=50&q=cultural+values&start=50",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Brazil&num=50&q=cultural+values&start=50",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Brazil&num=50&q=cultural+values&start=100",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Brazil&num=50&q=cultural+values&start=150",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Brazil&num=50&q=cultural+values&start=200"
+        }
+    }
+}

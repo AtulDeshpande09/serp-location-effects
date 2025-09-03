@@ -1,0 +1,1682 @@
+{
+    "search_metadata": {
+        "id": "68b8769fbadf0b11d61af3c5",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/0d7128ed9ef175b7/68b8769fbadf0b11d61af3c5.json",
+        "pixel_position_endpoint": "https://serpapi.com/searches/0d7128ed9ef175b7/68b8769fbadf0b11d61af3c5.json_with_pixel_position",
+        "created_at": "2025-09-03 17:10:55 UTC",
+        "processed_at": "2025-09-03 17:10:55 UTC",
+        "google_url": "https://www.google.com/search?q=buy+electronics+online&oq=buy+electronics+online&uule=w+CAIQICIFSmFwYW4&num=50&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/0d7128ed9ef175b7/68b8769fbadf0b11d61af3c5.html",
+        "total_time_taken": 1.32
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "buy electronics online",
+        "location_requested": "Japan",
+        "location_used": "Japan",
+        "google_domain": "google.com",
+        "num": "50",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "buy electronics online",
+        "total_results": 1080000000,
+        "time_taken_displayed": 0.38,
+        "organic_results_state": "Results for exact spelling"
+    },
+    "immersive_products": [
+        {
+            "category": "Popular products",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRrgv6mejrRD4CGj631RQDFw6JQ-Hc4Q4nRwN4ly2GBxmEt50kDbEUjpU0-JGiWDrgPfVxIvtbVkuzQ5dwTA1vMB7gwEKjMpDfjv1rbPfpD5RkVXDoX-EQ",
+            "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTlaCK6yJql3VfJbrrx2X0in93u58K-BDjx2mhmp9x6fIT1TWnEwt_xYGZ3CxNepua7dko-y3e_nRui2M1KIlBKucAMfnsev2jZ",
+            "source": "Nintendo",
+            "title": "Nintendo Switch 2",
+            "rating": 4.6,
+            "reviews": 4200,
+            "immersive_product_page_token": "eyJlaSI6Im4zYTRhTXF5Sy1yZjFzUVBsNmVNaUFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjIwOTk4NzgwMTg4OTg0MDYwNSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE0MjIyMzEyOTExODI0Njk3MzMiLCJpbWFnZURvY2lkIjoiMTY2MzYxMDg4Njc2NzQ4MzA1NjMiLCJyZHMiOiJQQ18xNTY0MzkxMDM1OTQxNTkxODgxMnxQUk9EX1BDXzE1NjQzOTEwMzU5NDE1OTE4ODEyIiwicXVlcnkiOiJidXkrZWxlY3Ryb25pY3Mrb25saW5lIiwiZ3BjaWQiOiIxNTY0MzkxMDM1OTQxNTkxODgxMiIsIm1pZCI6IjU3NjQ2MjgzMjkzODE0NDgxNCIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSUZTbUZ3WVc0IiwiZ2wiOm51bGwsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im4zYTRhTXF5Sy1yZjFzUVBsNmVNaUFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjIwOTk4NzgwMTg4OTg0MDYwNSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE0MjIyMzEyOTExODI0Njk3MzMiLCJpbWFnZURvY2lkIjoiMTY2MzYxMDg4Njc2NzQ4MzA1NjMiLCJyZHMiOiJQQ18xNTY0MzkxMDM1OTQxNTkxODgxMnxQUk9EX1BDXzE1NjQzOTEwMzU5NDE1OTE4ODEyIiwicXVlcnkiOiJidXkrZWxlY3Ryb25pY3Mrb25saW5lIiwiZ3BjaWQiOiIxNTY0MzkxMDM1OTQxNTkxODgxMiIsIm1pZCI6IjU3NjQ2MjgzMjkzODE0NDgxNCIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSUZTbUZ3WVc0IiwiZ2wiOm51bGwsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ%3D%3D",
+            "product_id": "2209987801889840605",
+            "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&google_domain=google.com&location=Japan&product_id=2209987801889840605"
+        },
+        {
+            "category": "Popular products",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRYmfxrX7owoBax7TYr1yG6AsHTKtWaE5RSKK2NULjvP_v7-Dkx_jwtfurM6lVObE4aXmz2WP3vAtWHqROXEobahRaThVJI6aeF3woauMKBQJgUBGpe_Nc",
+            "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQHu0UmqgiOUHVmdV2keX5XDS6ztX5KDhaGBb3GeQYuL4BvxmmkMgbplTzMUngzwNLa5FNYWJa2nadhDcrL3oGdboo",
+            "source": "Amazon",
+            "title": "Apple AirPods Max",
+            "rating": 4.5,
+            "reviews": 9500,
+            "original_price": "$779",
+            "extracted_original_price": 779,
+            "extensions": [
+                "16% OFF"
+            ],
+            "immersive_product_page_token": "eyJlaSI6Im4zYTRhTXF5Sy1yZjFzUVBsNmVNaUFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTg4MzQ0MDM1MTM3MjI3NTg2OCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEyMDA3NjQ1NjAzNjYyNDY5MzYxIiwiaW1hZ2VEb2NpZCI6Ijk1MDg2NTk1MTMwMDM3MTczOTYiLCJyZHMiOiJQQ183NzA3NzE2ODg3OTI5OTQzNTAwfFBST0RfUENfNzcwNzcxNjg4NzkyOTk0MzUwMCIsInF1ZXJ5IjoiYnV5K2VsZWN0cm9uaWNzK29ubGluZSIsImdwY2lkIjoiNzcwNzcxNjg4NzkyOTk0MzUwMCIsIm1pZCI6IjU3NjQ2MjU1OTgwODQ0NTI0NyIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSUZTbUZ3WVc0IiwiZ2wiOm51bGwsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im4zYTRhTXF5Sy1yZjFzUVBsNmVNaUFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTg4MzQ0MDM1MTM3MjI3NTg2OCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEyMDA3NjQ1NjAzNjYyNDY5MzYxIiwiaW1hZ2VEb2NpZCI6Ijk1MDg2NTk1MTMwMDM3MTczOTYiLCJyZHMiOiJQQ183NzA3NzE2ODg3OTI5OTQzNTAwfFBST0RfUENfNzcwNzcxNjg4NzkyOTk0MzUwMCIsInF1ZXJ5IjoiYnV5K2VsZWN0cm9uaWNzK29ubGluZSIsImdwY2lkIjoiNzcwNzcxNjg4NzkyOTk0MzUwMCIsIm1pZCI6IjU3NjQ2MjU1OTgwODQ0NTI0NyIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSUZTbUZ3WVc0IiwiZ2wiOm51bGwsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ%3D%3D",
+            "product_id": "5883440351372275868",
+            "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&google_domain=google.com&location=Japan&product_id=5883440351372275868"
+        },
+        {
+            "category": "Popular products",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQSYCQrL4Wt1T85FId9JepGiiTZebHR3f9raGJhgNN26NOGMf7iaIFbYxMiQNfOlhS6gcGriTZHiJtfmk7hFxd-o_QLqSt-U_YR38-IMfst2SXpZHrVY_3V",
+            "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTmHgd3BIUFVolWtb3YgorwqYTmV5NBnUsxWG5mcWgeHtz5dNUxXF4T9fqywosTnd93weIKIRmAqFMBHtItx217tDgH7YA",
+            "source": "Motorola Canada",
+            "title": "Motorola Moto G 5G 2024",
+            "rating": 3.8,
+            "reviews": 2000,
+            "original_price": "$250",
+            "extracted_original_price": 250,
+            "extensions": [
+                "12% OFF"
+            ],
+            "immersive_product_page_token": "eyJlaSI6Im4zYTRhTXF5Sy1yZjFzUVBsNmVNaUFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTM4NDE4MzE2MjcwNjMyOTcwNTQiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMjAzNjUxMjk4MTMwMTkyNDEzMCIsImltYWdlRG9jaWQiOiIxMzc0ODAzNzcwNTk0NTY4NjAzIiwicmRzIjoiUENfMTM2MzY5OTQyNjI3MDE2MjQ0NzR8UFJPRF9QQ18xMzYzNjk5NDI2MjcwMTYyNDQ3NCIsInF1ZXJ5IjoiYnV5K2VsZWN0cm9uaWNzK29ubGluZSIsImdwY2lkIjoiMTM2MzY5OTQyNjI3MDE2MjQ0NzQiLCJtaWQiOiI1NzY0NjI4NjM0MTU2Mjc4ODgiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lGU21Gd1lXNCIsImdsIjpudWxsLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im4zYTRhTXF5Sy1yZjFzUVBsNmVNaUFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTM4NDE4MzE2MjcwNjMyOTcwNTQiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMjAzNjUxMjk4MTMwMTkyNDEzMCIsImltYWdlRG9jaWQiOiIxMzc0ODAzNzcwNTk0NTY4NjAzIiwicmRzIjoiUENfMTM2MzY5OTQyNjI3MDE2MjQ0NzR8UFJPRF9QQ18xMzYzNjk5NDI2MjcwMTYyNDQ3NCIsInF1ZXJ5IjoiYnV5K2VsZWN0cm9uaWNzK29ubGluZSIsImdwY2lkIjoiMTM2MzY5OTQyNjI3MDE2MjQ0NzQiLCJtaWQiOiI1NzY0NjI4NjM0MTU2Mjc4ODgiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lGU21Gd1lXNCIsImdsIjpudWxsLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0%3D",
+            "product_id": "13841831627063297054",
+            "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&google_domain=google.com&location=Japan&product_id=13841831627063297054"
+        },
+        {
+            "category": "Popular products",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSAfJCJjEiHOtCAhMfZusYgDv8mXIM79RLIIURY_DDR0lODiTkwylyRr0afFqn2GrLsBA-KG5QRBvbDhiXnoMH0nPX237FILevPG-GIcuSvYUhR1ZOH-w",
+            "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcR8ako_DvaEDiyHyqhOKPLeabQsoDWlv1cZaxmbH9CoDKfhVeR4PlxMvYl7cMDOyU-GxNRjEq5-_AM6gr84qsCbKNRVdfuI94Db7ATsN5Iv",
+            "source": "Canada Computers & Electronics",
+            "title": "ASUS Vivobook Go 15 Laptop",
+            "rating": 5.0,
+            "reviews": 2,
+            "original_price": "Usually $599",
+            "extracted_original_price": 599,
+            "extensions": [
+                "LOW PRICE"
+            ],
+            "immersive_product_page_token": "eyJlaSI6Im4zYTRhTXF5Sy1yZjFzUVBsNmVNaUFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTM5MTI4NDkwOTM0MjMwODIzMTciLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI0ODYwODczMjgxNTYwMTYyMTQwIiwiaW1hZ2VEb2NpZCI6IjQyNTAwNTA1Mzg0NDc2NTcyNjYiLCJyZHMiOiJQQ180ODU2NTQ0NDE1MTcyOTUyNjU3fFBST0RfUENfNDg1NjU0NDQxNTE3Mjk1MjY1NyIsInF1ZXJ5IjoiYnV5K2VsZWN0cm9uaWNzK29ubGluZSIsImdwY2lkIjoiMTc0NjA3NzIwOTgzNzc0NjgzMjMiLCJtaWQiOiI1NzY0NjI1MDI0NDk4MzQ2NzEiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lGU21Gd1lXNCIsImdsIjpudWxsLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im4zYTRhTXF5Sy1yZjFzUVBsNmVNaUFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTM5MTI4NDkwOTM0MjMwODIzMTciLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI0ODYwODczMjgxNTYwMTYyMTQwIiwiaW1hZ2VEb2NpZCI6IjQyNTAwNTA1Mzg0NDc2NTcyNjYiLCJyZHMiOiJQQ180ODU2NTQ0NDE1MTcyOTUyNjU3fFBST0RfUENfNDg1NjU0NDQxNTE3Mjk1MjY1NyIsInF1ZXJ5IjoiYnV5K2VsZWN0cm9uaWNzK29ubGluZSIsImdwY2lkIjoiMTc0NjA3NzIwOTgzNzc0NjgzMjMiLCJtaWQiOiI1NzY0NjI1MDI0NDk4MzQ2NzEiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lGU21Gd1lXNCIsImdsIjpudWxsLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0%3D",
+            "product_id": "13912849093423082317",
+            "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&google_domain=google.com&location=Japan&product_id=13912849093423082317"
+        },
+        {
+            "category": "Popular products",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRnkHXH4OlCpwc9ZyD9WYleC362DKuVafzH5OddMsPX8vCXG8IqG0M_ScpBAK4Xs0dl-irwwHVAnaglJa4PhdBT2TJUicYN9o9pdgQZM5HRI4vUgyl1lE-m",
+            "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcR_UL00-oRmwQ3Nrn2AwXhEtTngYDKcoPQ6qoKPHoXNY6--TtbM-A_R0ErBSjtcwZvuM7B51hQ8LP4rhEZFhHrwrpG01r1M",
+            "source": "Amazon CA",
+            "title": "Sony WH-CH520 Wireless Headphones",
+            "rating": 4.8,
+            "reviews": 26000,
+            "original_price": "$100",
+            "extracted_original_price": 100,
+            "extensions": [
+                "41% OFF"
+            ],
+            "immersive_product_page_token": "eyJlaSI6Im4zYTRhTXF5Sy1yZjFzUVBsNmVNaUFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjI5MTgwNDg4MDEwNzE2NDA4NCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjgxMjk3NDUyODI2NTM2MTg3OTEiLCJpbWFnZURvY2lkIjoiMTIzMzQ2MzA5NDUxMzYxODc1MTIiLCJyZHMiOiJQQ183NDUxMzU5NTAzOTkyMDMxODc5fFBST0RfUENfNzQ1MTM1OTUwMzk5MjAzMTg3OSIsInF1ZXJ5IjoiYnV5K2VsZWN0cm9uaWNzK29ubGluZSIsImdwY2lkIjoiNzQ1MTM1OTUwMzk5MjAzMTg3OSIsIm1pZCI6IjU3NjQ2MjQ0NjI2Njc5NzkzMCIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSUZTbUZ3WVc0IiwiZ2wiOm51bGwsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im4zYTRhTXF5Sy1yZjFzUVBsNmVNaUFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjI5MTgwNDg4MDEwNzE2NDA4NCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjgxMjk3NDUyODI2NTM2MTg3OTEiLCJpbWFnZURvY2lkIjoiMTIzMzQ2MzA5NDUxMzYxODc1MTIiLCJyZHMiOiJQQ183NDUxMzU5NTAzOTkyMDMxODc5fFBST0RfUENfNzQ1MTM1OTUwMzk5MjAzMTg3OSIsInF1ZXJ5IjoiYnV5K2VsZWN0cm9uaWNzK29ubGluZSIsImdwY2lkIjoiNzQ1MTM1OTUwMzk5MjAzMTg3OSIsIm1pZCI6IjU3NjQ2MjQ0NjI2Njc5NzkzMCIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSUZTbUZ3WVc0IiwiZ2wiOm51bGwsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ%3D%3D",
+            "product_id": "2291804880107164084",
+            "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&google_domain=google.com&location=Japan&product_id=2291804880107164084"
+        },
+        {
+            "category": "Popular products",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTzgYwRw0fZhLObYVH6FN2NFaHGOJleQ4BbWX622DBCiP9LhBh5Y72n6X7rS3uu0WKu1asuEgVjM0HdYqtWCaiEyBoLWJPD-_1tBCWrZHV-YKMiXFh3P_w",
+            "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcS-jgpf9HOqN4-_lB6pkukYvDHkyMGOd9vu7nSbfdvCpj4sDUmg2LgSIuj9GkBSC2ocPG7jIGGN9evJt90Y0GYVBnFI7jWxIbsH9w",
+            "source": "Edifier Canada",
+            "title": "Edifier Bookshelf Speakers 66W Rms Desktop Speakers",
+            "rating": 4.9,
+            "reviews": 546,
+            "immersive_product_page_token": "eyJlaSI6Im4zYTRhTXF5Sy1yZjFzUVBsNmVNaUFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTM4ODUyNzEwNjg4ODM2MzU1MzQiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMjM0OTMyODczNjQ2NTc5NTgwMyIsImltYWdlRG9jaWQiOiI0NDIyMjc0NTExMDU5ODUzODQyIiwicmRzIjoiUENfMTAyNDU5Mzc2Mjk4NjExNDc3MDB8UFJPRF9QQ18xMDI0NTkzNzYyOTg2MTE0NzcwMCIsInF1ZXJ5IjoiYnV5K2VsZWN0cm9uaWNzK29ubGluZSIsImdwY2lkIjoiMTAyNDU5Mzc2Mjk4NjExNDc3MDAiLCJtaWQiOiI1NzY0NjI3OTY4NTc2OTYzMzAiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lGU21Gd1lXNCIsImdsIjpudWxsLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im4zYTRhTXF5Sy1yZjFzUVBsNmVNaUFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTM4ODUyNzEwNjg4ODM2MzU1MzQiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMjM0OTMyODczNjQ2NTc5NTgwMyIsImltYWdlRG9jaWQiOiI0NDIyMjc0NTExMDU5ODUzODQyIiwicmRzIjoiUENfMTAyNDU5Mzc2Mjk4NjExNDc3MDB8UFJPRF9QQ18xMDI0NTkzNzYyOTg2MTE0NzcwMCIsInF1ZXJ5IjoiYnV5K2VsZWN0cm9uaWNzK29ubGluZSIsImdwY2lkIjoiMTAyNDU5Mzc2Mjk4NjExNDc3MDAiLCJtaWQiOiI1NzY0NjI3OTY4NTc2OTYzMzAiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lGU21Gd1lXNCIsImdsIjpudWxsLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0%3D",
+            "product_id": "13885271068883635534",
+            "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&google_domain=google.com&location=Japan&product_id=13885271068883635534"
+        },
+        {
+            "category": "Popular products",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRkty2GkOls41vcRKSgAylJoWNZUBq3yQNQmRfiJuLgzskialUYwEAbEtvdJegymEXMVbL-h53pmr04hfcBmQBCVTLVg5BVhzOgXf7J",
+            "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRLo3ZRBnAqxFzQSoKUmBeMp3NLStd1_tW_AWzmX-Llkf-aUTwbnHzVEWiedu8lEDVQvY9j-59rdrDquMqU2UXBRs9f7-6kXJ0-JHg",
+            "source": "Canadian Outlet",
+            "title": "Google Pixel 7 128GB",
+            "rating": 4.3,
+            "reviews": 4400,
+            "original_price": "$600",
+            "extracted_original_price": 600,
+            "extensions": [
+                "20% OFF"
+            ],
+            "immersive_product_page_token": "eyJlaSI6Im4zYTRhTXF5Sy1yZjFzUVBsNmVNaUFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTA2MTQwNjc2MzgxNDgxNDE5MSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjQ1NzA5Mzk5NDkzOTU0MDg4ODEiLCJpbWFnZURvY2lkIjoiMTcyMjIxODIzODA4ODEwMjk4MzQiLCJyZHMiOiJQQ18xNjYzMjQ3NTQ0OTU1MzA2NDE2NnxQUk9EX1BDXzE2NjMyNDc1NDQ5NTUzMDY0MTY2IiwicXVlcnkiOiJidXkrZWxlY3Ryb25pY3Mrb25saW5lIiwiZ3BjaWQiOiIxNjYzMjQ3NTQ0OTU1MzA2NDE2NiIsIm1pZCI6IjU3NjQ2MjcyNDk0MDE0ODY3OSIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSUZTbUZ3WVc0IiwiZ2wiOm51bGwsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im4zYTRhTXF5Sy1yZjFzUVBsNmVNaUFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTA2MTQwNjc2MzgxNDgxNDE5MSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjQ1NzA5Mzk5NDkzOTU0MDg4ODEiLCJpbWFnZURvY2lkIjoiMTcyMjIxODIzODA4ODEwMjk4MzQiLCJyZHMiOiJQQ18xNjYzMjQ3NTQ0OTU1MzA2NDE2NnxQUk9EX1BDXzE2NjMyNDc1NDQ5NTUzMDY0MTY2IiwicXVlcnkiOiJidXkrZWxlY3Ryb25pY3Mrb25saW5lIiwiZ3BjaWQiOiIxNjYzMjQ3NTQ0OTU1MzA2NDE2NiIsIm1pZCI6IjU3NjQ2MjcyNDk0MDE0ODY3OSIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSUZTbUZ3WVc0IiwiZ2wiOm51bGwsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ%3D%3D",
+            "product_id": "9061406763814814191",
+            "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&google_domain=google.com&location=Japan&product_id=9061406763814814191"
+        },
+        {
+            "category": "Popular products",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTWG3wspTFr7MDq2gp2VR6011nVqX3ulq9WLiGzJaYBTtVhXbognMI0tARYkVD8lgEG8p-J61ejny5fGJZLXTKOr0n3NYgyU6Ch6auHOiBKB-iKEAjsPfkX",
+            "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQXkFKPEY5DtuX9baQMopZWXLzcw2Z4E6TQ0CFQmvIVvB7TkjTJe0OSNtwLIfdTz5wLyme-D_FwmRECbu6I0r5X_znuwsnAMA",
+            "source": "Best Buy Canada Marketplace",
+            "title": "JBL PartyBox 110 Portable Bluetooth Speaker",
+            "rating": 4.7,
+            "reviews": 2700,
+            "original_price": "$500",
+            "extracted_original_price": 500,
+            "extensions": [
+                "33% OFF"
+            ],
+            "immersive_product_page_token": "eyJlaSI6Im4zYTRhTXF5Sy1yZjFzUVBsNmVNaUFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTIyMDgyMTUyMTg3MjIyNjA0ODkiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI2ODA4OTIxNDQ4MTgwNTAzMDgyIiwiaW1hZ2VEb2NpZCI6IjczMTgwMzUyMTcwNzYwNTkxNzciLCJyZHMiOiJQQ180NDU4MDEwMDM3NTE0NTI0NDU1fFBST0RfUENfNDQ1ODAxMDAzNzUxNDUyNDQ1NSIsInF1ZXJ5IjoiYnV5K2VsZWN0cm9uaWNzK29ubGluZSIsImdwY2lkIjoiNDQ1ODAxMDAzNzUxNDUyNDQ1NSIsIm1pZCI6IjU3NjQ2MjYxNzU1MzQwNTA3MCIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSUZTbUZ3WVc0IiwiZ2wiOm51bGwsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im4zYTRhTXF5Sy1yZjFzUVBsNmVNaUFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTIyMDgyMTUyMTg3MjIyNjA0ODkiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI2ODA4OTIxNDQ4MTgwNTAzMDgyIiwiaW1hZ2VEb2NpZCI6IjczMTgwMzUyMTcwNzYwNTkxNzciLCJyZHMiOiJQQ180NDU4MDEwMDM3NTE0NTI0NDU1fFBST0RfUENfNDQ1ODAxMDAzNzUxNDUyNDQ1NSIsInF1ZXJ5IjoiYnV5K2VsZWN0cm9uaWNzK29ubGluZSIsImdwY2lkIjoiNDQ1ODAxMDAzNzUxNDUyNDQ1NSIsIm1pZCI6IjU3NjQ2MjYxNzU1MzQwNTA3MCIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSUZTbUZ3WVc0IiwiZ2wiOm51bGwsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ%3D%3D",
+            "product_id": "12208215218722260489",
+            "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&google_domain=google.com&location=Japan&product_id=12208215218722260489"
+        },
+        {
+            "category": "Popular products",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRZLB47DfABc2uuudCSA6XZDsEuoK7oTF_Nzp4WaN1zuhj-o-pn2aKR-TdqrRcaVkQ1LkMQdolV0przAft4Ku4jZRtOGN-8nO5M192LtquBroIUXrsOVnFK",
+            "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcR_UL00-oRmwQ3Nrn2AwXhEtTngYDKcoPQ6qoKPHoXNY6--TtbM-A_R0ErBSjtcwZvuM7B51hQ8LP4rhEZFhHrwrpG01r1M",
+            "source": "Amazon CA",
+            "title": "Computer Speakers",
+            "immersive_product_page_token": "eyJlaSI6Im4zYTRhTXF5Sy1yZjFzUVBsNmVNaUFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTM5NjI3MzM3NzAwNjc4Mjg4NDAiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI4NDMyNTE4Mjc5NTk5NjU0NjM3IiwiaW1hZ2VEb2NpZCI6IjY2ODA2NDI5MjcwNzYxMDc1OTQiLCJyZHMiOiIiLCJxdWVyeSI6ImJ1eStlbGVjdHJvbmljcytvbmxpbmUiLCJncGNpZCI6IiIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSUZTbUZ3WVc0IiwiZ2wiOm51bGwsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im4zYTRhTXF5Sy1yZjFzUVBsNmVNaUFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTM5NjI3MzM3NzAwNjc4Mjg4NDAiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI4NDMyNTE4Mjc5NTk5NjU0NjM3IiwiaW1hZ2VEb2NpZCI6IjY2ODA2NDI5MjcwNzYxMDc1OTQiLCJyZHMiOiIiLCJxdWVyeSI6ImJ1eStlbGVjdHJvbmljcytvbmxpbmUiLCJncGNpZCI6IiIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSUZTbUZ3WVc0IiwiZ2wiOm51bGwsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ%3D%3D",
+            "product_id": "13962733770067828840",
+            "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&google_domain=google.com&location=Japan&product_id=13962733770067828840"
+        },
+        {
+            "category": "Popular products",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR60LllGoSiBLg64QYfK1BqAGwzPY7B-iypO-p_Mwem7VoTJAbYXUx7z-1-9YrRpcXOAY4npAQzYIdjQ6cmLxf_wDBbxzKKDzISSpHMDEgkVFiCoEpEJXQ",
+            "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcR6qd28Na9YV35vdgkZk_X7FXIotq4tjTDaKAL0VYAlRsxZOFMXpoNVvwTkljGCML7Xr1r-dSMQHR1-YMCnuxBSG2ET2sJj2g",
+            "source": "Samsung Canada",
+            "title": "Samsung Galaxy Book4 15.6\" Intel Core",
+            "rating": 4.7,
+            "reviews": 2400,
+            "original_price": "$1,000",
+            "extracted_original_price": 1000,
+            "extensions": [
+                "15% OFF"
+            ],
+            "immersive_product_page_token": "eyJlaSI6Im4zYTRhTXF5Sy1yZjFzUVBsNmVNaUFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTM5NjQwNjkyMjMzNjIyMjIzMDMiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI0MzEzNjU3OTk5NzA2Mjk1NTIyIiwiaW1hZ2VEb2NpZCI6IjE1MjkzNDUzNDkzNDAxMDA5MDg5IiwicmRzIjoiUENfMTUyODU1NzQ0MTEzMzAyNTkyNjJ8UFJPRF9QQ18xNTI4NTU3NDQxMTMzMDI1OTI2MiIsInF1ZXJ5IjoiYnV5K2VsZWN0cm9uaWNzK29ubGluZSIsImdwY2lkIjoiMTUyODU1NzQ0MTEzMzAyNTkyNjIiLCJtaWQiOiI1NzY0NjI4MjI4NTY3NjcxMzIiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lGU21Gd1lXNCIsImdsIjpudWxsLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im4zYTRhTXF5Sy1yZjFzUVBsNmVNaUFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTM5NjQwNjkyMjMzNjIyMjIzMDMiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI0MzEzNjU3OTk5NzA2Mjk1NTIyIiwiaW1hZ2VEb2NpZCI6IjE1MjkzNDUzNDkzNDAxMDA5MDg5IiwicmRzIjoiUENfMTUyODU1NzQ0MTEzMzAyNTkyNjJ8UFJPRF9QQ18xNTI4NTU3NDQxMTMzMDI1OTI2MiIsInF1ZXJ5IjoiYnV5K2VsZWN0cm9uaWNzK29ubGluZSIsImdwY2lkIjoiMTUyODU1NzQ0MTEzMzAyNTkyNjIiLCJtaWQiOiI1NzY0NjI4MjI4NTY3NjcxMzIiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lGU21Gd1lXNCIsImdsIjpudWxsLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0%3D",
+            "product_id": "13964069223362222303",
+            "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&google_domain=google.com&location=Japan&product_id=13964069223362222303"
+        },
+        {
+            "category": "Popular products",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTtOsx3c-tBstyChsx4T2szC1RLcXWDM0UQ4ML3WXCSvrZHFkSX-CqwPLZ-XIrqgT1uPu9_G_GiQE2tE6IamJWWAuT-MrkT_BpPAkSOX5KQ9AgPL3HPmnTi",
+            "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcR8ako_DvaEDiyHyqhOKPLeabQsoDWlv1cZaxmbH9CoDKfhVeR4PlxMvYl7cMDOyU-GxNRjEq5-_AM6gr84qsCbKNRVdfuI94Db7ATsN5Iv",
+            "source": "Canada Computers & Electronics",
+            "title": "NVIDIA SHIELD Android TV 4K HDR Streaming Media Player",
+            "rating": 4.6,
+            "reviews": 1700,
+            "immersive_product_page_token": "eyJlaSI6Im4zYTRhTXF5Sy1yZjFzUVBsNmVNaUFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTYzMjk3MzIwODEyODA5MDIzOTUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMTQ0MDIxMDQ1NzcxNTkwNzU3MyIsImltYWdlRG9jaWQiOiIxMjIxMjc5NTQ5NDEwMjE0Njc1IiwicmRzIjoiUENfNTU2NTI5NzYxMzMxMDk3MjkzOHxQUk9EX1BDXzU1NjUyOTc2MTMzMTA5NzI5MzgiLCJxdWVyeSI6ImJ1eStlbGVjdHJvbmljcytvbmxpbmUiLCJncGNpZCI6IjU1NjUyOTc2MTMzMTA5NzI5MzgiLCJtaWQiOiIiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lGU21Gd1lXNCIsImdsIjpudWxsLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im4zYTRhTXF5Sy1yZjFzUVBsNmVNaUFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTYzMjk3MzIwODEyODA5MDIzOTUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMTQ0MDIxMDQ1NzcxNTkwNzU3MyIsImltYWdlRG9jaWQiOiIxMjIxMjc5NTQ5NDEwMjE0Njc1IiwicmRzIjoiUENfNTU2NTI5NzYxMzMxMDk3MjkzOHxQUk9EX1BDXzU1NjUyOTc2MTMzMTA5NzI5MzgiLCJxdWVyeSI6ImJ1eStlbGVjdHJvbmljcytvbmxpbmUiLCJncGNpZCI6IjU1NjUyOTc2MTMzMTA5NzI5MzgiLCJtaWQiOiIiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lGU21Gd1lXNCIsImdsIjpudWxsLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0%3D",
+            "product_id": "16329732081280902395",
+            "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&google_domain=google.com&location=Japan&product_id=16329732081280902395"
+        },
+        {
+            "category": "Popular products",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR0lBlApBXlgSDpHyujVrp_WIbIv_9htCxJfMbO1ivKnPI35fdxZdkoPWqp055BcFUF6oc7I8LUA3U1NUA03c8JGMZoRvM_FRHz5Wu-w_a68-CVQknCmw",
+            "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcR_UL00-oRmwQ3Nrn2AwXhEtTngYDKcoPQ6qoKPHoXNY6--TtbM-A_R0ErBSjtcwZvuM7B51hQ8LP4rhEZFhHrwrpG01r1M",
+            "source": "Amazon CA",
+            "title": "Mini Projector, Portable 1080P HD Projector, Home Theater Video Projector Compatible with Notebook Computers, Game Consoles, TF Memory Cards, Set",
+            "immersive_product_page_token": "eyJlaSI6Im4zYTRhTXF5Sy1yZjFzUVBsNmVNaUFjIiwicHJvZHVjdGlkIjoiOTQzNTAwNzg3MDA1MzgxNTE4OSIsImNhdGFsb2dpZCI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijk0MzUwMDc4NzAwNTM4MTUxODkiLCJpbWFnZURvY2lkIjoiMTc1NDU3MjkyMDY5NTc1NzE5NzQiLCJyZHMiOiIiLCJxdWVyeSI6ImJ1eStlbGVjdHJvbmljcytvbmxpbmUiLCJncGNpZCI6IiIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSUZTbUZ3WVc0IiwiZ2wiOm51bGwsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im4zYTRhTXF5Sy1yZjFzUVBsNmVNaUFjIiwicHJvZHVjdGlkIjoiOTQzNTAwNzg3MDA1MzgxNTE4OSIsImNhdGFsb2dpZCI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijk0MzUwMDc4NzAwNTM4MTUxODkiLCJpbWFnZURvY2lkIjoiMTc1NDU3MjkyMDY5NTc1NzE5NzQiLCJyZHMiOiIiLCJxdWVyeSI6ImJ1eStlbGVjdHJvbmljcytvbmxpbmUiLCJncGNpZCI6IiIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSUZTbUZ3WVc0IiwiZ2wiOm51bGwsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ%3D%3D",
+            "product_id": "9435007870053815189",
+            "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&google_domain=google.com&location=Japan&product_id=9435007870053815189"
+        },
+        {
+            "category": "Popular products",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRV0tTZgjoAYePZvdwP7zW3XuHZIwzfFNfsML6US9r2TzMtfPBqNF3U2Kn1b7HzyIJe3nD63BZRcG4QLgHLUhV2PFAWuLTyEQS4Ytyk4nAQNxvoUOftlA",
+            "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcS_prZaLaHn9L3TRbBCW-BHMlh-s_ed83t0z25tU0FORq6ct5hJiWu0Ow1edMGACWVMD7iUKIDEwFz26LgrpAiaitx9pZVJLQ",
+            "source": "Visions Electronics",
+            "title": "Acer 15.6\" Aspire Lite Laptop",
+            "rating": 4.1,
+            "reviews": 232,
+            "original_price": "$399",
+            "extracted_original_price": 399,
+            "extensions": [
+                "25% OFF"
+            ],
+            "immersive_product_page_token": "eyJlaSI6Im4zYTRhTXF5Sy1yZjFzUVBsNmVNaUFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTk1NDczOTk1MDU0MzAxNjczNyIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjYyMzAzMjU0MzE5MTI0MDI3MzEiLCJpbWFnZURvY2lkIjoiNjc2MzkyNzI5MzQwNjIyNjYzOCIsInJkcyI6IlBDXzE4MzI4MDUyNTAxMjUzNTczNTczfFBST0RfUENfMTgzMjgwNTI1MDEyNTM1NzM1NzMiLCJxdWVyeSI6ImJ1eStlbGVjdHJvbmljcytvbmxpbmUiLCJncGNpZCI6IjE4MzI4MDUyNTAxMjUzNTczNTczIiwibWlkIjoiNTc2NDYyODE1NDQ0NjE0NjQ4IiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJRlNtRndZVzQiLCJnbCI6bnVsbCwiaGwiOm51bGwsImVuZ2luZSI6Imdvb2dsZSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im4zYTRhTXF5Sy1yZjFzUVBsNmVNaUFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTk1NDczOTk1MDU0MzAxNjczNyIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjYyMzAzMjU0MzE5MTI0MDI3MzEiLCJpbWFnZURvY2lkIjoiNjc2MzkyNzI5MzQwNjIyNjYzOCIsInJkcyI6IlBDXzE4MzI4MDUyNTAxMjUzNTczNTczfFBST0RfUENfMTgzMjgwNTI1MDEyNTM1NzM1NzMiLCJxdWVyeSI6ImJ1eStlbGVjdHJvbmljcytvbmxpbmUiLCJncGNpZCI6IjE4MzI4MDUyNTAxMjUzNTczNTczIiwibWlkIjoiNTc2NDYyODE1NDQ0NjE0NjQ4IiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJRlNtRndZVzQiLCJnbCI6bnVsbCwiaGwiOm51bGwsImVuZ2luZSI6Imdvb2dsZSJ9",
+            "product_id": "5954739950543016737",
+            "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&google_domain=google.com&location=Japan&product_id=5954739950543016737"
+        },
+        {
+            "category": "Popular products",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSwcfff2_WSf0hCmE4Hm6IStV4aHEroJWY-Xe4q8ide5bbP1LgB0OGKwfa0mJ_TX-jsSPrImm_HgbpPlWKypSfB0GAlu7ljQzblQ2cUFKIpZLCpZ746I60",
+            "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQXkFKPEY5DtuX9baQMopZWXLzcw2Z4E6TQ0CFQmvIVvB7TkjTJe0OSNtwLIfdTz5wLyme-D_FwmRECbu6I0r5X_znuwsnAMA",
+            "source": "Best Buy Canada",
+            "title": "LG 4K webOS Smart TV",
+            "rating": 4.6,
+            "reviews": 3200,
+            "immersive_product_page_token": "eyJlaSI6Im4zYTRhTXF5Sy1yZjFzUVBsNmVNaUFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTIzMTI1MzUzOTc4NDUyNzQxODEiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMDExODQ5NDcxOTU3OTQ5MDY5MyIsImltYWdlRG9jaWQiOiIxNTAzNzc4NDE0NjAwMDExNDYwNCIsInJkcyI6IlBDXzk3OTc1OTQzNzQzOTMxMjQ0OTd8UFJPRF9QQ185Nzk3NTk0Mzc0MzkzMTI0NDk3IiwicXVlcnkiOiJidXkrZWxlY3Ryb25pY3Mrb25saW5lIiwiZ3BjaWQiOiI5Nzk3NTk0Mzc0MzkzMTI0NDk3IiwibWlkIjoiNTc2NDYyODI5ODM3MzUxNzg5IiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJRlNtRndZVzQiLCJnbCI6bnVsbCwiaGwiOm51bGwsImVuZ2luZSI6Imdvb2dsZSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im4zYTRhTXF5Sy1yZjFzUVBsNmVNaUFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTIzMTI1MzUzOTc4NDUyNzQxODEiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMDExODQ5NDcxOTU3OTQ5MDY5MyIsImltYWdlRG9jaWQiOiIxNTAzNzc4NDE0NjAwMDExNDYwNCIsInJkcyI6IlBDXzk3OTc1OTQzNzQzOTMxMjQ0OTd8UFJPRF9QQ185Nzk3NTk0Mzc0MzkzMTI0NDk3IiwicXVlcnkiOiJidXkrZWxlY3Ryb25pY3Mrb25saW5lIiwiZ3BjaWQiOiI5Nzk3NTk0Mzc0MzkzMTI0NDk3IiwibWlkIjoiNTc2NDYyODI5ODM3MzUxNzg5IiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJRlNtRndZVzQiLCJnbCI6bnVsbCwiaGwiOm51bGwsImVuZ2luZSI6Imdvb2dsZSJ9",
+            "product_id": "12312535397845274181",
+            "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&google_domain=google.com&location=Japan&product_id=12312535397845274181"
+        },
+        {
+            "category": "Popular products",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSlGqwTDcrUtXi8bzSeiwVveFPUXU0R7SEG5x_iSBIjIAZhJ-sOGWJ9Xrx5L327Au4UJIHHUAOFXpiz2KLYnSZLOw5w3EyO3-YmqHYwg8PLqI-VzywM4g",
+            "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcR-nk2lLSVtrhDl1QnNoUDptVj72WYnNCER1OC_trERilsYBunHFXY3ZUElnJfhUo-MBsNAUccraoCShEuJCUi5nlQfSymV",
+            "source": "Staples Canada",
+            "title": "HP 14\" Laptop PC with Intel Processor N150",
+            "original_price": "$380",
+            "extracted_original_price": 380,
+            "extensions": [
+                "39% OFF"
+            ],
+            "immersive_product_page_token": "eyJlaSI6Im4zYTRhTXF5Sy1yZjFzUVBsNmVNaUFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTAzOTQzMDQ3ODQ5ODQyNDM0MzkiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNDE3OTQ0OTM4OTQ4OTI1MTAwOSIsImltYWdlRG9jaWQiOiIxODE5NzU1ODE3MzY2NDU0MTk5NiIsInJkcyI6IiIsInF1ZXJ5IjoiYnV5K2VsZWN0cm9uaWNzK29ubGluZSIsImdwY2lkIjoiMzY5MTc2OTY2ODU3NjI5MjgxNSIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSUZTbUZ3WVc0IiwiZ2wiOm51bGwsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im4zYTRhTXF5Sy1yZjFzUVBsNmVNaUFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTAzOTQzMDQ3ODQ5ODQyNDM0MzkiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNDE3OTQ0OTM4OTQ4OTI1MTAwOSIsImltYWdlRG9jaWQiOiIxODE5NzU1ODE3MzY2NDU0MTk5NiIsInJkcyI6IiIsInF1ZXJ5IjoiYnV5K2VsZWN0cm9uaWNzK29ubGluZSIsImdwY2lkIjoiMzY5MTc2OTY2ODU3NjI5MjgxNSIsIm1pZCI6IiIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSUZTbUZ3WVc0IiwiZ2wiOm51bGwsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ%3D%3D",
+            "product_id": "10394304784984243439",
+            "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&google_domain=google.com&location=Japan&product_id=10394304784984243439"
+        },
+        {
+            "category": "Popular products",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTX63ZT-IZy-GADb06H9jORcakxSNSsDXwcrCgWGNf1P9LMCiK5hWHQOpgKx5X0WSSVQ0cctFlmE6i18k7hClDLtYwcoo5p1YASzmEMwqmnjG70Kr0PQQ",
+            "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRI9TjjVejMqLwoqfRjWARe-9JDW0cbdm1MIpTNxTvpq6_ZFwrYMiGw4kj15cBEBwKiIrVvEAddIFieZJeEHN0cbWD-sl-xzkKBrC8",
+            "source": "Krazy Kileys",
+            "title": "Sony WF-C510 Truly Wireless Earbuds",
+            "rating": 4.6,
+            "reviews": 2900,
+            "immersive_product_page_token": "eyJlaSI6Im4zYTRhTXF5Sy1yZjFzUVBsNmVNaUFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTAyMTU1MDc4NDQ3NDY1MzY4NSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE1NzY1NDg0NTcxMDc3ODM5MjI2IiwiaW1hZ2VEb2NpZCI6IjE4MTQ1NTIzMjcwODA0NTM0MzcwIiwicmRzIjoiUENfNTMxMDI1NjM1Mjg0ODI4MDc5M3xQUk9EX1BDXzUzMTAyNTYzNTI4NDgyODA3OTMiLCJxdWVyeSI6ImJ1eStlbGVjdHJvbmljcytvbmxpbmUiLCJncGNpZCI6IjUzMTAyNTYzNTI4NDgyODA3OTMiLCJtaWQiOiI1NzY0NjI3OTAzOTMzMzQ0OTYiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lGU21Gd1lXNCIsImdsIjpudWxsLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im4zYTRhTXF5Sy1yZjFzUVBsNmVNaUFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTAyMTU1MDc4NDQ3NDY1MzY4NSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE1NzY1NDg0NTcxMDc3ODM5MjI2IiwiaW1hZ2VEb2NpZCI6IjE4MTQ1NTIzMjcwODA0NTM0MzcwIiwicmRzIjoiUENfNTMxMDI1NjM1Mjg0ODI4MDc5M3xQUk9EX1BDXzUzMTAyNTYzNTI4NDgyODA3OTMiLCJxdWVyeSI6ImJ1eStlbGVjdHJvbmljcytvbmxpbmUiLCJncGNpZCI6IjUzMTAyNTYzNTI4NDgyODA3OTMiLCJtaWQiOiI1NzY0NjI3OTAzOTMzMzQ0OTYiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lGU21Gd1lXNCIsImdsIjpudWxsLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0%3D",
+            "product_id": "9021550784474653685",
+            "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&google_domain=google.com&location=Japan&product_id=9021550784474653685"
+        },
+        {
+            "category": "Popular products",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRJJvECmBiSyHmc3nU9wmkZpp4tuFZH3Go1FX0cVQ5fJZ4RcuhC4CypIIEMN97oN7pEZVKyBkZKqDaZKd6jrK1UELIzXEGwMKckaIKR4_tCEwxocRjOMy4",
+            "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQunxdZigF1mMdTDL4wf1xNcb9-ULmCAK158AtDNVv4x_w929yWM_qv0e3LRXVbUBlglxU-oLTPGC4AWa4JoOe-t8QNGMAj3pwrVB9ifmo",
+            "source": "ggelectronics.com",
+            "title": "Sony ULT WEAR Noise Canceling Wireless Headphones",
+            "rating": 4.7,
+            "reviews": 3100,
+            "immersive_product_page_token": "eyJlaSI6Im4zYTRhTXF5Sy1yZjFzUVBsNmVNaUFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzg3MTcwNjUwNDkyODM4MTY3MiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjM3MTgxMDM2MDYyMTQ4NTE3MTIiLCJpbWFnZURvY2lkIjoiMTU5NjYxMjU0NjA3NjM0NjkxODkiLCJyZHMiOiJQQ185NjI2NjM1ODM1NDAwMjEwMDcwfFBST0RfUENfOTYyNjYzNTgzNTQwMDIxMDA3MCIsInF1ZXJ5IjoiYnV5K2VsZWN0cm9uaWNzK29ubGluZSIsImdwY2lkIjoiOTYyNjYzNTgzNTQwMDIxMDA3MCIsIm1pZCI6IjU3NjQ2Mjc3NzQyODc3ODQ2MCIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSUZTbUZ3WVc0IiwiZ2wiOm51bGwsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im4zYTRhTXF5Sy1yZjFzUVBsNmVNaUFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzg3MTcwNjUwNDkyODM4MTY3MiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjM3MTgxMDM2MDYyMTQ4NTE3MTIiLCJpbWFnZURvY2lkIjoiMTU5NjYxMjU0NjA3NjM0NjkxODkiLCJyZHMiOiJQQ185NjI2NjM1ODM1NDAwMjEwMDcwfFBST0RfUENfOTYyNjYzNTgzNTQwMDIxMDA3MCIsInF1ZXJ5IjoiYnV5K2VsZWN0cm9uaWNzK29ubGluZSIsImdwY2lkIjoiOTYyNjYzNTgzNTQwMDIxMDA3MCIsIm1pZCI6IjU3NjQ2Mjc3NzQyODc3ODQ2MCIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSUZTbUZ3WVc0IiwiZ2wiOm51bGwsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ%3D%3D",
+            "product_id": "7871706504928381672",
+            "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&google_domain=google.com&location=Japan&product_id=7871706504928381672"
+        },
+        {
+            "category": "Popular products",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQHaT0hRM1LTgwTdV33wBscgko0HAvFlrFfYaw0eldwiEbw475DfTjfIZYXbiqc_yL12g0DiU1JvH_T1ARMb-a_65998c4Wpp610Qi-3JQO4j8EDT5txK8",
+            "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQqmfWGS7KSJlwo0DpbA57VWNKBU5cHkIkF6NBfSwflsK5MVS_zUud2Y02oHCy1eCg3Ab934FYS5QlhWbNhQNS2t2dDNkGQ_gMdeIM",
+            "source": "London Drugs",
+            "title": "Amazon Echo Spot Smart Alarm Clock",
+            "rating": 4.7,
+            "reviews": 845,
+            "original_price": "$100",
+            "extracted_original_price": 100,
+            "extensions": [
+                "20% OFF"
+            ],
+            "immersive_product_page_token": "eyJlaSI6Im4zYTRhTXF5Sy1yZjFzUVBsNmVNaUFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDQyNTU5MjYwNjMyMzY0NDYwMiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjU1MzU0Mjc5NTQ1MjI0MzYyMTEiLCJpbWFnZURvY2lkIjoiNTgxNDQ5Njc0Mjc4NTA4ODExOCIsInJkcyI6IlBDXzE0NTM5ODI4MjIyNDA2Nzk2NjI2fFBST0RfUENfMTQ1Mzk4MjgyMjI0MDY3OTY2MjYiLCJxdWVyeSI6ImJ1eStlbGVjdHJvbmljcytvbmxpbmUiLCJncGNpZCI6IjE0NTM5ODI4MjIyNDA2Nzk2NjI2IiwibWlkIjoiNTc2NDYyODA5Mjk2MTYyNDk4IiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJRlNtRndZVzQiLCJnbCI6bnVsbCwiaGwiOm51bGwsImVuZ2luZSI6Imdvb2dsZSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im4zYTRhTXF5Sy1yZjFzUVBsNmVNaUFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDQyNTU5MjYwNjMyMzY0NDYwMiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjU1MzU0Mjc5NTQ1MjI0MzYyMTEiLCJpbWFnZURvY2lkIjoiNTgxNDQ5Njc0Mjc4NTA4ODExOCIsInJkcyI6IlBDXzE0NTM5ODI4MjIyNDA2Nzk2NjI2fFBST0RfUENfMTQ1Mzk4MjgyMjI0MDY3OTY2MjYiLCJxdWVyeSI6ImJ1eStlbGVjdHJvbmljcytvbmxpbmUiLCJncGNpZCI6IjE0NTM5ODI4MjIyNDA2Nzk2NjI2IiwibWlkIjoiNTc2NDYyODA5Mjk2MTYyNDk4IiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJRlNtRndZVzQiLCJnbCI6bnVsbCwiaGwiOm51bGwsImVuZ2luZSI6Imdvb2dsZSJ9",
+            "product_id": "4425592606323644602",
+            "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&google_domain=google.com&location=Japan&product_id=4425592606323644602"
+        },
+        {
+            "category": "Popular products",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcREjl6Q-kbtQNJJ7CajFYV6TMh0UMc9lbleJl1TcJQ7wss7Oo6pOq7DOFbxBPMCK6JeK3z3OVYBDgLRHfxJj-0tT67e0w_g-IAlH5fpme28Uc7BHS5-XCY3",
+            "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcR_UL00-oRmwQ3Nrn2AwXhEtTngYDKcoPQ6qoKPHoXNY6--TtbM-A_R0ErBSjtcwZvuM7B51hQ8LP4rhEZFhHrwrpG01r1M",
+            "source": "Amazon CA",
+            "title": "Lenovo 14\" IdeaPad Slim 3 Chromebook 82XJ003DCF",
+            "rating": 4.5,
+            "reviews": 2800,
+            "immersive_product_page_token": "eyJlaSI6Im4zYTRhTXF5Sy1yZjFzUVBsNmVNaUFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTU1MDE1ODAxNDIxODc3NDYwMjIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMzEyMTg0ODE4Njc1NTAzOTE1MiIsImltYWdlRG9jaWQiOiIyODQxMDA2NDc5NjYzMTU2NDY4IiwicmRzIjoiUENfNDg1MDg5MTc3MzkwOTkyODc1MHxQUk9EX1BDXzQ4NTA4OTE3NzM5MDk5Mjg3NTAiLCJxdWVyeSI6ImJ1eStlbGVjdHJvbmljcytvbmxpbmUiLCJncGNpZCI6IjQ4NTA4OTE3NzM5MDk5Mjg3NTAiLCJtaWQiOiI1NzY0NjI4MjEyNjQwODY5NTciLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lGU21Gd1lXNCIsImdsIjpudWxsLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im4zYTRhTXF5Sy1yZjFzUVBsNmVNaUFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTU1MDE1ODAxNDIxODc3NDYwMjIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMzEyMTg0ODE4Njc1NTAzOTE1MiIsImltYWdlRG9jaWQiOiIyODQxMDA2NDc5NjYzMTU2NDY4IiwicmRzIjoiUENfNDg1MDg5MTc3MzkwOTkyODc1MHxQUk9EX1BDXzQ4NTA4OTE3NzM5MDk5Mjg3NTAiLCJxdWVyeSI6ImJ1eStlbGVjdHJvbmljcytvbmxpbmUiLCJncGNpZCI6IjQ4NTA4OTE3NzM5MDk5Mjg3NTAiLCJtaWQiOiI1NzY0NjI4MjEyNjQwODY5NTciLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lGU21Gd1lXNCIsImdsIjpudWxsLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0%3D",
+            "product_id": "15501580142187746022",
+            "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&google_domain=google.com&location=Japan&product_id=15501580142187746022"
+        },
+        {
+            "category": "Popular products",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQE1nysNGvVfwlZBjpNtioJkQg-onXUw7Is2h4fkN5G7W7_moasLPHVPIy4ErmQsNtvk8j7_sbEd0XMFReViipfthP0sim_EbLlt4nd",
+            "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcR8ako_DvaEDiyHyqhOKPLeabQsoDWlv1cZaxmbH9CoDKfhVeR4PlxMvYl7cMDOyU-GxNRjEq5-_AM6gr84qsCbKNRVdfuI94Db7ATsN5Iv",
+            "source": "Canada Computers & Electronics",
+            "title": "Samsung S3 S30GD Monitor",
+            "rating": 4.8,
+            "reviews": 1900,
+            "original_price": "Usually $104",
+            "extracted_original_price": 104,
+            "extensions": [
+                "LOW PRICE"
+            ],
+            "immersive_product_page_token": "eyJlaSI6Im4zYTRhTXF5Sy1yZjFzUVBsNmVNaUFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTM3NTIzMzUzMjQ1Mzc2MDkxNjAiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIyNTU2MjE1NjYzNTg3OTU3OTcyIiwiaW1hZ2VEb2NpZCI6IjE3NTE4NzE3ODU2Mzg2NDAyNjcwIiwicmRzIjoiUENfMTU5OTQxMDE5MTcwMzQxMDU4Njl8UFJPRF9QQ18xNTk5NDEwMTkxNzAzNDEwNTg2OSIsInF1ZXJ5IjoiYnV5K2VsZWN0cm9uaWNzK29ubGluZSIsImdwY2lkIjoiMTU5OTQxMDE5MTcwMzQxMDU4NjkiLCJtaWQiOiIiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lGU21Gd1lXNCIsImdsIjpudWxsLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im4zYTRhTXF5Sy1yZjFzUVBsNmVNaUFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTM3NTIzMzUzMjQ1Mzc2MDkxNjAiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIyNTU2MjE1NjYzNTg3OTU3OTcyIiwiaW1hZ2VEb2NpZCI6IjE3NTE4NzE3ODU2Mzg2NDAyNjcwIiwicmRzIjoiUENfMTU5OTQxMDE5MTcwMzQxMDU4Njl8UFJPRF9QQ18xNTk5NDEwMTkxNzAzNDEwNTg2OSIsInF1ZXJ5IjoiYnV5K2VsZWN0cm9uaWNzK29ubGluZSIsImdwY2lkIjoiMTU5OTQxMDE5MTcwMzQxMDU4NjkiLCJtaWQiOiIiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lGU21Gd1lXNCIsImdsIjpudWxsLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0%3D",
+            "product_id": "13752335324537609160",
+            "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&google_domain=google.com&location=Japan&product_id=13752335324537609160"
+        },
+        {
+            "category": "Popular products",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQlxjV5TPicBBx6Di2cXnL0Naazb2OPeg2LsCgs8Zh2itSE-AxeS5TEal85sJVsv-HjziUzMTDupWo4U6AlJLZuMaOOzbPR00FM-DgAcjs2qCxRiVAJsQ",
+            "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcS-jgpf9HOqN4-_lB6pkukYvDHkyMGOd9vu7nSbfdvCpj4sDUmg2LgSIuj9GkBSC2ocPG7jIGGN9evJt90Y0GYVBnFI7jWxIbsH9w",
+            "source": "Edifier Canada",
+            "title": "Edifier R1280DB Powered Bluetooth Bookshelf Speakers",
+            "rating": 4.9,
+            "reviews": 5000,
+            "immersive_product_page_token": "eyJlaSI6Im4zYTRhTXF5Sy1yZjFzUVBsNmVNaUFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDM0MzU2MjQ0MDE0MDYxNjQwMyIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE0MTQxMzg1MTE3MjY5ODE5MTQ0IiwiaW1hZ2VEb2NpZCI6IjkzOTk2MTI5MDU5NjYyODk3OTgiLCJyZHMiOiJQQ18xNTAwNjY2MjI0ODA0MTE4NTg2fFBST0RfUENfMTUwMDY2NjIyNDgwNDExODU4NiIsInF1ZXJ5IjoiYnV5K2VsZWN0cm9uaWNzK29ubGluZSIsImdwY2lkIjoiMTUwMDY2NjIyNDgwNDExODU4NiIsIm1pZCI6IjU3NjQ2MjMwMjI0ODQzODM4OSIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSUZTbUZ3WVc0IiwiZ2wiOm51bGwsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im4zYTRhTXF5Sy1yZjFzUVBsNmVNaUFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNDM0MzU2MjQ0MDE0MDYxNjQwMyIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE0MTQxMzg1MTE3MjY5ODE5MTQ0IiwiaW1hZ2VEb2NpZCI6IjkzOTk2MTI5MDU5NjYyODk3OTgiLCJyZHMiOiJQQ18xNTAwNjY2MjI0ODA0MTE4NTg2fFBST0RfUENfMTUwMDY2NjIyNDgwNDExODU4NiIsInF1ZXJ5IjoiYnV5K2VsZWN0cm9uaWNzK29ubGluZSIsImdwY2lkIjoiMTUwMDY2NjIyNDgwNDExODU4NiIsIm1pZCI6IjU3NjQ2MjMwMjI0ODQzODM4OSIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSUZTbUZ3WVc0IiwiZ2wiOm51bGwsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ%3D%3D",
+            "product_id": "4343562440140616403",
+            "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&google_domain=google.com&location=Japan&product_id=4343562440140616403"
+        },
+        {
+            "category": "Popular products",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTMu1Y8CCyyGpt9xi7Mycg7pOCDcJpthGdcfL6mGrcYbTqMGWcvhlIcMe0TrK3E1kFDH0hd_gjTJpDhUISoHIcrxEFIkr0mvn8FOmDnozqc7G-5S_E5vQ",
+            "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRI9TjjVejMqLwoqfRjWARe-9JDW0cbdm1MIpTNxTvpq6_ZFwrYMiGw4kj15cBEBwKiIrVvEAddIFieZJeEHN0cbWD-sl-xzkKBrC8",
+            "source": "Krazy Kileys",
+            "title": "Samsung HW-B400F/ZC 2.0 Channel Soundbar",
+            "rating": 4.6,
+            "reviews": 101,
+            "original_price": "Usually $150",
+            "extracted_original_price": 150,
+            "extensions": [
+                "LOW PRICE"
+            ],
+            "immersive_product_page_token": "eyJlaSI6Im4zYTRhTXF5Sy1yZjFzUVBsNmVNaUFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTYzMTY2MDU3Njc5MzkxODE5MTUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIyNjIzNTAyNTg0NzU5Mjg1OTQ5IiwiaW1hZ2VEb2NpZCI6IjkwMDQyNzgwNTI4MTQ3NDI2NTEiLCJyZHMiOiJQQ184NjUzMjI5MzUwODEzNjg3MDR8UFJPRF9QQ184NjUzMjI5MzUwODEzNjg3MDQiLCJxdWVyeSI6ImJ1eStlbGVjdHJvbmljcytvbmxpbmUiLCJncGNpZCI6Ijg2NTMyMjkzNTA4MTM2ODcwNCIsIm1pZCI6IjU3NjQ2MjgyMTUwMzY1MzYwMCIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSUZTbUZ3WVc0IiwiZ2wiOm51bGwsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im4zYTRhTXF5Sy1yZjFzUVBsNmVNaUFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTYzMTY2MDU3Njc5MzkxODE5MTUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIyNjIzNTAyNTg0NzU5Mjg1OTQ5IiwiaW1hZ2VEb2NpZCI6IjkwMDQyNzgwNTI4MTQ3NDI2NTEiLCJyZHMiOiJQQ184NjUzMjI5MzUwODEzNjg3MDR8UFJPRF9QQ184NjUzMjI5MzUwODEzNjg3MDQiLCJxdWVyeSI6ImJ1eStlbGVjdHJvbmljcytvbmxpbmUiLCJncGNpZCI6Ijg2NTMyMjkzNTA4MTM2ODcwNCIsIm1pZCI6IjU3NjQ2MjgyMTUwMzY1MzYwMCIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSUZTbUZ3WVc0IiwiZ2wiOm51bGwsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ%3D%3D",
+            "product_id": "16316605767939181915",
+            "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&google_domain=google.com&location=Japan&product_id=16316605767939181915"
+        },
+        {
+            "category": "Popular products",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcToMV9EIyJXutFBvr0MGd_8m67-3Mgiv9V_Qim82X-Qx8lmGYD2giJFhvVW-WDnTvGFmeQ8Wi1o6-40ZuQN1ytQL8Mz-Uh-KC1M0GEP8ABalnbDhSYB5_C9",
+            "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcR-nk2lLSVtrhDl1QnNoUDptVj72WYnNCER1OC_trERilsYBunHFXY3ZUElnJfhUo-MBsNAUccraoCShEuJCUi5nlQfSymV",
+            "source": "Staples Canada",
+            "title": "Acer Chromebook 311 11.6\" Chromebook HD",
+            "rating": 4.2,
+            "reviews": 1000,
+            "original_price": "$320",
+            "extracted_original_price": 320,
+            "extensions": [
+                "28% OFF"
+            ],
+            "immersive_product_page_token": "eyJlaSI6Im4zYTRhTXF5Sy1yZjFzUVBsNmVNaUFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzg3MzM5NDEzNDUwNjQyNjQwMSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijc1Nzg3MDA5MjgwMjAxMDk2MjAiLCJpbWFnZURvY2lkIjoiMTMyMzQ1NDY2NzUwMTkyMDM2MzMiLCJyZHMiOiJQQ18xMDQ0MTE1NjQzMDEyNjI0NDMxMnxQUk9EX1BDXzEwNDQxMTU2NDMwMTI2MjQ0MzEyIiwicXVlcnkiOiJidXkrZWxlY3Ryb25pY3Mrb25saW5lIiwiZ3BjaWQiOiIxMDQ0MTE1NjQzMDEyNjI0NDMxMiIsIm1pZCI6IjU3NjQ2MjUwMjkzNDg0NDMwNiIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSUZTbUZ3WVc0IiwiZ2wiOm51bGwsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im4zYTRhTXF5Sy1yZjFzUVBsNmVNaUFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzg3MzM5NDEzNDUwNjQyNjQwMSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6Ijc1Nzg3MDA5MjgwMjAxMDk2MjAiLCJpbWFnZURvY2lkIjoiMTMyMzQ1NDY2NzUwMTkyMDM2MzMiLCJyZHMiOiJQQ18xMDQ0MTE1NjQzMDEyNjI0NDMxMnxQUk9EX1BDXzEwNDQxMTU2NDMwMTI2MjQ0MzEyIiwicXVlcnkiOiJidXkrZWxlY3Ryb25pY3Mrb25saW5lIiwiZ3BjaWQiOiIxMDQ0MTE1NjQzMDEyNjI0NDMxMiIsIm1pZCI6IjU3NjQ2MjUwMjkzNDg0NDMwNiIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSUZTbUZ3WVc0IiwiZ2wiOm51bGwsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ%3D%3D",
+            "product_id": "7873394134506426401",
+            "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&google_domain=google.com&location=Japan&product_id=7873394134506426401"
+        },
+        {
+            "category": "Popular products",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQeHNAc-FRbG9f3qJG1RyQ4Gmnje9M_PxW7JMStqn_LRYhDjTMxtAY2VnGMCDvgA_W6QbS2gsB0Cw1OoB0t4gp9gjU2_IAAGg-Nydnmz78cdSFz-LMFXcw",
+            "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcR_UL00-oRmwQ3Nrn2AwXhEtTngYDKcoPQ6qoKPHoXNY6--TtbM-A_R0ErBSjtcwZvuM7B51hQ8LP4rhEZFhHrwrpG01r1M",
+            "source": "Amazon CA",
+            "title": "Samsung Odyssey G3 Class Full HD Gaming Monitor",
+            "rating": 4.8,
+            "reviews": 1600,
+            "original_price": "$170",
+            "extracted_original_price": 170,
+            "extensions": [
+                "12% OFF"
+            ],
+            "immersive_product_page_token": "eyJlaSI6Im4zYTRhTXF5Sy1yZjFzUVBsNmVNaUFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTMxMTU5MjE0OTc1MzU0OTM4MDMiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNjE5ODEyODgzNTUyNTA2ODgwNSIsImltYWdlRG9jaWQiOiIxNjk4MzkzMjg3NDM1MDM1NjA2NyIsInJkcyI6IlBDXzczNjQ1MTgzNDQ0ODY3MjgwMDB8UFJPRF9QQ183MzY0NTE4MzQ0NDg2NzI4MDAwIiwicXVlcnkiOiJidXkrZWxlY3Ryb25pY3Mrb25saW5lIiwiZ3BjaWQiOiI3MzY0NTE4MzQ0NDg2NzI4MDAwIiwibWlkIjoiNTc2NDYyODA3NzcxMjk0NzA3IiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJRlNtRndZVzQiLCJnbCI6bnVsbCwiaGwiOm51bGwsImVuZ2luZSI6Imdvb2dsZSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Im4zYTRhTXF5Sy1yZjFzUVBsNmVNaUFjIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTMxMTU5MjE0OTc1MzU0OTM4MDMiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxNjE5ODEyODgzNTUyNTA2ODgwNSIsImltYWdlRG9jaWQiOiIxNjk4MzkzMjg3NDM1MDM1NjA2NyIsInJkcyI6IlBDXzczNjQ1MTgzNDQ0ODY3MjgwMDB8UFJPRF9QQ183MzY0NTE4MzQ0NDg2NzI4MDAwIiwicXVlcnkiOiJidXkrZWxlY3Ryb25pY3Mrb25saW5lIiwiZ3BjaWQiOiI3MzY0NTE4MzQ0NDg2NzI4MDAwIiwibWlkIjoiNTc2NDYyODA3NzcxMjk0NzA3IiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJRlNtRndZVzQiLCJnbCI6bnVsbCwiaGwiOm51bGwsImVuZ2luZSI6Imdvb2dsZSJ9",
+            "product_id": "13115921497535493803",
+            "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&google_domain=google.com&location=Japan&product_id=13115921497535493803"
+        }
+    ],
+    "ai_overview": {
+        "page_token": "xOxJbnicxZbbkqI4GIAvt_ZB1pseFAUVu4qaSgJqtG07nkb7hgKMUQGxAaWdu3mXfap9mgkHj2NP9dZebKpMQvLnP-XLX_74211tnH_-_GMZRdvwsVSK47jIfJ-5tGj7XskMDxu7tPDdMLCXX3c7l6rxAwKYYISbQ68Zz77JhcNelQp2qIoFulI3kimbvbdDVwgW5ZC8uDXaWwG7kGpSDcsM6Zobel-HJaPEO-cvSeMfxbBIN0XHmpjxa33KWqRYEctKsV8yPS4A_nvDd1cJWAEACSHovIbSObornzRGuDIE4K2mvPV03kEEWGISkms9-OgIPw8xiNtGncW9CwH95AUAznn5iSUrfpIIpLMLazfG8alP3Wv-6r1--cGSrn0y-FHDsytbXMUizg_wjk8JS62uV-ws2SdAaYdgCcn4nk7dR2gGBKcNMy_uSLCB6XUjbhCW5oxTIJasgA_lUhAmTKBRQ_TbG9QKyyNt6imxsDC3o90MOlWZxpVD_NW2uFxdEhtVqV77krJnhyf4wkv42s-b6Lv0Wp1MxsWnIiyfyEM8WoyOadOy9BKw_YioU85OUaVy8OrGSJ4yMOC_idfNtOsvCS1weJR6YUibgix7MDuFwZG83DrSs01-kM2azyl5ekoe6OaIQpiQtMTglWea6QSQDsh19lrphB391NiCcP5jQIatzMQ6u9CcPMDQMaaL6Mdnf_oMRJAfhU2CvmnLONGcBodR6owOj-d10AEvOaj8QRHuogxEQtNdjAHUE2_5VhJZpp1wB_hXN1XJX-mYJwQmD2N2TR4XvgT2o3YXy7zBe6hVhN6b4A7MgQVZoIyHIjXGjbq0MibkLmq-Z_2LQmf_rzAmZXDAy-AFjMPfw8gIxr_CSI4w2jmMTlYGr2HcHmEcgkEnK4PL-BJG_QJG5wyjdVUGGSJ5TPgUyWdhTMYTjOwCRvQxjLwM3sC4iLvpnSQw8jI4uAPjJ8vg9HNlMGWSZsN1Tdyt2S2w-njcGPrTeDWSqvtqkwZP2lLpSFXwXgO3wC686HEb-OyLsZo_wkonOswLb6q1OzxQl9pR4G9Wdvjgb_jfBVrw3MBXRbOmCJqER--7wPVc8wkLNbzXhodupaVYgekPywqaG814qVsCrRsHEtsK20u7naEEDVmU_arZeLermlGTu308tq1xEHl0IbjyVHdWSkss0632Nv_eXDumZLZn8-VksSMG2wtNfd-36odqZTBHwutA99ZyR9RA6leomprR6zy3FWUnFrzAVvmdyQ545nWvENqmQcO9altWXbTovELntCKJUsFj0WGryuWfwjScvQ",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=xOxJbnicxZbbkqI4GIAvt_ZB1pseFAUVu4qaSgJqtG07nkb7hgKMUQGxAaWdu3mXfap9mgkHj2NP9dZebKpMQvLnP-XLX_74211tnH_-_GMZRdvwsVSK47jIfJ-5tGj7XskMDxu7tPDdMLCXX3c7l6rxAwKYYISbQ68Zz77JhcNelQp2qIoFulI3kimbvbdDVwgW5ZC8uDXaWwG7kGpSDcsM6Zobel-HJaPEO-cvSeMfxbBIN0XHmpjxa33KWqRYEctKsV8yPS4A_nvDd1cJWAEACSHovIbSObornzRGuDIE4K2mvPV03kEEWGISkms9-OgIPw8xiNtGncW9CwH95AUAznn5iSUrfpIIpLMLazfG8alP3Wv-6r1--cGSrn0y-FHDsytbXMUizg_wjk8JS62uV-ws2SdAaYdgCcn4nk7dR2gGBKcNMy_uSLCB6XUjbhCW5oxTIJasgA_lUhAmTKBRQ_TbG9QKyyNt6imxsDC3o90MOlWZxpVD_NW2uFxdEhtVqV77krJnhyf4wkv42s-b6Lv0Wp1MxsWnIiyfyEM8WoyOadOy9BKw_YioU85OUaVy8OrGSJ4yMOC_idfNtOsvCS1weJR6YUibgix7MDuFwZG83DrSs01-kM2azyl5ekoe6OaIQpiQtMTglWea6QSQDsh19lrphB391NiCcP5jQIatzMQ6u9CcPMDQMaaL6Mdnf_oMRJAfhU2CvmnLONGcBodR6owOj-d10AEvOaj8QRHuogxEQtNdjAHUE2_5VhJZpp1wB_hXN1XJX-mYJwQmD2N2TR4XvgT2o3YXy7zBe6hVhN6b4A7MgQVZoIyHIjXGjbq0MibkLmq-Z_2LQmf_rzAmZXDAy-AFjMPfw8gIxr_CSI4w2jmMTlYGr2HcHmEcgkEnK4PL-BJG_QJG5wyjdVUGGSJ5TPgUyWdhTMYTjOwCRvQxjLwM3sC4iLvpnSQw8jI4uAPjJ8vg9HNlMGWSZsN1Tdyt2S2w-njcGPrTeDWSqvtqkwZP2lLpSFXwXgO3wC686HEb-OyLsZo_wkonOswLb6q1OzxQl9pR4G9Wdvjgb_jfBVrw3MBXRbOmCJqER--7wPVc8wkLNbzXhodupaVYgekPywqaG814qVsCrRsHEtsK20u7naEEDVmU_arZeLermlGTu308tq1xEHl0IbjyVHdWSkss0632Nv_eXDumZLZn8-VksSMG2wtNfd-36odqZTBHwutA99ZyR9RA6leomprR6zy3FWUnFrzAVvmdyQ545nWvENqmQcO9altWXbTovELntCKJUsFj0WGryuWfwjScvQ"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Electronics Store in Canada",
+            "link": "https://www.walmart.ca/en/browse/electronics/10003",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.walmart.ca/en/browse/electronics/10003&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQFnoECB4QAQ",
+            "displayed_link": "https://www.walmart.ca \u203a browse \u203a electronics",
+            "thumbnail": "https://serpapi.com/searches/68b8769fbadf0b11d61af3c5/images/783be9ab2e3837321ee7b86c8c14c8b9c5c63c75508df03511537f2e271aa52a.jpeg",
+            "favicon": "https://serpapi.com/searches/68b8769fbadf0b11d61af3c5/images/783be9ab2e3837321ee7b86c8c14c8b93e1ebd5e8664d3158d91990139efbfc6.png",
+            "snippet": "Online electronics shopping in Canada. Get TVs, tablets, electronic accessories, laptops, software, digital cameras and much more for less at Walmart.ca ...",
+            "snippet_highlighted_words": [
+                "Get TVs, tablets, electronic accessories, laptops, software, digital cameras"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "detected_extensions": {
+                        "rating": 4.6,
+                        "reviews": 552
+                    },
+                    "extensions": [
+                        "4.6 store rating (552)",
+                        "Free 90-day returns",
+                        "Items up to 80% off"
+                    ]
+                }
+            },
+            "source": "Walmart"
+        },
+        {
+            "position": 2,
+            "title": "Electronics - TV, Home Theater, Phones, Wearable Gadgets",
+            "link": "https://www.newegg.ca/Electronics/Store/ID-10",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.newegg.ca/Electronics/Store/ID-10&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQFnoECBgQAQ",
+            "displayed_link": "https://www.newegg.ca \u203a Electronics \u203a Store",
+            "favicon": "https://serpapi.com/searches/68b8769fbadf0b11d61af3c5/images/783be9ab2e3837321ee7b86c8c14c8b9ae47901f270ec50b69fcac3203934c4c.jpeg",
+            "snippet": "Shop Newegg.ca for Electronics from Samsung, LG, Panasonic, Sony and more. We offer the best prices, fast shipping and top-rated customer service.",
+            "snippet_highlighted_words": [
+                "Shop Newegg.ca for Electronics"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "detected_extensions": {
+                        "rating": 4.5,
+                        "reviews": 30
+                    },
+                    "extensions": [
+                        "4.5 store rating (30)",
+                        "30-day returns"
+                    ]
+                }
+            },
+            "source": "Newegg"
+        },
+        {
+            "position": 3,
+            "title": "Best Buy: Shop Online For Deals & Save | Best Buy Canada",
+            "link": "https://www.bestbuy.ca/en-ca",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bestbuy.ca/en-ca&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQFnoECB0QAQ",
+            "displayed_link": "https://www.bestbuy.ca \u203a en-ca",
+            "thumbnail": "https://serpapi.com/searches/68b8769fbadf0b11d61af3c5/images/783be9ab2e3837321ee7b86c8c14c8b9736b4e4f6847914f12e9faa6f96dba4e.jpeg",
+            "favicon": "https://serpapi.com/searches/68b8769fbadf0b11d61af3c5/images/783be9ab2e3837321ee7b86c8c14c8b9901fcaccbd75afcea24453a898ace3b8.png",
+            "snippet": "Get our Low Price Guarantee, online or in store, on a huge selection of electronics, appliances, furniture, fitness, travel, baby products and more!",
+            "snippet_highlighted_words": [
+                "online",
+                "electronics"
+            ],
+            "source": "Best Buy Canada"
+        },
+        {
+            "position": 4,
+            "title": "Visions Electronics: TVs, Appliances, Home & Portable Audio ...",
+            "link": "https://www.visions.ca/?srsltid=AfmBOopVWuNWlb3SqZal729meuxxkU7MH8PUBtDJYSwhxRUfcDpSFxbu",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.visions.ca/%3Fsrsltid%3DAfmBOopVWuNWlb3SqZal729meuxxkU7MH8PUBtDJYSwhxRUfcDpSFxbu&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQFnoECDAQAQ",
+            "displayed_link": "https://www.visions.ca",
+            "favicon": "https://serpapi.com/searches/68b8769fbadf0b11d61af3c5/images/783be9ab2e3837321ee7b86c8c14c8b93b94e7fbe67527f1a5a49f62c4f03903.png",
+            "snippet": "Get the Lowest Prices Guaranteed at Visions Electronics, with 43 Stores Across Canada. Shop Online or In-Store for the Best Deals on TVs, Electronics ...",
+            "snippet_highlighted_words": [
+                "Shop Online or In-Store"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "extensions": [
+                        "3\u20134 day delivery",
+                        "30-day returns"
+                    ]
+                }
+            },
+            "source": "Visions Electronics"
+        },
+        {
+            "position": 5,
+            "title": "Online Electronics Store in Canada | ShopperPlus",
+            "link": "https://www.shopperplus.ca/catalog-15400-electronics",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.shopperplus.ca/catalog-15400-electronics&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQFnoECD4QAQ",
+            "displayed_link": "https://www.shopperplus.ca \u203a catalog-15400-electronics",
+            "thumbnail": "https://serpapi.com/searches/68b8769fbadf0b11d61af3c5/images/783be9ab2e3837321ee7b86c8c14c8b9ab36b53336a18410d5ae99b8bc37742a.jpeg",
+            "favicon": "https://serpapi.com/searches/68b8769fbadf0b11d61af3c5/images/783be9ab2e3837321ee7b86c8c14c8b914c16b93ed7eca8774cdef01025e3e0a.png",
+            "snippet": "Online electronics store in Canada at shopperplus. Get TVs, small appliances, cell phone, computer, gaming accessories & more!",
+            "snippet_highlighted_words": [
+                "Online electronics"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "detected_extensions": {
+                        "price": 49,
+                        "currency": "$"
+                    },
+                    "extensions": [
+                        "Free delivery over $49",
+                        "14-day returns"
+                    ]
+                }
+            },
+            "source": "Shopper Plus"
+        },
+        {
+            "position": 6,
+            "title": "Electronics for Less Canada - EFLC.ca : Televisions, Hi-fi ...",
+            "link": "https://www.electronicsforless.ca/?srsltid=AfmBOopWTJWmjMajVkgyErLktbnLBPZDM946rizT2YyGy6vzIWdVC6FN",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.electronicsforless.ca/%3Fsrsltid%3DAfmBOopWTJWmjMajVkgyErLktbnLBPZDM946rizT2YyGy6vzIWdVC6FN&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQFnoFCMMBEAE",
+            "displayed_link": "https://www.electronicsforless.ca",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ4mvIKXrFXt4nNS2b1KQ79MW2XrWtY9ucQzStwwmG5mcX3Eqt7vGP1w&s",
+            "favicon": "https://serpapi.com/searches/68b8769fbadf0b11d61af3c5/images/783be9ab2e3837321ee7b86c8c14c8b9d276f97446869efae7b71dc07aa0702e.png",
+            "snippet": "Canadians shop for TVs, home audio, AV furniture, housewares & home electronics. Buy Epson Projectors, Onkyo AV Equipment, 1MORE, AKG, Audio-Technica, ...",
+            "snippet_highlighted_words": [
+                "Canadians shop for TVs, home audio, AV furniture, housewares & home electronics"
+            ],
+            "source": "Electronics For Less Canada"
+        },
+        {
+            "position": 7,
+            "title": "SaveOnCells | Shop at the #1 electronics store - online store",
+            "link": "https://saveoncells.com/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://saveoncells.com/&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQFnoECDIQAQ",
+            "displayed_link": "https://saveoncells.com",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFU6A3Mbu6EQoIfkNkV9H02adjqOkoFpw7T2HSsB2wnennAdgCDNh9-g&s",
+            "favicon": "https://serpapi.com/searches/68b8769fbadf0b11d61af3c5/images/783be9ab2e3837321ee7b86c8c14c8b9b6b5f7bc336cbe4b4a337d7af12ef086.png",
+            "snippet": "SaveOnCells is the best online store to buy electronics and tech items at unbeatable prices, so you can save money every time you shop with us.",
+            "snippet_highlighted_words": [
+                "SaveOnCells is the best online store to buy electronics"
+            ],
+            "source": "SaveOnCells"
+        },
+        {
+            "position": 8,
+            "title": "ITFactory.ca: Online Electronics Store",
+            "link": "https://itfactory.ca/?srsltid=AfmBOorVIi4dC-0qC-ES7GcHw7t-DcL-_uA3v6qC1uXXeBdA_WtkT3Kz",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://itfactory.ca/%3Fsrsltid%3DAfmBOorVIi4dC-0qC-ES7GcHw7t-DcL-_uA3v6qC1uXXeBdA_WtkT3Kz&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQFnoECGMQAQ",
+            "displayed_link": "https://itfactory.ca",
+            "favicon": "https://serpapi.com/searches/68b8769fbadf0b11d61af3c5/images/783be9ab2e3837321ee7b86c8c14c8b999bd93900a69d45f35b4d16d4c472eb4.png",
+            "snippet": "Shop ITFactory.ca for Canada's Best Deals on Software & Electronics. Top Software Brands, Dictation Devices, Cameras, Headphones, SSDs, Laptops & more!",
+            "snippet_highlighted_words": [
+                "Shop ITFactory.ca for Canada's Best Deals on Software & Electronics"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "detected_extensions": {
+                        "price": 99,
+                        "currency": "$"
+                    },
+                    "extensions": [
+                        "Free delivery over $99",
+                        "14-day returns"
+                    ]
+                }
+            },
+            "source": "ITFactory.ca"
+        },
+        {
+            "position": 9,
+            "title": "Electronics Store",
+            "link": "https://www.bestbuy.com/site/electronics/misc/pcmcat144600050035.c?id=pcmcat144600050035",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bestbuy.com/site/electronics/misc/pcmcat144600050035.c%3Fid%3Dpcmcat144600050035&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQFnoFCKMBEAE",
+            "displayed_link": "https://www.bestbuy.com \u203a misc \u203a pcmcat144600050035",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSroZEH7mtXF-S7McouhQ54P-HTT8E4C3AjhJMfSMXdLSmAgUtVWgpNmw&s",
+            "favicon": "https://serpapi.com/searches/68b8769fbadf0b11d61af3c5/images/783be9ab2e3837321ee7b86c8c14c8b909b97e15b20a950cfcb391dba6378664.png",
+            "snippet": "If you've come to Best Buy looking for Top Deals on electronics, you're in the right place. From high-end equipment to basic gadgets, audio devices to computers ...",
+            "snippet_highlighted_words": [
+                "Top Deals on electronics"
+            ],
+            "source": "Best Buy"
+        },
+        {
+            "position": 10,
+            "title": "Open Box Computers & Electronics: Laptops, Desktops ...",
+            "link": "https://openbox.ca/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://openbox.ca/&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQFnoFCLgBEAE",
+            "displayed_link": "https://openbox.ca",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAbSQL8tutPoNMJCx-RILIz21ZpNxe-R49QY6eA_6nzATGSpawJIjecA&s",
+            "favicon": "https://serpapi.com/searches/68b8769fbadf0b11d61af3c5/images/783be9ab2e3837321ee7b86c8c14c8b988f0cb76fa16ae334b0b46d630947476.png",
+            "snippet": "Supplying discounted open box electronics from locations in British Columbia, Alberta and throughout Canada ... Buy online, Pickup in store. Convenient ordering.",
+            "snippet_highlighted_words": [
+                "Supplying discounted open box electronics"
+            ],
+            "source": "openbox.ca"
+        },
+        {
+            "position": 11,
+            "title": "Electronic Express",
+            "link": "https://www.electronicexpress.com/?srsltid=AfmBOoplOE1PfXs3dWC8StWGRWkCkTzIFmwuCTH8cc3Gt28IgDuxveWa",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.electronicexpress.com/%3Fsrsltid%3DAfmBOoplOE1PfXs3dWC8StWGRWkCkTzIFmwuCTH8cc3Gt28IgDuxveWa&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQFnoECCwQAQ",
+            "displayed_link": "https://www.electronicexpress.com",
+            "favicon": "https://serpapi.com/searches/68b8769fbadf0b11d61af3c5/images/783be9ab2e3837321ee7b86c8c14c8b9aa619a6cae3810d034104df7cca314b5.png",
+            "snippet": "The Best Selection, Best Service, and the Lowest Prices Guaranteed. Locations \u00b7 Luxury Brands \u00b7 Flash Deals \u00b7 Outlet Store \u00b7 Toys \u00b7 Contact \u00b7 Tracking ...",
+            "snippet_highlighted_words": [
+                "The Best Selection, Best Service, and the Lowest Prices Guaranteed"
+            ],
+            "source": "Electronic Express"
+        },
+        {
+            "position": 12,
+            "title": "Canada Computers & Electronics: Your one-stop computer ...",
+            "link": "https://www.canadacomputers.com/en/?srsltid=AfmBOooI6D7H3ssqC20hfNocNfbAQZTxJitm4PE7DS9bz6rOtBpFlRPh",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.canadacomputers.com/en/%3Fsrsltid%3DAfmBOooI6D7H3ssqC20hfNocNfbAQZTxJitm4PE7DS9bz6rOtBpFlRPh&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQFnoECE4QAQ",
+            "displayed_link": "https://www.canadacomputers.com \u203a ...",
+            "favicon": "https://serpapi.com/searches/68b8769fbadf0b11d61af3c5/images/783be9ab2e3837321ee7b86c8c14c8b95a79d63b186b32c697838e594c2517de.png",
+            "snippet": "Shop Canada Computers for electronics, computers, gaming gear & more: fast shipping & in-store pickup on the latest tech.",
+            "snippet_highlighted_words": [
+                "electronics"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "detected_extensions": {
+                        "price_from": 636,
+                        "price_to": 2499,
+                        "currency": "$",
+                        "rating": 4.0,
+                        "reviews": 19
+                    },
+                    "extensions": [
+                        "4.0 store rating (19)",
+                        "$636 to $2,499",
+                        "Free delivery"
+                    ]
+                }
+            },
+            "source": "Canada Computers"
+        },
+        {
+            "position": 13,
+            "title": "Electronics",
+            "link": "https://www.target.com/c/electronics/-/N-5xtg6",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.target.com/c/electronics/-/N-5xtg6&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQFnoECGoQAQ",
+            "displayed_link": "https://www.target.com \u203a electronics",
+            "favicon": "https://serpapi.com/searches/68b8769fbadf0b11d61af3c5/images/783be9ab2e3837321ee7b86c8c14c8b9c25cc59ac16f82a716149542622ea18f.png",
+            "snippet": "Find the latest electronics at Target. Shop TVs, laptops, video games, and more from top brands. Choose from Same Day Delivery, Drive Up or Order Pickup.",
+            "snippet_highlighted_words": [
+                "Choose from Same Day Delivery, Drive Up or Order Pickup"
+            ],
+            "source": "Target"
+        },
+        {
+            "position": 14,
+            "title": "Electronics",
+            "link": "https://www.costco.ca/electronics.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.costco.ca/electronics.html&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQFnoECH8QAQ",
+            "displayed_link": "https://www.costco.ca \u203a electronics",
+            "favicon": "https://serpapi.com/searches/68b8769fbadf0b11d61af3c5/images/783be9ab2e3837321ee7b86c8c14c8b94cc6e4afd34841709c0e3905fd1c0ff5.png",
+            "snippet": "Save on top selling TVs, cameras, security systems, video games and more all at exclusive Costco member pricing.",
+            "rich_snippet": {
+                "bottom": {
+                    "detected_extensions": {
+                        "rating": 4.7,
+                        "reviews": 156
+                    },
+                    "extensions": [
+                        "4.7 store rating (156)"
+                    ]
+                }
+            },
+            "source": "Costco"
+        },
+        {
+            "position": 15,
+            "title": "Other online electronics retailers in Canada : r/BuyCanadian",
+            "link": "https://www.reddit.com/r/BuyCanadian/comments/1du84y0/other_online_electronics_retailers_in_canada/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/BuyCanadian/comments/1du84y0/other_online_electronics_retailers_in_canada/&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQFnoFCJ4BEAE",
+            "displayed_link": "20+ comments \u00b7 1 year ago",
+            "favicon": "https://serpapi.com/searches/68b8769fbadf0b11d61af3c5/images/783be9ab2e3837321ee7b86c8c14c8b968800e6b668544365e8475a4d5dca300.png",
+            "snippet": "There's a store in Edmonton called The Gramophone. Lots of hifi audio, the staff are all older gentlemen, you can spend anywhere from $60 to $60k on headphones.",
+            "snippet_highlighted_words": [
+                "The Gramophone"
+            ],
+            "source": "Reddit \u00b7 r/BuyCanadian"
+        },
+        {
+            "position": 16,
+            "title": "Buy Electronics Online in Brampton and Cambridge",
+            "link": "https://techspirit.ca/?srsltid=AfmBOorHzHGMHzYMjaUInm4ELCmu2pT1CkhPWKYzZqBpX36J_Dack6_N",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://techspirit.ca/%3Fsrsltid%3DAfmBOorHzHGMHzYMjaUInm4ELCmu2pT1CkhPWKYzZqBpX36J_Dack6_N&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQFnoFCJwBEAE",
+            "displayed_link": "https://techspirit.ca",
+            "favicon": "https://serpapi.com/searches/68b8769fbadf0b11d61af3c5/images/783be9ab2e3837321ee7b86c8c14c8b94f98abdba2ce91abcaee4d4f7f25f5cc.png",
+            "snippet": "Discover a wide range of electronics at our online store serving Brampton and Cambridge. Shop now for the latest gadgets and tech essentials.",
+            "snippet_highlighted_words": [
+                "electronics at our online store serving Brampton and Cambridge"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "detected_extensions": {
+                        "price": 60,
+                        "currency": "$"
+                    },
+                    "extensions": [
+                        "$60 delivery",
+                        "Items up to 55% off"
+                    ]
+                }
+            },
+            "source": "TechSpirit Inc."
+        },
+        {
+            "position": 17,
+            "title": "Buy Electronics Products Online",
+            "link": "https://www1.shoppersdrugmart.ca/en/electronics",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www1.shoppersdrugmart.ca/en/electronics&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQFnoFCLYBEAE",
+            "displayed_link": "https://www1.shoppersdrugmart.ca \u203a electronics",
+            "favicon": "https://serpapi.com/searches/68b8769fbadf0b11d61af3c5/images/783be9ab2e3837321ee7b86c8c14c8b9a14a3d132cb7d015da1fa55115af1c4a.png",
+            "snippet": "Buy Electronics Products at Shoppers Drug Mart. Free Delivery on Orders $35+ excluding Digital Gift Cards. Earn and Redeem PC Optimum Points.",
+            "snippet_highlighted_words": [
+                "Free Delivery on Orders $35"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "detected_extensions": {
+                        "rating": 4.9,
+                        "reviews": 10
+                    },
+                    "extensions": [
+                        "4.9 store rating (10)"
+                    ]
+                }
+            },
+            "source": "Shoppers Drug Mart"
+        },
+        {
+            "position": 18,
+            "title": "Shop Top Branded Electronic Products Online",
+            "link": "https://www.you-buy.ca/en/category/electronics-10171",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.you-buy.ca/en/category/electronics-10171&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQFnoFCMwBEAE",
+            "displayed_link": "https://www.you-buy.ca \u203a category \u203a electronics-10171",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQueIVccZx40d_Iswzj8abOKX24w-ZGJxbQLLEodkN73LeGgW52I8ohalyrbbh0apkpRjw&s",
+            "favicon": "https://serpapi.com/searches/68b8769fbadf0b11d61af3c5/images/783be9ab2e3837321ee7b86c8c14c8b931473b0d34edd5e26edf56c1bd702423.png",
+            "snippet": "Explore the best electronics online in Canada. Shop top brands like Samsung, Apple, and Sony for gadgets, laptops, cameras, TVs, and accessories at Ubuy.",
+            "snippet_highlighted_words": [
+                "Explore the best electronics online in Canada"
+            ],
+            "source": "Ubuy Canada"
+        },
+        {
+            "position": 19,
+            "title": "Cheap Electronics Online for Sale",
+            "link": "https://dailysale.com/collections/electronics?srsltid=AfmBOoqWGfx8go7s-0Tojd_Sghjf_MKHUVIl6M_ReXbF4-kvQkuUiFRp",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://dailysale.com/collections/electronics%3Fsrsltid%3DAfmBOoqWGfx8go7s-0Tojd_Sghjf_MKHUVIl6M_ReXbF4-kvQkuUiFRp&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQFnoFCKsBEAE",
+            "displayed_link": "https://dailysale.com \u203a collections \u203a electronics",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0gc6nWQMUIXDDwVLwjEZCPRj-c-2bzzxFnoYXGAku-sEH-YZGP1RfvAwqEXO6SiuIZg&s",
+            "favicon": "https://serpapi.com/searches/68b8769fbadf0b11d61af3c5/images/783be9ab2e3837321ee7b86c8c14c8b9379d46c500295d419efc3e30b46574ce.png",
+            "snippet": "Find cheap electronics online here at DailySale. We offer great service and the best-quality electronic deals online.",
+            "snippet_highlighted_words": [
+                "Find cheap electronics online here at DailySale"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "detected_extensions": {
+                        "rating": 4.5,
+                        "reviews": 10
+                    },
+                    "extensions": [
+                        "4.5 store rating (10)"
+                    ]
+                }
+            },
+            "source": "DailySale"
+        },
+        {
+            "position": 20,
+            "title": "Top 10 Online Stores for Consumer Electronics Brands ...",
+            "link": "https://www.pricespider.com/blog/top-10-online-stores-for-consumer-electronics-brands-2023/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pricespider.com/blog/top-10-online-stores-for-consumer-electronics-brands-2023/&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQFnoECEcQAQ",
+            "displayed_link": "https://www.pricespider.com \u203a Resources",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTswsnRPARU1DPkXHDY1n_U1yND0RVwR9v7RGd8IA-pdl_5QI5csvcYuA&s=10",
+            "favicon": "https://serpapi.com/searches/68b8769fbadf0b11d61af3c5/images/783be9ab2e3837321ee7b86c8c14c8b9b903c21f2bfec22eadaaf6dfe1d098d5.png",
+            "snippet": "Here are the 10 online stores that received the most clicks from consumer electronics brands through Where to Buy in 2022.",
+            "snippet_highlighted_words": [
+                "online",
+                "electronics",
+                "Buy"
+            ],
+            "source": "PriceSpider"
+        },
+        {
+            "position": 21,
+            "title": "Electronics",
+            "link": "https://www.amazon.ca/electronics-and-accessories/b/?ie=UTF8&node=667823011",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amazon.ca/electronics-and-accessories/b/%3Fie%3DUTF8%26node%3D667823011&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQFnoECFcQAQ",
+            "displayed_link": "https://www.amazon.ca \u203a electronics-and-accessories",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR15EpNSCM8-8vbAImJhZK5-oNb9M5Xc7KfPVxLjA9Yt1Bz4OwI62prCDkPxA9tfssKUw&s",
+            "favicon": "https://serpapi.com/searches/68b8769fbadf0b11d61af3c5/images/783be9ab2e3837321ee7b86c8c14c8b938f0dbb5b1e48ecf078d7ce4f4319a64.png",
+            "snippet": "Electronics Store ; Computers & Monitors ; Laptops ; Tablets ; Headphones & Speakers ; Cellphones & Accessories.",
+            "snippet_highlighted_words": [
+                "Electronics Store"
+            ],
+            "source": "Amazon.ca"
+        },
+        {
+            "position": 22,
+            "title": "Buy Electronics Online",
+            "link": "https://www.hsn.com/shop/electronics/ec",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.hsn.com/shop/electronics/ec&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQFnoECG4QAQ",
+            "displayed_link": "https://www.hsn.com \u203a shop \u203a electronics",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLE6z-4M9DPefYHue5pEd8XHGYQ6KAiv6AL85fEBuXZZzIpQg2ak7QJFYksaICfMoOhQ&s",
+            "favicon": "https://serpapi.com/searches/68b8769fbadf0b11d61af3c5/images/783be9ab2e3837321ee7b86c8c14c8b99e5dfd9b4e59d6530c4f913c1744f480.png",
+            "snippet": "Shop HSN.com for the latest electronics. From smartphones and TVs to tablets and cameras, discover the best deals on top tech.",
+            "snippet_highlighted_words": [
+                "Shop HSN.com for the latest electronics"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "extensions": [
+                        "30-day returns"
+                    ]
+                }
+            },
+            "source": "HSN"
+        },
+        {
+            "position": 23,
+            "title": "JioMart Electronic Online Shopping",
+            "link": "https://www.jiomart.com/c/electronics/4",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.jiomart.com/c/electronics/4&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQFnoECGsQAQ",
+            "displayed_link": "https://www.jiomart.com \u203a All Categories",
+            "favicon": "https://serpapi.com/searches/68b8769fbadf0b11d61af3c5/images/783be9ab2e3837321ee7b86c8c14c8b91b9663bfff83f67c82bfe3df82522962.jpeg",
+            "snippet": "JioMart Electronics Online Store - Buy electronic products online from a wide range of mobiles & tablets, tv & speakers, computers, gaming, ...",
+            "snippet_highlighted_words": [
+                "JioMart Electronics Online Store"
+            ],
+            "source": "JioMart"
+        },
+        {
+            "position": 24,
+            "title": "Croma Electronics | Online Electronics Shopping | Buy ...",
+            "link": "https://www.croma.com/?srsltid=AfmBOooNL-EK3N7_q8KQiDFMY00M1H1K0UXiUUdWMna4XFJkz72ZUSFc",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.croma.com/%3Fsrsltid%3DAfmBOooNL-EK3N7_q8KQiDFMY00M1H1K0UXiUUdWMna4XFJkz72ZUSFc&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQFnoECHoQAQ",
+            "displayed_link": "https://www.croma.com",
+            "favicon": "https://serpapi.com/searches/68b8769fbadf0b11d61af3c5/images/783be9ab2e3837321ee7b86c8c14c8b9ae6117a3f27c3804872442f50945774c.png",
+            "snippet": "Croma Retail is one stop destination for online shopping in India. Buy online all the products that you need here. Shop online in India through Croma Retail ...",
+            "snippet_highlighted_words": [
+                "Croma Retail is one stop destination for online shopping"
+            ],
+            "source": "Croma"
+        },
+        {
+            "position": 25,
+            "title": "Does anyone know a good website to buy electronics for ...",
+            "link": "https://www.reddit.com/r/Frugal/comments/114xcvy/does_anyone_know_a_good_website_to_buy/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/Frugal/comments/114xcvy/does_anyone_know_a_good_website_to_buy/&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQFnoFCIMBEAE",
+            "displayed_link": "10+ comments \u00b7 2 years ago",
+            "favicon": "https://serpapi.com/searches/68b8769fbadf0b11d61af3c5/images/783be9ab2e3837321ee7b86c8c14c8b9ca3bceaff9f517a45bf44f1073397b7f.png",
+            "snippet": "I regularly browse ebay for cheap/old/used electronics, but i used to frequent blairtech.com (new name from blairtg.com) to get used workstations.",
+            "snippet_highlighted_words": [
+                "ebay"
+            ],
+            "source": "Reddit \u00b7 r/Frugal"
+        },
+        {
+            "position": 26,
+            "title": "Electronic Components Distributor - Mouser Electronics Canada",
+            "link": "https://www.mouser.ca/?srsltid=AfmBOoqEyV-oPoAPPQ4U0bpOJGLW2O7OyWaRAlgpKZBGSywWNEXNtgZN",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mouser.ca/%3Fsrsltid%3DAfmBOoqEyV-oPoAPPQ4U0bpOJGLW2O7OyWaRAlgpKZBGSywWNEXNtgZN&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQFnoFCJABEAE",
+            "displayed_link": "https://www.mouser.ca",
+            "favicon": "https://serpapi.com/searches/68b8769fbadf0b11d61af3c5/images/783be9ab2e3837321ee7b86c8c14c8b947117d0234250f11546564a8cfb2fced.png",
+            "snippet": "Electronic components distributor with a huge selection in stock and ready to ship with no minimum orders. New electronic parts added daily.",
+            "snippet_highlighted_words": [
+                "Electronic components distributor"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "detected_extensions": {
+                        "price": 100,
+                        "currency": "$"
+                    },
+                    "extensions": [
+                        "Free delivery over $100",
+                        "30-day returns"
+                    ]
+                }
+            },
+            "source": "Mouser Electronics Canada"
+        },
+        {
+            "position": 27,
+            "title": "Buy Electronic Products Online with Up to 75% OFF at ...",
+            "link": "https://www.amazon.in/electronics/b?ie=UTF8&node=976419031",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.amazon.in/electronics/b%3Fie%3DUTF8%26node%3D976419031&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQFnoFCJEBEAE",
+            "displayed_link": "https://www.amazon.in \u203a electronics",
+            "favicon": "https://serpapi.com/searches/68b8769fbadf0b11d61af3c5/images/783be9ab2e3837321ee7b86c8c14c8b9e0df85c8e33306339d288a6058ca5050.png",
+            "snippet": "Shop by category ... Laptops ... Laptops ... Headphones ... Headphones ... Tablets ... Tablets ... Smartwatches ... Smartwatches ... Monitors ... Monitors ... Desktops ... Desktops.",
+            "snippet_highlighted_words": [
+                "Laptops"
+            ],
+            "source": "Amazon.in"
+        },
+        {
+            "position": 28,
+            "title": "Superstore Electronics",
+            "link": "https://www.superstoreelectronicsvt.com/catalog/electronics",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.superstoreelectronicsvt.com/catalog/electronics&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQFnoFCJYBEAE",
+            "displayed_link": "https://www.superstoreelectronicsvt.com \u203a catalog \u203a ele...",
+            "favicon": "https://serpapi.com/searches/68b8769fbadf0b11d61af3c5/images/783be9ab2e3837321ee7b86c8c14c8b9de18200d78af24926bda1963c83f7723.png",
+            "snippet": "Save up to 40% + Exclusive Rebates Valid 8/21/25 - 9/10/25 Shop Now SHOP OUR FLYERS \u00b7 GiveawayEnter to Win Now Shop Our Exclusive Rebates.",
+            "snippet_highlighted_words": [
+                "Save up to 40% + Exclusive Rebates"
+            ],
+            "source": "Superstore Electronics"
+        },
+        {
+            "position": 29,
+            "title": "Circuit City",
+            "link": "https://www.circuitcity.com/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.circuitcity.com/&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQFnoFCJoBEAE",
+            "displayed_link": "https://www.circuitcity.com",
+            "favicon": "https://serpapi.com/searches/68b8769fbadf0b11d61af3c5/images/783be9ab2e3837321ee7b86c8c14c8b97148078f6a13d7fe838dfff4800cde43.png",
+            "snippet": "Car Electronics & GPS \u00b7 GPS Navigation \u00b7 Dash Cameras \u00b7 Wearable Tech \u00b7 Fitness & Sport Watches \u00b7 Smart Watches \u00b7 Fitness Trackers \u00b7 Everyday Watches.",
+            "snippet_highlighted_words": [
+                "Car Electronics & GPS"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "extensions": [
+                        "30-day returns"
+                    ]
+                }
+            },
+            "source": "Circuit City"
+        },
+        {
+            "position": 30,
+            "title": "SAYAL Electronics \u2013 Electronic Components, Kits, Wire and ...",
+            "link": "https://secure.sayal.com/STORE4/?srsltid=AfmBOopamMyFqJaWW--0nKBs2Fsdw8pWD0ASfU4qwE82baY9BbOCzz-r",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://secure.sayal.com/STORE4/%3Fsrsltid%3DAfmBOopamMyFqJaWW--0nKBs2Fsdw8pWD0ASfU4qwE82baY9BbOCzz-r&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQFnoFCLUBEAE",
+            "displayed_link": "https://secure.sayal.com \u203a STORE4",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGF_z2Erf0FT1WE8dyLglHDILhMDkBRuhdREJiGbxgXmtygxHYmQVJ&s",
+            "favicon": "https://serpapi.com/searches/68b8769fbadf0b11d61af3c5/images/783be9ab2e3837321ee7b86c8c14c8b9bc1f9f706df758ce305d728db599dce0.png",
+            "snippet": "Shop SAYAL Electronics for capacitors, resistors, Arduino kits, test equipment & more. Canada's source for electronic components & hobby supplies.",
+            "snippet_highlighted_words": [
+                "Shop SAYAL Electronics"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "detected_extensions": {
+                        "price": 50,
+                        "currency": "$"
+                    },
+                    "extensions": [
+                        "Free delivery over $50",
+                        "7-day returns"
+                    ]
+                }
+            },
+            "source": "SAYAL Electronics"
+        },
+        {
+            "position": 31,
+            "title": "Tech Source Canada | Computers & Electronics Liquidator",
+            "link": "https://techsourcecanada.ca/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://techsourcecanada.ca/&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQFnoFCKwBEAE",
+            "displayed_link": "https://techsourcecanada.ca",
+            "favicon": "https://serpapi.com/searches/68b8769fbadf0b11d61af3c5/images/783be9ab2e3837321ee7b86c8c14c8b9fb177af1e2f31aec112fbbf1ead47475.png",
+            "snippet": "Tech Source Canada. We are your best reliable tech store in Canada. We have some of the best collections of Computers, Laptop/Notebooks, Home Appliances, ...",
+            "snippet_highlighted_words": [
+                "Tech Source Canada"
+            ],
+            "source": "Tech Source Canada"
+        },
+        {
+            "position": 32,
+            "title": "Buy Electronics Online at Best Prices",
+            "link": "https://www.tataneu.com/v2/slp/electronics",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tataneu.com/v2/slp/electronics&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQFnoFCLwBEAE",
+            "displayed_link": "https://www.tataneu.com \u203a slp \u203a electronics",
+            "favicon": "https://serpapi.com/searches/68b8769fbadf0b11d61af3c5/images/783be9ab2e3837321ee7b86c8c14c8b98f061357c5f3306270286c05c99a2adc.png",
+            "snippet": "Get a complete online electronics shopping experience at Tata Neu's electronics store. Buy mobile phones, laptops, tablets, home appliances, smart watches ...",
+            "snippet_highlighted_words": [
+                "Get a complete online electronics shopping experience at Tata Neu's electronics store"
+            ],
+            "source": "Tata Neu"
+        },
+        {
+            "position": 33,
+            "title": "Shop Tax-Free Electronics Online Anytime, Anywhere",
+            "link": "https://www.ishopchangi.com/en/category/electronics",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ishopchangi.com/en/category/electronics&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQFnoFCLQBEAE",
+            "displayed_link": "https://www.ishopchangi.com \u203a category \u203a electronics",
+            "favicon": "https://serpapi.com/searches/68b8769fbadf0b11d61af3c5/images/783be9ab2e3837321ee7b86c8c14c8b97c839880db7847dcfb0bc05fc1c31a98.png",
+            "snippet": "Level up your tech game with a wide selection of the best electronics from top brands on iShopChangi Singapore. Shop tax-free as you fly!",
+            "snippet_highlighted_words": [
+                "electronics"
+            ],
+            "source": "iShopChangi"
+        },
+        {
+            "position": 34,
+            "title": "Electronics & Smart Home Technology",
+            "link": "https://www.staples.ca/collections/electronics-144",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.staples.ca/collections/electronics-144&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQFnoFCM8BEAE",
+            "displayed_link": "https://www.staples.ca \u203a collections \u203a electronics-144",
+            "favicon": "https://serpapi.com/searches/68b8769fbadf0b11d61af3c5/images/783be9ab2e3837321ee7b86c8c14c8b9a00d119022845df94dc0d1a34ab8ef4c.png",
+            "snippet": "Staples offers a wide range of Gaming & Audio Equipment, Drones, Cameras, Chargers, Headphones, and other Electronics for the home and office.",
+            "snippet_highlighted_words": [
+                "Electronics"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "detected_extensions": {
+                        "price": 35,
+                        "currency": "$",
+                        "rating": 4.8,
+                        "reviews": 14
+                    },
+                    "extensions": [
+                        "4.8 store rating (14)",
+                        "Free delivery over $35",
+                        "14-day returns"
+                    ]
+                }
+            },
+            "source": "Staples"
+        },
+        {
+            "position": 35,
+            "title": "Online Electronic Shopping Store in India | Best Electronic Store",
+            "link": "https://www.reliancedigital.in/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reliancedigital.in/&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQFnoECD8QAQ",
+            "displayed_link": "https://www.reliancedigital.in",
+            "favicon": "https://serpapi.com/searches/68b8769fbadf0b11d61af3c5/images/783be9ab2e3837321ee7b86c8c14c8b97e0cddb8e63f954a8a4fbbd8ce09daab.jpeg",
+            "snippet": "Buy electronics online at India's best electronics store \u2013 Reliance Digital. Best Electronic shop for TVs, laptops, mobiles, cameras & smart home ...",
+            "snippet_highlighted_words": [
+                "Buy electronics online"
+            ],
+            "source": "Reliance Digital"
+        },
+        {
+            "position": 36,
+            "title": "Electronics - TSC.ca",
+            "link": "https://www.tsc.ca/pages/category?nav=n:100073&ic=GL_Nav_Electronics&srsltid=AfmBOoquTW3zN1SGzJvyYffQE7fcDiqpAP8djS2LOzMwwfBvwGD1Ho6G",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tsc.ca/pages/category%3Fnav%3Dn:100073%26ic%3DGL_Nav_Electronics%26srsltid%3DAfmBOoquTW3zN1SGzJvyYffQE7fcDiqpAP8djS2LOzMwwfBvwGD1Ho6G&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQFnoECEQQAQ",
+            "displayed_link": "https://www.tsc.ca \u203a pages \u203a category \u203a ic=GL_Nav_Elec...",
+            "favicon": "https://serpapi.com/searches/68b8769fbadf0b11d61af3c5/images/783be9ab2e3837321ee7b86c8c14c8b9d2449a36424ca3ba9fc4ad46aa08cee1.png",
+            "snippet": "Shop all electronics. Featured categories, shop by brand, see all brands, shop by quick links, new arrivals, on sale, clearance, shop by specialty shops.",
+            "snippet_highlighted_words": [
+                "Shop all electronics"
+            ],
+            "source": "TSC"
+        },
+        {
+            "position": 37,
+            "title": "Rating the Retailers: The Best Places to Buy PCs and ...",
+            "link": "https://www.pcmag.com/articles/readers-choice-2024-tech-retailers",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pcmag.com/articles/readers-choice-2024-tech-retailers&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQFnoECEkQAQ",
+            "displayed_link": "https://www.pcmag.com \u203a Articles \u203a Readers' Choice",
+            "favicon": "https://serpapi.com/searches/68b8769fbadf0b11d61af3c5/images/783be9ab2e3837321ee7b86c8c14c8b93cebedcb4e5627a2dab26113a5e2969a.png",
+            "snippet": "We asked thousands of PCMag readers to share the stores they buy electronics from and rate them on a wide range of qualitative measures, including things ...",
+            "snippet_highlighted_words": [
+                "buy electronics"
+            ],
+            "source": "PCMag"
+        },
+        {
+            "position": 38,
+            "title": "TOP 10 BEST Electronic Stores in Montreal, QC",
+            "link": "https://www.yelp.ca/search?find_desc=Electronic+Stores&find_loc=Montreal%2C+QC",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.yelp.ca/search%3Ffind_desc%3DElectronic%2BStores%26find_loc%3DMontreal%252C%2BQC&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQFnoECEgQAQ",
+            "displayed_link": "https://www.yelp.ca \u203a Shopping",
+            "favicon": "https://serpapi.com/searches/68b8769fbadf0b11d61af3c5/images/783be9ab2e3837321ee7b86c8c14c8b92f53d32f9dc8ae9972a81342e58aa93c.png",
+            "snippet": "Top 10 Best Electronic Stores Near Montreal, Quebec \u00b7 1. Addison \u00c9lectronique \u00b7 2. ABRA Electronics \u00b7 3. Davidson Electronique \u00b7 4. Miniso \u00b7 5. Best Buy \u00b7 6. La ...",
+            "snippet_highlighted_words": [
+                "1. Addison \u00c9lectronique"
+            ],
+            "source": "Yelp"
+        },
+        {
+            "position": 39,
+            "title": "Newark Electronics Canada - Electronic Components Distributor",
+            "link": "https://canada.newark.com/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://canada.newark.com/&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQFnoECFgQAQ",
+            "displayed_link": "https://canada.newark.com",
+            "favicon": "https://serpapi.com/searches/68b8769fbadf0b11d61af3c5/images/783be9ab2e3837321ee7b86c8c14c8b98eef9c324fd231096f62088f0c424a7b.png",
+            "snippet": "Over 1 million products available online, 900+ new products added every month, unparalleled customer service online, over the phone or in person.",
+            "snippet_highlighted_words": [
+                "Over 1 million products available online"
+            ],
+            "source": "Newark Electronics Canada"
+        },
+        {
+            "position": 40,
+            "title": "Canada Online Store | Deals on Premium Electronics & More",
+            "link": "https://www.canadaonlinestore.ca/?srsltid=AfmBOoqels29w0gZJIC_Vw1jva-X-PU42d7iPQ5DsVs0RoByi-JTNX0E",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.canadaonlinestore.ca/%3Fsrsltid%3DAfmBOoqels29w0gZJIC_Vw1jva-X-PU42d7iPQ5DsVs0RoByi-JTNX0E&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQFnoECFsQAQ",
+            "displayed_link": "https://www.canadaonlinestore.ca",
+            "favicon": "https://serpapi.com/searches/68b8769fbadf0b11d61af3c5/images/783be9ab2e3837321ee7b86c8c14c8b9b8dc4923512c0a6a271a7967268c1d70.png",
+            "snippet": "Authorized Canadian reseller of SwitchBot, EZVIZ, Reolink, SureCall, weBoost, HiLook, Hikvision, Alfred, and more. Free Shipping over $50 in Canada.",
+            "rich_snippet": {
+                "bottom": {
+                    "extensions": [
+                        "Free delivery",
+                        "30-day returns"
+                    ]
+                }
+            },
+            "source": "canadaonlinestore.ca"
+        },
+        {
+            "position": 41,
+            "title": "Canada Electronics",
+            "link": "https://www.canada-electronics.com/?srsltid=AfmBOoqLZdFvsdldV5X9hyGgysurU5KpWuCtd6CLKubViI2wJid6_gwf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.canada-electronics.com/%3Fsrsltid%3DAfmBOoqLZdFvsdldV5X9hyGgysurU5KpWuCtd6CLKubViI2wJid6_gwf&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQFnoECF8QAQ",
+            "displayed_link": "https://www.canada-electronics.com",
+            "snippet": "No information is available for this page.",
+            "source": "Canada Electronics INC"
+        },
+        {
+            "position": 42,
+            "title": "Electronics Store: Buy",
+            "link": "https://www.tatacliq.com/electronics",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tatacliq.com/electronics&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQFnoECF0QAQ",
+            "displayed_link": "https://www.tatacliq.com \u203a electronics",
+            "favicon": "https://serpapi.com/searches/68b8769fbadf0b11d61af3c5/images/783be9ab2e3837321ee7b86c8c14c8b90a8154f9f93c30caff89d80e0d322329.png",
+            "snippet": "Tata CLiQ Electronics - Shop for electronic products like smartphones, laptops, home appliances, large appliances & more online at Tata CLiQ India. Buy ...",
+            "snippet_highlighted_words": [
+                "Electronics",
+                "electronic",
+                "online",
+                "Buy"
+            ],
+            "source": "Tata CLiQ"
+        },
+        {
+            "position": 43,
+            "title": "Buy Now Pay Later Electronics",
+            "link": "https://www.easyhome.ca/electronics",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.easyhome.ca/electronics&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQFnoECHYQAQ",
+            "displayed_link": "https://www.easyhome.ca \u203a electronics",
+            "favicon": "https://serpapi.com/searches/68b8769fbadf0b11d61af3c5/images/783be9ab2e3837321ee7b86c8c14c8b9f5650a3292074361274f8357ccc46eba.png",
+            "snippet": "Lease, finance & buy now pay later electronics with easyhome. Place your order online for free today. Free delivery & setup.",
+            "snippet_highlighted_words": [
+                "buy",
+                "electronics",
+                "online"
+            ],
+            "source": "easyhome.ca"
+        },
+        {
+            "position": 44,
+            "title": "Electronics Store: Tech, PC Parts, AI PC & More | Newegg",
+            "link": "https://www.newegg.com/?srsltid=AfmBOoqoQCsAHRi1SkViQzLxURYFVp3Y9ysV-NHH9er3v1ip41hPzaFP",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.newegg.com/%3Fsrsltid%3DAfmBOoqoQCsAHRi1SkViQzLxURYFVp3Y9ysV-NHH9er3v1ip41hPzaFP&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQFnoECH0QAQ",
+            "displayed_link": "https://www.newegg.com",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSEH01mxI_-wJTOBKAA5iOYTJZVZq4zKTj7FlyYCuCLu0JOMaSGgJM&s",
+            "favicon": "https://serpapi.com/searches/68b8769fbadf0b11d61af3c5/images/783be9ab2e3837321ee7b86c8c14c8b9e7a8ab42bb1d42c1e54082dc7edf7b47.jpeg",
+            "snippet": "Shop Newegg today for all of your gaming, PC & technology needs. Don't miss today's best electronics deals with fast shipping & great customer service!",
+            "snippet_highlighted_words": [
+                "electronics"
+            ],
+            "source": "Newegg"
+        },
+        {
+            "position": 45,
+            "title": "Shop All Home and Electronics Products at Shoppers ...",
+            "link": "https://www.shoppersdrugmart.ca/electronics",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.shoppersdrugmart.ca/electronics&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQFnoFCIEBEAE",
+            "displayed_link": "https://www.shoppersdrugmart.ca \u203a electronics",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgYX1jmoUNcQ-Xf1Vdqtrx9JmAgxcMKzOaxBeLpChk5rZRhuTfMHAtcA&s",
+            "favicon": "https://serpapi.com/searches/68b8769fbadf0b11d61af3c5/images/783be9ab2e3837321ee7b86c8c14c8b952d4666e49590e594a81250c38cabe89.png",
+            "snippet": "Super Redemption Event early online access starts Sept 4 at 2 pm ET. In-store & online Sept 5 \u2013 10. Shop now.",
+            "snippet_highlighted_words": [
+                "online",
+                "online"
+            ],
+            "source": "Shoppers Drug Mart"
+        },
+        {
+            "position": 46,
+            "title": "Home Electronics - Buy electronics online at affordable ...",
+            "link": "https://www.ikea.com/in/en/cat/home-electronics-he001/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ikea.com/in/en/cat/home-electronics-he001/&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQFnoFCIYBEAE",
+            "displayed_link": "https://www.ikea.com \u203a cat \u203a home-electronics-he001",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3fkHeq844P33288hla7DFUtnXgf6DS6-HtVNTy3BKqlooRpm_UazT&s",
+            "favicon": "https://serpapi.com/searches/68b8769fbadf0b11d61af3c5/images/783be9ab2e3837321ee7b86c8c14c8b9db1df1c3c7593a7bbe880d59dc656295.png",
+            "snippet": "Upgrade your living space with items from our home electronics range. From smart lighting to speakers, we've got the products that can elevate your home.",
+            "snippet_highlighted_words": [
+                "electronics"
+            ],
+            "source": "IKEA"
+        },
+        {
+            "position": 47,
+            "title": "TVs and Electronics - Buy Electronic Products Online from ...",
+            "link": "https://www.sears.com/tvs-electronics/b-1231469010",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sears.com/tvs-electronics/b-1231469010&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQFnoECDgQAQ",
+            "displayed_link": "https://www.sears.com \u203a tvs-electronics",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0ZNpbl8f9fr3MM-e-7YdWX4zND0_mrIDHoMeShFc8wS54WKmhbYil&s",
+            "favicon": "https://serpapi.com/searches/68b8769fbadf0b11d61af3c5/images/783be9ab2e3837321ee7b86c8c14c8b9d55a891ef80c2de74eb908733f9a67e0.png",
+            "snippet": "Shop TVs, laptops, cell phones, speakers, video games and more at Sears from brands like Apple and Sony for your professional needs and your daily dose of ...",
+            "images": [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0ZNpbl8f9fr3MM-e-7YdWX4zND0_mrIDHoMeShFc8wS54WKmhbYil&s"
+            ],
+            "source": "Sears"
+        },
+        {
+            "position": 48,
+            "title": "Micro Center - Computer & Electronics Retailer - Shop Now",
+            "link": "https://www.microcenter.com/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.microcenter.com/&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQFnoECCYQAQ",
+            "displayed_link": "https://www.microcenter.com",
+            "favicon": "https://serpapi.com/searches/68b8769fbadf0b11d61af3c5/images/783be9ab2e3837321ee7b86c8c14c8b99d5bb4f57868058c2ca581f4f429256d.png",
+            "snippet": "Shop Micro Center for electronics, PCs, laptops, Apple products, and much more. Enjoy in-store pickup, top deals, and expert same-day tech support.",
+            "snippet_highlighted_words": [
+                "electronics"
+            ],
+            "source": "Micro Center"
+        },
+        {
+            "position": 49,
+            "title": "Xcite: Kuwait's Leading Online Shopping Electronics Store",
+            "link": "https://www.xcite.com/?srsltid=AfmBOor1tBOWxkf9dsx4tiNhxzN4mUqPS33YPpq1s2hFtPt_zOFXiyNA",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.xcite.com/%3Fsrsltid%3DAfmBOor1tBOWxkf9dsx4tiNhxzN4mUqPS33YPpq1s2hFtPt_zOFXiyNA&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQFnoECCUQAQ",
+            "displayed_link": "https://www.xcite.com",
+            "favicon": "https://serpapi.com/searches/68b8769fbadf0b11d61af3c5/images/783be9ab2e3837321ee7b86c8c14c8b9ce8beda0b5c1b7237d84a27809aad3cd.png",
+            "snippet": "Welcome to Xcite - Kuwait's leading online shopping destination. Discover a diverse range of electronics. Shop online now for the best deals with free ...",
+            "snippet_highlighted_words": [
+                "online",
+                "electronics",
+                "online"
+            ],
+            "source": "Xcite"
+        },
+        {
+            "position": 50,
+            "title": "DigiKey Canada | Electronic Parts and Components \u2013 Fast ...",
+            "link": "https://www.digikey.ca/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.digikey.ca/&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQFnoECCcQAQ",
+            "displayed_link": "https://www.digikey.ca",
+            "favicon": "https://serpapi.com/searches/68b8769fbadf0b11d61af3c5/images/783be9ab2e3837321ee7b86c8c14c8b93812903f0866edd367222054f20b90f4.png",
+            "snippet": "DigiKey is your go-to source for millions of electronic components, many in-stock quantities, fast shipping, and expert support. From design to production, ...",
+            "snippet_highlighted_words": [
+                "electronic"
+            ],
+            "source": "DigiKey"
+        }
+    ],
+    "related_searches": [
+        {
+            "block_position": 1,
+            "items": [
+                {
+                    "name": "Walmart",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ92mP2gJPqK12tzk1g9_E2iJei1maZMV2gO7jt&s=0",
+                    "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Walmart&stick=H4sIAAAAAAAAAAFUAKv_CDEiCC9tLzA4NDF2-gEAsAQAogUHV2FsbWFydNoGGQC7ooj5BEW_MbE5M7GyFuO3B_pH_X1mmKmiCBZQZW9wbGUgYWxzbyBzZWFyY2ggZm9yqAgBrokLl1QAAAA&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQs9oBKAB6BQjTARAK",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=Walmart&stick=H4sIAAAAAAAAAAFUAKv_CDEiCC9tLzA4NDF2-gEAsAQAogUHV2FsbWFydNoGGQC7ooj5BEW_MbE5M7GyFuO3B_pH_X1mmKmiCBZQZW9wbGUgYWxzbyBzZWFyY2ggZm9yqAgBrokLl1QAAAA"
+                },
+                {
+                    "name": "Best Buy",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwgiD9Cprc9fgQueIUMjLdPZr_-kSkfZZJ3ks5&s=0",
+                    "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Best+Buy&stick=H4sIAAAAAAAAAAFWAKn_CDEiCS9tLzAxenJkePoBALAEAKIFCEJlc3QgQnV52gYZALuiiPkERb8xsTkzsbIW47cH-kf9fWaYqaIIFlBlb3BsZSBhbHNvIHNlYXJjaCBmb3KoCAEL-xlWVgAAAA&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQs9oBKAB6BQjTARAP",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=Best+Buy&stick=H4sIAAAAAAAAAAFWAKn_CDEiCS9tLzAxenJkePoBALAEAKIFCEJlc3QgQnV52gYZALuiiPkERb8xsTkzsbIW47cH-kf9fWaYqaIIFlBlb3BsZSBhbHNvIHNlYXJjaCBmb3KoCAEL-xlWVgAAAA"
+                },
+                {
+                    "name": "Home Depot",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuRCxKEOA8QtPk_thlre_vk3q5WKv9pWEO2O-E&s=0",
+                    "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Home+Depot&stick=H4sIAAAAAAAAAAFYAKf_CDEiCS9tLzAxemoxdPoBALAEAKIFCkhvbWUgRGVwb3TaBhkAu6KI-QRFvzGxOTOxshbjtwf6R_19ZpipoggWUGVvcGxlIGFsc28gc2VhcmNoIGZvcqgIAYWdZ69YAAAA&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQs9oBKAB6BQjTARAU",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=Home+Depot&stick=H4sIAAAAAAAAAAFYAKf_CDEiCS9tLzAxemoxdPoBALAEAKIFCkhvbWUgRGVwb3TaBhkAu6KI-QRFvzGxOTOxshbjtwf6R_19ZpipoggWUGVvcGxlIGFsc28gc2VhcmNoIGZvcqgIAYWdZ69YAAAA"
+                },
+                {
+                    "name": "Amazon.com",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlnp6Q8qjuP65yPwpYsTmo3cGp0mBWVcIn6VIK&s=0",
+                    "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Amazon&stick=H4sIAAAAAAAAAAFTAKz_CDEiCC9tLzBtZ2tn-gEAsAQAogUGQW1hem9u2gYZALuiiPkERb8xsTkzsbIW47cH-kf9fWaYqaIIFlBlb3BsZSBhbHNvIHNlYXJjaCBmb3KoCAFunKVEUwAAAA&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQs9oBKAB6BQjTARAZ",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=Amazon&stick=H4sIAAAAAAAAAAFTAKz_CDEiCC9tLzBtZ2tn-gEAsAQAogUGQW1hem9u2gYZALuiiPkERb8xsTkzsbIW47cH-kf9fWaYqaIIFlBlb3BsZSBhbHNvIHNlYXJjaCBmb3KoCAFunKVEUwAAAA"
+                },
+                {
+                    "name": "Target Corporation",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe12v-YiX6tML5PpAGXTIcqpBP2m2uFJ1WXl9q&s=0",
+                    "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Target+Corporation&stick=H4sIAAAAAAAAAAFgAJ__CDEiCS9tLzAxYjM5avoBALAEAKIFElRhcmdldCBDb3Jwb3JhdGlvbtoGGQC7ooj5BEW_MbE5M7GyFuO3B_pH_X1mmKmiCBZQZW9wbGUgYWxzbyBzZWFyY2ggZm9yqAgBTUjK82AAAAA&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQs9oBKAB6BQjTARAe",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=Target+Corporation&stick=H4sIAAAAAAAAAAFgAJ__CDEiCS9tLzAxYjM5avoBALAEAKIFElRhcmdldCBDb3Jwb3JhdGlvbtoGGQC7ooj5BEW_MbE5M7GyFuO3B_pH_X1mmKmiCBZQZW9wbGUgYWxzbyBzZWFyY2ggZm9yqAgBTUjK82AAAAA"
+                },
+                {
+                    "name": "Apple",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKH5oqhZaiLM3J_NCECw0IVQTZnUs66ZG7RvUI&s=0",
+                    "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Apple&stick=H4sIAAAAAAAAAOMwVGLXz9U3yLao-sXIsIGFYRErq2NBQU7qLTZJht2LOn6yuO433GhpvHGT2OPt7L_c_9amzVi5iEMsIDUfqEghMac4X6E4NbEoOUMhLb9oBQcjAC92E21RAAAA&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQs9oBKAB6BQjTARAj",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=Apple&stick=H4sIAAAAAAAAAOMwVGLXz9U3yLao-sXIsIGFYRErq2NBQU7qLTZJht2LOn6yuO433GhpvHGT2OPt7L_c_9amzVi5iEMsIDUfqEghMac4X6E4NbEoOUMhLb9oBQcjAC92E21RAAAA"
+                }
+            ]
+        },
+        {
+            "block_position": 1,
+            "query": "Buy electronics online canada",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Buy+electronics+online+canada&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQ1QJ6BQjbARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=Buy+electronics+online+canada"
+        },
+        {
+            "block_position": 1,
+            "query": "Best place to buy electronics online",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Best+place+to+buy+electronics+online&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQ1QJ6BQjaARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=Best+place+to+buy+electronics+online"
+        },
+        {
+            "block_position": 1,
+            "query": "Buy electronics online free shipping",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Buy+electronics+online+free+shipping&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQ1QJ6BQjZARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=Buy+electronics+online+free+shipping"
+        },
+        {
+            "block_position": 1,
+            "query": "Buy electronics online cheap",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Buy+electronics+online+cheap&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQ1QJ6BQjYARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=Buy+electronics+online+cheap"
+        },
+        {
+            "block_position": 1,
+            "query": "Best Buy",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Best+Buy&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQ1QJ6BQjWARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=Best+Buy"
+        },
+        {
+            "block_position": 1,
+            "query": "Best online electronics store in Canada",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Best+online+electronics+store+in+Canada&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQ1QJ6BQjXARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=Best+online+electronics+store+in+Canada"
+        },
+        {
+            "block_position": 1,
+            "query": "Visions electronics",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Visions+electronics&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQ1QJ6BQjVARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=Visions+electronics"
+        }
+    ],
+    "refine_this_search": [
+        {
+            "query": "Under $500",
+            "link": "https://www.google.com/search?q=buy+electronics+online+under+$500&shoprs=CAESDRILEQAAAABlzb1BGAEYBSoWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIjCAUSClVuZGVyICQ1MDAYAiINEgsRAAAAAGXNvUEYASoCGAFY2qcgYAE&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQip4GKAF6BAgbEEw",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=buy+electronics+online+under+%24500"
+        },
+        {
+            "query": "On sale",
+            "link": "https://www.google.com/search?q=buy+electronics+online+sale&shoprs=CAESBEoCCAEYBioWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTITCAYSB09uIHNhbGUYAiIESgIIAVjapyBgAQ&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQip4GKAJ6BAgbEE0",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=buy+electronics+online+sale"
+        },
+        {
+            "query": "New",
+            "link": "https://www.google.com/search?q=new+buy+electronics+online&shoprs=CAEYCioWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIHCAoSA05ld1japyBgAQ&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQip4GKAN6BAgbEE4",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=new+buy+electronics+online"
+        },
+        {
+            "query": "Used",
+            "link": "https://www.google.com/search?q=used+buy+electronics+online&shoprs=CAEYCioWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIICAoSBFVzZWRY2qcgYAE&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQip4GKAR6BAgbEE8",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=used+buy+electronics+online"
+        },
+        {
+            "query": "Usa",
+            "link": "https://www.google.com/search?q=usa+buy+electronics+online&shoprs=CAEYEioWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIHCBISA1VzYWAB&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQip4GKAV6BAgbEFA",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=usa+buy+electronics+online"
+        },
+        {
+            "query": "Nearby",
+            "link": "https://www.google.com/search?q=buy+electronics+online+nearby&shoprs=CAEYAyoWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIMCAMSBk5lYXJieRgCWNqnIGAB&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQip4GKAZ6BAgbEFE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=buy+electronics+online+nearby"
+        },
+        {
+            "query": "Store",
+            "link": "https://www.google.com/search?q=store+buy+electronics+online&shoprs=CAEYEioWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIJCBISBVN0b3JlYAE&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQip4GKAd6BAgbEFI",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=store+buy+electronics+online"
+        },
+        {
+            "query": "Free",
+            "link": "https://www.google.com/search?q=free+buy+electronics+online&shoprs=CAEYEioWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIICBISBEZyZWVgAQ&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQip4GKAh6BAgbEFM",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=free+buy+electronics+online"
+        },
+        {
+            "query": "TVs",
+            "link": "https://www.google.com/search?q=tvs+buy+electronics+online&shoprs=CAEYCSoWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIHCAkSA1RWc2AB&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQip4GKAl6BAgbEFQ",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=tvs+buy+electronics+online"
+        },
+        {
+            "query": "Free shipping",
+            "link": "https://www.google.com/search?q=buy+electronics+online+free+shipping&shoprs=CAESBFICEAEYGSoWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIXCBkSDUZyZWUgc2hpcHBpbmciBFICEAFgAQ&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQip4GKAp6BAgbEFU",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=buy+electronics+online+free+shipping"
+        },
+        {
+            "query": "Laptops",
+            "link": "https://www.google.com/search?q=laptops+buy+electronics+online&shoprs=CAEYCSoWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTILCAkSB0xhcHRvcHNgAQ&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQip4GKAt6BAgbEFY",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=laptops+buy+electronics+online"
+        },
+        {
+            "query": "Radios",
+            "link": "https://www.google.com/search?q=radios+buy+electronics+online&shoprs=CAEYCSoWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIKCAkSBlJhZGlvc2AB&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQip4GKAx6BAgbEFc",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=radios+buy+electronics+online"
+        },
+        {
+            "query": "Digital",
+            "link": "https://www.google.com/search?q=digital+buy+electronics+online&shoprs=CAEYEioWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTILCBISB0RpZ2l0YWxgAQ&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQip4GKA16BAgbEFg",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=digital+buy+electronics+online"
+        },
+        {
+            "query": "Speakers",
+            "link": "https://www.google.com/search?q=speakers+buy+electronics+online&shoprs=CAEYCSoWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIMCAkSCFNwZWFrZXJzYAE&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQip4GKA56BAgbEFk",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=speakers+buy+electronics+online"
+        },
+        {
+            "query": "Cell Phones",
+            "link": "https://www.google.com/search?q=cell+phones+buy+electronics+online&shoprs=CAEYCSoWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIPCAkSC0NlbGwgUGhvbmVzYAE&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQip4GKA96BAgbEFo",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=cell+phones+buy+electronics+online"
+        },
+        {
+            "query": "Best Buy Canada",
+            "link": "https://www.google.com/search?q=best+buy+canada+electronics+online&shoprs=CAEYAioWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTITCAISD0Jlc3QgQnV5IENhbmFkYVjapyBgAQ&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQip4GKBB6BAgbEFs",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=best+buy+canada+electronics+online"
+        },
+        {
+            "query": "Desktop Computers",
+            "link": "https://www.google.com/search?q=desktop+computers+buy+electronics+online&shoprs=CAEYCSoWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIVCAkSEURlc2t0b3AgQ29tcHV0ZXJzYAE&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQip4GKBF6BAgbEFw",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=desktop+computers+buy+electronics+online"
+        },
+        {
+            "query": "Apple",
+            "link": "https://www.google.com/search?q=apple+buy+electronics+online&shoprs=CAEYASoWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIVCAESBUFwcGxlOgoIg_M8EJnePTABWNqnIGAB&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQip4GKBJ6BAgbEF0",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=apple+buy+electronics+online"
+        },
+        {
+            "query": "LG",
+            "link": "https://www.google.com/search?q=lg+buy+electronics+online&shoprs=CAEYASoWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTISCAESAkxHOgoIg_M8EN7kPTABWNqnIGAB&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQip4GKBN6BAgbEF4",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=lg+buy+electronics+online"
+        },
+        {
+            "query": "Reviews",
+            "link": "https://www.google.com/search?q=reviews+buy+electronics+online&shoprs=CAEYEioWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTILCBISB1Jldmlld3NgAQ&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQip4GKBR6BAgbEF8",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=reviews+buy+electronics+online"
+        },
+        {
+            "query": "Computer Monitors",
+            "link": "https://www.google.com/search?q=computer+monitors+buy+electronics+online&shoprs=CAEYCSoWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIVCAkSEUNvbXB1dGVyIE1vbml0b3JzYAE&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQip4GKBV6BAgbEGA",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=computer+monitors+buy+electronics+online"
+        },
+        {
+            "query": "Tablets",
+            "link": "https://www.google.com/search?q=tablets+buy+electronics+online&shoprs=CAEYCSoWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTILCAkSB1RhYmxldHNgAQ&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQip4GKBZ6BAgbEGE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=tablets+buy+electronics+online"
+        },
+        {
+            "query": "Telephones",
+            "link": "https://www.google.com/search?q=telephones+buy+electronics+online&shoprs=CAEYCSoWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIOCAkSClRlbGVwaG9uZXNgAQ&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQip4GKBd6BAgbEGI",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=telephones+buy+electronics+online"
+        },
+        {
+            "query": "Sony",
+            "link": "https://www.google.com/search?q=sony+buy+electronics+online&shoprs=CAEYASoWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIUCAESBFNvbnk6CgiD8zwQruo9MAFY2qcgYAE&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQip4GKBh6BAgbEGM",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=sony+buy+electronics+online"
+        },
+        {
+            "query": "Amazon",
+            "link": "https://www.google.com/search?q=amazon+buy+electronics+online&shoprs=CAEYASoWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIWCAESBkFtYXpvbjoKCIPzPBCH6D0wAVjapyBgAQ&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQip4GKBl6BAgbEGQ",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=amazon+buy+electronics+online"
+        },
+        {
+            "query": "For Sale",
+            "link": "https://www.google.com/search?q=buy+electronics+online+for+sale&shoprs=CAEYEioWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIMCBISCEZvciBTYWxlYAE&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQip4GKBp6BAgbEGU",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=buy+electronics+online+for+sale"
+        },
+        {
+            "query": "Microsoft",
+            "link": "https://www.google.com/search?q=microsoft+buy+electronics+online&shoprs=CAEYASoWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIZCAESCU1pY3Jvc29mdDoKCIPzPBCO6j0wAVjapyBgAQ&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQip4GKBt6BAgbEGY",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=microsoft+buy+electronics+online"
+        },
+        {
+            "query": "Headphones",
+            "link": "https://www.google.com/search?q=headphones+buy+electronics+online&shoprs=CAEYASoWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIaCAESCkhlYWRwaG9uZXM6CgjS1z0Q09c9MAJY2qcgYAE&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQip4GKBx6BAgbEGc",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=headphones+buy+electronics+online"
+        }
+    ],
+    "refine_search_filters": [
+        {
+            "type": "Product Rating",
+            "options": [
+                {
+                    "title": "",
+                    "link": "https://www.google.com/search?q=buy+electronics+online&shoprs=CAESBWIDCJADGB4qFmJ1eSBlbGVjdHJvbmljcyBvbmxpbmUyFQgeEgg0IGFuZCB1cCIFYgMIkANABGAC&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQ268JKAB6BAgbEAc",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=buy+electronics+online"
+                }
+            ]
+        },
+        {
+            "type": "Price",
+            "options": [
+                {
+                    "title": "Under $500",
+                    "link": "https://www.google.com/search?q=buy+electronics+online+under+$500&shoprs=CAESDRILEQAAAABlzb1BGAEYBSoWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIjCAUSClVuZGVyICQ1MDAYAiINEgsRAAAAAGXNvUEYASoCGAFY2qcgYAI&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQ268JKAB6BAgbEAw",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=buy+electronics+online+under+%24500"
+                },
+                {
+                    "title": "Over $500",
+                    "link": "https://www.google.com/search?q=buy+electronics+online+over+$500&shoprs=CAESDRILCQAAAABlzb1BGAEYBSoWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIiCAUSCU92ZXIgJDUwMBgCIg0SCwkAAAAAZc29QRgBKgIYAVjapyBgAg&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQ268JKAF6BAgbEA0",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=buy+electronics+online+over+%24500"
+                }
+            ]
+        },
+        {
+            "type": "Free shipping",
+            "options": [
+                {
+                    "title": "Free shipping",
+                    "link": "https://www.google.com/search?q=buy+electronics+online+free+shipping&shoprs=CAESBFICEAEYGSoWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIXCBkSDUZyZWUgc2hpcHBpbmciBFICEAFgAg&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQ268JKAB6BAgbEBQ",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=buy+electronics+online+free+shipping"
+                }
+            ]
+        },
+        {
+            "type": "Category",
+            "options": [
+                {
+                    "title": "TVs",
+                    "link": "https://www.google.com/search?q=tvs+buy+electronics+online&shoprs=CAEYCSoWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIHCAkSA1RWc2AC&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQ268JKAB6BAgbEBg",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=tvs+buy+electronics+online"
+                },
+                {
+                    "title": "Laptops",
+                    "link": "https://www.google.com/search?q=laptops+buy+electronics+online&shoprs=CAEYCSoWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTILCAkSB0xhcHRvcHNgAg&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQ268JKAF6BAgbEBk",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=laptops+buy+electronics+online"
+                },
+                {
+                    "title": "Radios",
+                    "link": "https://www.google.com/search?q=radios+buy+electronics+online&shoprs=CAEYCSoWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIKCAkSBlJhZGlvc2AC&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQ268JKAJ6BAgbEBo",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=radios+buy+electronics+online"
+                },
+                {
+                    "title": "Speakers",
+                    "link": "https://www.google.com/search?q=speakers+buy+electronics+online&shoprs=CAEYCSoWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIMCAkSCFNwZWFrZXJzYAI&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQ268JKAN6BAgbEBs",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=speakers+buy+electronics+online"
+                }
+            ]
+        },
+        {
+            "type": "Brand",
+            "options": [
+                {
+                    "title": "Apple",
+                    "link": "https://www.google.com/search?q=apple+buy+electronics+online&shoprs=CAEYASoWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIVCAESBUFwcGxlOgoIg_M8EJnePTABWNqnIGAC&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQ268JKAB6BAgbECE",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=apple+buy+electronics+online"
+                },
+                {
+                    "title": "LG",
+                    "link": "https://www.google.com/search?q=lg+buy+electronics+online&shoprs=CAEYASoWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTISCAESAkxHOgoIg_M8EN7kPTABWNqnIGAC&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQ268JKAF6BAgbECI",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=lg+buy+electronics+online"
+                },
+                {
+                    "title": "Sony",
+                    "link": "https://www.google.com/search?q=sony+buy+electronics+online&shoprs=CAEYASoWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIUCAESBFNvbnk6CgiD8zwQruo9MAFY2qcgYAI&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQ268JKAJ6BAgbECM",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=sony+buy+electronics+online"
+                },
+                {
+                    "title": "Amazon",
+                    "link": "https://www.google.com/search?q=amazon+buy+electronics+online&shoprs=CAEYASoWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIWCAESBkFtYXpvbjoKCIPzPBCH6D0wAVjapyBgAg&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQ268JKAN6BAgbECQ",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=amazon+buy+electronics+online"
+                }
+            ]
+        },
+        {
+            "type": "Use",
+            "options": [
+                {
+                    "title": "Computer",
+                    "link": "https://www.google.com/search?q=computer+buy+electronics+online&shoprs=CAEYASoWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIaCAESCENvbXB1dGVyOgwIx4zwARDIjPABMABY2qcgYAI&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQ268JKAB6BAgbECo",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=computer+buy+electronics+online"
+                },
+                {
+                    "title": "Shower",
+                    "link": "https://www.google.com/search?q=shower+buy+electronics+online&shoprs=CAEYASoWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIYCAESBlNob3dlcjoMCMeM8AEQyYzwATAAWNqnIGAC&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQ268JKAF6BAgbECs",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=shower+buy+electronics+online"
+                }
+            ]
+        },
+        {
+            "type": "Stores",
+            "options": [
+                {
+                    "title": "Best Buy Canada",
+                    "link": "https://www.google.com/search?q=best+buy+canada+electronics+online&shoprs=CAEYAioWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTITCAISD0Jlc3QgQnV5IENhbmFkYVjapyBgAg&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQ268JKAB6BAgbEC8",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=best+buy+canada+electronics+online"
+                },
+                {
+                    "title": "Staples Canada",
+                    "link": "https://www.google.com/search?q=staples+canada+buy+electronics+online&shoprs=CAEYAioWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTISCAISDlN0YXBsZXMgQ2FuYWRhWNqnIGAC&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQ268JKAF6BAgbEDA",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=staples+canada+buy+electronics+online"
+                },
+                {
+                    "title": "Home Depot Canada",
+                    "link": "https://www.google.com/search?q=home+depot+canada+buy+electronics+online&shoprs=CAEYAioWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIVCAISEUhvbWUgRGVwb3QgQ2FuYWRhWNqnIGAC&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQ268JKAJ6BAgbEDE",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=home+depot+canada+buy+electronics+online"
+                },
+                {
+                    "title": "eBay",
+                    "link": "https://www.google.com/search?q=ebay+buy+electronics+online&shoprs=CAEYAioWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIICAISBGVCYXlY2qcgYAI&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQ268JKAN6BAgbEDI",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=ebay+buy+electronics+online"
+                }
+            ]
+        },
+        {
+            "type": "Color",
+            "options": [
+                {
+                    "title": "Green",
+                    "link": "https://www.google.com/search?q=green+buy+electronics+online&shoprs=CAEYASoWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIXCAESBUdyZWVuOgwI2Iz1ARDoivUBMAtY2qcgYAI&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQ268JKAB6BAgbEDg",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=green+buy+electronics+online"
+                },
+                {
+                    "title": "Orange",
+                    "link": "https://www.google.com/search?q=orange+buy+electronics+online&shoprs=CAEYASoWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIYCAESBk9yYW5nZToMCNiM9QEQ7or1ATALWNqnIGAC&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQ268JKAF6BAgbEDk",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=orange+buy+electronics+online"
+                },
+                {
+                    "title": "Pink",
+                    "link": "https://www.google.com/search?q=pink+buy+electronics+online&shoprs=CAEYASoWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIWCAESBFBpbms6DAjYjPUBEOmK9QEwC1japyBgAg&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQ268JKAJ6BAgbEDo",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=pink+buy+electronics+online"
+                },
+                {
+                    "title": "Black",
+                    "link": "https://www.google.com/search?q=black+buy+electronics+online&shoprs=CAEYASoWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIXCAESBUJsYWNrOgwI2Iz1ARDlivUBMAtY2qcgYAI&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQ268JKAN6BAgbEDs",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=black+buy+electronics+online"
+                }
+            ]
+        },
+        {
+            "type": "Connectivity",
+            "options": [
+                {
+                    "title": "Bluetooth",
+                    "link": "https://www.google.com/search?q=bluetooth+buy+electronics+online&shoprs=CAEYASoWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIbCAESCUJsdWV0b290aDoMCNiM8AEQ2YzwATAAWNqnIGAC&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQ268JKAB6BAgbEEE",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=bluetooth+buy+electronics+online"
+                },
+                {
+                    "title": "USB",
+                    "link": "https://www.google.com/search?q=usb+buy+electronics+online&shoprs=CAEYASoWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIVCAESA1VTQjoMCNiM8AEQi77wATAAWNqnIGAC&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQ268JKAF6BAgbEEI",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=usb+buy+electronics+online"
+                },
+                {
+                    "title": "HDMI",
+                    "link": "https://www.google.com/search?q=hdmi+buy+electronics+online&shoprs=CAEYASoWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIWCAESBEhETUk6DAjYjPABEIy-8AEwAFjapyBgAg&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQ268JKAJ6BAgbEEM",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=hdmi+buy+electronics+online"
+                },
+                {
+                    "title": "Wi-Fi",
+                    "link": "https://www.google.com/search?q=wi-fi+buy+electronics+online&shoprs=CAEYASoWYnV5IGVsZWN0cm9uaWNzIG9ubGluZTIXCAESBVdpLUZpOgwI2IzwARDajPABMABY2qcgYAI&sa=X&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQ268JKAN6BAgbEEQ",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=wi-fi+buy+electronics+online"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=buy+electronics+online&num=50&sca_esv=cbb70bed2ede2303&ei=n3a4aMqyK-rf1sQPl6eMiAc&start=50&sa=N&sstk=Ac65TH5z7Y-b0i5NvDoL6bnT9XyxdtxIccp863MZTy00Iwqnh_h8uCuTvEDywM9KLbuVWK4rpRleTT_HNkXURJglvSn1B9voiknCdg&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQ8NMDegQICBAK",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=buy+electronics+online&num=50&sca_esv=cbb70bed2ede2303&ei=n3a4aMqyK-rf1sQPl6eMiAc&start=50&sa=N&sstk=Ac65TH5z7Y-b0i5NvDoL6bnT9XyxdtxIccp863MZTy00Iwqnh_h8uCuTvEDywM9KLbuVWK4rpRleTT_HNkXURJglvSn1B9voiknCdg&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQ8tMDegQICBAE",
+            "3": "https://www.google.com/search?q=buy+electronics+online&num=50&sca_esv=cbb70bed2ede2303&ei=n3a4aMqyK-rf1sQPl6eMiAc&start=100&sa=N&sstk=Ac65TH5z7Y-b0i5NvDoL6bnT9XyxdtxIccp863MZTy00Iwqnh_h8uCuTvEDywM9KLbuVWK4rpRleTT_HNkXURJglvSn1B9voiknCdg&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQ8tMDegQICBAG",
+            "4": "https://www.google.com/search?q=buy+electronics+online&num=50&sca_esv=cbb70bed2ede2303&ei=n3a4aMqyK-rf1sQPl6eMiAc&start=150&sa=N&sstk=Ac65TH5z7Y-b0i5NvDoL6bnT9XyxdtxIccp863MZTy00Iwqnh_h8uCuTvEDywM9KLbuVWK4rpRleTT_HNkXURJglvSn1B9voiknCdg&ved=2ahUKEwiK_rmAi72PAxXqr5UCHZcTA3EQ8tMDegQICBAI"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=buy+electronics+online&start=50",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=buy+electronics+online&start=50",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=buy+electronics+online&start=50",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=buy+electronics+online&start=100",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Japan&num=50&q=buy+electronics+online&start=150"
+        }
+    }
+}

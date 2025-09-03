@@ -1,0 +1,1793 @@
+{
+    "search_metadata": {
+        "id": "68b87652fdfbab9321b9e215",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/36cc7a086eb2fdc1/68b87652fdfbab9321b9e215.json",
+        "pixel_position_endpoint": "https://serpapi.com/searches/36cc7a086eb2fdc1/68b87652fdfbab9321b9e215.json_with_pixel_position",
+        "created_at": "2025-09-03 17:09:38 UTC",
+        "processed_at": "2025-09-03 17:09:38 UTC",
+        "google_url": "https://www.google.com/search?q=best+food&oq=best+food&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&num=50&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/36cc7a086eb2fdc1/68b87652fdfbab9321b9e215.html",
+        "total_time_taken": 1.57
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "best food",
+        "location_requested": "United States",
+        "location_used": "United States",
+        "google_domain": "google.com",
+        "num": "50",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "best food",
+        "total_results": 10790000000,
+        "time_taken_displayed": 0.4,
+        "organic_results_state": "Results for exact spelling"
+    },
+    "inline_images": [
+        {
+            "source": "https://www.eater.com/24282771/best-new-restaurants-america-2024",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiCm3tVUDCLfPcQ_jcGM2G-CTaKSIpv4tYgNfebhnb8zmnqQqz_B2qnCE&s",
+            "original": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25734730/1.jpg?quality=90&strip=all&crop=16.720691518098%2C0%2C66.558616963803%2C100&w=2400",
+            "title": "The 14 Best New Restaurants in America in 2024 | Eater",
+            "source_name": "Eater"
+        },
+        {
+            "source": "https://www.delish.com/cooking/recipe-ideas/a37694582/picanha-steak-recipe/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUtgMrJ9HsEpUFdE6m4OY3q56dB3HmyM7Y7AiD4H1xV1s1iCpaU4g5gAE&s",
+            "original": "https://hips.hearstapps.com/hmg-prod/images/del059924-picanhasteak-024-bjg-index-664d1411c61e0.jpg?crop=0.8888888888888888xw:1xh;center,top&resize=1200:*",
+            "title": "Picanha Steak",
+            "source_name": "Delish"
+        },
+        {
+            "source": "https://www.washingtonian.com/2020/01/22/anju-100-very-best-restaurants/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOsKms9mm46CWSsxJvhib0lzuYWfAJFsbbrCcY8UJBrF5srsA8dcCBXxE&s",
+            "original": "https://www.washingtonian.com/wp-content/uploads/2020/01/100Best-scaled.jpg",
+            "title": "Anju Is #1 on Washingtonian's 100 Very Best Restaurants List ...",
+            "source_name": "Washingtonian"
+        },
+        {
+            "source": "https://www.leahsugerman.com/blog/worlds-best-food",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP117VQ2GExD_i4ZVlF11LwJmsPr-79WldGpKnCVV2AppfGHZD9s0otFQ&s",
+            "original": "https://cdn.prod.website-files.com/56f03b1536442f6b27f0f08c/5f03324cbb2506842953d137_worlds-best-foods-pizza.jpg",
+            "title": "World's Best Food: 10 Dishes From Around the World You Need ...",
+            "source_name": "Leah Sugerman"
+        },
+        {
+            "source": "https://www.foodnetwork.com/fn-dish/recipes/2020/3/comfort-food-recipes-food-network-staffers",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiyVREtPJModXB5KHt4XYNmAqhRubs3bTbo2aIt68zgzCPv7bLm5iP5Mg&s",
+            "original": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2020/03/10/0/FNK_BEST-CHICKEN-AND-RICE-H_s4x3.jpg.rend.hgtvcom.1280.1280.85.suffix/1583851621211.webp",
+            "title": "Our Favorite Comfort Food Recipes | Food Network",
+            "source_name": "Food Network"
+        },
+        {
+            "source": "https://www.nytimes.com/article/best-restaurants-in-atlanta.html",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaQF8h3MuJIfkYKoXnGvXVKl2oH-SqLIJUjUpeD5qVY5-IcNrRDhDKXts&s",
+            "original": "https://static01.nyt.com/images/2024/10/30/multimedia/30best-restaurants-atlanta29-jhwc/21best-restaurants-atlanta29-jhwc-videoSixteenByNineJumbo1600.jpg",
+            "title": "The Best Restaurants in Atlanta - The New York Times",
+            "source_name": "The New York Times"
+        },
+        {
+            "source": "https://localadventurer.com/places-to-eat-in-nyc-food-bucket-list/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCUGu549fk8LYN6C29_yx1NxM9-Jl6tiHoxyGJCuzxoEAGvnIYbo89fm4&s",
+            "original": "https://localadventurer.com/wp-content/uploads/2018/04/places-to-eat-in-nyc-food-bucket-list.jpg",
+            "title": "The Ultimate NYC Food Bucket List in 2025 (99 Best Places to ...",
+            "source_name": "Local Adventurer"
+        },
+        {
+            "source": "https://www.youtube.com/watch?v=Cch4mayoNgg",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8mAlsY0v9xxaq8Sxqn-K23idzGICUpXXYvwRJL92sWyLNl5A9vnSSSN4&s",
+            "original": "https://i.ytimg.com/vi/Cch4mayoNgg/maxresdefault.jpg",
+            "title": "#1 Food Country in the World?? I Put it to the Test!",
+            "source_name": "YouTube"
+        },
+        {
+            "source": "https://www.bbcgoodfood.com/recipes/category/cuisine-collections",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmNHFBAnJr6ZdYLBUDlTsF_v6zkAR0EUuHNXmtB_JBRDWo7kBJV3mHJMs&s",
+            "original": "https://images.immediate.co.uk/production/volatile/sites/30/2023/01/Maqlooba-4cd95c3.jpg?quality=90&resize=708,643",
+            "title": "Cuisines recipes | Good Food",
+            "source_name": "BBC Good Food"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "What are the top 10 best foods?",
+            "type": "ai_overview",
+            "text_blocks": [
+                {
+                    "type": "paragraph",
+                    "snippet": "There is no single, definitive list of the top 10 best foods, as \"best\" can mean most popular, healthiest, or most delicious, and varies by region and personal preference. However, globally popular foods include pizza, tacos, sushi, pasta, curry, and hamburgers. For health, key foods are salmon, broccoli, berries, beans, nuts, leafy green vegetables, and whole grains. Some specific dishes frequently mentioned for their excellence are Massaman curry, Neapolitan pizza, sushi, and Peking duck.",
+                    "snippet_highlighted_words": [
+                        "pizza, tacos, sushi, pasta, curry, and hamburgers"
+                    ],
+                    "reference_indexes": [
+                        0,
+                        1,
+                        2,
+                        3,
+                        5,
+                        7
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "snippet": "Popular & Iconic Foods"
+                },
+                {
+                    "type": "list",
+                    "list": [
+                        {
+                            "snippet": "Pizza: A universally loved dish with global appeal.",
+                            "reference_indexes": [
+                                7,
+                                8,
+                                17
+                            ]
+                        },
+                        {
+                            "snippet": "Rice Dishes: Essential for billions worldwide, with dishes like biryani, sushi, and fried rice being popular.",
+                            "reference_indexes": [
+                                7,
+                                12
+                            ]
+                        },
+                        {
+                            "snippet": "Pasta: Versatile and enjoyed in various forms, including spaghetti and lasagna.",
+                            "reference_indexes": [
+                                7
+                            ]
+                        },
+                        {
+                            "snippet": "Noodles: A staple across many cultures, with dishes like ramen and pho being well-known.",
+                            "reference_indexes": [
+                                7
+                            ]
+                        },
+                        {
+                            "snippet": "Hamburgers: An iconic comfort food that is popular across demographics.",
+                            "reference_indexes": [
+                                7,
+                                21
+                            ]
+                        },
+                        {
+                            "snippet": "Sushi: A Japanese staple with international recognition for its fresh ingredients and skilled preparation.",
+                            "reference_indexes": [
+                                0,
+                                7,
+                                16,
+                                19
+                            ]
+                        },
+                        {
+                            "snippet": "Curries: Flavorful dishes featuring complex spices, with varieties like Massaman curry highly praised.",
+                            "reference_indexes": [
+                                0,
+                                7,
+                                9,
+                                20
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "snippet": "Healthy & Nutritious Foods"
+                },
+                {
+                    "type": "list",
+                    "list": [
+                        {
+                            "snippet": "Salmon: A rich source of protein and healthy fats.",
+                            "reference_indexes": [
+                                3,
+                                4
+                            ]
+                        },
+                        {
+                            "snippet": "Broccoli & Leafy Greens: Cruciferous vegetables like broccoli, kale, and spinach are packed with vitamins and minerals.",
+                            "reference_indexes": [
+                                1,
+                                2,
+                                3,
+                                6
+                            ]
+                        },
+                        {
+                            "snippet": "Berries: Blueberries, strawberries, and raspberries are rich in antioxidants.",
+                            "reference_indexes": [
+                                1,
+                                10,
+                                14,
+                                22
+                            ]
+                        },
+                        {
+                            "snippet": "Beans & Lentils: Excellent sources of fiber and plant-based protein.",
+                            "reference_indexes": [
+                                1,
+                                3
+                            ]
+                        },
+                        {
+                            "snippet": "Almonds & Nuts: Provide protein, healthy fats, and other nutrients.",
+                            "reference_indexes": [
+                                2,
+                                3,
+                                15
+                            ]
+                        },
+                        {
+                            "snippet": "Sweet Potatoes: A nutrient-dense and versatile root vegetable.",
+                            "reference_indexes": [
+                                1,
+                                3,
+                                11,
+                                18
+                            ]
+                        },
+                        {
+                            "snippet": "Whole Grains: Quinoa, oats, and whole wheat are good sources of fiber.",
+                            "reference_indexes": [
+                                1,
+                                3
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "snippet": "Highly-Regarded Dishes"
+                },
+                {
+                    "type": "list",
+                    "list": [
+                        {
+                            "snippet": "Massaman Curry (Thailand): Frequently ranked among the world's best dishes due to its complex spices.",
+                            "reference_indexes": [
+                                0,
+                                20
+                            ]
+                        },
+                        {
+                            "snippet": "Neapolitan Pizza (Italy): A specific style of pizza renowned for its authentic preparation.",
+                            "reference_indexes": [
+                                0
+                            ]
+                        },
+                        {
+                            "snippet": "Peking Duck (China): A famous and celebrated dish from Chinese cuisine.",
+                            "reference_indexes": [
+                                0,
+                                13
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "references": [
+                {
+                    "title": "World food: 50 best dishes - CNN",
+                    "link": "https://www.cnn.com/travel/article/world-best-food-dishes",
+                    "snippet": "For now, feast your eyes and control your drooling, as we reveal some of the world's best foods that can help inspire your travel...",
+                    "source": "CNN",
+                    "index": 0
+                },
+                {
+                    "title": "Top 10 Foods for Health | Patient Education",
+                    "link": "https://www.ucsfhealth.org/education/top-ten-foods-for-health#:~:text=Top%2010%20Foods%20for%20Health,Soy",
+                    "snippet": "Top 10 Foods for Health | Patient Education | UCSF Health. Top 10 Foods for Health. 1. Water. Drink 8 to 12 cups of water daily. 2...",
+                    "source": "UCSF Health",
+                    "index": 1
+                },
+                {
+                    "title": "Top 15 healthy foods you should be eating - UC Davis Health",
+                    "link": "https://health.ucdavis.edu/blog/good-food/top-15-healthy-foods-you-should-be-eating/2019/04",
+                    "snippet": "Apr 5, 2019 \u2014 Here are the top 15 foods you should be eating according to our experts: * Fish. ... * Broccoli or any of the crucifer...",
+                    "source": "University of California - Davis Health",
+                    "index": 2
+                },
+                {
+                    "title": "10 great health foods - Mayo Clinic",
+                    "link": "https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/10-great-health-foods/art-20546837",
+                    "snippet": "Mar 28, 2024 \u2014 Here are 10 great foods to add or increase in your diet. * Almonds. Nuts eaten whole are considered a protein, in the...",
+                    "source": "Mayo Clinic",
+                    "index": 3
+                },
+                {
+                    "title": "What are your top 10 favorite foods as an adult? - Quora",
+                    "link": "https://www.quora.com/What-are-your-top-10-favorite-foods-as-an-adult",
+                    "snippet": "Apr 28, 2022 \u2014 * Broccoli. * Asparagus. * Corn. * Yams. * Quinoa. * Yogurt. * Mussells. * Salmon. * T-Bone Steak. * Mashed potatoes.",
+                    "source": "Quora",
+                    "index": 4
+                },
+                {
+                    "title": "Best Fast Food Chains Ranked : r/fastfood",
+                    "link": "https://www.reddit.com/r/fastfood/comments/29ve51/best_fast_food_chains_ranked/#:~:text=As%20with%20many%20comparative%20lists%20like%20this%2C,the%20suburbs%20of%20Boston.%22%20Not%20much%20help.",
+                    "snippet": "Jul 5, 2014 \u2014 As with many comparative lists like this, the top-rated choices are nearly always local or regional and simply aren't a...",
+                    "source": "Reddit",
+                    "index": 5
+                },
+                {
+                    "title": "16 Foods Rich in Minerals",
+                    "link": "https://www.healthline.com/nutrition/foods-with-minerals#:~:text=These%20health%20benefits%20are%20directly%20related%20to,cruciferous%20vegetables%20)%20impressive%20concentration%20of%20minerals.",
+                    "snippet": "Jul 15, 2020 \u2014 These health benefits are directly related to the nutrient density of these veggies, including their ( cruciferous veg...",
+                    "source": "Healthline",
+                    "index": 6
+                },
+                {
+                    "title": "10 Most Popular FOODS in the World | Education - Vocal Media",
+                    "link": "https://vocal.media/education/10-most-popular-foods-in-the-world",
+                    "snippet": "10 Most Popular FOODS in the World * Pizza. * Rice dishes (e.g. fried rice, biryani) * Tacos. * Sushi. * Pasta dishes (e.g. spagh...",
+                    "source": "Vocal",
+                    "index": 7
+                },
+                {
+                    "title": "The most popular american dishes in America | Consumer - YouGov",
+                    "link": "https://today.yougov.com/ratings/consumer/popularity/american-dishes/all#:~:text=popularity%20is%20the%20%25%20of%20people%20who,browns83%25%20*%208%20Steak%20and%20Baked%20potato81%25",
+                    "snippet": "popularity is the % of people who have a positive opinion of a american dish. Find out more * 1 Hamburgers86% * 2 French Fries86%",
+                    "source": "YouGov",
+                    "index": 8
+                },
+                {
+                    "title": "#Top 7 Popular Curries You Must Try at Least Once",
+                    "link": "https://www.secretfoodtours.com/blog/popular-curries-you-must-try/#:~:text=Top%207%20Popular%20Curries%20You%20Must%20Try,of%20a%20curry%20lies%20in%20its%20versatility.",
+                    "snippet": "Jan 25, 2025 \u2014 Top 7 Popular Curries You Must Try at Least Once Curries are loved worldwide for their bold flavors and comforting app...",
+                    "source": "Secret Food Tours",
+                    "index": 9
+                },
+                {
+                    "title": "The health benefits of popular foods",
+                    "link": "https://www.medicalnewstoday.com/articles/269143#:~:text=Strawberries%20Strawberries%20are%20one%20of%20the%20most,that%20can%20be%20beneficial%20for%20your%20health.",
+                    "snippet": "Strawberries Strawberries are one of the most popular, refreshing, and healthy treats on the planet; they contain many vitamins an...",
+                    "source": "MedicalNewsToday",
+                    "index": 10
+                },
+                {
+                    "title": "Top 9 Healthiest Foods to Eat to Lose Weight and Feel Great",
+                    "link": "https://www.healthline.com/nutrition/top-9-healthiest-foods-to-eat#:~:text=Root%20vegetables%20like%20potatoes%20and%20sweet%20potatoes%20are%20healthy%2C%20nutritious%20and%20very%20filling.",
+                    "snippet": "Apr 24, 2018 \u2014 Root vegetables like potatoes and sweet potatoes are healthy, nutritious and very filling.",
+                    "source": "Healthline",
+                    "index": 11
+                },
+                {
+                    "title": "The World's Most Eaten Foods - YouTube",
+                    "link": "https://www.youtube.com/watch?v=GRX7fixiocM&t=12",
+                    "snippet": "Mar 10, 2024 \u2014 you. number one rice this might not have been a surprise for some as rice is the most common food in Asia. and is nati...",
+                    "source": "YouTube \u00b7 Travel & Taste",
+                    "index": 12
+                },
+                {
+                    "title": "Signature dishes around the world",
+                    "link": "https://www.signatureluxurytravel.com.au/signature-dishes-around-the-world/#:~:text=China%20%E2%80%93%20Peking%20Duck%20When%20it%20comes,Duck%20is%20a%20crisp%20and%20succulent%20feast.",
+                    "snippet": "China \u2013 Peking Duck When it comes to signature dishes around the world, Peking Duck is a standout. Globally renowned and synonymou...",
+                    "source": "Signature Luxury Travel & Style",
+                    "index": 13
+                },
+                {
+                    "title": "Top 50 Healthiest Foods",
+                    "link": "https://www.nrgxpress.com/top-50-healthiest-foods/#:~:text=4.%20Blueberries%20Blueberries%20are%20not%20only%20delicious%2C,powerful%20sources%20of%20antioxidants%20in%20the%20world.",
+                    "snippet": "4. Blueberries Blueberries are not only delicious, but also among the most powerful sources of antioxidants in the world.",
+                    "source": "NRG Xpress",
+                    "index": 14
+                },
+                {
+                    "title": "Melt Away Belly Fat with These Superfoods: The Ultimate Guide to the Best Foods for Weight Loss",
+                    "link": "https://appvoices.org/media/melt-away-belly-fat-with-these-superfoods-33985-the-ultimate-guide-to-the-best-foods-for-weight-2/#:~:text=Almonds:%20Almonds%20are%20packed%20with%20protein%2Cs%20mute,a%20satisfying%20crunch%20while%20delivering%20important%20nutrients.",
+                    "snippet": "Jul 22, 2025 \u2014 Almonds: Almonds are packed with protein,s mute disease, fiber, and healthy fats. They can provide a satisfying crunch...",
+                    "source": "Appalachian Voices",
+                    "index": 15
+                },
+                {
+                    "title": "Delicious Favorites at California Pizza Kitchen",
+                    "link": "https://www.lemon8-app.com/jimenneeezzz/7215747018407444997?region=us#:~:text=Top%20Favorite%20Foods:%20Sushi%2C%20Seafood%2C%20and%20More,for%20its%20vibrant%20presentation%20and%20fresh%20ingredients.",
+                    "snippet": "Mar 28, 2023 \u2014 Top Favorite Foods: Sushi, Seafood, and More When it ( Azteca D'Oro ) comes to comfort food, there's nothing quite lik...",
+                    "source": "Lemon 8",
+                    "index": 16
+                },
+                {
+                    "title": "The pizza taste test",
+                    "link": "https://www.lovefood.com/news/58477/pizza-taste-test#:~:text=Fast%20forward%20to%20today%20and%20pizza%20is,worthy%20contender%20for%20a%20lovefood%20taste%20test.",
+                    "snippet": "Nov 9, 2012 \u2014 Fast forward to today and pizza is a truly global food, topped with just about anything and eaten by just about everyon...",
+                    "source": "LoveFood",
+                    "index": 17
+                },
+                {
+                    "title": "Breakfast Recipes",
+                    "link": "https://foodrevolution.org/blog/tag/breakfast-recipes/#:~:text=Cooking%20with%20Sweet%20Potatoes:%20Flavorful%20Recipes%20to,%E2%80%94%20and%20they're%20incredibly%20healthy%20to%20boot.",
+                    "snippet": "Cooking with Sweet Potatoes: Flavorful Recipes to Try Today Sweet potatoes are one of the most versatile and delicious foods out t...",
+                    "source": "Food Revolution Network",
+                    "index": 18
+                },
+                {
+                    "title": "Indulge in Decadence: The Top Luxury Meals Around the World | Island Gardens",
+                    "link": "https://islandgardens.com/indulge-in-decadence-the-top-luxury-meals-around-the-world#:~:text=No%20luxury%20dining%20experience%20would%20be%20complete,form%20that%20is%20revered%20around%20the%20world.",
+                    "snippet": "May 21, 2024 \u2014 No luxury dining experience would be complete without a taste of authentic Japanese sushi. Made with the freshest ingr...",
+                    "source": "The Deck | Island Gardens",
+                    "index": 19
+                },
+                {
+                    "title": "Thai Airways spicing up its menu with signature dishes from renowned eateries",
+                    "link": "https://www.nationthailand.com/blogs/life/food/40042107",
+                    "snippet": "Oct 6, 2024 \u2014 Massaman curry has been ranked as the No. 1 dish in \u201cThe World's 50 Best Foods\u201d. It is complex and requires numerous sp...",
+                    "source": "Nation Thailand",
+                    "index": 20
+                },
+                {
+                    "title": "2019 Burger Report: Beyond basics | 2019-03-04",
+                    "link": "https://www.provisioneronline.com/articles/107509-burger-report-beyond-basics#:~:text=%E2%80%9CBurgers%20are%20universally%20loved%2C%E2%80%9D%20reports%20Datassential%2C%20a,top%20percentile%20for%20nearly%20every%20demographic%20segment.",
+                    "snippet": "Mar 4, 2019 \u2014 \u201cBurgers are universally loved,\u201d reports Datassential, a Chicago-based market research firm, noting burgers are the 10t...",
+                    "source": "The National Provisioner",
+                    "index": 21
+                },
+                {
+                    "title": "A Heart-Healthy Shopping List for Older Adults",
+                    "link": "https://bethesdahealth.org/blog/a-heart-healthy-shopping-list-for-older-adults/#:~:text=Berries%20%E2%80%93%20including%20strawberries%2C%20blueberries%2C%20blackberries%2C%20and,also%20great%20choices%20for%20your%20shopping%20list.",
+                    "snippet": "Feb 2, 2023 \u2014 Berries \u2013 including strawberries, blueberries, blackberries, and raspberries contain vitamins and antioxidants vital to...",
+                    "source": "Bethesda Health Group",
+                    "index": 22
+                }
+            ],
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSWJFTnVWR1ZWZDFCSU5EWjVNRmRXWW1VNGREWjFlSEZmZWtwNVpFOVRialV0V25SdldFa3pURkU0ZWxWbFozVnRaRWN5TldwMGN6Sk5hSGg0UnpsSFZrazFXakZ4WDNVM2JWRmtRWFJVTFVSdlJHaDBOekF6ZFdSYVFSSVhWVzVoTkdGTk4xbE5URmRGTjA1WlVHeDFZV3h6VVVrYUlrRkdUVUZIUjNKeldWbGtlalEzTVdwSGJXWlZibGhzYlhoMVFUZFZUazVXYUVFIiwiZmN2IjoiMyIsImVpIjoiVW5hNGFNN1lNTFdFN05ZUGx1YWxzUUkiLCJxYyI6IkNnbGlaWE4wSUdadmIyUVFBSDJuRkFjXyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIHRvcCAxMCBiZXN0IGZvb2RzPyIsImxrIjoiR2g1M2FHRjBJR0Z5WlNCMGFHVWdkRzl3SURFd0lHSmxjM1FnWm05dlpITSIsImJzIjoiYy1OeTQ1SVB6MGdzVVVnc1NsVW95UURpX0FJRlF3T0ZwTlRpRW9XMF9QeVVZbnVKZzNsR0NsSnk1WGhWY2Jsd3lZSE5BZkVVTW9zVjNJcFNpX1B5RmJMejhzdnpnSUpGOWhLck9ZM2twV1RMa1JXbG9Tbmk4dUpTQnBzQ2xBTlpBemRmSVRNUExGQ2VYNVNUWWkteGd3dnVJbXdxd2FxNFBMZ1VVRndVbkpwWVVwS1RxcENXbUp0ZldneHgwNk5DSTBVcGVSUTNGV01vRTJBRUFBIiwiaWQiOiJmY19VbmE0YU03WU1MV0U3TllQbHVhbHNRSV8xIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSWJFTnVWR1ZWZDFCSU5EWjVNRmRXWW1VNGREWjFlSEZmZWtwNVpFOVRialV0V25SdldFa3pURkU0ZWxWbFozVnRaRWN5TldwMGN6Sk5hSGg0UnpsSFZrazFXakZ4WDNVM2JWRmtRWFJVTFVSdlJHaDBOekF6ZFdSYVFSSVhWVzVoTkdGTk4xbE5URmRGTjA1WlVHeDFZV3h6VVVrYUlrRkdUVUZIUjNKeldWbGtlalEzTVdwSGJXWlZibGhzYlhoMVFUZFZUazVXYUVFIiwiZmN2IjoiMyIsImVpIjoiVW5hNGFNN1lNTFdFN05ZUGx1YWxzUUkiLCJxYyI6IkNnbGlaWE4wSUdadmIyUVFBSDJuRkFjXyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIHRvcCAxMCBiZXN0IGZvb2RzPyIsImxrIjoiR2g1M2FHRjBJR0Z5WlNCMGFHVWdkRzl3SURFd0lHSmxjM1FnWm05dlpITSIsImJzIjoiYy1OeTQ1SVB6MGdzVVVnc1NsVW95UURpX0FJRlF3T0ZwTlRpRW9XMF9QeVVZbnVKZzNsR0NsSnk1WGhWY2Jsd3lZSE5BZkVVTW9zVjNJcFNpX1B5RmJMejhzdnpnSUpGOWhLck9ZM2twV1RMa1JXbG9Tbmk4dUpTQnBzQ2xBTlpBemRmSVRNUExGQ2VYNVNUWWkteGd3dnVJbXdxd2FxNFBMZ1VVRndVbkpwWVVwS1RxcENXbUp0ZldneHgwNk5DSTBVcGVSUTNGV01vRTJBRUFBIiwiaWQiOiJmY19VbmE0YU03WU1MV0U3TllQbHVhbHNRSV8xIn0%3D"
+        },
+        {
+            "question": "What food is Fresno known for?",
+            "type": "ai_overview",
+            "text_blocks": [
+                {
+                    "type": "paragraph",
+                    "snippet": "Fresno is known for its agricultural products, especially grapes and almonds, and is sometimes called the \"Raisin Capital of the World\". It's also the birthplace of the Sun-Maid brand and has a diverse food scene including popular Mexican food, particularly tacos, and authentic Mediterranean cuisine.",
+                    "snippet_highlighted_words": [
+                        "grapes and almonds"
+                    ],
+                    "reference_indexes": [
+                        2,
+                        3,
+                        5,
+                        8,
+                        9
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "snippet": "Key Fresno Foods & Flavors"
+                },
+                {
+                    "type": "list",
+                    "list": [
+                        {
+                            "title": "Grapes & Raisins:",
+                            "snippet": "Fresno County is the top grape-producing region in the US, and the iconic Sun-Maid raisins were founded there.",
+                            "reference_indexes": [
+                                2,
+                                9
+                            ]
+                        },
+                        {
+                            "title": "Almonds:",
+                            "snippet": "The area is also a leading producer of almonds, which are used in various dishes.",
+                            "reference_indexes": [
+                                3,
+                                9
+                            ]
+                        },
+                        {
+                            "title": "Tomatoes, Peaches, and Nectarines:",
+                            "snippet": "Other significant crops grown in Fresno County include tomatoes, peaches, and nectarines.",
+                            "reference_indexes": [
+                                3,
+                                9
+                            ]
+                        },
+                        {
+                            "title": "Mexican Food (Tacos):",
+                            "snippet": "Tacos are so popular that Fresno is unofficially known as the \"taco capital of the world,\" with many local taquerias and bakeries.",
+                            "reference_indexes": [
+                                5,
+                                7
+                            ]
+                        },
+                        {
+                            "title": "Mediterranean Cuisine:",
+                            "snippet": "The region has a strong presence of Armenian and Mediterranean restaurants, with places like Phoenician Garden and Mediterranean Grill being popular choices.",
+                            "reference_indexes": [
+                                1,
+                                4,
+                                8
+                            ]
+                        },
+                        {
+                            "title": "California-Italian:",
+                            "snippet": "Restaurants like The Annex Kitchen put a unique spin on classic Italian cuisine, often incorporating seasonal, locally sourced ingredients.",
+                            "reference_indexes": [
+                                0,
+                                6
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "references": [
+                {
+                    "title": "Fresno in 12 foods: These are the ones you have to eat",
+                    "link": "https://www.fresnobee.com/living/food-drink/bethany-clough/article226826334.html#:~:text=One%20dish%20using%20it%20that%20has%20become,when%20Fresno%20State%20corn%20is%20in%20season.",
+                    "snippet": "Mar 18, 2019 \u2014 One dish using it that has become Fresno famous is the agnolotti pasta at Annex Kitchen, available only when Fresno St...",
+                    "source": "Fresno Bee",
+                    "index": 0
+                },
+                {
+                    "title": "What food best represents Fresno, CA?",
+                    "link": "https://www.quora.com/What-food-best-represents-Fresno-CA",
+                    "snippet": "Nov 2, 2018",
+                    "source": "Quora",
+                    "index": 1
+                },
+                {
+                    "title": "Fresno County Fruit Trail - Visit California",
+                    "link": "https://www.visitcalifornia.com/experience/fresno-county-fruit-trail/#:~:text=Grapes%20are%20the%20No.,grapes%20in%20the%20Central%20Valley.",
+                    "snippet": "Grapes are the No. 1 crop in Fresno County and Sun-Maid, the famous farmers' cooperative, grows 50,000 acres of raisin grapes in t...",
+                    "source": "Visit California",
+                    "index": 2
+                },
+                {
+                    "title": "Fresno | Visit California",
+                    "link": "https://www.visitcalifornia.com/places-to-visit/fresno/#:~:text=Fresno's%20identity%20is%20deeply%20intertwined,cotton%2C%20peaches%2C%20and%20nectarines.",
+                    "snippet": "Fresno's identity is deeply intertwined with its farming roots, particularly in grape cultivation, leading to its recognition as t...",
+                    "source": "Visit California",
+                    "index": 3
+                },
+                {
+                    "title": "Mediterranean Grill & Cafe",
+                    "link": "https://www.visitfresnocounty.org/listing/mediterranean-grill-%26-cafe/1153/#:~:text=Mediterranean%20Grill%20(%20Mediterranean%20Grill%20&%20Cafe,a%20great%20value%20for%20over%2022%20years.",
+                    "snippet": "Mediterranean Grill ( Mediterranean Grill & Cafe ) is a full service, casual restaurant located in downtown Fresno. We are known f...",
+                    "source": "Visit Fresno County",
+                    "index": 4
+                },
+                {
+                    "title": "With love from Fresno: unique gifts for all occasions",
+                    "link": "https://www.fresnobee.com/entertainment/article309435545.html#:~:text=Taco%20love%20If%20the%20expression%20%E2%80%9CYou%20are,considered%20the%20taco%20capital%20of%20the%20world.",
+                    "snippet": "Jun 28, 2025 \u2014 Taco love If the expression \u201cYou are what you eat\u201d is accurate, then Fresno ( city of Fresno ) has to be a taco. Tacos...",
+                    "source": "Fresno Bee",
+                    "index": 5
+                },
+                {
+                    "title": "The 23 Best Places to Eat in Fresno [A Local's Guide]",
+                    "link": "https://cassiescompass.com/best-places-to-eat-in-fresno/#:~:text=Annex%20is%20an%20Italian%20restaurant%20with%20a,Fresno.%20Make%20a%20reservation%20ahead%20of%20time.",
+                    "snippet": "Nov 21, 2022 \u2014 Annex is an Italian restaurant with a California flare, and is one of the most popular date spots in Fresno. Make a re...",
+                    "source": "Cassie's Compass",
+                    "index": 6
+                },
+                {
+                    "title": "La Mexicana Bakery & Taqueria, 4729 E Belmont Ave, Fresno, CA 93702, US",
+                    "link": "https://www.mapquest.com/us/california/la-mexicana-bakery-taqueria-11670216#:~:text=La%20Mexicana%20Bakery%20&%20Taqueria%2C%20located%20in,atmosphere%2C%20indicative%20of%20its%20popularity%20among%20locals.",
+                    "snippet": "La Mexicana Bakery & Taqueria, located in Fresno, CA, offers a vibrant menu featuring traditional Mexican cuisine, with a strong f...",
+                    "source": "MapQuest",
+                    "index": 7
+                },
+                {
+                    "title": "Phoenician Garden Mediterranean Bar and Grill, 1025 E Herndon Ave, Ste 106, Fresno, CA 93720, US",
+                    "link": "https://www.mapquest.com/us/california/phoenician-garden-mediterranean-bar-and-grill-291749432#:~:text=Phoenician%20Garden%20Mediterranean%20Bar%20and%20Grill%20is,by%20our%20carefully%20chosen%20wines%20and%20spirits.",
+                    "snippet": "Phoenician Garden Mediterranean Bar and Grill is a culinary gem nestled in the heart of Fresno, renowned for its authentic Mediter...",
+                    "source": "MapQuest",
+                    "index": 8
+                },
+                {
+                    "title": "Fresno County Named Top Agricultural Producer in the US",
+                    "link": "https://fruitgrowers.com/fresno-county-named-top-agricultural-producer-in-the-us/#:~:text=Almonds%2C%20grapes%2C%20pistachios%2C%20and,$500%20million%20during%20recent%20years.",
+                    "snippet": "Jul 14, 2025 \u2014 Almonds, grapes, pistachios, and tomatoes are among Fresno County's most popular crops, with almonds and grapes regula...",
+                    "source": "Fruit Growers Supply",
+                    "index": 9
+                }
+            ],
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSWJFTnVWR1ZWZDFCSU5EWjVNRmRXWW1VNGREWjFlSEZmZWtwNVpFOVRialV0V25SdldFa3pURkU0ZWxWbFozVnRaRWN5TldwMGN6Sk5hSGg0UnpsSFZrazFXakZ4WDNVM2JWRmtRWFJVTFVSdlJHaDBOekF6ZFdSYVFSSVhWVzVoTkdGTk4xbE5URmRGTjA1WlVHeDFZV3h6VVVrYUlrRkdUVUZIUjNKeldWbGtlalEzTVdwSGJXWlZibGhzYlhoMVFUZFZUazVXYUVFIiwiZmN2IjoiMyIsImVpIjoiVW5hNGFNN1lNTFdFN05ZUGx1YWxzUUkiLCJxYyI6IkNnbGlaWE4wSUdadmIyUVFBSDJuRkFjXyIsInF1ZXN0aW9uIjoiV2hhdCBmb29kIGlzIEZyZXNubyBrbm93biBmb3I/IiwibGsiOiJHaDEzYUdGMElHWnZiMlFnYVhNZ1puSmxjMjV2SUd0dWIzZHVJR1p2Y2ciLCJicyI6ImMtTnk0NUlQejBnc1VVZ3NTbFVveVFEaV9BSUZRd09GcE5UaUVvVzBfUHlVWW51SmczbEdDbEp5NVhoVmNibHd5WUhOQWZFVU1vc1YzSXBTaV9QeUZiTHo4c3Z6Z0lKRjloS3JPWTNrcFdUTGtSV2xvU25pOHVKU0Jwc0NsQU5aQXpkZklUTVBMRkNlWDVTVFlpLXhnd3Z1SW13cXdhcTRQTGdVVUZ3VW5KcFlVcEtUcXBDV21KdGZXZ3h4MDZOQ0kwVXBlUlEzRldNb0UyQUVBQSIsImlkIjoiZmNfVW5hNGFNN1lNTFdFN05ZUGx1YWxzUUlfMSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSWJFTnVWR1ZWZDFCSU5EWjVNRmRXWW1VNGREWjFlSEZmZWtwNVpFOVRialV0V25SdldFa3pURkU0ZWxWbFozVnRaRWN5TldwMGN6Sk5hSGg0UnpsSFZrazFXakZ4WDNVM2JWRmtRWFJVTFVSdlJHaDBOekF6ZFdSYVFSSVhWVzVoTkdGTk4xbE5URmRGTjA1WlVHeDFZV3h6VVVrYUlrRkdUVUZIUjNKeldWbGtlalEzTVdwSGJXWlZibGhzYlhoMVFUZFZUazVXYUVFIiwiZmN2IjoiMyIsImVpIjoiVW5hNGFNN1lNTFdFN05ZUGx1YWxzUUkiLCJxYyI6IkNnbGlaWE4wSUdadmIyUVFBSDJuRkFjXyIsInF1ZXN0aW9uIjoiV2hhdCBmb29kIGlzIEZyZXNubyBrbm93biBmb3I%2FIiwibGsiOiJHaDEzYUdGMElHWnZiMlFnYVhNZ1puSmxjMjV2SUd0dWIzZHVJR1p2Y2ciLCJicyI6ImMtTnk0NUlQejBnc1VVZ3NTbFVveVFEaV9BSUZRd09GcE5UaUVvVzBfUHlVWW51SmczbEdDbEp5NVhoVmNibHd5WUhOQWZFVU1vc1YzSXBTaV9QeUZiTHo4c3Z6Z0lKRjloS3JPWTNrcFdUTGtSV2xvU25pOHVKU0Jwc0NsQU5aQXpkZklUTVBMRkNlWDVTVFlpLXhnd3Z1SW13cXdhcTRQTGdVVUZ3VW5KcFlVcEtUcXBDV21KdGZXZ3h4MDZOQ0kwVXBlUlEzRldNb0UyQUVBQSIsImlkIjoiZmNfVW5hNGFNN1lNTFdFN05ZUGx1YWxzUUlfMSJ9"
+        },
+        {
+            "question": "What is the best food in the world?",
+            "type": "featured_snippet",
+            "title": "For now, feast your eyes and control your drooling, as we reveal some of the world's best foods that can help inspire your travel plans:",
+            "link": "https://www.cnn.com/travel/article/world-best-food-dishes",
+            "list": [
+                "Massaman curry, Thailand.",
+                "Neapolitan pizza, Italy. ... ",
+                "Chocolate, Mexico. ... ",
+                "Sushi, Japan. ... ",
+                "Peking duck, China. ... ",
+                "Hamburger, Germany. ... ",
+                "Penang assam laksa, Malaysia. ... ",
+                "Tom yum goong, Thailand. ... "
+            ],
+            "displayed_link": "https://www.cnn.com \u203a travel \u203a article \u203a world-best-food...",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJBP1Sk4L5i8D4Je843HfHJDJZWqIKChtaUiUoR749_A&s",
+            "source_logo": "https://serpapi.com/searches/68b87652fdfbab9321b9e215/images/a8c3a7597d4bb4643db6ff754e584aedd185b932113a47b1e320b6d5ec73f6df.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSWJFTnVWR1ZWZDFCSU5EWjVNRmRXWW1VNGREWjFlSEZmZWtwNVpFOVRialV0V25SdldFa3pURkU0ZWxWbFozVnRaRWN5TldwMGN6Sk5hSGg0UnpsSFZrazFXakZ4WDNVM2JWRmtRWFJVTFVSdlJHaDBOekF6ZFdSYVFSSVhWVzVoTkdGTk4xbE5URmRGTjA1WlVHeDFZV3h6VVVrYUlrRkdUVUZIUjNKeldWbGtlalEzTVdwSGJXWlZibGhzYlhoMVFUZFZUazVXYUVFIiwiZmN2IjoiMyIsImVpIjoiVW5hNGFNN1lNTFdFN05ZUGx1YWxzUUkiLCJxYyI6IkNnbGlaWE4wSUdadmIyUVFBSDJuRkFjXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgYmVzdCBmb29kIGluIHRoZSB3b3JsZD8iLCJsayI6IkdoNTNhR0YwSUdseklIUm9aU0JpWlhOMElHWnZiMlFnYVc0Z2QyOXliR1EiLCJicyI6ImMtTnk0NUlQejBnc1VVZ3NTbFVveVFEaV9BSUZRd09GcE5UaUVvVzBfUHlVWW51SmczbEdDbEp5NVhoVmNibHd5WUhOQWZFVU1vc1YzSXBTaV9QeUZiTHo4c3Z6Z0lKRjloS3JPWTNrcFdUTGtSV2xvU25pOHVKU0Jwc0NsQU5aQXpkZklUTVBMRkNlWDVTVFlpLXhnd3Z1SW13cXdhcTRQTGdVVUZ3VW5KcFlVcEtUcXBDV21KdGZXZ3h4MDZOQ0kwVXBlUlEzRldNb0UyQUVBQSIsImlkIjoiZmNfVW5hNGFNN1lNTFdFN05ZUGx1YWxzUUlfMSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSWJFTnVWR1ZWZDFCSU5EWjVNRmRXWW1VNGREWjFlSEZmZWtwNVpFOVRialV0V25SdldFa3pURkU0ZWxWbFozVnRaRWN5TldwMGN6Sk5hSGg0UnpsSFZrazFXakZ4WDNVM2JWRmtRWFJVTFVSdlJHaDBOekF6ZFdSYVFSSVhWVzVoTkdGTk4xbE5URmRGTjA1WlVHeDFZV3h6VVVrYUlrRkdUVUZIUjNKeldWbGtlalEzTVdwSGJXWlZibGhzYlhoMVFUZFZUazVXYUVFIiwiZmN2IjoiMyIsImVpIjoiVW5hNGFNN1lNTFdFN05ZUGx1YWxzUUkiLCJxYyI6IkNnbGlaWE4wSUdadmIyUVFBSDJuRkFjXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgYmVzdCBmb29kIGluIHRoZSB3b3JsZD8iLCJsayI6IkdoNTNhR0YwSUdseklIUm9aU0JpWlhOMElHWnZiMlFnYVc0Z2QyOXliR1EiLCJicyI6ImMtTnk0NUlQejBnc1VVZ3NTbFVveVFEaV9BSUZRd09GcE5UaUVvVzBfUHlVWW51SmczbEdDbEp5NVhoVmNibHd5WUhOQWZFVU1vc1YzSXBTaV9QeUZiTHo4c3Z6Z0lKRjloS3JPWTNrcFdUTGtSV2xvU25pOHVKU0Jwc0NsQU5aQXpkZklUTVBMRkNlWDVTVFlpLXhnd3Z1SW13cXdhcTRQTGdVVUZ3VW5KcFlVcEtUcXBDV21KdGZXZ3h4MDZOQ0kwVXBlUlEzRldNb0UyQUVBQSIsImlkIjoiZmNfVW5hNGFNN1lNTFdFN05ZUGx1YWxzUUlfMSJ9"
+        },
+        {
+            "question": "What food is Seattle famous for?",
+            "type": "ai_overview",
+            "text_blocks": [
+                {
+                    "type": "paragraph",
+                    "snippet": "Seattle is famous for its fresh seafood like salmon, Dungeness crab, and oysters, as well as unique dishes such as teriyaki and the Dutch baby pancake. The city also boasts diverse culinary influences, with strong communities for **sushi, **pho, and **Thai food, and is a hub for innovative cuisine reflecting its natural resources and vibrant culture.",
+                    "snippet_highlighted_words": [
+                        "fresh seafood like salmon, Dungeness crab, and oysters, as well as unique dishes such as teriyaki and the Dutch baby pancake"
+                    ],
+                    "reference_indexes": [
+                        0,
+                        2,
+                        3,
+                        5
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "snippet": "Seafood & Oysters"
+                },
+                {
+                    "type": "list",
+                    "list": [
+                        {
+                            "snippet": "Salmon: A staple in Seattle, known for its freshness and variety.",
+                            "reference_indexes": [
+                                5
+                            ]
+                        },
+                        {
+                            "snippet": "Dungeness Crab: Another iconic local seafood, fresh from the Pacific Northwest coast.",
+                            "reference_indexes": [
+                                1,
+                                5
+                            ]
+                        },
+                        {
+                            "snippet": "Oysters: Washington state is a leading producer of oysters, making them a must-try in Seattle.",
+                            "reference_indexes": [
+                                1
+                            ]
+                        },
+                        {
+                            "snippet": "Geoduck and Razor Clams: Unique local shellfish that are a Seattle specialty.",
+                            "reference_indexes": [
+                                5
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "snippet": "Unique Seattle Dishes",
+                    "reference_indexes": [
+                        2,
+                        7
+                    ]
+                },
+                {
+                    "type": "list",
+                    "list": [
+                        {
+                            "title": "American-style Teriyaki:",
+                            "snippet": "Popularized by Toshi Kasahara in the 1970s, Seattle-style teriyaki is a distinctive local variation."
+                        },
+                        {
+                            "title": "Dutch Baby:",
+                            "snippet": "This fluffy baked pancake was invented at Manca's Cafe in Seattle in the early 20th century."
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "snippet": "Diverse Culinary Scene"
+                },
+                {
+                    "type": "list",
+                    "list": [
+                        {
+                            "snippet": "Sushi: Seattle has a deep connection to Japanese culture, with high-quality sushi widely available.",
+                            "reference_indexes": [
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "snippet": "Pho: A beloved dish in Seattle, reflecting the city's Vietnamese community.",
+                            "reference_indexes": [
+                                0,
+                                4,
+                                8
+                            ]
+                        },
+                        {
+                            "snippet": "Thai Food: The city's large population has fostered a strong and diverse Thai food scene.",
+                            "reference_indexes": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "snippet": "Other Influences",
+                    "reference_indexes": [
+                        6,
+                        9
+                    ]
+                },
+                {
+                    "type": "list",
+                    "list": [
+                        {
+                            "snippet": "Coffee: Seattle's numerous coffee shops reflect its strong coffee culture."
+                        },
+                        {
+                            "snippet": "Fresh Produce: The region's farmers and foragers grow ingredients like lavender, asparagus, and mushrooms, influencing the local cuisine."
+                        }
+                    ]
+                }
+            ],
+            "references": [
+                {
+                    "title": "What Food Is Seattle Known For? : r/Seattle",
+                    "link": "https://www.reddit.com/r/Seattle/comments/ndy2ul/what_food_is_seattle_known_for/",
+                    "snippet": "May 16, 2021",
+                    "source": "Reddit \u00b7 r/Seattle",
+                    "index": 0
+                },
+                {
+                    "title": "16 Famous Foods in Seattle You Need to Try (From a Local)",
+                    "link": "https://postcardstoseattle.com/seattle-famous-foods/",
+                    "snippet": "Aug 26, 2025 \u2014 * Oysters. Washington farms the most oysters in the US, so getting this famous food in Seattle is a must. ... * Dunge...",
+                    "source": "Postcards to Seattle",
+                    "index": 1
+                },
+                {
+                    "title": "9 Iconic Dishes That Define Seattle Cuisine",
+                    "link": "https://seattle.eater.com/maps/iconic-dishes-seattle",
+                    "source": "Eater Seattle",
+                    "index": 2
+                },
+                {
+                    "title": "What food is Seattle famous for?",
+                    "link": "https://www.seattlegreenmaids.com/blog/what-food-is-seattle-famous-for#:~:text=Seattle's%20reputation%20for%20grub%20is,natural%20endowments%20and%20cultural%20influences.",
+                    "snippet": "Apr 25, 2025 \u2014 Seattle's reputation for grub is earned. From the highest-quality seafood and signature street grub to inventive fusio...",
+                    "source": "Seattle Green Maids",
+                    "index": 3
+                },
+                {
+                    "title": "Food to Try When Visiting Seattle | Totally Seattle",
+                    "link": "https://totallyseattle.com/food-to-try-when-visiting-seattle/#:~:text=Seattle%20has%20a%20well%2Destablished%20Vietnamese%20community.%20And,know%20what%20this%20means%2C%20don't%20you?%20Pho!",
+                    "snippet": "Seattle has a well-established Vietnamese community. And you know what this means, don't you? Pho!",
+                    "source": "Totally Seattle",
+                    "index": 4
+                },
+                {
+                    "title": "Discover the best Seattle seafood staples",
+                    "link": "https://www.eatseattlefoodblog.com/eat-seattle/2024/8/28/seattle-seafood-staples-stocking-your-new-kitchen-with-local-flavor",
+                    "snippet": "Aug 28, 2024 \u2014 Top Seattle Seafood Staples for Your Kitchen * Salmon. Salmon is synonymous with Seattle, and it's no wonder why. ...",
+                    "source": "eatseattlefoodblog.com",
+                    "index": 5
+                },
+                {
+                    "title": "When Is The Best Time of Year to Visit Seattle?",
+                    "link": "https://seattlesailingship.com/what-is-the-best-time-of-year-to-visit-seattle/#:~:text=As%20many%20know%2C%20Seattle%20(%20city%20of,of%20Seattle%20)%20is%20perfect%20for%20you.",
+                    "snippet": "As many know, Seattle ( city of Seattle ) is famous for its coffee culture. The city is home to Starbucks, Tully's Coffee, and man...",
+                    "source": "Seattle's Tall Ship",
+                    "index": 6
+                },
+                {
+                    "title": "Did You Know?: Teriyaki was, and wasn't, invented in Seattle - KUOW",
+                    "link": "https://www.kuow.org/stories/did-you-know-teriyaki-was-and-wasn-t-invented-in-seattle#:~:text=Teriyaki%20dishes%20have%20appeared%20on,came%20with%20rice%20and%20salad.",
+                    "snippet": "Jan 25, 2023 \u2014 Teriyaki dishes have appeared on American menus since at least the 1940s. But Seattle's Toshihiro Kasahara is credited...",
+                    "source": "KUOW",
+                    "index": 7
+                },
+                {
+                    "title": "The 15 Best Dishes in Seattle For 2022 \u2014 Resy | Right This Way",
+                    "link": "https://blog.resy.com/2022/02/the-15-seattle-dishes-you-must-try/#:~:text=Seattle%20has%20a%20strong%20reputation%20for%20Vietnamese,thanks%20to%20the%20city's%20large%20Vietnamese%20community.",
+                    "snippet": "May 5, 2022 \u2014 Seattle has a strong reputation for Vietnamese food, thanks to the city's large Vietnamese community.",
+                    "source": "Resy | Right This Way",
+                    "index": 8
+                },
+                {
+                    "title": "Eat Your Way through the Evergreen State: What to Eat in Washington",
+                    "link": "https://www.foodnetwork.com/restaurants/packages/best-food-in-america/photos/what-to-eat-washington#:~:text=Washington%20state%20is%20known%20for,asparagus%2C%20mushrooms%20and%20peated%20barley.",
+                    "snippet": "Washington state is known for its fresh coastal seafood, eastern vineyards and, of course, abundant coffee shops. But it's also ho...",
+                    "source": "Food Network",
+                    "index": 9
+                }
+            ],
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSWJFTnVWR1ZWZDFCSU5EWjVNRmRXWW1VNGREWjFlSEZmZWtwNVpFOVRialV0V25SdldFa3pURkU0ZWxWbFozVnRaRWN5TldwMGN6Sk5hSGg0UnpsSFZrazFXakZ4WDNVM2JWRmtRWFJVTFVSdlJHaDBOekF6ZFdSYVFSSVhWVzVoTkdGTk4xbE5URmRGTjA1WlVHeDFZV3h6VVVrYUlrRkdUVUZIUjNKeldWbGtlalEzTVdwSGJXWlZibGhzYlhoMVFUZFZUazVXYUVFIiwiZmN2IjoiMyIsImVpIjoiVW5hNGFNN1lNTFdFN05ZUGx1YWxzUUkiLCJxYyI6IkNnbGlaWE4wSUdadmIyUVFBSDJuRkFjXyIsInF1ZXN0aW9uIjoiV2hhdCBmb29kIGlzIFNlYXR0bGUgZmFtb3VzIGZvcj8iLCJsayI6IkdoOTNhR0YwSUdadmIyUWdhWE1nYzJWaGRIUnNaU0JtWVcxdmRYTWdabTl5IiwiYnMiOiJjLU55NDVJUHowZ3NVVWdzU2xVb3lRRGlfQUlGUXdPRnBOVGlFb1cwX1B5VVludUpnM2xHQ2xKeTVYaFZjYmx3eVlITkFmRVVNb3NWM0lwU2lfUHlGYkx6OHN2emdJSkY5aEtyT1kza3BXVExrUldsb1NuaTh1SlNCcHNDbEFOWkF6ZGZJVE1QTEZDZVg1U1RZaS14Z3d2dUltd3F3YXE0UExnVVVGd1VuSnBZVXBLVHFwQ1dtSnRmV2d4eDA2TkNJMFVwZVJRM0ZXTW9FMkFFQUEiLCJpZCI6ImZjX1VuYTRhTTdZTUxXRTdOWVBsdWFsc1FJXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSWJFTnVWR1ZWZDFCSU5EWjVNRmRXWW1VNGREWjFlSEZmZWtwNVpFOVRialV0V25SdldFa3pURkU0ZWxWbFozVnRaRWN5TldwMGN6Sk5hSGg0UnpsSFZrazFXakZ4WDNVM2JWRmtRWFJVTFVSdlJHaDBOekF6ZFdSYVFSSVhWVzVoTkdGTk4xbE5URmRGTjA1WlVHeDFZV3h6VVVrYUlrRkdUVUZIUjNKeldWbGtlalEzTVdwSGJXWlZibGhzYlhoMVFUZFZUazVXYUVFIiwiZmN2IjoiMyIsImVpIjoiVW5hNGFNN1lNTFdFN05ZUGx1YWxzUUkiLCJxYyI6IkNnbGlaWE4wSUdadmIyUVFBSDJuRkFjXyIsInF1ZXN0aW9uIjoiV2hhdCBmb29kIGlzIFNlYXR0bGUgZmFtb3VzIGZvcj8iLCJsayI6IkdoOTNhR0YwSUdadmIyUWdhWE1nYzJWaGRIUnNaU0JtWVcxdmRYTWdabTl5IiwiYnMiOiJjLU55NDVJUHowZ3NVVWdzU2xVb3lRRGlfQUlGUXdPRnBOVGlFb1cwX1B5VVludUpnM2xHQ2xKeTVYaFZjYmx3eVlITkFmRVVNb3NWM0lwU2lfUHlGYkx6OHN2emdJSkY5aEtyT1kza3BXVExrUldsb1NuaTh1SlNCcHNDbEFOWkF6ZGZJVE1QTEZDZVg1U1RZaS14Z3d2dUltd3F3YXE0UExnVVVGd1VuSnBZVXBLVHFwQ1dtSnRmV2d4eDA2TkNJMFVwZVJRM0ZXTW9FMkFFQUEiLCJpZCI6ImZjX1VuYTRhTTdZTUxXRTdOWVBsdWFsc1FJXzEifQ%3D%3D"
+        }
+    ],
+    "ai_overview": {
+        "page_token": "jKvQgnicxZTZcuo2GIBv-yLl5pyAwXDgZMbTkYQBQVhkwEBuGG_IYBsDMlHgru_Sp-r0YSovEJOQTjq9qBi0-de_6dP_-x_-euv9-ctfbhTt2GOpxDkv0jCkvlO0wqBksNPWKq1Cnx0s97fj0XcU_g0BTDDCA31W29lt3cOtgbSYa77FC6cXRS5YTJEKzlqZbo2q0a8v-k8ztT5YjPyj4TOCC4lSZWkazNkIm68bVlqWROf9KjfFosiKzrbombrBn-tz2ibFilRuFIclIxAC4L83fHeXgDUAkBCC3vZQMkd35eNGiVCGAHyvKWt9VXQQARqbhORWD744Is5DDHhnWae8nxNQr14A4L1tP9F4J4wTgVSas_bOOL72iXutj96r-QWNu87V4GcNL25sCRUrnh0QnZgSmljdrOmb5JCARocBF5LpPZ1qiNACPHgdmHpxR4JqRtCLhEFYsqmgQCqZBzGUSwcWM4EmP6Wws0VtVp4050GDP6yM3eS4gF6t6vDKiX9PaLPYFTeWx60z2EZn-bmm69PiUxGWr6zFcWF0SVQzTSgBu88YumbpGkciB2_uiGRJApr4634v1a6OYj7g-CI1oqg5B2m-YHoKg1vWEOqnH8VBumgNEtbUhDXQA2kyIYzZcTF4jpcqAaQLMp39djKhmZ9wQ1dE6OSAjNtZwOkVZqwBii4x5aKfXqMEfQoiKI7CFkGzpstjzUlwGCVeq_ByXgVdMMrQFE-ICBerQCJO_LWLhS_CmPiRJLJUOxEOoMSSmrzLqUgIjJ9C9ZY1IZBH9LN2F8SswTtwtUCD6y_SkpuVOpsNe-3hhPrNyOlDSDK4wsD8F8XM-l_xi0udJkpdDr_xP-NHCcYf8SMX_KwMPy8tdbf47S74jYHWTUudy_P4qTn8vDf8zJtSRxHJYsLXSL6KXzxe8aM5_NDn-IlS9w6_FcfxO0jwE6VOu4PfF0vd_GulLqHQSYfbunfc0A_1b1f7CXT7YDTADEw7RrTfRtZqvt9WPfp9uQqix90hFLO1_Qgr3ehkF_aK6bDo2yoM7ULgH0JFMn5w3puvG5rm8EWA8XDvhsNxd0KmD6yrqq-14QOu7bXWrMFpr2GOt673uoH2WJarmikbA5upJ8tqj6l67nnOxA7ll-nT-XxeD3ubA67J-qhZnY4MT6W7emvSffajAIbN6NnXZZNuz6sRGC778iiyT7NO-MNFXStxjCnmfszcUXikklcIDpYibqbqgYGoZwVmGUuHvSiWadYl07Erju1UZEkuBDQ67ZRq-W-OupbH",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=jKvQgnicxZTZcuo2GIBv-yLl5pyAwXDgZMbTkYQBQVhkwEBuGG_IYBsDMlHgru_Sp-r0YSovEJOQTjq9qBi0-de_6dP_-x_-euv9-ctfbhTt2GOpxDkv0jCkvlO0wqBksNPWKq1Cnx0s97fj0XcU_g0BTDDCA31W29lt3cOtgbSYa77FC6cXRS5YTJEKzlqZbo2q0a8v-k8ztT5YjPyj4TOCC4lSZWkazNkIm68bVlqWROf9KjfFosiKzrbombrBn-tz2ibFilRuFIclIxAC4L83fHeXgDUAkBCC3vZQMkd35eNGiVCGAHyvKWt9VXQQARqbhORWD744Is5DDHhnWae8nxNQr14A4L1tP9F4J4wTgVSas_bOOL72iXutj96r-QWNu87V4GcNL25sCRUrnh0QnZgSmljdrOmb5JCARocBF5LpPZ1qiNACPHgdmHpxR4JqRtCLhEFYsqmgQCqZBzGUSwcWM4EmP6Wws0VtVp4050GDP6yM3eS4gF6t6vDKiX9PaLPYFTeWx60z2EZn-bmm69PiUxGWr6zFcWF0SVQzTSgBu88YumbpGkciB2_uiGRJApr4634v1a6OYj7g-CI1oqg5B2m-YHoKg1vWEOqnH8VBumgNEtbUhDXQA2kyIYzZcTF4jpcqAaQLMp39djKhmZ9wQ1dE6OSAjNtZwOkVZqwBii4x5aKfXqMEfQoiKI7CFkGzpstjzUlwGCVeq_ByXgVdMMrQFE-ICBerQCJO_LWLhS_CmPiRJLJUOxEOoMSSmrzLqUgIjJ9C9ZY1IZBH9LN2F8SswTtwtUCD6y_SkpuVOpsNe-3hhPrNyOlDSDK4wsD8F8XM-l_xi0udJkpdDr_xP-NHCcYf8SMX_KwMPy8tdbf47S74jYHWTUudy_P4qTn8vDf8zJtSRxHJYsLXSL6KXzxe8aM5_NDn-IlS9w6_FcfxO0jwE6VOu4PfF0vd_GulLqHQSYfbunfc0A_1b1f7CXT7YDTADEw7RrTfRtZqvt9WPfp9uQqix90hFLO1_Qgr3ehkF_aK6bDo2yoM7ULgH0JFMn5w3puvG5rm8EWA8XDvhsNxd0KmD6yrqq-14QOu7bXWrMFpr2GOt673uoH2WJarmikbA5upJ8tqj6l67nnOxA7ll-nT-XxeD3ubA67J-qhZnY4MT6W7emvSffajAIbN6NnXZZNuz6sRGC778iiyT7NO-MNFXStxjCnmfszcUXikklcIDpYibqbqgYGoZwVmGUuHvSiWadYl07Erju1UZEkuBDQ67ZRq-W-OupbH"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Home | Best Foods US",
+            "link": "https://www.bestfoods.com/us/en/home.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bestfoods.com/us/en/home.html&ved=2ahUKEwjOyePbir2PAxU1AtsEHRZzKSYQFnoECBsQAQ",
+            "displayed_link": "https://www.bestfoods.com \u203a ...",
+            "thumbnail": "https://serpapi.com/searches/68b87652fdfbab9321b9e215/images/ff51057216ea4d889c3b733d38562c21427f30577cbeaba96b451dbb69598dd1.jpeg",
+            "favicon": "https://serpapi.com/searches/68b87652fdfbab9321b9e215/images/ff51057216ea4d889c3b733d38562c213cdd052603d16f7c3469c82685b2855a.png",
+            "snippet": "Welcome to Best Foods! Explore our wide range of mayonnaises, dressings and spreads, find a new recipe, or learn about our story and values.",
+            "snippet_highlighted_words": [
+                "Explore our wide range of mayonnaises, dressings and spreads"
+            ],
+            "source": "bestfoods.com"
+        },
+        {
+            "position": 2,
+            "title": "What foods do you think are worth going out to eat for?",
+            "link": "https://www.reddit.com/r/Cooking/comments/1b7ghwx/what_foods_do_you_think_are_worth_going_out_to/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/Cooking/comments/1b7ghwx/what_foods_do_you_think_are_worth_going_out_to/&ved=2ahUKEwjOyePbir2PAxU1AtsEHRZzKSYQFnoECCEQAQ",
+            "displayed_link": "680+ comments \u00b7 1 year ago",
+            "favicon": "https://serpapi.com/searches/68b87652fdfbab9321b9e215/images/ff51057216ea4d889c3b733d38562c216d5850224517c014c622b0cc7db1bfb0.png",
+            "snippet": "What food do you consider worthy of going out for? Beef wellington? All-you-can-eat Brazilian steakhouse? For me, I think indian curry is worth going out for.",
+            "snippet_highlighted_words": [
+                "Beef wellington"
+            ],
+            "sitelinks": {
+                "list": [
+                    {
+                        "title": "First time in LA. What are some must eat food? - Reddit",
+                        "link": "https://www.reddit.com/r/FoodLosAngeles/comments/1bv5p8w/first_time_in_la_what_are_some_must_eat_food/",
+                        "answer_count": 51,
+                        "date": "Apr 3, 2024"
+                    },
+                    {
+                        "title": "Tastiest food you have had - regardless of cost and ...",
+                        "link": "https://www.reddit.com/r/Cooking/comments/18rwdhy/tastiest_food_you_have_had_regardless_of_cost_and/",
+                        "answer_count": 315,
+                        "date": "Dec 27, 2023"
+                    }
+                ]
+            },
+            "source": "Reddit \u00b7 r/Cooking"
+        },
+        {
+            "position": 3,
+            "title": "I Ate The World's Best Street Food",
+            "link": "https://www.youtube.com/watch?v=cAgsmgXWZr4",
+            "displayed_link": "23.7M+ views \u00b7 2 months ago",
+            "thumbnail": "https://serpapi.com/searches/68b87652fdfbab9321b9e215/images/ff51057216ea4d889c3b733d38562c21bed81439136b0ca73655328837f31217.jpeg",
+            "favicon": "https://serpapi.com/searches/68b87652fdfbab9321b9e215/images/ff51057216ea4d889c3b733d38562c211d213d1b46caa0217150817bd68b1b97.png",
+            "snippet": "I'm traveling the world to find the best street food on the planet ranging from chili crab in Singapore to durian in Malaysia and so much more.",
+            "duration": "25:22",
+            "source": "YouTube \u00b7 Nick DiGiovanni"
+        },
+        {
+            "position": 4,
+            "title": "TasteAtlas Awards 24/25 - What's the Best Food in ...",
+            "link": "https://www.tasteatlas.com/best",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tasteatlas.com/best&ved=2ahUKEwjOyePbir2PAxU1AtsEHRZzKSYQFnoECH0QAQ",
+            "displayed_link": "https://www.tasteatlas.com \u203a best",
+            "favicon": "https://serpapi.com/searches/68b87652fdfbab9321b9e215/images/ff51057216ea4d889c3b733d38562c21f9d552089fdd45270bb1042fb1dcd3a4.png",
+            "snippet": "TasteAtlas Traditional Food Awards: Best dishes, best cuisines, best cheeses, best food cities & regions, most legendary restaurants in the world.",
+            "snippet_highlighted_words": [
+                "Best dishes, best cuisines, best cheeses, best food cities & regions"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "100 Best Food Cities",
+                        "link": "https://www.tasteatlas.com/best/cities"
+                    },
+                    {
+                        "title": "100 Best Food Regions",
+                        "link": "https://www.tasteatlas.com/best/regions"
+                    },
+                    {
+                        "title": "100 Best Dishes",
+                        "link": "https://www.tasteatlas.com/best/dishes"
+                    },
+                    {
+                        "title": "100 Best Cuisines",
+                        "link": "https://www.tasteatlas.com/best/cuisines"
+                    }
+                ]
+            },
+            "source": "TasteAtlas"
+        },
+        {
+            "position": 5,
+            "title": "Where to Eat in Seattle: Must-Try Restaurants for Every ...",
+            "link": "https://www.thetruthtraveller.com/blog/where-to-eat-in-seattle-must-try-restaurants-for-every-foodie",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.thetruthtraveller.com/blog/where-to-eat-in-seattle-must-try-restaurants-for-every-foodie&ved=2ahUKEwjOyePbir2PAxU1AtsEHRZzKSYQFnoFCKIBEAE",
+            "displayed_link": "https://www.thetruthtraveller.com \u203a blog \u203a where-to-eat...",
+            "thumbnail": "https://serpapi.com/searches/68b87652fdfbab9321b9e215/images/ff51057216ea4d889c3b733d38562c2192e7259952baed7058e2030bbdf13352.jpeg",
+            "favicon": "https://serpapi.com/searches/68b87652fdfbab9321b9e215/images/ff51057216ea4d889c3b733d38562c21a5e177537e1b3d5a7e87079ddf78afdf.png",
+            "date": "Mar 23, 2025",
+            "snippet": "Discover the best places to eat in Seattle, from fresh seafood at Pike Place Market to top-rated Italian at Cortina, unparalleled Chinese at ...",
+            "snippet_highlighted_words": [
+                "fresh seafood at Pike Place Market"
+            ],
+            "source": "thetruthtraveller.com"
+        },
+        {
+            "position": 6,
+            "title": "My 24 Favorite Restaurants in Brooklyn - Alex Reichek",
+            "link": "https://alexreichek.com/best-restaurants-brooklyn/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://alexreichek.com/best-restaurants-brooklyn/&ved=2ahUKEwjOyePbir2PAxU1AtsEHRZzKSYQFnoFCJ8BEAE",
+            "displayed_link": "https://alexreichek.com \u203a Where to Eat",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdN0GWuJDObLOFUkYyyCh9FnhEsS6ZedxCPW36dnZyPUieYKB9Angc&usqp=CAE&s",
+            "favicon": "https://serpapi.com/searches/68b87652fdfbab9321b9e215/images/ff51057216ea4d889c3b733d38562c219b00ab1f17e8adc3494de45a43492337.png",
+            "snippet": "A guide for all of you to discover the top places to eat! There's some classic favorites and a lot of new hot spots as I'm always updating this list.",
+            "snippet_highlighted_words": [
+                "classic favorites and a lot of new hot spots"
+            ],
+            "source": "alexreichek.com"
+        },
+        {
+            "position": 7,
+            "title": "TOP 10 BEST Food in Los Angeles, CA - Yelp",
+            "link": "https://www.yelp.com/search?find_desc=Food&find_loc=Los+Angeles%2C+CA",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.yelp.com/search%3Ffind_desc%3DFood%26find_loc%3DLos%2BAngeles%252C%2BCA&ved=2ahUKEwjOyePbir2PAxU1AtsEHRZzKSYQFnoFCLMBEAE",
+            "displayed_link": "https://www.yelp.com \u203a Restaurants",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREfuZu0m3wpiog4IvNFM94FcyPNu5-ZbiNZFsKcutUcVAEpWtKZ7kp&usqp=CAE&s",
+            "favicon": "https://serpapi.com/searches/68b87652fdfbab9321b9e215/images/ff51057216ea4d889c3b733d38562c21be02a35732a058cf54b85de4dd67417b.png",
+            "snippet": "Top 10 Best Food Near Los Angeles, California \u00b7 1. Thai Night Market \u00b7 2. Loqui \u00b7 3. Mi Venezuela \u00b7 4. Kogi BBQ Truck \u00b7 5. Yami Yaki \u00b7 6. Gochu Gang \u00b7 7.",
+            "snippet_highlighted_words": [
+                "1. Thai Night Market"
+            ],
+            "source": "Yelp"
+        },
+        {
+            "position": 8,
+            "title": "The Ultimate NYC Food Bucket List in 2025 (99 Best ...",
+            "link": "https://localadventurer.com/places-to-eat-in-nyc-food-bucket-list/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://localadventurer.com/places-to-eat-in-nyc-food-bucket-list/&ved=2ahUKEwjOyePbir2PAxU1AtsEHRZzKSYQFnoECEkQAQ",
+            "displayed_link": "https://localadventurer.com \u203a Recent Posts",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw5Gv0hiYDKOhLjxNIO2aDF8P-ou_ICNzLNNQPL5-bv3Ngd0v7V1qs&usqp=CAE&s",
+            "favicon": "https://serpapi.com/searches/68b87652fdfbab9321b9e215/images/ff51057216ea4d889c3b733d38562c219fa446735a4dd2c89162ad48e7292795.png",
+            "snippet": "We've tried all the three starred Michelin restaurants as well as many of the cheapest eats in the city. 99 Best Places to Eat in NYC Food Bucket List",
+            "snippet_highlighted_words": [
+                "restaurants",
+                "eats",
+                "Best",
+                "Food"
+            ],
+            "source": "Local Adventurer"
+        },
+        {
+            "position": 9,
+            "title": "15 BEST FOODS AROUND THE WORLD",
+            "link": "https://www.youtube.com/watch?v=cqcVT-X2hXs",
+            "displayed_link": "797.1K+ views \u00b7 4 years ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo3VWJcsHSntdTcFX6wGNyXLcaXwsXwrqQTA5Zdxl_nrX2BjGCKZdfGO1_htT3&s&ec=73086139",
+            "favicon": "https://serpapi.com/searches/68b87652fdfbab9321b9e215/images/ff51057216ea4d889c3b733d38562c219c0299d55607ff3c3180df8bb2716142.png",
+            "snippet": "00:00 - BEST FOOD AROUND THE WORLD ; 00:32 - RAMEN, JAPAN ; 00:52 - HOT POT, CHINA ; 01:27 - ITALIAN FOOD ; 02:09 - GRILLED CHEESE, USA ...",
+            "duration": "9:00",
+            "key_moments": [
+                {
+                    "time": "00:00",
+                    "title": "BEST FOOD AROUND THE WORLD",
+                    "link": "https://www.youtube.com/watch?v=cqcVT-X2hXs&t=0",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvwW3ycvlrYe3MW94U42ciXS30qEBv7d62VuWVJ_jjPw&s"
+                },
+                {
+                    "time": "00:32",
+                    "title": "RAMEN, JAPAN",
+                    "link": "https://www.youtube.com/watch?v=cqcVT-X2hXs&t=32",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcf5xjCjQ6AfoJixInwP8zw9kw3e0iwjg82tIuNmUOzQ&s"
+                },
+                {
+                    "time": "00:52",
+                    "title": "HOT POT, CHINA",
+                    "link": "https://www.youtube.com/watch?v=cqcVT-X2hXs&t=52",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyIxylaw3CqYKM2wWPNlbowRTIUQv-tDEcICu8-UucgQ&s"
+                },
+                {
+                    "time": "01:27",
+                    "title": "ITALIAN FOOD",
+                    "link": "https://www.youtube.com/watch?v=cqcVT-X2hXs&t=87",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPE4yPPLWIxFjeIi4RdKg7Rd8Q6NHHqtq5Xn9jX1JwMQ&s"
+                },
+                {
+                    "time": "02:09",
+                    "title": "GRILLED CHEESE, USA",
+                    "link": "https://www.youtube.com/watch?v=cqcVT-X2hXs&t=129",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxmHqv8nUwuzareGJ4qHXNPt3IZbAUuSz0pbR_fjlSjg&s"
+                },
+                {
+                    "time": "02:34",
+                    "title": "BAGUETTE, FRANCE",
+                    "link": "https://www.youtube.com/watch?v=cqcVT-X2hXs&t=154",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4vg0MgeWC8wIfQaAN5TNwE_j1FYZD_yqbl6cfmCi-tA&s"
+                },
+                {
+                    "time": "02:55",
+                    "title": "FISH N CHIPS, ENGLAND",
+                    "link": "https://www.youtube.com/watch?v=cqcVT-X2hXs&t=175",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz3Vm4bDNn-O-q8_Inx6vfJjtRGv6_FJkbXMjrwg04PA&s"
+                },
+                {
+                    "time": "03:16",
+                    "title": "GREEN CURRY, THAILAND",
+                    "link": "https://www.youtube.com/watch?v=cqcVT-X2hXs&t=196",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-IpY2uuDHSwKKPHFVR1tampQZC2hZBfiSaSE9e4pp6g&s"
+                },
+                {
+                    "time": "03:43",
+                    "title": "QUESADILLA, MEXICO",
+                    "link": "https://www.youtube.com/watch?v=cqcVT-X2hXs&t=223",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKOwZW9J60kssHFpHsHPM-DLwpLhjarFCNfZ4JdOeRow&s"
+                },
+                {
+                    "time": "04:14",
+                    "title": "PHO, VIETNAM",
+                    "link": "https://www.youtube.com/watch?v=cqcVT-X2hXs&t=254",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXum_hzsFFO1nabRKqEbVQQ9obvXx4VNwheAET1kEFjg&s"
+                },
+                {
+                    "time": "04:58",
+                    "title": "PAELLA, SPAIN",
+                    "link": "https://www.youtube.com/watch?v=cqcVT-X2hXs&t=298",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6hoCbYGJ2zU0ymWnVIpg105gIL3fCnzGc3CqSBHRO9A&s"
+                },
+                {
+                    "time": "05:22",
+                    "title": "BIRIYANI, INDIA",
+                    "link": "https://www.youtube.com/watch?v=cqcVT-X2hXs&t=322",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXhhO-wj3D1-jEqEcK4Vw-7UIU-JfNE6SvnXuPxIObAQ&s"
+                },
+                {
+                    "time": "05:43",
+                    "title": "GREEK SALAD, GREECE",
+                    "link": "https://www.youtube.com/watch?v=cqcVT-X2hXs&t=343",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKy67j3gski-AozDU6q9EuJNs8PV7nC1kPPvONhhVQDg&s"
+                },
+                {
+                    "time": "06:06",
+                    "title": "DURIAN, ASIA",
+                    "link": "https://www.youtube.com/watch?v=cqcVT-X2hXs&t=366",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ3apeYM6pHWaiL4BUOBD6KRVajducrvpaD26lOJGpvg&s"
+                },
+                {
+                    "time": "07:00",
+                    "title": "PAVLOVA, NEW ZEALAND",
+                    "link": "https://www.youtube.com/watch?v=cqcVT-X2hXs&t=420",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvevjtxJU1iYcuTaOQpA57j4fdLtjVRksbzdNMK_kwcA&s"
+                },
+                {
+                    "time": "07:27",
+                    "title": "AFTERNOON TEA, ENGLAND",
+                    "link": "https://www.youtube.com/watch?v=cqcVT-X2hXs&t=447",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReI97jQ5A3FuFAh15LMydcGl8ANyQu1QXhSlr_li7naA&s"
+                },
+                {
+                    "time": "08:09",
+                    "title": "OUTRO",
+                    "link": "https://www.youtube.com/watch?v=cqcVT-X2hXs&t=489",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBCXqF6bTvL1t1AMbkl9-UKLprtpFOD8lw6QHJodJ8hQ&s"
+                }
+            ],
+            "source": "YouTube \u00b7 Creative Travel Guide"
+        },
+        {
+            "position": 10,
+            "title": "Best Restaurants Near Me",
+            "link": "https://www.tripadvisor.com/Restaurants",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tripadvisor.com/Restaurants&ved=2ahUKEwjOyePbir2PAxU1AtsEHRZzKSYQFnoECFEQAQ",
+            "displayed_link": "https://www.tripadvisor.com \u203a Restaurants",
+            "favicon": "https://serpapi.com/searches/68b87652fdfbab9321b9e215/images/ff51057216ea4d889c3b733d38562c21ce80aaa74fd9e7540393ef9377392421.png",
+            "snippet": "Popular types of food & restaurants near you \u00b7 POPULAR CUISINES \u00b7 African Food Near Me \u00b7 British Food Near Me \u00b7 Cajun Food Near Me \u00b7 Caribbean Food Near Me ...",
+            "snippet_highlighted_words": [
+                "African Food Near Me"
+            ],
+            "source": "Tripadvisor"
+        },
+        {
+            "position": 11,
+            "title": "20 Most Delicious Food You Must Try Before You Die!",
+            "link": "https://www.youtube.com/watch?v=jmRn98gIzoM",
+            "displayed_link": "1.9K+ views \u00b7 8 months ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH1JLhEjgv8j3A2BKedV2ogebpH0vJJCSbjIIACAam0mdgfDvKHxyqHrMgB1iY&s&ec=73086139",
+            "favicon": "https://serpapi.com/searches/68b87652fdfbab9321b9e215/images/ff51057216ea4d889c3b733d38562c218fcddb9de0df28f23596bab77ff007fc.png",
+            "snippet": "20 most delicious food in the world you need to try before you die that will make you want to pack your bags and your appetite.",
+            "duration": "8:05",
+            "source": "YouTube \u00b7 JimmyBallers20"
+        },
+        {
+            "position": 12,
+            "title": "The Top 25 Best Dishes of 2024 - Our Favorite Bites ...",
+            "link": "https://andershusa.com/the-top-25-best-dishes-of-2024/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://andershusa.com/the-top-25-best-dishes-of-2024/&ved=2ahUKEwjOyePbir2PAxU1AtsEHRZzKSYQFnoECF0QAQ",
+            "displayed_link": "https://andershusa.com \u203a the-top-25-best-dishes-of-2024",
+            "favicon": "https://serpapi.com/searches/68b87652fdfbab9321b9e215/images/ff51057216ea4d889c3b733d38562c210858ae3d3ddedff4392f104f2cdd0f98.png",
+            "date": "Dec 30, 2024",
+            "snippet": "Discover the top 25 best dishes of 2024! These were our favorite bites this year as we traveled the world around Scandinavia and beyond.",
+            "snippet_highlighted_words": [
+                "best dishes of 2024"
+            ],
+            "source": "Anders & Kaitlin"
+        },
+        {
+            "position": 13,
+            "title": "What is the best food you have eaten?",
+            "link": "https://www.quora.com/What-is-the-best-food-you-have-eaten",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quora.com/What-is-the-best-food-you-have-eaten&ved=2ahUKEwjOyePbir2PAxU1AtsEHRZzKSYQFnoECGcQAQ",
+            "displayed_link": "610+ answers \u00b7 9 years ago",
+            "favicon": "https://serpapi.com/searches/68b87652fdfbab9321b9e215/images/ff51057216ea4d889c3b733d38562c21fcdf1cf4bbe50ced8debef6b505342cf.png",
+            "snippet": "Buffalo Wings. No craving is as fierce and relentless! The picture below looks pretty much like how I would like them...fried but not breaded ...",
+            "snippet_highlighted_words": [
+                "Buffalo Wings"
+            ],
+            "source": "Quora"
+        },
+        {
+            "position": 14,
+            "title": "Where do you find the best food in this life? Who makes the ...",
+            "link": "https://www.quora.com/Where-do-you-find-the-best-food-in-this-life-Who-makes-the-best",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quora.com/Where-do-you-find-the-best-food-in-this-life-Who-makes-the-best&ved=2ahUKEwjOyePbir2PAxU1AtsEHRZzKSYQFnoECGQQAQ",
+            "displayed_link": "2 answers \u00b7 1 year ago",
+            "favicon": "https://serpapi.com/searches/68b87652fdfbab9321b9e215/images/ff51057216ea4d889c3b733d38562c2170030ebd660aa7a0e032b11d520749bb.png",
+            "snippet": "The best food comes direct from the garden. Vegetables are at their peak right after they are picked. There are city businesses that combine a ...",
+            "snippet_highlighted_words": [
+                "The best food comes direct from the garden"
+            ],
+            "source": "Quora"
+        },
+        {
+            "position": 15,
+            "title": "The 20 Best Things I Ate in 2024, in New Jersey",
+            "link": "https://thedigestonline.com/dining/the-20-best-things-i-ate-in-2024-in-new-jersey/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://thedigestonline.com/dining/the-20-best-things-i-ate-in-2024-in-new-jersey/&ved=2ahUKEwjOyePbir2PAxU1AtsEHRZzKSYQFnoFCIIBEAE",
+            "displayed_link": "https://thedigestonline.com \u203a dining \u203a the-20-best-thing...",
+            "favicon": "https://serpapi.com/searches/68b87652fdfbab9321b9e215/images/ff51057216ea4d889c3b733d38562c2186b47691ace2cdb682be1530ffa33799.png",
+            "date": "Dec 30, 2024",
+            "snippet": "From perfect pizza pies to stuffed pork gyros, nothing is off-limits. Without further ado, these are the best bites I've had\u2014in New Jersey\u2014in ...",
+            "snippet_highlighted_words": [
+                "perfect pizza pies"
+            ],
+            "source": "New Jersey Digest"
+        },
+        {
+            "position": 16,
+            "title": "#1 Food Country in the World?? I Put it to the Test!",
+            "link": "https://www.youtube.com/watch?v=Cch4mayoNgg",
+            "displayed_link": "3.2M+ views \u00b7 5 months ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjkZ1FjkYT3FI0W5i54GP7FThjoto5TNp5O-uOhLcr37x8NROdNyvboVC5dMia&s&ec=73086139",
+            "favicon": "https://serpapi.com/searches/68b87652fdfbab9321b9e215/images/ff51057216ea4d889c3b733d38562c214593ead6851bdccf7b0ecfcc040d51a4.png",
+            "snippet": "The number one Cuisine across the planet is Moroccan Cuisine. Today after trying this country's most iconic dishes all decided Morocco truly should carry the crown of Best Food Country.",
+            "duration": "23:54",
+            "key_moments": [
+                {
+                    "time": "00:00",
+                    "title": "\u00bb Intro",
+                    "link": "https://www.youtube.com/watch?v=Cch4mayoNgg&t=0",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA2V8QAnWjoBczxK2fbSGA7xq9vNhoV3Sdp3_-cFJ_vA&s"
+                },
+                {
+                    "time": "01:32",
+                    "title": "\u00bb Khobz Bread",
+                    "link": "https://www.youtube.com/watch?v=Cch4mayoNgg&t=92",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD65qagD0GMcqLsktBHpayTK37DN6y4JfBUnIsutpX1Q&s"
+                },
+                {
+                    "time": "03:25",
+                    "title": "\u00bb Goat & Chicken Tagine",
+                    "link": "https://www.youtube.com/watch?v=Cch4mayoNgg&t=205",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnPutSnxugbYBC1RW1ByuaXmMzPCZg5UAz4-t5F31uyw&s"
+                },
+                {
+                    "time": "08:55",
+                    "title": "\u00bb Couscous & Beef",
+                    "link": "https://www.youtube.com/watch?v=Cch4mayoNgg&t=535",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIvetFYxGZrsNY74QnybFb_5vTMWdNWT-SGJ_O0HDKyQ&s"
+                },
+                {
+                    "time": "13:00",
+                    "title": "\u00bb Pigeon Pastilla",
+                    "link": "https://www.youtube.com/watch?v=Cch4mayoNgg&t=780",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB6GSLFiH3BZWBbZIg2fG68SLx01LxQeqjGk-sBG2SqQ&s"
+                },
+                {
+                    "time": "17:41",
+                    "title": "\u00bb Chicken Rfissa",
+                    "link": "https://www.youtube.com/watch?v=Cch4mayoNgg&t=1061",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzEt4emNmCihA09kCCIXtpgoRV9d-7o60aI1RvkBibXA&s"
+                },
+                {
+                    "time": "21:48",
+                    "title": "\u00bb Video Conclusion (Recap)",
+                    "link": "https://www.youtube.com/watch?v=Cch4mayoNgg&t=1308",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGhXMnBEqlLvBtoIgObXGzQqFF7G-PGMe-vo7O-L1KLA&s"
+                },
+                {
+                    "time": "22:37",
+                    "title": "\u00bb More Best Ever Food Review Show",
+                    "link": "https://www.youtube.com/watch?v=Cch4mayoNgg&t=1357",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL0qKk69MqJHB85bzp_ZpBrk7G42T2TJTSNlP2naUf3g&s"
+                },
+                {
+                    "time": "22:54",
+                    "title": "\u00bb Bloopers & LOLs",
+                    "link": "https://www.youtube.com/watch?v=Cch4mayoNgg&t=1374",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4iabt1TnzmNYA6gh1XsDVSk8uj1TaBuOvavQgFSOLKg&s"
+                },
+                {
+                    "time": "23:19",
+                    "title": "\u00bb Outro (Thanks & Peace!)",
+                    "link": "https://www.youtube.com/watch?v=Cch4mayoNgg&t=1399",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRZ4IBqfko6uz0LUVjncyEEFJZfOjteR-DwXFMVhHmzw&s"
+                }
+            ],
+            "source": "YouTube \u00b7 Best Ever Food Review Show"
+        },
+        {
+            "position": 17,
+            "title": "Best Places to Eat in Cedar Rapids",
+            "link": "https://www.tourismcedarrapids.com/restaurants/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tourismcedarrapids.com/restaurants/&ved=2ahUKEwjOyePbir2PAxU1AtsEHRZzKSYQFnoFCIEBEAE",
+            "displayed_link": "https://www.tourismcedarrapids.com \u203a restaurants",
+            "favicon": "https://serpapi.com/searches/68b87652fdfbab9321b9e215/images/ff51057216ea4d889c3b733d38562c21a308e77437d63c5deaa9f2663da23121.png",
+            "snippet": "Explore our guide to the best places to eat in Cedar Rapids featuring restaurants like Cellar 19 Wine & Deli, 16th Ave Grill, 30 Hop, 350 First, and more!",
+            "snippet_highlighted_words": [
+                "best places to eat in Cedar Rapids"
+            ],
+            "source": "Cedar Rapids Tourism"
+        },
+        {
+            "position": 18,
+            "title": "I Tried The Best Street Food In America",
+            "link": "https://www.youtube.com/watch?v=X1S05ZClQj4",
+            "displayed_link": "4.7M+ views \u00b7 5 months ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHunIyTMhpiI-TPAyRgCA6TdMz5AJ92xNF2XZ_RY78rd52CaZEyVEByBQZY9AA&s&ec=73086139",
+            "favicon": "https://serpapi.com/searches/68b87652fdfbab9321b9e215/images/ff51057216ea4d889c3b733d38562c214fd0b759f660cf37dadcfabbcf5ac700.png",
+            "snippet": "We asked you the audience which cities have the best street food in America after thousands of responses we have our top four.",
+            "duration": "34:56",
+            "source": "YouTube \u00b7 Joshua Weissman"
+        },
+        {
+            "position": 19,
+            "title": "Good Food New York, NY - Last Updated September 2025",
+            "link": "https://www.yelp.com/search?find_desc=Good+Food&find_loc=New+York%2C+NY",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.yelp.com/search%3Ffind_desc%3DGood%2BFood%26find_loc%3DNew%2BYork%252C%2BNY&ved=2ahUKEwjOyePbir2PAxU1AtsEHRZzKSYQFnoFCJIBEAE",
+            "displayed_link": "https://www.yelp.com \u203a Restaurants",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEa6iEAACIkDG_N73caEGEBUlauZDN4Y_X0IOvBLNWfMOPg5ElRc4C&usqp=CAE&s",
+            "favicon": "https://serpapi.com/searches/68b87652fdfbab9321b9e215/images/ff51057216ea4d889c3b733d38562c2190716d0cba9e52c1ce0765d81dbd30fa.png",
+            "snippet": "Good Food Near New York, New York \u00b7 1. Cemitas El Tigre \u00b7 2. Lobel's \u00b7 3. The Binc \u00b7 4. The Islands \u00b7 5. MariNe Handroll \u00b7 6. Four Twenty Five by Jean-Georges.",
+            "snippet_highlighted_words": [
+                "1. Cemitas El Tigre"
+            ],
+            "source": "Yelp"
+        },
+        {
+            "position": 20,
+            "title": "The best dishes I ate in Utah this year",
+            "link": "https://gastronomicslc.com/2024/12/31/the-best-dishes-i-ate-in-utah-this-year/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://gastronomicslc.com/2024/12/31/the-best-dishes-i-ate-in-utah-this-year/&ved=2ahUKEwjOyePbir2PAxU1AtsEHRZzKSYQFnoECHIQAQ",
+            "displayed_link": "https://gastronomicslc.com \u203a 2024/12/31 \u203a the-best-dish...",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdzIThL-sYx-hmz4bEJoFExqIocc-DQ_1l3oYBx_ogzmfcTNmd7wys&usqp=CAE&s",
+            "favicon": "https://serpapi.com/searches/68b87652fdfbab9321b9e215/images/ff51057216ea4d889c3b733d38562c21f89998246beee0607e8b0e4baa9d503f.png",
+            "date": "Dec 31, 2024",
+            "snippet": "The best dishes I ate in Utah this year \u00b7 Wisteria \u00b7 Bhansa Ghar \u00b7 Felt Bar & Eatery \u00b7 Koyote \u00b7 Pho 777 \u00b7 Enrico's Deli \u00b7 Drunken Kitchen.",
+            "snippet_highlighted_words": [
+                "Wisteria"
+            ],
+            "source": "Gastronomic Salt Lake City"
+        },
+        {
+            "position": 21,
+            "title": "The 38 Best Restaurants in San Francisco",
+            "link": "https://sf.eater.com/maps/best-restaurants-san-francisco-38",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sf.eater.com/maps/best-restaurants-san-francisco-38&ved=2ahUKEwjOyePbir2PAxU1AtsEHRZzKSYQFnoFCKMBEAE",
+            "displayed_link": "https://sf.eater.com \u203a maps \u203a best-restaurants-san-francisc...",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQay2tVWV1F7TlN0ka1Tr5XpnCBU67EChC2cWVgwKcgVxHQmqIQb9uo&usqp=CAE&s",
+            "favicon": "https://serpapi.com/searches/68b87652fdfbab9321b9e215/images/ff51057216ea4d889c3b733d38562c21bbbd782bc2896549d22e67538ec7da10.png",
+            "snippet": "Lunette's well-priced, crunchy, chewy, and spicy menu is some of the best food in the city, and certainly at the Ferry Building and along the waterfront. The ...",
+            "snippet_highlighted_words": [
+                "Lunette's well-priced, crunchy, chewy, and spicy menu"
+            ],
+            "source": "Eater San Francisco"
+        },
+        {
+            "position": 22,
+            "title": "States' Plates",
+            "link": "https://www.foodnetwork.com/restaurants/packages/best-food-in-america",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.foodnetwork.com/restaurants/packages/best-food-in-america&ved=2ahUKEwjOyePbir2PAxU1AtsEHRZzKSYQFnoFCJ0BEAE",
+            "displayed_link": "https://www.foodnetwork.com \u203a Restaurants",
+            "favicon": "https://serpapi.com/searches/68b87652fdfbab9321b9e215/images/ff51057216ea4d889c3b733d38562c21c02d2f40dcf6fe244502af4ec82fe6b2.png",
+            "snippet": "Find out where to get the top dishes from every state, including avocado toast in California, beignets in New Orleans, deep-dish pizza in Illinois and more.",
+            "snippet_highlighted_words": [
+                "avocado toast in California, beignets in New Orleans, deep-dish pizza in Illinois"
+            ],
+            "source": "Food Network"
+        },
+        {
+            "position": 23,
+            "title": "St. Louis' Top 25 Restaurants Right Now, According to Yelp",
+            "link": "https://www.riverfronttimes.com/st-louis-top-25-restaurants-right-now-according-to-yelp/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.riverfronttimes.com/st-louis-top-25-restaurants-right-now-according-to-yelp/&ved=2ahUKEwjOyePbir2PAxU1AtsEHRZzKSYQFnoFCJoBEAE",
+            "displayed_link": "https://www.riverfronttimes.com \u203a News",
+            "favicon": "https://serpapi.com/searches/68b87652fdfbab9321b9e215/images/ff51057216ea4d889c3b733d38562c217f69c772d6d555efad0f5954236a043b.png",
+            "date": "Apr 11, 2025",
+            "snippet": "Jaime Lees \u00b7 16. Balkan Treat Box \u00b7 17. The Fattened Caf \u00b7 18. Taco Buddha \u00b7 19. Bulrush STL \u00b7 20. Katsuya STL \u00b7 21. Jovick Brothers Burgers",
+            "snippet_highlighted_words": [
+                "16. Balkan Treat Box"
+            ],
+            "source": "Riverfront Times"
+        },
+        {
+            "position": 24,
+            "title": "The 42 best foods to try in Omaha",
+            "link": "https://wanderlog.com/list/geoCategory/1809752/best-foods-to-try-in-omaha",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://wanderlog.com/list/geoCategory/1809752/best-foods-to-try-in-omaha&ved=2ahUKEwjOyePbir2PAxU1AtsEHRZzKSYQFnoFCJsBEAE",
+            "displayed_link": "https://wanderlog.com \u203a list \u203a geoCategory \u203a best-foods...",
+            "favicon": "https://serpapi.com/searches/68b87652fdfbab9321b9e215/images/ff51057216ea4d889c3b733d38562c21e92bc0cf32d4c1bbfc40b7a0ba666566.png",
+            "snippet": "We've collected the most-often-mentioned 42 places from other articles, including favorites like Block 16, Yoshitomo, and M's Pub.",
+            "snippet_highlighted_words": [
+                "Block 16, Yoshitomo, and M's Pub"
+            ],
+            "source": "Wanderlog"
+        },
+        {
+            "position": 25,
+            "title": "The 10 Best Places to Eat in Rhode Island",
+            "link": "https://food52.com/story/26455-best-food-in-rhode-island",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://food52.com/story/26455-best-food-in-rhode-island&ved=2ahUKEwjOyePbir2PAxU1AtsEHRZzKSYQFnoFCJ4BEAE",
+            "displayed_link": "https://food52.com \u203a story \u203a 26455-best-food-in-rhode-i...",
+            "favicon": "https://serpapi.com/searches/68b87652fdfbab9321b9e215/images/ff51057216ea4d889c3b733d38562c2145a94705e112fd0e377eed297c97d204.png",
+            "date": "Aug 4, 2021",
+            "snippet": "A Local's Guide to the Best Food in Rhode Island \u00b7 1. The Beehive Cafe \u00b7 2. 22 Bowen's \u00b7 3. The Nitro Bar \u00b7 4. Rebelle Artisan Bagels \u00b7 5. Allie's ...",
+            "snippet_highlighted_words": [
+                "1. The Beehive Cafe"
+            ],
+            "source": "Food52"
+        },
+        {
+            "position": 26,
+            "title": "88 All-Time Best Dinner Recipes",
+            "link": "https://www.food.com/ideas/all-time-best-dinner-recipes-6009",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.food.com/ideas/all-time-best-dinner-recipes-6009&ved=2ahUKEwjOyePbir2PAxU1AtsEHRZzKSYQFnoFCMUBEAE",
+            "displayed_link": "https://www.food.com \u203a ideas \u203a all-time-best-dinner-rec...",
+            "favicon": "https://serpapi.com/searches/68b87652fdfbab9321b9e215/images/ff51057216ea4d889c3b733d38562c210943387d740b00971290e0acee921f2f.png",
+            "snippet": "Explore this collection of our all-time best dinner recipes for main dishes, sides and salads. Heres what you want to eat for dinner right now, ...",
+            "snippet_highlighted_words": [
+                "our all-time best dinner recipes"
+            ],
+            "source": "Food.com"
+        },
+        {
+            "position": 27,
+            "title": "The 25 Best Restaurants in Atlanta Right Now",
+            "link": "https://www.nytimes.com/article/best-restaurants-in-atlanta.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nytimes.com/article/best-restaurants-in-atlanta.html&ved=2ahUKEwjOyePbir2PAxU1AtsEHRZzKSYQFnoFCMYBEAE",
+            "displayed_link": "https://www.nytimes.com \u203a article \u203a best-restaurants-in-...",
+            "favicon": "https://serpapi.com/searches/68b87652fdfbab9321b9e215/images/ff51057216ea4d889c3b733d38562c21e48057444ce7e31f8d011fd287a83cdd.png",
+            "date": "2 days ago",
+            "snippet": "The 25 Best Restaurants in Atlanta Right Now \u00b7 Avize Modern Alpine Kitchen \u00b7 Bomb Biscuit \u00b7 BoccaLupo \u00b7 Bread & Butterfly \u00b7 The Busy Bee \u00b7 Chai ...",
+            "snippet_highlighted_words": [
+                "Avize Modern Alpine Kitchen"
+            ],
+            "source": "The New York Times"
+        },
+        {
+            "position": 28,
+            "title": "Discovering the Best Soul Food in New Orleans",
+            "link": "https://www.tiktok.com/@mr.chimetime/video/7543783167094836511",
+            "displayed_link": "526.9K+ views \u00b7 5 days ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx4Zl_TR71m8SJspcTzPhs5lTRcDdGMTAThBS8yRzgU7THENLxVKl0z_StSUmr&s&ec=73086139",
+            "favicon": "https://serpapi.com/searches/68b87652fdfbab9321b9e215/images/ff51057216ea4d889c3b733d38562c21636589a9870eee8a16d81023dde70b15.png",
+            "snippet": "Join me as I explore the best soul food in New Orleans, featuring amazing dishes that will tantalize your taste buds! #ncfoodie #foodreview # ...",
+            "duration": "2:40",
+            "source": "TikTok \u00b7 Mr.ChimeTime"
+        },
+        {
+            "position": 29,
+            "title": "Best Ever Food Review Show",
+            "link": "https://www.youtube.com/channel/UCcAd5Np7fO8SeejB1FVKcYw",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/channel/UCcAd5Np7fO8SeejB1FVKcYw&ved=2ahUKEwjOyePbir2PAxU1AtsEHRZzKSYQFnoECEMQAQ",
+            "displayed_link": "11.7M+ followers",
+            "favicon": "https://serpapi.com/searches/68b87652fdfbab9321b9e215/images/ff51057216ea4d889c3b733d38562c212df059c98c03e870b89dcbcd2a0317f1.png",
+            "snippet": "I travel to unique parts of the world on the hunt for the best food each country has to offer and share these stories with you in my videos. ...more",
+            "snippet_highlighted_words": [
+                "best food each country has to offer"
+            ],
+            "source": "YouTube \u00b7 Best Ever Food Review Show"
+        },
+        {
+            "position": 30,
+            "title": "The 20 Best Restaurants in Marin County",
+            "link": "https://www.bontraveler.com/best-restaurants-marin-county-california/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bontraveler.com/best-restaurants-marin-county-california/&ved=2ahUKEwjOyePbir2PAxU1AtsEHRZzKSYQFnoECE8QAQ",
+            "displayed_link": "https://www.bontraveler.com \u203a best-restaurants-marin-c...",
+            "favicon": "https://serpapi.com/searches/68b87652fdfbab9321b9e215/images/ff51057216ea4d889c3b733d38562c212bef62952811130e27786a6f4fe87025.png",
+            "snippet": "If you're looking for great modern Indian cuisine, head to Lotus. Lotus, along with Sol Food, were our most frequented restaurants when we lived in San Rafael.",
+            "snippet_highlighted_words": [
+                "Lotus"
+            ],
+            "source": "Bon Traveler"
+        },
+        {
+            "position": 31,
+            "title": "Chattanooga, Tennessee: Discover the Best Food Spots",
+            "link": "https://www.instagram.com/reel/DOH3LuDjkb9/",
+            "displayed_link": "4.6K+ likes \u00b7 14 hours ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2CdF9SxhfijdmDblgL4O8hBD3bU0IbpYYY4LsJIB_yDChuuSVciThBCZzDjK1&s&ec=73086139",
+            "favicon": "https://serpapi.com/searches/68b87652fdfbab9321b9e215/images/ff51057216ea4d889c3b733d38562c217ea77ee183fd7b2d6a055207e01649e6.png",
+            "snippet": "Join us as we uncover the best food spots in Chattanooga, Tennessee, from mouth-watering BBQ to sweet treats. Get insider knowledge on where ...",
+            "source": "Instagram \u00b7 thatmexicanot"
+        },
+        {
+            "position": 32,
+            "title": "Top 10 favorite foods...and from where - superlists",
+            "link": "https://supertalk.superfuture.com/topic/665-top-10-favorite-foodsand-from-where/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://supertalk.superfuture.com/topic/665-top-10-favorite-foodsand-from-where/&ved=2ahUKEwjOyePbir2PAxU1AtsEHRZzKSYQFnoECFUQAQ",
+            "displayed_link": "https://supertalk.superfuture.com \u203a supertalk \u203a superlists",
+            "favicon": "https://serpapi.com/searches/68b87652fdfbab9321b9e215/images/ff51057216ea4d889c3b733d38562c21031bc22c522d392aa83dac9cab4231ca.jpeg",
+            "date": "Sep 24, 2004",
+            "snippet": "Tisswat \u00b7 1. Nasi Kandar \u00b7 2. Feijao Preto \u00b7 3. Shoarma \u00b7 4. Massaman Kari Kai \u00b7 5. Hot Chicken Sandwich from Cantarel in Amsterdam - crappy ...",
+            "snippet_highlighted_words": [
+                "1. Nasi Kandar"
+            ],
+            "source": "supertalk | superfuture"
+        },
+        {
+            "position": 33,
+            "title": "The 17 Best Restaurants In Burbank - Los Angeles",
+            "link": "https://www.theinfatuation.com/los-angeles/guides/best-restaurants-burbank",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.theinfatuation.com/los-angeles/guides/best-restaurants-burbank&ved=2ahUKEwjOyePbir2PAxU1AtsEHRZzKSYQFnoECFQQAQ",
+            "displayed_link": "https://www.theinfatuation.com \u203a los-angeles \u203a guides",
+            "favicon": "https://serpapi.com/searches/68b87652fdfbab9321b9e215/images/ff51057216ea4d889c3b733d38562c2121d64a83321b6c88d33dca45f42b2a32.png",
+            "date": "Jan 27, 2025",
+            "snippet": "Tonir Cafe makes our favorite kabobs in the Valley. The standout on the menu is the beef lule made with ground beef, onions, and parsley, then ...",
+            "snippet_highlighted_words": [
+                "Tonir Cafe makes our favorite kabobs in the Valley"
+            ],
+            "source": "The Infatuation"
+        },
+        {
+            "position": 34,
+            "title": "Guardian's Worldwide Best 50 Foods & Where to Eat Them",
+            "link": "https://forums.egullet.org/topic/135026-guardians-worldwide-best-50-foods-where-to-eat-them/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://forums.egullet.org/topic/135026-guardians-worldwide-best-50-foods-where-to-eat-them/&ved=2ahUKEwjOyePbir2PAxU1AtsEHRZzKSYQFnoECFoQAQ",
+            "displayed_link": "https://forums.egullet.org \u203a topic \u203a 135026-guardians-...",
+            "favicon": "https://serpapi.com/searches/68b87652fdfbab9321b9e215/images/ff51057216ea4d889c3b733d38562c21dda98a81755a96b0be7213f0850afa00.png",
+            "date": "Sep 28, 2010",
+            "snippet": "The Guardian just published its list of the best 50 foods in the world, and they also declare where one must eat them. It's a pretty fun list, ...",
+            "snippet_highlighted_words": [
+                "best 50 foods in the world"
+            ],
+            "source": "eGullet Forums"
+        },
+        {
+            "position": 35,
+            "title": "Best meal at New Orleans restaurant",
+            "link": "https://www.facebook.com/groups/neworleansfoodies/posts/2006930030143350/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/neworleansfoodies/posts/2006930030143350/&ved=2ahUKEwjOyePbir2PAxU1AtsEHRZzKSYQFnoECGIQAQ",
+            "displayed_link": "50+ comments \u00b7 1 day ago",
+            "favicon": "https://serpapi.com/searches/68b87652fdfbab9321b9e215/images/ff51057216ea4d889c3b733d38562c21449780a4ec03e3cd95c78a39ffe97d74.png",
+            "snippet": "Finally tried Jacques Imos! May be the best meal I've ever had. I got the short rib special, Robert got the swordfish special, and my brother ...",
+            "snippet_highlighted_words": [
+                "Jacques Imos"
+            ],
+            "source": "Facebook \u00b7 New Orleans Foodies"
+        },
+        {
+            "position": 36,
+            "title": "Discover Long Beach's Best Restaurants and Eats",
+            "link": "https://www.instagram.com/reel/DOFJw3zgaYR/",
+            "displayed_link": "4.4K+ likes \u00b7 1 day ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRUd8_qSZdF5hWmyBhgm72ZqBgTVuC-86-UMaUV9mHstT5L6Ujs2pFhuEyObx5&s&ec=73086139",
+            "favicon": "https://serpapi.com/searches/68b87652fdfbab9321b9e215/images/ff51057216ea4d889c3b733d38562c217d4e2afe534087d8db3cf77c78211971.png",
+            "snippet": "From sourdough pizza to Cambodian noodles and a classic pastrami sandwich, LBC has a little bit of everything worth trying. Save this list for ...",
+            "duration": "2:21",
+            "source": "Instagram \u00b7 hungryinla"
+        },
+        {
+            "position": 37,
+            "title": "A Guide to the Best Food and Drink in Philly",
+            "link": "https://www.visitphilly.com/food-drink/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.visitphilly.com/food-drink/&ved=2ahUKEwjOyePbir2PAxU1AtsEHRZzKSYQFnoECGMQAQ",
+            "displayed_link": "https://www.visitphilly.com \u203a food-drink",
+            "favicon": "https://serpapi.com/searches/68b87652fdfbab9321b9e215/images/ff51057216ea4d889c3b733d38562c21665099ad71156426c2fdfe249054cdca.png",
+            "snippet": "Discover the best food and drink in Philly. Explore the best restaurants and bars for delicious and diverse food (including 300+ BYOB).",
+            "snippet_highlighted_words": [
+                "Explore the best restaurants and bars"
+            ],
+            "source": "Visit Philadelphia"
+        },
+        {
+            "position": 38,
+            "title": "The world's best food.",
+            "link": "https://www.youtube.com/watch?v=wgHGBmJNHsc",
+            "displayed_link": "344.1K+ views \u00b7 1 year ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTon_ghZesdwmcUbxUFe6I3xBKiDIwHybTUADZODrzis7KeqYRnvR7AmLDAN3yk&s&ec=73086139",
+            "favicon": "https://serpapi.com/searches/68b87652fdfbab9321b9e215/images/ff51057216ea4d889c3b733d38562c21a003a9979af3a3e32cccf4f5090583f9.png",
+            "snippet": "The number one food I had never heard of until a couple days ago and I have it right here this is masaman curry it's a Thai food.",
+            "duration": "20:25",
+            "source": "YouTube \u00b7 BenDeen"
+        },
+        {
+            "position": 39,
+            "title": "Best of Santa Cruz County food & drink events, Aug. 29- ...",
+            "link": "https://lookout.co/best-of-santa-cruz-county-food-drink-events-aug-29-sept-4/story",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://lookout.co/best-of-santa-cruz-county-food-drink-events-aug-29-sept-4/story&ved=2ahUKEwjOyePbir2PAxU1AtsEHRZzKSYQFnoECGYQAQ",
+            "displayed_link": "https://lookout.co \u203a story",
+            "favicon": "https://serpapi.com/searches/68b87652fdfbab9321b9e215/images/ff51057216ea4d889c3b733d38562c21515da89ae382497d30a59841fe1b97bb.png",
+            "date": "5 days ago",
+            "snippet": "Best of Santa Cruz County food and drink events, Aug. 29-Sept. 4 \u00b7 Live Oak Farmers Market | 9 a.m. \u00b7 Sunday Brunch Buffet | 9 a.m. \u00b7 Fresh Pasta ...",
+            "snippet_highlighted_words": [
+                "Live Oak Farmers Market | 9 a.m"
+            ],
+            "source": "Lookout Santa Cruz"
+        },
+        {
+            "position": 40,
+            "title": "Order directly from the restaurants you love",
+            "link": "https://www.toasttab.com/local",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.toasttab.com/local&ved=2ahUKEwjOyePbir2PAxU1AtsEHRZzKSYQFnoECGoQAQ",
+            "displayed_link": "https://www.toasttab.com \u203a local",
+            "favicon": "https://serpapi.com/searches/68b87652fdfbab9321b9e215/images/ff51057216ea4d889c3b733d38562c217ebb433d7280e6ae5498036d742f5c8a.png",
+            "snippet": "Best place to order takeout and delivery. Great selection with lowest prices and no commissions for restaurants. Search by location, cuisine, and more.",
+            "snippet_highlighted_words": [
+                "Great selection with lowest prices"
+            ],
+            "source": "Toast"
+        },
+        {
+            "position": 41,
+            "title": "Best Ever Food Review Show",
+            "link": "https://www.youtube.com/@BestEverFoodReviewShow",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/%40BestEverFoodReviewShow&ved=2ahUKEwjOyePbir2PAxU1AtsEHRZzKSYQFnoECHkQAQ",
+            "displayed_link": "11.7M+ followers",
+            "favicon": "https://serpapi.com/searches/68b87652fdfbab9321b9e215/images/ff51057216ea4d889c3b733d38562c214e27029f7bb20244399624a758559e13.png",
+            "snippet": "Share your videos with friends, family, and the world.",
+            "source": "YouTube \u00b7 Best Ever Food Review Show"
+        },
+        {
+            "position": 42,
+            "title": "Jarvis | This is one of the best Food festivals in the country ...",
+            "link": "https://www.instagram.com/reel/DOGjSBGEY3j/",
+            "displayed_link": "8.6K+ likes \u00b7 1 day ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREkwxTpoSkdeJz8YkJU3UOUh4UQl5MhnsP8btujFpbHif7spKF2bNPIGupUHe5&s&ec=73086139",
+            "favicon": "https://serpapi.com/searches/68b87652fdfbab9321b9e215/images/ff51057216ea4d889c3b733d38562c21d337b53100221ede94005edeb0283933.png",
+            "snippet": "So not only do you get complimentary drinks with your ticket purchase but you also get really good food as well. This is an adult only event and ...",
+            "source": "Instagram \u00b7 vibesinatl"
+        },
+        {
+            "position": 43,
+            "title": "Pie-Eyed Pizzeria on Food Network list of best slices to try",
+            "link": "https://www.nbcchicago.com/news/local/chicago-pizzeria-makes-food-networks-list-of-50-best-slices-to-try-in-the-us/3818356/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nbcchicago.com/news/local/chicago-pizzeria-makes-food-networks-list-of-50-best-slices-to-try-in-the-us/3818356/&ved=2ahUKEwjOyePbir2PAxU1AtsEHRZzKSYQFnoECHsQAQ",
+            "displayed_link": "https://www.nbcchicago.com \u203a news \u203a local \u203a chicago-...",
+            "favicon": "https://serpapi.com/searches/68b87652fdfbab9321b9e215/images/ff51057216ea4d889c3b733d38562c217e8e5a19b1ecd9f00a5d27ce7bb3470d.png",
+            "date": "24 hours ago",
+            "snippet": "The River West pizza joint is open until around 2 a.m. on Fridays and Saturdays, making it easy to grab a late-night slice.",
+            "source": "NBC 5 Chicago"
+        },
+        {
+            "position": 44,
+            "title": "The 31 Best Trader Joe's Foods of 2024",
+            "link": "https://www.bonappetit.com/story/best-trader-joes-foods?srsltid=AfmBOoooJXsuwIb9BB5MwaDVvcAx8LBVloAcHPjiPTzymoDwdZvpS8g_",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bonappetit.com/story/best-trader-joes-foods%3Fsrsltid%3DAfmBOoooJXsuwIb9BB5MwaDVvcAx8LBVloAcHPjiPTzymoDwdZvpS8g_&ved=2ahUKEwjOyePbir2PAxU1AtsEHRZzKSYQFnoECHoQAQ",
+            "displayed_link": "https://www.bonappetit.com \u203a Cooking \u203a Trader Joe's",
+            "favicon": "https://serpapi.com/searches/68b87652fdfbab9321b9e215/images/ff51057216ea4d889c3b733d38562c2114ff32403275e424717a8ebe7bf76eee.png",
+            "date": "Dec 12, 2024",
+            "snippet": "The best Trader Joe's foods in 2024 were, of course, the tasty little treats. The fun-flavored foods (White Queso! Coffee Panna Cotta!) that make life sweeter, ...",
+            "snippet_highlighted_words": [
+                "best",
+                "foods",
+                "foods"
+            ],
+            "source": "Bon App\u00e9tit: Recipes, Cooking, Entertaining, Restaurants | Bon App\u00e9tit"
+        },
+        {
+            "position": 45,
+            "title": "100 Best Dishes in the World - TasteAtlas Awards 24/25",
+            "link": "https://www.tasteatlas.com/best/dishes",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tasteatlas.com/best/dishes&ved=2ahUKEwjOyePbir2PAxU1AtsEHRZzKSYQFnoECH8QAQ",
+            "displayed_link": "https://www.tasteatlas.com \u203a best \u203a dishes",
+            "favicon": "https://serpapi.com/searches/68b87652fdfbab9321b9e215/images/ff51057216ea4d889c3b733d38562c2122db09166086a7e95fb839e450755046.png",
+            "snippet": "Based on 367,847 valid ratings for 11,258 dishes in our database, these are the 100 best dishes in the world. You've tried 0/100 best dishes.",
+            "snippet_highlighted_words": [
+                "best dishes",
+                "best dishes"
+            ],
+            "source": "TasteAtlas"
+        },
+        {
+            "position": 46,
+            "title": "10 Dishes From Around the World You Need to Try",
+            "link": "https://www.leahsugerman.com/blog/worlds-best-food",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.leahsugerman.com/blog/worlds-best-food&ved=2ahUKEwjOyePbir2PAxU1AtsEHRZzKSYQFnoFCIABEAE",
+            "displayed_link": "https://www.leahsugerman.com \u203a blog \u203a worlds-best-food",
+            "favicon": "https://serpapi.com/searches/68b87652fdfbab9321b9e215/images/ff51057216ea4d889c3b733d38562c2135f2a60ffebd71959661205a821052b7.png",
+            "snippet": "Foodies travel far and wide across the globe to find some of the world's best food internationally. Here are 10 of the world's best foods and their ...",
+            "snippet_highlighted_words": [
+                "best food",
+                "best foods"
+            ],
+            "source": "Leah Sugerman"
+        },
+        {
+            "position": 47,
+            "title": "The best dishes restaurant critic Bao Ong ate in August",
+            "link": "https://www.houstonchronicle.com/food-culture/restaurants-bars/reviews/article/best-food-houston-august-2025-21019878.php",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.houstonchronicle.com/food-culture/restaurants-bars/reviews/article/best-food-houston-august-2025-21019878.php&ved=2ahUKEwjOyePbir2PAxU1AtsEHRZzKSYQFnoFCJcBEAE",
+            "displayed_link": "https://www.houstonchronicle.com \u203a reviews \u203a article",
+            "favicon": "https://serpapi.com/searches/68b87652fdfbab9321b9e215/images/ff51057216ea4d889c3b733d38562c2142a43b4ff124f3f1475f42a5f4a3f089.png",
+            "date": "1 day ago",
+            "snippet": "The best dishes Houston Chronicle restaurant critic Bao Ong ate in August include wagyu burgers and pastries from top bakery Lil' ...",
+            "snippet_highlighted_words": [
+                "best dishes"
+            ],
+            "source": "Houston Chronicle"
+        },
+        {
+            "position": 48,
+            "title": "The best dishes we had in Baton Rouge and Acadiana",
+            "link": "https://www.theadvocate.com/baton_rouge/entertainment_life/food_restaurants/baton-rouge-food-news/article_eb53a561-f1bf-4888-b200-784807fece0f.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.theadvocate.com/baton_rouge/entertainment_life/food_restaurants/baton-rouge-food-news/article_eb53a561-f1bf-4888-b200-784807fece0f.html&ved=2ahUKEwjOyePbir2PAxU1AtsEHRZzKSYQFnoECEUQAQ",
+            "displayed_link": "https://www.theadvocate.com \u203a baton-rouge-food-news",
+            "favicon": "https://serpapi.com/searches/68b87652fdfbab9321b9e215/images/ff51057216ea4d889c3b733d38562c2151eb65f7302e8633c66e7e1c87911723.png",
+            "date": "8 hours ago",
+            "snippet": "A classic, filling, rich dish at Nino's, a Cajun buffet and more of the best things we ate this week around Baton Rouge.",
+            "snippet_highlighted_words": [
+                "best"
+            ],
+            "source": "The Advocate"
+        }
+    ],
+    "related_searches": [
+        {
+            "block_position": 1,
+            "query": "Best food in the world",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Best+food+in+the+world&sa=X&ved=2ahUKEwjOyePbir2PAxU1AtsEHRZzKSYQ1QJ6BQi7ARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=50&q=Best+food+in+the+world"
+        },
+        {
+            "block_position": 1,
+            "query": "Top 10 best food",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Top+10+best+food&sa=X&ved=2ahUKEwjOyePbir2PAxU1AtsEHRZzKSYQ1QJ6BQjCARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=50&q=Top+10+best+food"
+        },
+        {
+            "block_position": 1,
+            "query": "Best food recipes",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Best+food+recipes&sa=X&ved=2ahUKEwjOyePbir2PAxU1AtsEHRZzKSYQ1QJ6BQjBARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=50&q=Best+food+recipes"
+        },
+        {
+            "block_position": 1,
+            "query": "Top 10 best food in the world",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Top+10+best+food+in+the+world&sa=X&ved=2ahUKEwjOyePbir2PAxU1AtsEHRZzKSYQ1QJ6BQjAARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=50&q=Top+10+best+food+in+the+world"
+        },
+        {
+            "block_position": 1,
+            "query": "Best Foods Mayonnaise",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Best+Foods+Mayonnaise&sa=X&ved=2ahUKEwjOyePbir2PAxU1AtsEHRZzKSYQ1QJ6BQi_ARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=50&q=Best+Foods+Mayonnaise"
+        },
+        {
+            "block_position": 1,
+            "query": "Best Foods company",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Best+Foods+company&sa=X&ved=2ahUKEwjOyePbir2PAxU1AtsEHRZzKSYQ1QJ6BQi-ARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=50&q=Best+Foods+company"
+        },
+        {
+            "block_position": 1,
+            "query": "Best food in the world by country",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Best+food+in+the+world+by+country&sa=X&ved=2ahUKEwjOyePbir2PAxU1AtsEHRZzKSYQ1QJ6BQi9ARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=50&q=Best+food+in+the+world+by+country"
+        },
+        {
+            "block_position": 1,
+            "query": "Best Foods Unilever",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Best+Foods+Unilever&sa=X&ved=2ahUKEwjOyePbir2PAxU1AtsEHRZzKSYQ1QJ6BQi8ARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=50&q=Best+Foods+Unilever"
+        }
+    ],
+    "discussions_and_forums": [
+        {
+            "title": "Tastiest food you have had - regardless of cost and availability\u2026?",
+            "link": "https://www.reddit.com/r/Cooking/comments/18rwdhy/tastiest_food_you_have_had_regardless_of_cost_and/",
+            "date": "1 year ago",
+            "extensions": [
+                "r/Cooking",
+                "310+ comments"
+            ],
+            "source": "Reddit",
+            "answers": [
+                {
+                    "snippet": "I went all out and made like a $150 gumbo a couple of years ago, it took too way too long, ...",
+                    "link": "https://www.reddit.com/r/Cooking/comments/18rwdhy/tastiest_food_you_have_had_regardless_of_cost_and/kf44wtv/",
+                    "extensions": [
+                        "Top answer",
+                        "135 votes",
+                        "a year ago"
+                    ]
+                },
+                {
+                    "snippet": "Steak raised and cooked by my redneck family, on a grill that was leaking propane and ...",
+                    "link": "https://www.reddit.com/r/Cooking/comments/18rwdhy/tastiest_food_you_have_had_regardless_of_cost_and/kf3vcfy/",
+                    "extensions": [
+                        "78 votes",
+                        "a year ago"
+                    ]
+                },
+                {
+                    "snippet": "I cannot give you just one because I have had so many excellent meals in my lifetime. Here are ...",
+                    "link": "https://www.reddit.com/r/Cooking/comments/18rwdhy/tastiest_food_you_have_had_regardless_of_cost_and/kf3r9te/",
+                    "extensions": [
+                        "48 votes",
+                        "a year ago"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "CNN's American Food -- the best 20 dishes - Food and Travel Forum",
+            "link": "https://www.tripadvisor.com/ShowTopic-g1-i32200-k14890398-CNN_s_American_Food_the_best_20_dishes-Food_and_Travel.html",
+            "date": "11 months ago",
+            "source": "Tripadvisor",
+            "answers": [
+                {
+                    "snippet": "Where is the cheese steaks, the po-boy, macaroni and cheese, lobster rolls (or maybe anything with Maine lobster), biscuits and gravy, fried chicken, pecan pie ...",
+                    "link": "https://www.tripadvisor.com/ShowTopic-g1-i32200-k14890398-CNN_s_American_Food_the_best_20_dishes-Food_and_Travel.html"
+                }
+            ]
+        },
+        {
+            "title": "What is the best food you've ever had that I probably haven't and need to try?",
+            "link": "https://www.quora.com/What-is-the-best-food-youve-ever-had-that-I-probably-havent-and-need-to-try",
+            "date": "12 years ago",
+            "extensions": [
+                "10+ answers"
+            ],
+            "source": "Quora",
+            "answers": [
+                {
+                    "snippet": "If I had to pick one food that is relatively readily available yet spectacular when ...",
+                    "link": "https://www.quora.com/What-is-the-best-food-youve-ever-had-that-I-probably-havent-and-need-to-try?top_ans=3300140",
+                    "extensions": [
+                        "Top answer",
+                        "131 votes",
+                        "11 years ago"
+                    ]
+                },
+                {
+                    "snippet": "This is a really difficult question to answer. I've eaten at lots of top end restaurants where ...",
+                    "link": "https://www.quora.com/What-is-the-best-food-youve-ever-had-that-I-probably-havent-and-need-to-try?top_ans=3327748",
+                    "extensions": [
+                        "80 votes",
+                        "11 years ago"
+                    ]
+                },
+                {
+                    "snippet": "ChirimoyasNo food store in San Diego carries them any longerChirimoyas grow in Mexico ...",
+                    "link": "https://www.quora.com/What-is-the-best-food-youve-ever-had-that-I-probably-havent-and-need-to-try?top_ans=2196406",
+                    "extensions": [
+                        "14 votes",
+                        "12 years ago"
+                    ]
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=best+food&num=50&sca_esv=cbb70bed2ede2303&ei=Una4aM7YMLWE7NYPlualsQI&start=50&sa=N&sstk=Ac65TH5v8z9tcZw9birt-3ETEUG7215vnMh71g9_bEATRHb5NLxo29VazmTNFitUFwGdw85wFDVLBn1uGr21pu5iKR9qP2e07txjRg&ved=2ahUKEwjOyePbir2PAxU1AtsEHRZzKSYQ8NMDegQIDBAI",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=best+food&num=50&sca_esv=cbb70bed2ede2303&ei=Una4aM7YMLWE7NYPlualsQI&start=50&sa=N&sstk=Ac65TH5v8z9tcZw9birt-3ETEUG7215vnMh71g9_bEATRHb5NLxo29VazmTNFitUFwGdw85wFDVLBn1uGr21pu5iKR9qP2e07txjRg&ved=2ahUKEwjOyePbir2PAxU1AtsEHRZzKSYQ8tMDegQIDBAE",
+            "3": "https://www.google.com/search?q=best+food&num=50&sca_esv=cbb70bed2ede2303&ei=Una4aM7YMLWE7NYPlualsQI&start=100&sa=N&sstk=Ac65TH5v8z9tcZw9birt-3ETEUG7215vnMh71g9_bEATRHb5NLxo29VazmTNFitUFwGdw85wFDVLBn1uGr21pu5iKR9qP2e07txjRg&ved=2ahUKEwjOyePbir2PAxU1AtsEHRZzKSYQ8tMDegQIDBAG"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=50&q=best+food&start=50",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=50&q=best+food&start=50",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=50&q=best+food&start=50",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=50&q=best+food&start=100"
+        }
+    }
+}
