@@ -1,0 +1,2280 @@
+{
+    "search_metadata": {
+        "id": "68b8766ebd1731f7dd65c434",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/0f82dde0d9857c06/68b8766ebd1731f7dd65c434.json",
+        "pixel_position_endpoint": "https://serpapi.com/searches/0f82dde0d9857c06/68b8766ebd1731f7dd65c434.json_with_pixel_position",
+        "created_at": "2025-09-03 17:10:06 UTC",
+        "processed_at": "2025-09-03 17:10:06 UTC",
+        "google_url": "https://www.google.com/search?q=mathematicians&oq=mathematicians&uule=w+CAIQICIFSW5kaWE&num=50&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/0f82dde0d9857c06/68b8766ebd1731f7dd65c434.html",
+        "total_time_taken": 3.99
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "mathematicians",
+        "location_requested": "India",
+        "location_used": "India",
+        "google_domain": "google.com",
+        "num": "50",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "mathematicians",
+        "total_results": 28500000,
+        "time_taken_displayed": 0.39,
+        "organic_results_state": "Results for exact spelling"
+    },
+    "knowledge_graph": {
+        "title": "Mathematician",
+        "type": "Career",
+        "entity_type": "lightweight_vertical, occupations",
+        "kgmid": "/m/04s2z",
+        "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/04s2z&hl=en-US&q=Mathematician",
+        "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F04s2z&location=India&num=50&q=Mathematician",
+        "description": "A mathematician is someone who uses an extensive knowledge of mathematics in their work, typically to solve mathematical problems. Mathematicians are concerned with numbers, data, quantity, structure, space, models, and change.",
+        "description_highlighted_words": [],
+        "source": {
+            "name": "\u00a0Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Mathematician"
+        }
+    },
+    "inline_images": [
+        {
+            "thumbnail": "https://serpapi.com/searches/68b8766ebd1731f7dd65c434/images/4f24b9966e176b74f129cee3704def443761b0e62b0670accb2b379cbf6d5c5b.jpeg"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "Who is the top 10 mathematician?",
+            "type": "featured_snippet",
+            "title": "Top 10 most famous mathematicians",
+            "date": "Feb 14, 2022",
+            "link": "https://www.melioeducation.com/blog/top-ten-famous-mathematicians/",
+            "list": [
+                "Carl Friedrich Gauss. ... ",
+                "Pythagoras. ... ",
+                "Dame Mary Lucy Cartwright. ... ",
+                "Alan Turing. ... ",
+                "Albert Einstein. ... ",
+                "Katherine Johnson. ... ",
+                "Archimedes. ... ",
+                "Sofia Kovalevskaya. Sofia Kovalevskaya was a mathematician, born in 1850 in Moscow, Russia."
+            ],
+            "displayed_link": "https://www.melioeducation.com \u203a blog \u203a top-ten-famo...",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJUR3QwWDNaSU9UbENObU5ZT0RSaGFERjJaM2xEYTJkMlJWODJlV1l4WlRnelUyTjFNSEJzTUhOdE5HNTJaRTFXU0d0a1kzRlVMVTlwZW1WUlVscEZOMWRUY2pkTldXVnZOelU1Ym1KNWJWVldlVE50YUhNME9HcEJOVTU2TUVOVlVSSVdZMWhoTkdGTU5qQk9iMGRGZDJKclVEZzFUMVJIUVJvaVFVWk5RVWRIY2kxd1RFZGlkSFpEUzFOZk5tRnNWRGx6TlVWQ2NtcE9ZbEJZUVEiLCJmY3YiOiIzIiwiZWkiOiJjWGE0YUw2ME5vR0V3YmtQODVPVEdBIiwicWMiOiJDZzV0WVhSb1pXMWhkR2xqYVdGdWN4QUFmYkd5RVQ4IiwicXVlc3Rpb24iOiJXaG8gaXMgdGhlIHRvcCAxMCBtYXRoZW1hdGljaWFuPyIsImxrIjoiYzVPU0w4X0lWOGdzVmlqSlNGVW95UzlRTURSUXlFMEVjb0JFWm5KbVloNEEiLCJicyI6ImMtUHk0RklJejhoWHlDeFdLTWxJVlNqSkwxQXdORkRJVFFSeWdFUm1jbVppbnIzRWdYUWpSU241Y3Z6S3VEeTRWRUFtSlJhbGd0V1lLbmptcFFERlVWVVYyMHU4NVRhU2xaSTJWY2pFSXEyUWw1aWJ5aFhHcFk1c1VscGlibjVwc1VKYVpsa3FobUhmUFl3MHBOVEtpVkxOVmNKbGh1VFg5S0xVeEpMVTRoSTBGMlRtZ1dYTDg0dHlVc0FlTlRLd2wtaDNOektYTWkwblI3TUFJd0EiLCJpZCI6ImZjX2NYYTRhTDYwTm9HRXdia1A4NU9UR0FfMSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJUR3QwWDNaSU9UbENObU5ZT0RSaGFERjJaM2xEYTJkMlJWODJlV1l4WlRnelUyTjFNSEJzTUhOdE5HNTJaRTFXU0d0a1kzRlVMVTlwZW1WUlVscEZOMWRUY2pkTldXVnZOelU1Ym1KNWJWVldlVE50YUhNME9HcEJOVTU2TUVOVlVSSVdZMWhoTkdGTU5qQk9iMGRGZDJKclVEZzFUMVJIUVJvaVFVWk5RVWRIY2kxd1RFZGlkSFpEUzFOZk5tRnNWRGx6TlVWQ2NtcE9ZbEJZUVEiLCJmY3YiOiIzIiwiZWkiOiJjWGE0YUw2ME5vR0V3YmtQODVPVEdBIiwicWMiOiJDZzV0WVhSb1pXMWhkR2xqYVdGdWN4QUFmYkd5RVQ4IiwicXVlc3Rpb24iOiJXaG8gaXMgdGhlIHRvcCAxMCBtYXRoZW1hdGljaWFuPyIsImxrIjoiYzVPU0w4X0lWOGdzVmlqSlNGVW95UzlRTURSUXlFMEVjb0JFWm5KbVloNEEiLCJicyI6ImMtUHk0RklJejhoWHlDeFdLTWxJVlNqSkwxQXdORkRJVFFSeWdFUm1jbVppbnIzRWdYUWpSU241Y3Z6S3VEeTRWRUFtSlJhbGd0V1lLbmptcFFERlVWVVYyMHU4NVRhU2xaSTJWY2pFSXEyUWw1aWJ5aFhHcFk1c1VscGlibjVwc1VKYVpsa3FobUhmUFl3MHBOVEtpVkxOVmNKbGh1VFg5S0xVeEpMVTRoSTBGMlRtZ1dYTDg0dHlVc0FlTlRLd2wtaDNOektYTWkwblI3TUFJd0EiLCJpZCI6ImZjX2NYYTRhTDYwTm9HRXdia1A4NU9UR0FfMSJ9"
+        },
+        {
+            "question": "Who are the 5 Indian mathematicians?",
+            "type": "featured_snippet",
+            "snippet": "Famous Indian Mathematicians and their Inventions",
+            "table": [
+                [
+                    "Mathematicians",
+                    "Renowned Works and Inventions"
+                ],
+                [
+                    "Aryabhata",
+                    "Formula: (a + b) 2 = a2 + b2 + 2ab"
+                ],
+                [
+                    "Brahmagupta",
+                    "Introduction of zero (0)"
+                ],
+                [
+                    "Srinivasa Ramanujan",
+                    "Properties of the Partition Function"
+                ],
+                [
+                    "P.C. Mahalanobis",
+                    "Mahalanobis Distance"
+                ]
+            ],
+            "formatted": [
+                {
+                    "mathematicians": "Aryabhata",
+                    "renowned_works_and_inventions": "Formula: (a + b) 2 = a2 + b2 + 2ab"
+                },
+                {
+                    "mathematicians": "Brahmagupta",
+                    "renowned_works_and_inventions": "Introduction of zero (0)"
+                },
+                {
+                    "mathematicians": "Srinivasa Ramanujan",
+                    "renowned_works_and_inventions": "Properties of the Partition Function"
+                },
+                {
+                    "mathematicians": "P.C. Mahalanobis",
+                    "renowned_works_and_inventions": "Mahalanobis Distance"
+                }
+            ],
+            "title": "Top 10 Famous Indian Mathematicians and Their Contributions",
+            "link": "https://motion.ac.in/blog/top-10-famous-indian-mathematicians-and-their-contributions/",
+            "displayed_link": "https://motion.ac.in \u203a blog \u203a top-10-famous-indian-mat...",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJUR3QwWDNaSU9UbENObU5ZT0RSaGFERjJaM2xEYTJkMlJWODJlV1l4WlRnelUyTjFNSEJzTUhOdE5HNTJaRTFXU0d0a1kzRlVMVTlwZW1WUlVscEZOMWRUY2pkTldXVnZOelU1Ym1KNWJWVldlVE50YUhNME9HcEJOVTU2TUVOVlVSSVdZMWhoTkdGTU5qQk9iMGRGZDJKclVEZzFUMVJIUVJvaVFVWk5RVWRIY2kxd1RFZGlkSFpEUzFOZk5tRnNWRGx6TlVWQ2NtcE9ZbEJZUVEiLCJmY3YiOiIzIiwiZWkiOiJjWGE0YUw2ME5vR0V3YmtQODVPVEdBIiwicWMiOiJDZzV0WVhSb1pXMWhkR2xqYVdGdWN4QUFmYkd5RVQ4IiwicXVlc3Rpb24iOiJXaG8gYXJlIHRoZSA1IEluZGlhbiBtYXRoZW1hdGljaWFucz8iLCJsayI6ImM1T1NObFhJekV2SlRNeFR5RTBzeVVnRkVwbkpJRjVlWW00cUFBIiwiYnMiOiJjLVB5NEZJSXo4aFh5Q3hXS01sSVZTakpMMUF3TkZESVRRUnlnRVJtY21aaW5yM0VnWFFqUlNuNWN2ekt1RHk0VkVBbUpSYWxndFdZS25qbXBRREZVVlVWMjB1ODVUYVNsWkkyVmNqRUlxMlFsNWlieWhYR3BZNXNVbHBpYm41cHNVSmFabGtxaG1IZlBZdzBwTlRLaVZMTlZjSmxodVRYOUtMVXhKTFU0aEkwRjJUbWdXWEw4NHR5VXNBZU5US3dsLWgzTnpLWE1pMG5SN01BSXdBIiwiaWQiOiJmY19jWGE0YUw2ME5vR0V3YmtQODVPVEdBXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJUR3QwWDNaSU9UbENObU5ZT0RSaGFERjJaM2xEYTJkMlJWODJlV1l4WlRnelUyTjFNSEJzTUhOdE5HNTJaRTFXU0d0a1kzRlVMVTlwZW1WUlVscEZOMWRUY2pkTldXVnZOelU1Ym1KNWJWVldlVE50YUhNME9HcEJOVTU2TUVOVlVSSVdZMWhoTkdGTU5qQk9iMGRGZDJKclVEZzFUMVJIUVJvaVFVWk5RVWRIY2kxd1RFZGlkSFpEUzFOZk5tRnNWRGx6TlVWQ2NtcE9ZbEJZUVEiLCJmY3YiOiIzIiwiZWkiOiJjWGE0YUw2ME5vR0V3YmtQODVPVEdBIiwicWMiOiJDZzV0WVhSb1pXMWhkR2xqYVdGdWN4QUFmYkd5RVQ4IiwicXVlc3Rpb24iOiJXaG8gYXJlIHRoZSA1IEluZGlhbiBtYXRoZW1hdGljaWFucz8iLCJsayI6ImM1T1NObFhJekV2SlRNeFR5RTBzeVVnRkVwbkpJRjVlWW00cUFBIiwiYnMiOiJjLVB5NEZJSXo4aFh5Q3hXS01sSVZTakpMMUF3TkZESVRRUnlnRVJtY21aaW5yM0VnWFFqUlNuNWN2ekt1RHk0VkVBbUpSYWxndFdZS25qbXBRREZVVlVWMjB1ODVUYVNsWkkyVmNqRUlxMlFsNWlieWhYR3BZNXNVbHBpYm41cHNVSmFabGtxaG1IZlBZdzBwTlRLaVZMTlZjSmxodVRYOUtMVXhKTFU0aEkwRjJUbWdXWEw4NHR5VXNBZU5US3dsLWgzTnpLWE1pMG5SN01BSXdBIiwiaWQiOiJmY19jWGE0YUw2ME5vR0V3YmtQODVPVEdBXzEifQ%3D%3D"
+        },
+        {
+            "question": "Who are the famous five mathematicians?",
+            "type": "featured_snippet",
+            "title": "Top 5 Most Famous Mathematicians",
+            "date": "Mar 13, 2025",
+            "link": "https://www.immerse.education/beyond-syllabus/maths/famous-mathematicians/",
+            "list": [
+                "Pythagoras.",
+                "David Hilbert.",
+                "Sir Isaac Newton.",
+                "Hypatia.",
+                "Ada Lovelace."
+            ],
+            "displayed_link": "https://www.immerse.education \u203a maths \u203a famous-math...",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJUR3QwWDNaSU9UbENObU5ZT0RSaGFERjJaM2xEYTJkMlJWODJlV1l4WlRnelUyTjFNSEJzTUhOdE5HNTJaRTFXU0d0a1kzRlVMVTlwZW1WUlVscEZOMWRUY2pkTldXVnZOelU1Ym1KNWJWVldlVE50YUhNME9HcEJOVTU2TUVOVlVSSVdZMWhoTkdGTU5qQk9iMGRGZDJKclVEZzFUMVJIUVJvaVFVWk5RVWRIY2kxd1RFZGlkSFpEUzFOZk5tRnNWRGx6TlVWQ2NtcE9ZbEJZUVEiLCJmY3YiOiIzIiwiZWkiOiJjWGE0YUw2ME5vR0V3YmtQODVPVEdBIiwicWMiOiJDZzV0WVhSb1pXMWhkR2xqYVdGdWN4QUFmYkd5RVQ4IiwicXVlc3Rpb24iOiJXaG8gYXJlIHRoZSBmYW1vdXMgZml2ZSBtYXRoZW1hdGljaWFucz8iLCJsayI6ImM1TlNLOF9JVjBnc1NsVW95VWhWU0V2TXpTOHRWa2pMTEV0VnlFMEVpZ0NKek9UTXhMeGlBQSIsImJzIjoiYy1QeTRGSUl6OGhYeUN4V0tNbElWU2pKTDFBd05GRElUUVJ5Z0VSbWNtWmlucjNFZ1hRalJTbjVjdnpLdUR5NFZFQW1KUmFsZ3RXWUtuam1wUURGVVZVVjIwdTg1VGFTbFpJMlZjakVJcTJRbDVpYnloWEdwWTVzVWxwaWJuNXBzVUphWmxrcWhtSGZQWXcwcE5US2lWTE5WY0psaHVUWDlLTFV4SkxVNGhJMEYyVG1nV1hMODR0eVVzQWVOVEt3bC1oM056S1hNaTBuUjdNQUl3QSIsImlkIjoiZmNfY1hhNGFMNjBOb0dFd2JrUDg1T1RHQV8xIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJUR3QwWDNaSU9UbENObU5ZT0RSaGFERjJaM2xEYTJkMlJWODJlV1l4WlRnelUyTjFNSEJzTUhOdE5HNTJaRTFXU0d0a1kzRlVMVTlwZW1WUlVscEZOMWRUY2pkTldXVnZOelU1Ym1KNWJWVldlVE50YUhNME9HcEJOVTU2TUVOVlVSSVdZMWhoTkdGTU5qQk9iMGRGZDJKclVEZzFUMVJIUVJvaVFVWk5RVWRIY2kxd1RFZGlkSFpEUzFOZk5tRnNWRGx6TlVWQ2NtcE9ZbEJZUVEiLCJmY3YiOiIzIiwiZWkiOiJjWGE0YUw2ME5vR0V3YmtQODVPVEdBIiwicWMiOiJDZzV0WVhSb1pXMWhkR2xqYVdGdWN4QUFmYkd5RVQ4IiwicXVlc3Rpb24iOiJXaG8gYXJlIHRoZSBmYW1vdXMgZml2ZSBtYXRoZW1hdGljaWFucz8iLCJsayI6ImM1TlNLOF9JVjBnc1NsVW95VWhWU0V2TXpTOHRWa2pMTEV0VnlFMEVpZ0NKek9UTXhMeGlBQSIsImJzIjoiYy1QeTRGSUl6OGhYeUN4V0tNbElWU2pKTDFBd05GRElUUVJ5Z0VSbWNtWmlucjNFZ1hRalJTbjVjdnpLdUR5NFZFQW1KUmFsZ3RXWUtuam1wUURGVVZVVjIwdTg1VGFTbFpJMlZjakVJcTJRbDVpYnloWEdwWTVzVWxwaWJuNXBzVUphWmxrcWhtSGZQWXcwcE5US2lWTE5WY0psaHVUWDlLTFV4SkxVNGhJMEYyVG1nV1hMODR0eVVzQWVOVEt3bC1oM056S1hNaTBuUjdNQUl3QSIsImlkIjoiZmNfY1hhNGFMNjBOb0dFd2JrUDg1T1RHQV8xIn0%3D"
+        },
+        {
+            "question": "Who is the greatest mathematician in the world top 20?",
+            "type": "featured_snippet",
+            "title": "20 Greatest Mathematicians of All Time | Abakcus",
+            "date": "Feb 14, 2022",
+            "link": "https://abakcus.com/greatest-mathematicians/",
+            "list": [
+                "Johannes Kepler and His Laws of Planetary Motion.",
+                "The Father of Modern Science: Galileo Galilei.",
+                "Isaac Newton: The Most Famous Mathematician of All Time.",
+                "Carl Friedrich Gauss: The Prince of Mathematics.",
+                "Georg Cantor: the Inventor of Set Theory.",
+                "David Hilbert: the Most Influential Mathematicians of the 20th Century."
+            ],
+            "displayed_link": "https://abakcus.com \u203a greatest-mathematicians",
+            "source_logo": "https://serpapi.com/searches/68b8766ebd1731f7dd65c434/images/bc6ab03b59e54c32a24b03bf2722f99c47c8b2875bf152ecfba58e934ce51a4e.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJUR3QwWDNaSU9UbENObU5ZT0RSaGFERjJaM2xEYTJkMlJWODJlV1l4WlRnelUyTjFNSEJzTUhOdE5HNTJaRTFXU0d0a1kzRlVMVTlwZW1WUlVscEZOMWRUY2pkTldXVnZOelU1Ym1KNWJWVldlVE50YUhNME9HcEJOVTU2TUVOVlVSSVdZMWhoTkdGTU5qQk9iMGRGZDJKclVEZzFUMVJIUVJvaVFVWk5RVWRIY2kxd1RFZGlkSFpEUzFOZk5tRnNWRGx6TlVWQ2NtcE9ZbEJZUVEiLCJmY3YiOiIzIiwiZWkiOiJjWGE0YUw2ME5vR0V3YmtQODVPVEdBIiwicWMiOiJDZzV0WVhSb1pXMWhkR2xqYVdGdWN4QUFmYkd5RVQ4IiwicXVlc3Rpb24iOiJXaG8gaXMgdGhlIGdyZWF0ZXN0IG1hdGhlbWF0aWNpYW4gaW4gdGhlIHdvcmxkIHRvcCAyMD8iLCJsayI6ImM1TXlMY19JVjhnc1ZpakpTRlZJTDBwTkxFa3RMbEhJVFFSeWdVUm1jbVppbmtKbUhsaTJQTDhvSjBXaEpMOUF3Y2dBQUEiLCJicyI6ImMtUHk0RklJejhoWHlDeFdLTWxJVlNqSkwxQXdORkRJVFFSeWdFUm1jbVppbnIzRWdYUWpSU241Y3Z6S3VEeTRWRUFtSlJhbGd0V1lLbmptcFFERlVWVVYyMHU4NVRhU2xaSTJWY2pFSXEyUWw1aWJ5aFhHcFk1c1VscGlibjVwc1VKYVpsa3FobUhmUFl3MHBOVEtpVkxOVmNKbGh1VFg5S0xVeEpMVTRoSTBGMlRtZ1dYTDg0dHlVc0FlTlRLd2wtaDNOektYTWkwblI3TUFJd0EiLCJpZCI6ImZjX2NYYTRhTDYwTm9HRXdia1A4NU9UR0FfMSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJUR3QwWDNaSU9UbENObU5ZT0RSaGFERjJaM2xEYTJkMlJWODJlV1l4WlRnelUyTjFNSEJzTUhOdE5HNTJaRTFXU0d0a1kzRlVMVTlwZW1WUlVscEZOMWRUY2pkTldXVnZOelU1Ym1KNWJWVldlVE50YUhNME9HcEJOVTU2TUVOVlVSSVdZMWhoTkdGTU5qQk9iMGRGZDJKclVEZzFUMVJIUVJvaVFVWk5RVWRIY2kxd1RFZGlkSFpEUzFOZk5tRnNWRGx6TlVWQ2NtcE9ZbEJZUVEiLCJmY3YiOiIzIiwiZWkiOiJjWGE0YUw2ME5vR0V3YmtQODVPVEdBIiwicWMiOiJDZzV0WVhSb1pXMWhkR2xqYVdGdWN4QUFmYkd5RVQ4IiwicXVlc3Rpb24iOiJXaG8gaXMgdGhlIGdyZWF0ZXN0IG1hdGhlbWF0aWNpYW4gaW4gdGhlIHdvcmxkIHRvcCAyMD8iLCJsayI6ImM1TXlMY19JVjhnc1ZpakpTRlZJTDBwTkxFa3RMbEhJVFFSeWdVUm1jbVppbmtKbUhsaTJQTDhvSjBXaEpMOUF3Y2dBQUEiLCJicyI6ImMtUHk0RklJejhoWHlDeFdLTWxJVlNqSkwxQXdORkRJVFFSeWdFUm1jbVppbnIzRWdYUWpSU241Y3Z6S3VEeTRWRUFtSlJhbGd0V1lLbmptcFFERlVWVVYyMHU4NVRhU2xaSTJWY2pFSXEyUWw1aWJ5aFhHcFk1c1VscGlibjVwc1VKYVpsa3FobUhmUFl3MHBOVEtpVkxOVmNKbGh1VFg5S0xVeEpMVTRoSTBGMlRtZ1dYTDg0dHlVc0FlTlRLd2wtaDNOektYTWkwblI3TUFJd0EiLCJpZCI6ImZjX2NYYTRhTDYwTm9HRXdia1A4NU9UR0FfMSJ9"
+        }
+    ],
+    "ai_overview": {
+        "text_blocks": [
+            {
+                "type": "paragraph",
+                "snippet": "Mathematicians use advanced mathematical principles to solve real-world problems and expand mathematical knowledge through research and the development of new theories and techniques. They apply their skills in various sectors, including business, engineering, government, and academia, and are often considered part of STEM fields. Key activities include creating mathematical models, developing computational methods, and interpreting data to find solutions and communicate findings.",
+                "snippet_highlighted_words": [
+                    "use advanced mathematical principles to solve real-world problems and expand mathematical knowledge through research and the development of new theories and techniques"
+                ],
+                "reference_indexes": [
+                    2,
+                    3,
+                    6
+                ]
+            },
+            {
+                "type": "paragraph",
+                "snippet": "What Mathematicians Do"
+            },
+            {
+                "type": "list",
+                "list": [
+                    {
+                        "title": "Solve problems:",
+                        "snippet": "They tackle practical problems in diverse fields by applying mathematical theories and techniques.",
+                        "reference_indexes": [
+                            2
+                        ]
+                    },
+                    {
+                        "title": "Develop new principles:",
+                        "snippet": "Mathematicians research and discover new mathematical principles, identify relationships between existing ones, and extend the boundaries of mathematical science.",
+                        "reference_indexes": [
+                            1,
+                            6
+                        ]
+                    },
+                    {
+                        "title": "Create models:",
+                        "snippet": "They design mathematical or statistical models to represent phenomena, analyze data, or simulate complex systems.",
+                        "reference_indexes": [
+                            1,
+                            2
+                        ]
+                    },
+                    {
+                        "title": "Develop computational methods:",
+                        "snippet": "Mathematicians create and refine computational methods and computer codes to solve problems.",
+                        "reference_indexes": [
+                            1,
+                            6
+                        ]
+                    },
+                    {
+                        "title": "Disseminate knowledge:",
+                        "snippet": "They share their findings by publishing papers, presenting at conferences, and writing reports.",
+                        "reference_indexes": [
+                            1
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "snippet": "Where They Work"
+            },
+            {
+                "type": "heading",
+                "snippet": "Mathematicians work in various settings, including:"
+            },
+            {
+                "type": "list",
+                "list": [
+                    {
+                        "title": "Industry and Business:",
+                        "snippet": "To develop models, analyze data, and solve business-related problems.",
+                        "reference_indexes": [
+                            2,
+                            3
+                        ]
+                    },
+                    {
+                        "title": "Government:",
+                        "snippet": "To apply mathematical skills to public policy and other governmental functions.",
+                        "reference_indexes": [
+                            2
+                        ]
+                    },
+                    {
+                        "title": "Academia:",
+                        "snippet": "To conduct research, teach at colleges and universities, and mentor other mathematicians.",
+                        "reference_indexes": [
+                            2,
+                            4
+                        ]
+                    },
+                    {
+                        "title": "Science and Engineering:",
+                        "snippet": "To solve complex challenges in scientific fields and engineering applications.",
+                        "reference_indexes": [
+                            2,
+                            6
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "snippet": "How They Contribute"
+            },
+            {
+                "type": "list",
+                "list": [
+                    {
+                        "snippet": "Expanding knowledge: They contribute to the fundamental understanding of mathematics itself.",
+                        "reference_indexes": [
+                            6
+                        ]
+                    },
+                    {
+                        "snippet": "Solving practical problems: Applied mathematicians, in particular, focus on formulating and using mathematical models to address real-world issues in science, engineering, and business.",
+                        "reference_indexes": [
+                            3
+                        ]
+                    },
+                    {
+                        "snippet": "Informing decisions: Their data analysis and model interpretation help technical and nontechnical audiences make better-informed decisions.",
+                        "reference_indexes": [
+                            2
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "snippet": "Famous Mathematicians"
+            },
+            {
+                "type": "heading",
+                "snippet": "Throughout history, many individuals have made significant contributions to the field, such as:"
+            },
+            {
+                "type": "list",
+                "list": [
+                    {
+                        "title": "Archimedes:",
+                        "snippet": "Often called the \"Father of Mathematics\" for his work in mathematics, physics, and engineering.",
+                        "reference_indexes": [
+                            9
+                        ]
+                    },
+                    {
+                        "title": "Carl Friedrich Gauss:",
+                        "snippet": "A German mathematician whose extensive contributions span number theory, statistics, and geometry.",
+                        "reference_indexes": [
+                            8
+                        ]
+                    },
+                    {
+                        "title": "Fibonacci:",
+                        "snippet": "A medieval mathematician known for introducing the Hindu-Arabic numeral system to Europe and for the famous Fibonacci sequence.",
+                        "reference_indexes": [
+                            0,
+                            7
+                        ]
+                    },
+                    {
+                        "title": "Hypatia:",
+                        "snippet": "A Greek mathematician, astronomer, and philosopher, noted as a significant early woman mathematician.",
+                        "reference_indexes": [
+                            5
+                        ]
+                    }
+                ]
+            }
+        ],
+        "references": [
+            {
+                "title": "Famous Mathematicians | Famous Mathematicians",
+                "link": "https://famous-mathematicians.org/#:~:text=Heralded%20as%20%E2%80%9Cthe%20most%20talented,of%20%E2%80%9CThales'%20Theorem.%E2%80%9D",
+                "snippet": "Heralded as \u201cthe most talented western mathematician of the middle ages,\u201d Leonardo Pisano Bigollo is better known as Fibonacci. He...",
+                "source": "Famous Mathematicians",
+                "index": 0
+            },
+            {
+                "title": "15-2021.00 - Mathematicians - O*NET",
+                "link": "https://www.onetonline.org/link/summary/15-2021.00",
+                "snippet": "Tasks * Mentor others on mathematical techniques. * Maintain knowledge in the field by reading professional journals, talking wit...",
+                "source": "O*NET OnLine",
+                "index": 1
+            },
+            {
+                "title": "Mathematicians and Statisticians - Bureau of Labor Statistics",
+                "link": "https://www.bls.gov/ooh/math/mathematicians-and-statisticians.htm#:~:text=Mathematicians%20and%20statisticians%20work%20with,in%20the%20survey%20or%20poll.",
+                "snippet": "Mathematicians and statisticians work with formulas and data to help solve problems in industry, academia, and government. Mathema...",
+                "source": "Bureau of Labor Statistics",
+                "index": 2
+            },
+            {
+                "title": "Mathematician - Wikipedia",
+                "link": "https://en.wikipedia.org/wiki/Mathematician#:~:text=Mathematicians%20involved%20with%20solving%20problems,other%20areas%20of%20mathematical%20practice.",
+                "snippet": "Mathematicians involved with solving problems with applications in real life are called applied mathematicians. Applied mathematic...",
+                "source": "Wikipedia, the free encyclopedia",
+                "index": 3
+            },
+            {
+                "title": "AMS :: What Do Mathematicians Do - American Mathematical Society",
+                "link": "https://www.ams.org/learning-careers/students/math-work#:~:text=Who%20are%20mathematicians?,the%20increasingly%20diverse%20mathematical%20community.",
+                "snippet": "Who are mathematicians? Mathematicians are people of all ages and from all over the world who enjoy the challenge of a problem, wh...",
+                "source": "American Mathematical Society",
+                "index": 4
+            },
+            {
+                "title": "The 10 best mathematicians | Culture | The Guardian",
+                "link": "https://www.theguardian.com/culture/2010/apr/11/the-10-best-mathematicians",
+                "snippet": "Apr 10, 2010 \u2014 The 10 best mathematicians * Hypatia (cAD360-415) Hypatia (375-415AD), a Greek woman mathematician and philosopher. .",
+                "source": "The Guardian",
+                "index": 5
+            },
+            {
+                "title": "Mathematician - College of Science - Purdue University",
+                "link": "https://purdue.edu/science/careers/what_can_i_do_with_a_major/Career%20Pages/mathematician.html#:~:text=Summary,and%20solve%20real%2Dworld%20problems.&text=Mathematicians%20typically%20do%20the%20following,models%20with%20observations%20or%20experiments",
+                "snippet": "Summary. Mathematicians use high-level mathematics and technology to develop new mathematical principles, understand relationships...",
+                "source": "Purdue University",
+                "index": 6
+            },
+            {
+                "title": "Famous mathematicians throughout history - Oxford Royale",
+                "link": "https://www.oxford-royale.com/articles/famous-mathematicians-throughout-history#:~:text=Fibonacci%20(1170%2D1240),known%20for%20his%20Fibonacci%20sequence.",
+                "snippet": "Fibonacci (1170-1240) Leonardo Fibonacci was a medieval mathematician born in 1170, Pisa. The mathematician also known as Leonardo...",
+                "source": "Oxford Royale",
+                "index": 7
+            },
+            {
+                "title": "Greatest Mathematicians and their Discoveries - Part 1",
+                "link": "https://www.youtube.com/watch?v=kesaUCEoPbA&t=165",
+                "snippet": "Mar 10, 2024 \u2014 education he constructed a wooden clock that kept accurate time and published almanacs containing astronomical calcula...",
+                "source": "YouTube \u00b7 ThoughtThrill",
+                "index": 8
+            },
+            {
+                "title": "The father of mathematics - Mathnasium",
+                "link": "https://www.mathnasium.com/math-centers/northvancouverwa/news/father-mathematics-nv#:~:text=Archimedes%20is%20widely%20regarded%20as,physics%2C%20engineering%2C%20and%20astronomy.",
+                "snippet": "Apr 12, 2023 \u2014 Archimedes is widely regarded as one of the greatest mathematicians in history, earning him the title of the \"Father o...",
+                "source": "Mathnasium",
+                "index": 9
+            }
+        ]
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Famous Mathematicians | Famous Mathematicians",
+            "link": "https://famous-mathematicians.org/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://famous-mathematicians.org/&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQFnoECCMQAQ",
+            "displayed_link": "https://famous-mathematicians.org",
+            "favicon": "https://serpapi.com/searches/68b8766ebd1731f7dd65c434/images/63c5658c40fc1feeac11ba673b2bb45bcde19492fadb16c5eac8f0fecfc5e7aa.png",
+            "snippet": "Below is a list of names and accomplishments of the greatest mathematicians of all time. You can read through the list and learn more about these people.",
+            "snippet_highlighted_words": [
+                "greatest mathematicians of all time"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Albert Einstein",
+                        "link": "https://famous-mathematicians.org/albert-einstein/"
+                    },
+                    {
+                        "title": "Isaac Newton",
+                        "link": "https://famous-mathematicians.org/isaac-newton/"
+                    },
+                    {
+                        "title": "Archimedes",
+                        "link": "https://famous-mathematicians.org/archimedes/"
+                    },
+                    {
+                        "title": "Pythagoras",
+                        "link": "https://famous-mathematicians.org/pythagoras/"
+                    }
+                ]
+            },
+            "source": "Famous Mathematicians"
+        },
+        {
+            "position": 2,
+            "title": "Lists of mathematicians",
+            "link": "https://en.wikipedia.org/wiki/Lists_of_mathematicians",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Lists_of_mathematicians&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQFnoFCOMBEAE",
+            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Lists_of_mathematicians",
+            "favicon": "https://serpapi.com/searches/68b8766ebd1731f7dd65c434/images/63c5658c40fc1feeac11ba673b2bb45b6f4dd1c69322a88929327e60114fd501.png",
+            "snippet": "This is a List of Lists of mathematicians and covers notable mathematicians by nationality, ethnicity, religion, profession and other characteristics.",
+            "snippet_highlighted_words": [
+                "mathematicians",
+                "mathematicians"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "List of Indian mathematicians",
+                        "link": "https://en.wikipedia.org/wiki/List_of_Indian_mathematicians"
+                    },
+                    {
+                        "title": "List of American mathematicians",
+                        "link": "https://en.wikipedia.org/wiki/List_of_American_mathematicians"
+                    }
+                ]
+            },
+            "source": "Wikipedia"
+        },
+        {
+            "position": 3,
+            "title": "15 Famous Mathematicians and Their Contributions",
+            "link": "https://www.cuemath.com/learn/famous-mathematicians/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cuemath.com/learn/famous-mathematicians/&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQFnoECEsQAQ",
+            "displayed_link": "https://www.cuemath.com \u203a learn \u203a famous-mathematicia...",
+            "favicon": "https://serpapi.com/searches/68b8766ebd1731f7dd65c434/images/63c5658c40fc1feeac11ba673b2bb45b40fd026d4df1e404fb1019be9d9aed88.png",
+            "snippet": "15 Famous Mathematicians and Their Contributions \u00b7 1. Euclid \u00b7 2. Pythagoras \u00b7 3. Archimedes \u00b7 4. Thales of Miletus \u00b7 5. Aristotle \u00b7 6. Diophantus \u00b7 7.",
+            "snippet_highlighted_words": [
+                "1. Euclid"
+            ],
+            "source": "Cuemath"
+        },
+        {
+            "position": 4,
+            "title": "Mathematician",
+            "link": "https://en.wikipedia.org/wiki/Mathematician",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Mathematician&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQFnoFCIgBEAE",
+            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Mathematician",
+            "favicon": "https://serpapi.com/searches/68b8766ebd1731f7dd65c434/images/63c5658c40fc1feeac11ba673b2bb45b6a545f61897889c3d2d91f7ecae9ee26.png",
+            "snippet": "A mathematician is someone who uses an extensive knowledge of mathematics in their work, typically to solve mathematical problems.",
+            "snippet_highlighted_words": [
+                "someone who uses an extensive knowledge of mathematics in their work"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Lists",
+                        "link": "https://en.wikipedia.org/wiki/Lists_of_mathematicians"
+                    },
+                    {
+                        "title": "Mathematical problem",
+                        "link": "https://en.wikipedia.org/wiki/Mathematical_problem"
+                    },
+                    {
+                        "title": "Calipers",
+                        "link": "https://en.wikipedia.org/wiki/Calipers"
+                    },
+                    {
+                        "title": "A Mathematician's Apology",
+                        "link": "https://en.wikipedia.org/wiki/A_Mathematician%27s_Apology"
+                    }
+                ]
+            },
+            "source": "Wikipedia"
+        },
+        {
+            "position": 5,
+            "title": "3rd September - Mathematicians Of The Day",
+            "link": "https://mathshistory.st-andrews.ac.uk/OfTheDay/today/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://mathshistory.st-andrews.ac.uk/OfTheDay/today/&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQFnoFCKABEAE",
+            "displayed_link": "https://mathshistory.st-andrews.ac.uk \u203a OfTheDay \u203a today",
+            "favicon": "https://serpapi.com/searches/68b8766ebd1731f7dd65c434/images/63c5658c40fc1feeac11ba673b2bb45bf660c5b73008373b91924af73e4c574e.png",
+            "snippet": "1874: Carl St\u00f8rmer \u24c5; 1884: Solomon Lefschetz \u24c5; 1908: Lev Pontryagin \u24c5. Died: 1967: William Milne \u24c5; 1984: Wilhelm Winkler \u24c5; 1996: Bent ...",
+            "source": "MacTutor History of Mathematics"
+        },
+        {
+            "position": 6,
+            "title": "Mathematicians and Statisticians",
+            "link": "https://www.bls.gov/ooh/math/mathematicians-and-statisticians.htm",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bls.gov/ooh/math/mathematicians-and-statisticians.htm&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQFnoFCLoBEAE",
+            "displayed_link": "https://www.bls.gov \u203a ooh \u203a math \u203a mathematicians-an...",
+            "favicon": "https://serpapi.com/searches/68b8766ebd1731f7dd65c434/images/63c5658c40fc1feeac11ba673b2bb45be3f3bfd582fac0552677877a7fd54ad0.png",
+            "snippet": "Mathematicians and statisticians analyze data and apply computational techniques to solve problems.",
+            "snippet_highlighted_words": [
+                "analyze data and apply computational techniques"
+            ],
+            "source": "Bureau of Labor Statistics (.gov)"
+        },
+        {
+            "position": 7,
+            "title": "The National Association of Mathematicians - Home",
+            "link": "https://www.nam-math.org/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nam-math.org/&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQFnoECEoQAQ",
+            "displayed_link": "https://www.nam-math.org",
+            "favicon": "https://serpapi.com/searches/68b8766ebd1731f7dd65c434/images/63c5658c40fc1feeac11ba673b2bb45bc6c444abeb469a5edce3543e3c5a29f5.png",
+            "snippet": "The National Association of Mathematicians (NAM) is a non-profit professional organization in the mathematical sciences with membership open to all persons.",
+            "snippet_highlighted_words": [
+                "non-profit professional organization in the mathematical sciences"
+            ],
+            "source": "The National Association of Mathematicians"
+        },
+        {
+            "position": 8,
+            "title": "Who is your favorite historical mathematician and why?",
+            "link": "https://www.reddit.com/r/math/comments/ywoxsy/who_is_your_favorite_historical_mathematician_and/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/math/comments/ywoxsy/who_is_your_favorite_historical_mathematician_and/&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQFnoECHkQAQ",
+            "displayed_link": "170+ comments \u00b7 2 years ago",
+            "favicon": "https://serpapi.com/searches/68b8766ebd1731f7dd65c434/images/63c5658c40fc1feeac11ba673b2bb45bb27aad83d611a9d900aa4edb9c14d3a8.png",
+            "snippet": "Gauss for modular arithmetic. Euler for his contributions to complex analysis. Turing for all his contributions to computer science. Russel for ...",
+            "snippet_highlighted_words": [
+                "Gauss for modular arithmetic"
+            ],
+            "sitelinks": {
+                "list": [
+                    {
+                        "title": "In your opinion, who are the five most influential ...",
+                        "link": "https://www.reddit.com/r/math/comments/sf4myh/in_your_opinion_who_are_the_five_most_influential/",
+                        "answer_count": 354,
+                        "date": "Jan 29, 2022"
+                    },
+                    {
+                        "title": "Are there any notable mathematicians/scientists that ...",
+                        "link": "https://www.reddit.com/r/math/comments/fxbp7s/are_there_any_notable_mathematiciansscientists/",
+                        "answer_count": 209,
+                        "date": "Apr 8, 2020"
+                    }
+                ]
+            },
+            "source": "Reddit \u00b7 r/math"
+        },
+        {
+            "position": 9,
+            "title": "Mathematicians of the Seventeenth and Eighteenth Centuries",
+            "link": "https://www.maths.tcd.ie/pub/HistMath/People/RBallHist.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.maths.tcd.ie/pub/HistMath/People/RBallHist.html&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQFnoFCIYBEAE",
+            "displayed_link": "https://www.maths.tcd.ie \u203a HistMath \u203a People \u203a RBallHist",
+            "favicon": "https://serpapi.com/searches/68b8766ebd1731f7dd65c434/images/63c5658c40fc1feeac11ba673b2bb45b2f964232c4f207574dd9528139a6fa64.png",
+            "snippet": "Available here are accounts of the lives and works of seventeenth and eighteenth century mathematicians (and some other scientists)",
+            "snippet_highlighted_words": [
+                "seventeenth and eighteenth century mathematicians"
+            ],
+            "source": "School of Mathematics - Trinity College Dublin"
+        },
+        {
+            "position": 10,
+            "title": "History of Mathematics: Chronological List of Mathematicians",
+            "link": "http://aleph0.clarku.edu/~djoyce/mathhist/chronology.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://aleph0.clarku.edu/~djoyce/mathhist/chronology.html&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQFnoFCKEBEAE",
+            "displayed_link": "http://aleph0.clarku.edu \u203a mathhist \u203a chronology",
+            "favicon": "https://serpapi.com/searches/68b8766ebd1731f7dd65c434/images/63c5658c40fc1feeac11ba673b2bb45ba4611f725678cd764c735d3a04271047.png",
+            "date": "Sep 19, 1995",
+            "snippet": "History of Mathematics: Chronological List of Mathematicians \u00b7 Ahmes (c. 1650 B.C.E.) *MT \u00b7 Baudhayana (c. 700). 600 B.C.E. \u00b7 Thales of Miletus ...",
+            "snippet_highlighted_words": [
+                "History of Mathematics: Chronological List of Mathematicians"
+            ],
+            "source": "Clark University"
+        },
+        {
+            "position": 11,
+            "title": "15-2021.00 - Mathematicians",
+            "link": "https://www.onetonline.org/link/summary/15-2021.00",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.onetonline.org/link/summary/15-2021.00&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQFnoFCKMBEAE",
+            "displayed_link": "https://www.onetonline.org \u203a link \u203a summary",
+            "favicon": "https://serpapi.com/searches/68b8766ebd1731f7dd65c434/images/63c5658c40fc1feeac11ba673b2bb45be989544af0dc4df7234280491adb6e1f.png",
+            "snippet": "Conduct research in fundamental mathematics or in application of mathematical techniques to science, management, and other fields.",
+            "snippet_highlighted_words": [
+                "Conduct research in fundamental mathematics"
+            ],
+            "source": "O*NET OnLine"
+        },
+        {
+            "position": 12,
+            "title": "Famous mathematicians throughout history",
+            "link": "https://www.oxford-royale.com/articles/famous-mathematicians-throughout-history",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.oxford-royale.com/articles/famous-mathematicians-throughout-history&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQFnoFCLcBEAE",
+            "displayed_link": "https://www.oxford-royale.com \u203a articles \u203a famous-mat...",
+            "favicon": "https://serpapi.com/searches/68b8766ebd1731f7dd65c434/images/63c5658c40fc1feeac11ba673b2bb45b4c424ab7d44aa23b46ef718d8d19494a.png",
+            "snippet": "Famous modern mathematicians \u00b7 Ada Lovelace (1815 \u2013 1852) \u00b7 Albert Einstein (1879 \u2013 1955) \u00b7 Alan Turing (1912-1954) \u00b7 Margaret Hamilton 1936. Born in 1936 ...",
+            "snippet_highlighted_words": [
+                "Famous modern mathematicians"
+            ],
+            "source": "Oxford Royale"
+        },
+        {
+            "position": 13,
+            "title": "Mathematicians",
+            "link": "https://www.bls.gov/oes/2023/may/oes152021.htm",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bls.gov/oes/2023/may/oes152021.htm&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQFnoFCLgBEAE",
+            "displayed_link": "https://www.bls.gov \u203a oes \u203a may \u203a oes152021",
+            "favicon": "https://serpapi.com/searches/68b8766ebd1731f7dd65c434/images/63c5658c40fc1feeac11ba673b2bb45b4984fa1f8e88e30290d42e500eb5d2be.png",
+            "snippet": "Conduct research in fundamental mathematics or in application of mathematical techniques to science, management, and other fields.",
+            "snippet_highlighted_words": [
+                "Conduct research in fundamental mathematics"
+            ],
+            "source": "Bureau of Labor Statistics (.gov)"
+        },
+        {
+            "position": 14,
+            "title": "List of mathematicians",
+            "link": "https://www.britannica.com/topic/list-of-mathematicians-2024790",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.britannica.com/topic/list-of-mathematicians-2024790&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQFnoFCNwBEAE",
+            "displayed_link": "https://www.britannica.com \u203a Science \u203a Mathematics",
+            "favicon": "https://serpapi.com/searches/68b8766ebd1731f7dd65c434/images/63c5658c40fc1feeac11ba673b2bb45bd5edb2155ef3024bf179cd5417f4e8f1.png",
+            "snippet": "This is a list of mathematicians, ordered alphabetically by country of origin or residence. (See also mathematics.)",
+            "snippet_highlighted_words": [
+                "mathematicians"
+            ],
+            "source": "Britannica"
+        },
+        {
+            "position": 15,
+            "title": "Mathematician - College of Science",
+            "link": "https://purdue.edu/science/careers/what_can_i_do_with_a_major/Career%20Pages/mathematician.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://purdue.edu/science/careers/what_can_i_do_with_a_major/Career%2520Pages/mathematician.html&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQFnoECEwQAQ",
+            "displayed_link": "https://purdue.edu \u203a what_can_i_do_with_a_major \u203a m...",
+            "favicon": "https://serpapi.com/searches/68b8766ebd1731f7dd65c434/images/63c5658c40fc1feeac11ba673b2bb45b65339d19d1e7e3da4055e9844a9515ed.png",
+            "snippet": "Mathematicians use mathematical theory, computational techniques, algorithms, and the latest computer technology to solve economic, scientific, engineering, ...",
+            "snippet_highlighted_words": [
+                "Mathematicians"
+            ],
+            "source": "Purdue University"
+        },
+        {
+            "position": 16,
+            "title": "The 10 best mathematicians | Culture",
+            "link": "https://www.theguardian.com/culture/2010/apr/11/the-10-best-mathematicians",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.theguardian.com/culture/2010/apr/11/the-10-best-mathematicians&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQFnoECGsQAQ",
+            "displayed_link": "https://www.theguardian.com \u203a culture \u203a apr \u203a the-10-b...",
+            "favicon": "https://serpapi.com/searches/68b8766ebd1731f7dd65c434/images/63c5658c40fc1feeac11ba673b2bb45b24769977d2a0f302bc3092adc4f10c03.png",
+            "date": "Apr 10, 2010",
+            "snippet": "The 10 best mathematicians \u00b7 Pythagoras (circa 570-495BC) \u00b7 Hypatia (cAD360-415) \u00b7 Girolamo Cardano (1501 -1576) \u00b7 Leonhard Euler (1707- 1783).",
+            "snippet_highlighted_words": [
+                "Pythagoras (circa 570-495BC"
+            ],
+            "source": "The Guardian"
+        },
+        {
+            "position": 17,
+            "title": "Biographies Alphabetical Index - MacTutor",
+            "link": "https://mathshistory.st-andrews.ac.uk/Biographies/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://mathshistory.st-andrews.ac.uk/Biographies/&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQFnoECGkQAQ",
+            "displayed_link": "https://mathshistory.st-andrews.ac.uk \u203a Biographies",
+            "favicon": "https://serpapi.com/searches/68b8766ebd1731f7dd65c434/images/63c5658c40fc1feeac11ba673b2bb45bda8e9aa28d51a94abf6665b1127f1382.png",
+            "snippet": "Categories. African mathematicians \u00b7 Ancient Islamic mathematics \u00b7 Mathematical ... African-American mathematicians \u00b7 Group theorists \u00b7 Topologists. DJF/JOC/EFR",
+            "snippet_highlighted_words": [
+                "African mathematicians"
+            ],
+            "source": "MacTutor History of Mathematics"
+        },
+        {
+            "position": 18,
+            "title": "Timeline of Mathematics",
+            "link": "https://mathigon.org/timeline",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://mathigon.org/timeline&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQFnoECGcQAQ",
+            "displayed_link": "https://mathigon.org \u203a timeline",
+            "favicon": "https://serpapi.com/searches/68b8766ebd1731f7dd65c434/images/63c5658c40fc1feeac11ba673b2bb45bd2fc56641d61334a031d3ff452012ab7.png",
+            "snippet": "Travel through time and explore the greatest mathematicians and biggest mathematical discoveries in history.",
+            "snippet_highlighted_words": [
+                "greatest mathematicians"
+            ],
+            "source": "Mathigon"
+        },
+        {
+            "position": 19,
+            "title": "What are Mathematicians?",
+            "link": "https://www.learner.com/blog/what-are-mathematicians",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.learner.com/blog/what-are-mathematicians&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQFnoFCIMBEAE",
+            "displayed_link": "https://www.learner.com \u203a blog \u203a what-are-mathematici...",
+            "favicon": "https://serpapi.com/searches/68b8766ebd1731f7dd65c434/images/63c5658c40fc1feeac11ba673b2bb45b945c622056bf385191e83822c5eeaa47.png",
+            "snippet": "Mathematicians are people who specialize in the study of mathematics, the manipulation of numbers, variables, and abstract concepts in equations and theorems.",
+            "snippet_highlighted_words": [
+                "people who specialize in the study of mathematics"
+            ],
+            "source": "Learner"
+        },
+        {
+            "position": 20,
+            "title": "Young Mathematicians \u2013 Sharing fun math experiences with ...",
+            "link": "https://youngmathematicians.edc.org/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://youngmathematicians.edc.org/&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQFnoFCIkBEAE",
+            "displayed_link": "https://youngmathematicians.edc.org",
+            "favicon": "https://serpapi.com/searches/68b8766ebd1731f7dd65c434/images/63c5658c40fc1feeac11ba673b2bb45bb6e1da70d65deee44d47d862847ff7e9.png",
+            "snippet": "We have created over 55 freely available mathematics games for young children to play at home, at school, or during family play and learn events.",
+            "snippet_highlighted_words": [
+                "freely available mathematics games for young children"
+            ],
+            "source": "edc.org"
+        },
+        {
+            "position": 21,
+            "title": "AMS :: What Do Mathematicians Do",
+            "link": "https://www.ams.org/learning-careers/students/math-work",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ams.org/learning-careers/students/math-work&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQFnoFCJwBEAE",
+            "displayed_link": "https://www.ams.org \u203a students \u203a math-work",
+            "favicon": "https://serpapi.com/searches/68b8766ebd1731f7dd65c434/images/63c5658c40fc1feeac11ba673b2bb45bbeb68c8cc5e1472c4b1ef21e19f5c207.png",
+            "snippet": "Mathematicians are essential to analyze data and design accurate models in fields as diverse as biology and finance.",
+            "snippet_highlighted_words": [
+                "Mathematicians"
+            ],
+            "source": "American Mathematical Society"
+        },
+        {
+            "position": 22,
+            "title": "The 100 Greatest Mathematicians",
+            "link": "http://fabpedigree.com/james/mathmen.htm",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://fabpedigree.com/james/mathmen.htm&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQFnoFCJ0BEAE",
+            "displayed_link": "http://fabpedigree.com \u203a james \u203a mathmen",
+            "favicon": "https://serpapi.com/searches/68b8766ebd1731f7dd65c434/images/63c5658c40fc1feeac11ba673b2bb45ba55510ba1c803001c844ae554fb46c24.png",
+            "snippet": "Einstein, Maxwell, Cardano, Aristotle and Galileo are among the greatest applied mathematicians in history, but lack the importance as pure mathematicians to ...",
+            "snippet_highlighted_words": [
+                "Einstein, Maxwell, Cardano, Aristotle and Galileo"
+            ],
+            "source": "FabPedigree.com"
+        },
+        {
+            "position": 23,
+            "title": "17 Famous Mathematicians\u2014Complete List",
+            "link": "https://www.mashupmath.com/blog/famous-mathematicians-in-history",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mashupmath.com/blog/famous-mathematicians-in-history&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQFnoFCL4BEAE",
+            "displayed_link": "https://www.mashupmath.com \u203a blog \u203a famous-mathem...",
+            "favicon": "https://serpapi.com/searches/68b8766ebd1731f7dd65c434/images/63c5658c40fc1feeac11ba673b2bb45bb16694b19839fc2ce1b34cae91856e3b.png",
+            "date": "Jun 8, 2023",
+            "snippet": "17 Famous Mathematicians in History \u00b7 1.) Pythagoras (570 - 490 BC) \u00b7 2.) Euclid (325 - 265 BC) \u00b7 3.) Hypatia (355 - 415 AD) \u00b7 4.) Muhammad ibn ...",
+            "snippet_highlighted_words": [
+                "1.) Pythagoras (570 - 490 BC"
+            ],
+            "source": "Mashup Math"
+        },
+        {
+            "position": 24,
+            "title": "Famous Mathematicians - NRICH",
+            "link": "https://nrich.maths.org/famous-mathematicians",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://nrich.maths.org/famous-mathematicians&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQFnoFCL0BEAE",
+            "displayed_link": "https://nrich.maths.org \u203a famous-mathematicians",
+            "favicon": "https://serpapi.com/searches/68b8766ebd1731f7dd65c434/images/63c5658c40fc1feeac11ba673b2bb45bf38e5d9ed85f7feea1308c40c9abc91f.png",
+            "snippet": "Florence Nightingale may be well known for her role as a nurse, but she was also an excellent mathematician, collecting and analysing data to help improve ...",
+            "snippet_highlighted_words": [
+                "Florence Nightingale"
+            ],
+            "source": "NRICH"
+        },
+        {
+            "position": 25,
+            "title": "33 Brilliant Mathematicians and Their Contributions",
+            "link": "https://medium.com/@ozlazarus/33-brilliant-mathematicians-and-their-contributions-0b9fc3bb38e1",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://medium.com/%40ozlazarus/33-brilliant-mathematicians-and-their-contributions-0b9fc3bb38e1&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQFnoFCL8BEAE",
+            "displayed_link": "130+ likes \u00b7 6 months ago",
+            "favicon": "https://serpapi.com/searches/68b8766ebd1731f7dd65c434/images/63c5658c40fc1feeac11ba673b2bb45b6c78d375923a8d10a23cf5a5c16741db.png",
+            "snippet": "33 Brilliant Mathematicians and Their Contributions \u00b7 Karl Friedrich Gauss \u00b7 Isaac Newton \u00b7 Archimedes \u00b7 Leonhard Euler \u00b7 Jules Henri Poincare.",
+            "snippet_highlighted_words": [
+                "Karl Friedrich Gauss"
+            ],
+            "source": "Medium \u00b7 Lazarus"
+        },
+        {
+            "position": 26,
+            "title": "Mathematicians - an overview | ScienceDirect Topics",
+            "link": "https://www.sciencedirect.com/topics/social-sciences/mathematicians",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sciencedirect.com/topics/social-sciences/mathematicians&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQFnoFCLkBEAE",
+            "displayed_link": "https://www.sciencedirect.com \u203a topics \u203a social-sciences",
+            "favicon": "https://serpapi.com/searches/68b8766ebd1731f7dd65c434/images/63c5658c40fc1feeac11ba673b2bb45bbe5ca7a1dd18d6c257e18ec12f48dd05.png",
+            "snippet": "Mathematicians are professionals who work on solving complex mathematical problems, often contributing new findings that are published in peer-reviewed ...",
+            "snippet_highlighted_words": [
+                "professionals who work on solving complex mathematical problems"
+            ],
+            "source": "ScienceDirect.com"
+        },
+        {
+            "position": 27,
+            "title": "The World's Best Mathematician (*) - Numberphile",
+            "link": "https://www.youtube.com/watch?v=MXJ-zpJeY3E",
+            "displayed_link": "7.6M+ views \u00b7 8 years ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-O_3IdXHB9ly9AaBkp95hynKWg1cHLw51ks-zOKWCTp5ZiiYx15iAnTLupV3T&s&ec=73086138",
+            "favicon": "https://serpapi.com/searches/68b8766ebd1731f7dd65c434/images/63c5658c40fc1feeac11ba673b2bb45b2fbb26710499a5de0e6cb67c229c4e48.png",
+            "snippet": "Among current mathematicians, many people regard Professor Terence Tao as the world's finest... Opinions on such things vary, of course.",
+            "duration": "10:57",
+            "key_moments": [
+                {
+                    "time": "00:14",
+                    "title": "Early memories",
+                    "link": "https://www.youtube.com/watch?v=MXJ-zpJeY3E&t=14"
+                },
+                {
+                    "time": "01:29",
+                    "title": "Mentors and Inspiration",
+                    "link": "https://www.youtube.com/watch?v=MXJ-zpJeY3E&t=89"
+                },
+                {
+                    "time": "02:02",
+                    "title": "Early Math Career",
+                    "link": "https://www.youtube.com/watch?v=MXJ-zpJeY3E&t=122"
+                },
+                {
+                    "time": "06:36",
+                    "title": "Visualization in Mathematics",
+                    "link": "https://www.youtube.com/watch?v=MXJ-zpJeY3E&t=396"
+                },
+                {
+                    "time": "07:43",
+                    "title": "Algebra & Topology",
+                    "link": "https://www.youtube.com/watch?v=MXJ-zpJeY3E&t=463"
+                }
+            ],
+            "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcT0VaeJVerqlMUrbQNoWF8CN8Vr0cLHq9uQTg",
+            "source": "YouTube \u00b7 Numberphile"
+        },
+        {
+            "position": 28,
+            "title": "MATHEMATICIAN Definition & Meaning",
+            "link": "https://www.merriam-webster.com/dictionary/mathematician",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.merriam-webster.com/dictionary/mathematician&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQFnoFCLwBEAE",
+            "displayed_link": "https://www.merriam-webster.com \u203a dictionary \u203a mathe...",
+            "favicon": "https://serpapi.com/searches/68b8766ebd1731f7dd65c434/images/63c5658c40fc1feeac11ba673b2bb45ba41c2e387d0d73b7b56c65af6aadb38e.png",
+            "date": "Aug 17, 2025",
+            "snippet": "The meaning of MATHEMATICIAN is a specialist or expert in mathematics.",
+            "snippet_highlighted_words": [
+                "a specialist or expert in mathematics"
+            ],
+            "source": "Merriam-Webster"
+        },
+        {
+            "position": 29,
+            "title": "Top 5 Most Famous Mathematicians",
+            "link": "https://www.immerse.education/beyond-syllabus/maths/famous-mathematicians/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.immerse.education/beyond-syllabus/maths/famous-mathematicians/&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQFnoFCLsBEAE",
+            "displayed_link": "https://www.immerse.education \u203a maths \u203a famous-math...",
+            "favicon": "https://serpapi.com/searches/68b8766ebd1731f7dd65c434/images/63c5658c40fc1feeac11ba673b2bb45bc505a2871d5a780c1ac967ddb34ea602.png",
+            "date": "Mar 13, 2025",
+            "snippet": "Top 5 Most Famous Mathematicians \u00b7 1. Pythagoras \u00b7 2. David Hilbert \u00b7 3. Sir Isaac Newton \u00b7 4. Hypatia \u00b7 5. Ada Lovelace. Ada Lovelace was a ...",
+            "snippet_highlighted_words": [
+                "1. Pythagoras"
+            ],
+            "source": "Immerse Education"
+        },
+        {
+            "position": 30,
+            "title": "26 Famous Mathematicians Everyone Should Know",
+            "link": "https://www.weareteachers.com/famous-mathematicians/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.weareteachers.com/famous-mathematicians/&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQFnoFCN0BEAE",
+            "displayed_link": "https://www.weareteachers.com \u203a famous-mathematicians",
+            "favicon": "https://serpapi.com/searches/68b8766ebd1731f7dd65c434/images/63c5658c40fc1feeac11ba673b2bb45b85bc81ddf70ad338daf9cf397c6a524a.png",
+            "date": "Jan 29, 2024",
+            "snippet": "26 Famous Mathematicians Everyone Should Know \u00b7 Thales of Miletus \u00b7 Pythagoras \u00b7 Euclid \u00b7 Aristotle \u00b7 Archimedes \u00b7 Eratosthenes \u00b7 Hipparchus.",
+            "snippet_highlighted_words": [
+                "Thales of Miletus"
+            ],
+            "source": "We Are Teachers"
+        },
+        {
+            "position": 31,
+            "title": "Top 10 Famous Indian Mathematicians and Their Contributions",
+            "link": "https://motion.ac.in/blog/top-10-famous-indian-mathematicians-and-their-contributions/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://motion.ac.in/blog/top-10-famous-indian-mathematicians-and-their-contributions/&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQFnoFCN4BEAE",
+            "displayed_link": "https://motion.ac.in \u203a blog \u203a top-10-famous-indian-mat...",
+            "favicon": "https://serpapi.com/searches/68b8766ebd1731f7dd65c434/images/63c5658c40fc1feeac11ba673b2bb45b0b9061223b6e43cdc2a22a59dc5db0b6.png",
+            "snippet": "List of Top 10 Most Famous Indian Mathematicians and Their Contributions \u00b7 1. Srinivasa Ramanujan \u00b7 2. Bhaskara I \u00b7 3. Aryabhatta \u00b7 4. Brahmagupta \u00b7 5. P.C. ...",
+            "snippet_highlighted_words": [
+                "1. Srinivasa Ramanujan"
+            ],
+            "source": "motion.ac.in"
+        },
+        {
+            "position": 32,
+            "title": "Famous Mathematicians and Their Stories: Lesser-Known ...",
+            "link": "https://www.mathnasium.com/math-centers/pointloma/news/famous-mathematicians-and-their-stories-lesser-known-influential-figures-pl",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mathnasium.com/math-centers/pointloma/news/famous-mathematicians-and-their-stories-lesser-known-influential-figures-pl&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQFnoECFAQAQ",
+            "displayed_link": "https://www.mathnasium.com \u203a pointloma \u203a news \u203a fa...",
+            "favicon": "https://serpapi.com/searches/68b8766ebd1731f7dd65c434/images/63c5658c40fc1feeac11ba673b2bb45bfb778b99fa2362e2f1623809b801e80e.png",
+            "date": "Jul 9, 2024",
+            "snippet": "There are numerous lesser-known mathematicians whose work has significantly influenced the field. Here, we delve into the lives and legacies of some of these ...",
+            "snippet_highlighted_words": [
+                "There are numerous lesser-known mathematicians"
+            ],
+            "source": "Mathnasium"
+        },
+        {
+            "position": 33,
+            "title": "7 Brilliant Mathematicians and Their Impact on the Modern ...",
+            "link": "https://www.treehugger.com/brilliant-mathematicians-and-their-impact-on-the-modern-4868832",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.treehugger.com/brilliant-mathematicians-and-their-impact-on-the-modern-4868832&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQFnoECE0QAQ",
+            "displayed_link": "https://www.treehugger.com \u203a Culture \u203a History",
+            "favicon": "https://serpapi.com/searches/68b8766ebd1731f7dd65c434/images/63c5658c40fc1feeac11ba673b2bb45b62449efbcff2fedae0f2f1ca6e435e58.png",
+            "snippet": "7 Brilliant Mathematicians and Their Impact on the Modern World \u00b7 Sir Isaac Newton (1642-1727) \u00b7 Carl Friedrich Gauss (1777-1855) \u00b7 Emmy Noether (1882-1935).",
+            "snippet_highlighted_words": [
+                "Sir Isaac Newton (1642-1727"
+            ],
+            "source": "Treehugger"
+        },
+        {
+            "position": 34,
+            "title": "Women Mathematicians, Sponsored by Agnes Scott College",
+            "link": "https://mathwomen.agnesscott.org/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://mathwomen.agnesscott.org/&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQFnoECGgQAQ",
+            "displayed_link": "https://mathwomen.agnesscott.org",
+            "favicon": "https://serpapi.com/searches/68b8766ebd1731f7dd65c434/images/63c5658c40fc1feeac11ba673b2bb45ba00ae02a69f8c0a9ecf5804f3b0d711c.png",
+            "snippet": "Welcome to the web site for biographies of women in mathematics. These pages are part of a project at Agnes Scott College in Atlanta, Georgia.",
+            "source": "Agnes Waypoints"
+        },
+        {
+            "position": 35,
+            "title": "List of Famous Mathematicians and Their Contributions",
+            "link": "https://mathsquery.com/knowledge/history/famous-mathematicians/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://mathsquery.com/knowledge/history/famous-mathematicians/&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQFnoECGoQAQ",
+            "displayed_link": "https://mathsquery.com \u203a Unit \u203a Knowledge \u203a History",
+            "favicon": "https://serpapi.com/searches/68b8766ebd1731f7dd65c434/images/63c5658c40fc1feeac11ba673b2bb45b98beae2c4249238568d688f6fdace856.png",
+            "date": "Jul 24, 2025",
+            "snippet": "List of Famous Mathematicians and Their Contributions \u00b7 Al Khawarizmi \u00b7 Archimedes \u00b7 Aryabhata \u00b7 Blaise Pascal \u00b7 Carl Freidrich Gauss \u00b7 Euclid.",
+            "snippet_highlighted_words": [
+                "Al Khawarizmi"
+            ],
+            "source": "Maths Query"
+        },
+        {
+            "position": 36,
+            "title": "Greatest Mathematicians and their Discoveries - Part 1",
+            "link": "https://www.youtube.com/watch?v=kesaUCEoPbA",
+            "displayed_link": "182.2K+ views \u00b7 1 year ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ9pBHY-7IwHUpTI-Vv0O-JWWUewhyvBfoE5dqBPgipNYHoqHQjaXO60rHAiGZ&s&ec=73086138",
+            "favicon": "https://serpapi.com/searches/68b8766ebd1731f7dd65c434/images/63c5658c40fc1feeac11ba673b2bb45b721a47ae94c3e4ea3267a4d8a443c20d.png",
+            "snippet": "Pythagoras an ancient Greek mathematician philosopher and founder of the Pythagorean school is best known for discovering the Pythagorean theorem.",
+            "duration": "15:27",
+            "key_moments": [
+                {
+                    "time": "00:00",
+                    "title": "Pythagoras",
+                    "link": "https://www.youtube.com/watch?v=kesaUCEoPbA&t=0",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcUT3-5HRhdZEH3mCzz30wFQ58jcOA8K-cnjn4wdHbZw&s"
+                },
+                {
+                    "time": "00:38",
+                    "title": "Archimedes",
+                    "link": "https://www.youtube.com/watch?v=kesaUCEoPbA&t=38",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2IlHzWSAFuhfG_dP3fxWCZzSAb7eeiOdkA0uo6NzeaQ&s"
+                },
+                {
+                    "time": "01:12",
+                    "title": "Rene Descartes",
+                    "link": "https://www.youtube.com/watch?v=kesaUCEoPbA&t=72",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlsqr18gIjlMrJmijbh6CPIyxuaHHibUMBBTB42YH0GQ&s"
+                },
+                {
+                    "time": "01:54",
+                    "title": "Isaac Newton",
+                    "link": "https://www.youtube.com/watch?v=kesaUCEoPbA&t=114",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr0eOmqNN_S5xhuu92jvbn_aCuGTho-wDn5o0ikzkhtQ&s"
+                },
+                {
+                    "time": "02:37",
+                    "title": "Benjamin Banneker",
+                    "link": "https://www.youtube.com/watch?v=kesaUCEoPbA&t=157",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoUmctT1D14mBf7wQ1SNZAxLFQCPHe_fCsVomvv6nhWA&s"
+                },
+                {
+                    "time": "03:22",
+                    "title": "Sophie Germain",
+                    "link": "https://www.youtube.com/watch?v=kesaUCEoPbA&t=202",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd9JrmLDh9-Hyvt0SIN8N0q3eUfLmqooHwHq2X-tHpBg&s"
+                },
+                {
+                    "time": "03:59",
+                    "title": "Niels Henrik Abel",
+                    "link": "https://www.youtube.com/watch?v=kesaUCEoPbA&t=239",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf2-fG5r-VmE3w5dQ9C3qkn_GB-NlW5bRX3fdNIt1paQ&s"
+                },
+                {
+                    "time": "04:40",
+                    "title": "Evariste Galois",
+                    "link": "https://www.youtube.com/watch?v=kesaUCEoPbA&t=280",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNaHTgZtrricS8rvJxmfnRuxHpEg7De7iJ2xB0VfYoBw&s"
+                },
+                {
+                    "time": "05:20",
+                    "title": "Arthur Cayley",
+                    "link": "https://www.youtube.com/watch?v=kesaUCEoPbA&t=320",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSef0bSzxtz5ACUmwiQqV8LNAWU8g2Xuu6U4_27VWnqZQ&s"
+                },
+                {
+                    "time": "06:01",
+                    "title": "Felix Klein",
+                    "link": "https://www.youtube.com/watch?v=kesaUCEoPbA&t=361",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE8G2myP1Yw2pvPRyWgEQrqcPVL8lCkKBVyqDWI_dTjg&s"
+                },
+                {
+                    "time": "06:43",
+                    "title": "Henri Poincare",
+                    "link": "https://www.youtube.com/watch?v=kesaUCEoPbA&t=403",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr4gmILtt-f5KkXdF-3cM9hI1ysQsNQeaTaJQlCgjIhw&s"
+                },
+                {
+                    "time": "07:18",
+                    "title": "G.H Hardy",
+                    "link": "https://www.youtube.com/watch?v=kesaUCEoPbA&t=438",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStioqJgKdnM_aTA0XYzjlaHhqfG4uVVqhlLCfueAanCA&s"
+                },
+                {
+                    "time": "07:54",
+                    "title": "Niels Bohr",
+                    "link": "https://www.youtube.com/watch?v=kesaUCEoPbA&t=474",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMTi0uZ7RZtSbjqSJ39sUu5MGTrLUGriUl70B1U35LnA&s"
+                },
+                {
+                    "time": "08:29",
+                    "title": "Carl Ludwig Siegel",
+                    "link": "https://www.youtube.com/watch?v=kesaUCEoPbA&t=509",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkMre7eRCBi7kNtlG4eJ05CDH9c4vZ3FoK9vYV5tEXQQ&s"
+                },
+                {
+                    "time": "08:59",
+                    "title": "Mary Cartwright",
+                    "link": "https://www.youtube.com/watch?v=kesaUCEoPbA&t=539",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDMmzmRiS0tfC-mFnRoy9J0EL8RqI5o_Q0O1SUNKO67A&s"
+                },
+                {
+                    "time": "09:30",
+                    "title": "John von Neumann",
+                    "link": "https://www.youtube.com/watch?v=kesaUCEoPbA&t=570",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1_b_q_irT9O_Rb5GPX0qYx4HG3Kwze8NufLYw0ooikg&s"
+                },
+                {
+                    "time": "09:57",
+                    "title": "Alan Turing",
+                    "link": "https://www.youtube.com/watch?v=kesaUCEoPbA&t=597",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj0XrJFuII4EIYlWvTlZMR6fTRSMdXs2tGcwlKSnNwoQ&s"
+                },
+                {
+                    "time": "10:31",
+                    "title": "Frederick Mosteller",
+                    "link": "https://www.youtube.com/watch?v=kesaUCEoPbA&t=631",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3QUdu-qPvUi9YfZZnGTzDf8BmT6nA2nr506iiScc5rQ&s"
+                },
+                {
+                    "time": "11:09",
+                    "title": "Benoit Mandelbrot",
+                    "link": "https://www.youtube.com/watch?v=kesaUCEoPbA&t=669",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEh0xtTc5saSsK3R2tc42kcn7AI4QriMaSKXDdq40ahg&s"
+                },
+                {
+                    "time": "11:39",
+                    "title": "Jean Pierre Serre",
+                    "link": "https://www.youtube.com/watch?v=kesaUCEoPbA&t=699",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXTOZfeHz-j1OPQEZPuiTtxQST9Fpw-PQxJZsFN4ojLQ&s"
+                },
+                {
+                    "time": "12:17",
+                    "title": "John Forbes Nash Jr.",
+                    "link": "https://www.youtube.com/watch?v=kesaUCEoPbA&t=737",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9irRljXKTg1rQUHK82IyrUnf4WGWxgpTnch1bREfiQ&s"
+                },
+                {
+                    "time": "12:53",
+                    "title": "John Horton Conway",
+                    "link": "https://www.youtube.com/watch?v=kesaUCEoPbA&t=773",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4Y81Kmc229TFhkYtJJEUs0allOtJdZU6DbtzOme--KA&s"
+                },
+                {
+                    "time": "13:33",
+                    "title": "Grigory Margulis",
+                    "link": "https://www.youtube.com/watch?v=kesaUCEoPbA&t=813",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf3wae6j7UFhkvXA8XikKsBO3mRR2CQmAVmkuqQOddPw&s"
+                },
+                {
+                    "time": "14:09",
+                    "title": "Edward Witten",
+                    "link": "https://www.youtube.com/watch?v=kesaUCEoPbA&t=849",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYRLE1Lxx-NaAtdVydjR0iRuJVm7eZ2k3t2uMTrpre8A&s"
+                },
+                {
+                    "time": "15:02",
+                    "title": "Maryam Mirzakhani",
+                    "link": "https://www.youtube.com/watch?v=kesaUCEoPbA&t=902",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToDu2yqQ8yQuCzdUF78RecTPxGsuE3MlMx4oTppItq0g&s"
+                }
+            ],
+            "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSbv7hE4LXZF5KLcUKAZ9FIgzzAQQRMa8-XAg",
+            "source": "YouTube \u00b7 ThoughtThrill"
+        },
+        {
+            "position": 37,
+            "title": "The World of Blind Mathematicians",
+            "link": "https://www.ams.org/notices/200210/comm-morin.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.ams.org/notices/200210/comm-morin.pdf&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQFnoECGYQAQ",
+            "displayed_link": "https://www.ams.org \u203a notices \u203a comm-morin",
+            "favicon": "https://serpapi.com/searches/68b8766ebd1731f7dd65c434/images/63c5658c40fc1feeac11ba673b2bb45bc462c253e793943be7aa99f89a0f5dc3.png",
+            "snippet": "A sighted mathematician generally works by sit- ting around scribbling on paper: According to one legend, the maid of a famous mathematician, when asked what ...",
+            "snippet_highlighted_words": [
+                "mathematician",
+                "mathematician"
+            ],
+            "source": "American Mathematical Society"
+        },
+        {
+            "position": 38,
+            "title": "Top Mathematicians - Biography, Facts and Pictures",
+            "link": "https://www.famousscientists.org/top-mathematicians/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.famousscientists.org/top-mathematicians/&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQFnoECGwQAQ",
+            "displayed_link": "https://www.famousscientists.org \u203a top-mathematicians",
+            "favicon": "https://serpapi.com/searches/68b8766ebd1731f7dd65c434/images/63c5658c40fc1feeac11ba673b2bb45b32d5886e7dbdc19ec8a9778b9bff3efe.png",
+            "snippet": "Here's our alphabetical list of the most popular mathematicians or contributors to mathematics on the Famous Scientists website, ordered by surname.",
+            "snippet_highlighted_words": [
+                "Here's our alphabetical list of the most popular mathematicians"
+            ],
+            "source": "Famous Scientists"
+        },
+        {
+            "position": 39,
+            "title": "Five of the most famous mathematicians you've (probably) ...",
+            "link": "https://www.sciencefocus.com/science/five-of-the-greatest-mathematicians-youve-probably-never-heard-of",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sciencefocus.com/science/five-of-the-greatest-mathematicians-youve-probably-never-heard-of&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQFnoFCIcBEAE",
+            "displayed_link": "https://www.sciencefocus.com \u203a science \u203a five-of-the-gre...",
+            "favicon": "https://serpapi.com/searches/68b8766ebd1731f7dd65c434/images/63c5658c40fc1feeac11ba673b2bb45b9b8c19b367cb1823d6226dab4b144477.png",
+            "date": "Oct 13, 2020",
+            "snippet": "Some great mathematicians have long been household names - Archimedes, Isaac Newton. Some have recently come to fame in movies and on TV - ...",
+            "snippet_highlighted_words": [
+                "Archimedes, Isaac Newton"
+            ],
+            "source": "BBC Science Focus Magazine"
+        },
+        {
+            "position": 40,
+            "title": "Top Influential Mathematicians Today",
+            "link": "https://academicinfluence.com/rankings/people/most-influential-mathematicians-today",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://academicinfluence.com/rankings/people/most-influential-mathematicians-today&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQFnoFCIQBEAE",
+            "displayed_link": "https://academicinfluence.com \u203a rankings \u203a people \u203a m...",
+            "favicon": "https://serpapi.com/searches/68b8766ebd1731f7dd65c434/images/63c5658c40fc1feeac11ba673b2bb45b7ecf96b9b964837bae7bd42a35fe12de.png",
+            "date": "Jul 28, 2023",
+            "snippet": "Ten Most Influential Mathematicians Today \u00b7 Top Influential Mathematicians 2010-2020 \u00b7 1.Keith Devlin \u00b7 2.Terence Tao \u00b7 3.Ian Stewart \u00b7 4.John ...",
+            "snippet_highlighted_words": [
+                "1.Keith Devlin"
+            ],
+            "source": "Academic Influence"
+        },
+        {
+            "position": 41,
+            "title": "7 Extraordinary Mathematicians Who Didn't Study ...",
+            "link": "https://www.topuniversities.com/courses/mathematics/7-extraordinary-mathematicians-who-didnt-study-mathematics-university",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.topuniversities.com/courses/mathematics/7-extraordinary-mathematicians-who-didnt-study-mathematics-university&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQFnoFCIIBEAE",
+            "displayed_link": "https://www.topuniversities.com \u203a courses \u203a mathematics",
+            "favicon": "https://serpapi.com/searches/68b8766ebd1731f7dd65c434/images/63c5658c40fc1feeac11ba673b2bb45bfcd43e2764dc69ac87e33a26e04ff8d5.png",
+            "date": "Jun 2, 2023",
+            "snippet": "7 Extraordinary Mathematicians Who Didn't Study Mathematics at University \u00b7 1. Srinivasa Ramanujan \u00b7 2. Stefan Banach \u00b7 3. Oliver Heaviside \u00b7 4.",
+            "snippet_highlighted_words": [
+                "Mathematicians"
+            ],
+            "source": "Top Universities"
+        },
+        {
+            "position": 42,
+            "title": "Contributions of Famous Black Mathematicians",
+            "link": "https://mathandmovement.com/famous-black-mathematicians-and-their-contributions/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://mathandmovement.com/famous-black-mathematicians-and-their-contributions/&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQFnoFCIUBEAE",
+            "displayed_link": "https://mathandmovement.com \u203a Blog",
+            "favicon": "https://serpapi.com/searches/68b8766ebd1731f7dd65c434/images/63c5658c40fc1feeac11ba673b2bb45ba9a6465aad7e9181f4dce05b0583441e.png",
+            "date": "Feb 27, 2025",
+            "snippet": "9 Famous Black Mathematicians and Their Contributions \u00b7 Benjamin Banneker (1731-1806) \u00b7 Elbert Frank Cox (1895-1969) \u00b7 Dudley Weldon Woodard ( ...",
+            "snippet_highlighted_words": [
+                "Mathematicians"
+            ],
+            "source": "Math & Movement"
+        },
+        {
+            "position": 43,
+            "title": "Mathematicians, Romantic Heroes of the Past, Present and ...",
+            "link": "https://simonsingh.net/media/articles/maths-and-science/mathematicians-romantic-heroes-of-the-past-present-and-future/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://simonsingh.net/media/articles/maths-and-science/mathematicians-romantic-heroes-of-the-past-present-and-future/&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQFnoFCJ4BEAE",
+            "displayed_link": "https://simonsingh.net \u203a articles \u203a maths-and-science \u203a m...",
+            "snippet": "The search for mathematical proofs has captured the imagination of many men and women, and in my opinion many of these folk qualify as romantic heroes.",
+            "source": "Simon Singh.net"
+        },
+        {
+            "position": 44,
+            "title": "List of Top 10 Famous Indian Mathematicians & Their ...",
+            "link": "https://www.wisdomworldschool.in/blog/list-of-top-10-famous-indian-mathematicians-their-contributions",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.wisdomworldschool.in/blog/list-of-top-10-famous-indian-mathematicians-their-contributions&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQFnoFCKIBEAE",
+            "displayed_link": "https://www.wisdomworldschool.in \u203a blog \u203a list-of-top-...",
+            "favicon": "https://serpapi.com/searches/68b8766ebd1731f7dd65c434/images/63c5658c40fc1feeac11ba673b2bb45b879d40abb42b39330ca142c990c945cc.png",
+            "snippet": "List of Top 10 Famous Indian Mathematicians & Their Contributions \u00b7 1. Aryabhata (476\u2013550 AD) \u00b7 2. Brahmagupta (598\u2013668 AD) \u00b7 3. Bhaskara I (600\u2013680 AD) \u00b7 4.",
+            "snippet_highlighted_words": [
+                "Mathematicians"
+            ],
+            "source": "Wisdom World School Pune"
+        },
+        {
+            "position": 45,
+            "title": "15 Famous Mathematicians in History That Kids Should ...",
+            "link": "https://www.splashlearn.com/blog/famous-mathematicians-in-history/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.splashlearn.com/blog/famous-mathematicians-in-history/&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQFnoFCJ8BEAE",
+            "displayed_link": "https://www.splashlearn.com \u203a Home \u203a Math for Kids",
+            "favicon": "https://serpapi.com/searches/68b8766ebd1731f7dd65c434/images/63c5658c40fc1feeac11ba673b2bb45ba374ca38317413927706bde761fa08af.png",
+            "date": "May 17, 2024",
+            "snippet": "15 Famous Mathematicians in History That Kids Should Know \u00b7 1. Euclid \u00b7 2. Archimedes \u00b7 3. Pythagoras \u00b7 4. Carl Friedrich Gauss \u00b7 5. Leonhard ...",
+            "snippet_highlighted_words": [
+                "Mathematicians"
+            ],
+            "source": "SplashLearn"
+        },
+        {
+            "position": 46,
+            "title": "THE 50 GREATEST MATHEMATICIANS",
+            "link": "https://www.sapaviva.com/the-50-greatest-mathematicians/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sapaviva.com/the-50-greatest-mathematicians/&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQFnoFCJsBEAE",
+            "displayed_link": "https://www.sapaviva.com \u203a the-50-greatest-mathematic...",
+            "favicon": "https://serpapi.com/searches/68b8766ebd1731f7dd65c434/images/63c5658c40fc1feeac11ba673b2bb45b0adf271920083d2e3987e002220edc36.png",
+            "snippet": "THE 50 GREATEST MATHEMATICIANS \u00b7 1. LEONHARD EULER. (April 15, 1707 \u2013 September 18, 1783) \u00b7 2. CARL FRIEDRICH GAUSS. (April 30, 1777 \u2013 February 23, 1855) \u00b7 3.",
+            "snippet_highlighted_words": [
+                "MATHEMATICIANS"
+            ],
+            "source": "sapaviva"
+        },
+        {
+            "position": 47,
+            "title": "Top 10 Most Famous Mathematicians",
+            "link": "https://www.melioeducation.com/blog/top-ten-famous-mathematicians/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.melioeducation.com/blog/top-ten-famous-mathematicians/&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQFnoFCOEBEAE",
+            "displayed_link": "https://www.melioeducation.com \u203a blog \u203a top-ten-famo...",
+            "favicon": "https://serpapi.com/searches/68b8766ebd1731f7dd65c434/images/63c5658c40fc1feeac11ba673b2bb45b0f97ba9bfdadc257dec336543f8be7d0.png",
+            "date": "Feb 14, 2022",
+            "snippet": "Top 10 most famous mathematicians \u00b7 Isaac Newton \u00b7 Marjorie Lee Browne \u00b7 Carl Friedrich Gauss \u00b7 Pythagoras \u00b7 Dame Mary Lucy Cartwright \u00b7 Alan ...",
+            "snippet_highlighted_words": [
+                "mathematicians"
+            ],
+            "source": "Melio Education"
+        },
+        {
+            "position": 48,
+            "title": "12 famous mathematicians and their discoveries",
+            "link": "https://inquibox.com/11-famous-mathematicians-and-their-discoveries/?srsltid=AfmBOorp2TO0AFMHiXgdMA-I6NRkkCTwXwhzB609mTi9sDunjgmsqitV",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://inquibox.com/11-famous-mathematicians-and-their-discoveries/%3Fsrsltid%3DAfmBOorp2TO0AFMHiXgdMA-I6NRkkCTwXwhzB609mTi9sDunjgmsqitV&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQFnoECE4QAQ",
+            "displayed_link": "https://inquibox.com \u203a Blog",
+            "favicon": "https://serpapi.com/searches/68b8766ebd1731f7dd65c434/images/63c5658c40fc1feeac11ba673b2bb45be5ae6c09c12d515f551f3891ad8a167d.png",
+            "snippet": "Brahmagupta (598-668 CE) \u00b7 Isaac Newton (1643- 1727) \u00b7 Diophantus (AD 285 and 299) \u00b7 Ada Lovelace (1815-1852) \u00b7 Blaise Pascal (1623 \u2013 1662) \u00b7 Aryabhata (476\u2013550 ...",
+            "source": "InquiBox"
+        },
+        {
+            "position": 49,
+            "title": "World's Best Mathematics Scientists",
+            "link": "https://research.com/scientists-rankings/mathematics",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://research.com/scientists-rankings/mathematics&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQFnoECE8QAQ",
+            "displayed_link": "https://research.com \u203a Best Scientists - Mathematics",
+            "favicon": "https://serpapi.com/searches/68b8766ebd1731f7dd65c434/images/63c5658c40fc1feeac11ba673b2bb45bcc6d1654b319ca4a0120ca1d4d4aa2f0.png",
+            "snippet": "The 4th edition of Research.com ranking of the best scientists in the arena of Mathematics relies os data derived from multiple data sources including OpenAlex ...",
+            "source": "Research.com"
+        }
+    ],
+    "related_searches": [
+        {
+            "block_position": 1,
+            "query": "Mathematicians list",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Mathematicians+list&sa=X&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQ1QJ6BAhHEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=Mathematicians+list"
+        },
+        {
+            "block_position": 1,
+            "query": "Famous mathematicians",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Famous+mathematicians&sa=X&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQ1QJ6BAhkEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=Famous+mathematicians"
+        },
+        {
+            "block_position": 1,
+            "query": "Mathematicians of the world",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Mathematicians+of+the+world&sa=X&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQ1QJ6BAhcEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=Mathematicians+of+the+world"
+        },
+        {
+            "block_position": 1,
+            "query": "5 famous mathematicians",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=5+famous+mathematicians&sa=X&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQ1QJ6BAhTEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=5+famous+mathematicians"
+        },
+        {
+            "block_position": 1,
+            "query": "Top 10 mathematicians",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Top+10+mathematicians&sa=X&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQ1QJ6BAhSEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=Top+10+mathematicians"
+        },
+        {
+            "block_position": 1,
+            "query": "Mathematicians and their inventions",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Mathematicians+and+their+inventions&sa=X&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQ1QJ6BAhREAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=Mathematicians+and+their+inventions"
+        },
+        {
+            "block_position": 1,
+            "query": "Mathematicians today",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Mathematicians+today&sa=X&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQ1QJ6BAhJEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=Mathematicians+today"
+        },
+        {
+            "block_position": 1,
+            "query": "Mathematicians names",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Mathematicians+names&sa=X&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQ1QJ6BAhIEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=Mathematicians+names"
+        }
+    ],
+    "things_to_know": {
+        "buttons": [
+            {
+                "text": "Famous Mathematicians",
+                "subtitle": "What Are Some Famous Mathematicians And Their Contributions?",
+                "search_link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=what+are+some+famous+mathematicians+and+their+contributions&sa=X&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQrooIegQIHRAJ",
+                "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=what+are+some+famous+mathematicians+and+their+contributions",
+                "ai_overview": {
+                    "text_blocks": [
+                        {
+                            "type": "paragraph",
+                            "snippet": "Famous mathematicians include Euclid, the \"father of geometry\"; Archimedes, known for his value of pi and the method of exhaustion; Isaac Newton, for his laws of motion and gravity; Carl Friedrich Gauss, called the \"Prince of Mathematicians\"; and Al-Khwarizmi, the \"Father of Algebra\". Other key figures are Leonhard Euler, a prolific mathematician and physicist; Pythagoras, known for his theorem; George Boole, who pioneered Boolean algebra used in computers; Ren\u00e9 Descartes, for his contributions to algebra and geometry; and Srinivasa Ramanujan, a prodigy in number theory.",
+                            "snippet_highlighted_words": [
+                                "Euclid, the \"father of geometry\";",
+                                "Archimedes, known for his value of pi and the method of exhaustion;",
+                                "Isaac Newton, for his laws of motion and gravity;",
+                                "Carl Friedrich Gauss, called the \"Prince of Mathematicians\";",
+                                "and Al-Khwarizmi, the \"Father of Algebra\""
+                            ],
+                            "reference_indexes": [
+                                1,
+                                3,
+                                4,
+                                5,
+                                7,
+                                9,
+                                10,
+                                11
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "snippet": "Founders of Mathematics & Geometry"
+                        },
+                        {
+                            "type": "list",
+                            "list": [
+                                {
+                                    "title": "Pythagoras",
+                                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL1hd932QXcHsHWJSMuRJgqhPJKOg_SRXt2OaotFdbTkeMWpPSqPXHp1VRJIUx5Bi-8rftrw",
+                                    "snippet": "(c. 570 \u2013 c. 495 BCE): While details of his life are scarce, his name is associated with the well-known Pythagorean theorem.",
+                                    "reference_indexes": [
+                                        4,
+                                        5
+                                    ]
+                                },
+                                {
+                                    "title": "Euclid",
+                                    "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSL9ibGKi8RbkMJlb8sGIGy6p2c_XeIhyn0-6VN7T_vRuak-ZAU0Z8xG33Tro1CB7_8JKK7XQ",
+                                    "snippet": "(c. 325\u2013265 BCE): Known as the \"father of geometry\" for his seminal work, Elements.",
+                                    "reference_indexes": [
+                                        1
+                                    ]
+                                },
+                                {
+                                    "title": "Archimedes",
+                                    "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQbCCePoR1Fei-ZdgA7DJ4FUrmJ_ICZm_q7TahsJGlmzmwYKvjPnVEJpwPAywmqFXMR7ORgNQ",
+                                    "snippet": "(c. 287\u2013212 BCE): The greatest genius of antiquity, he calculated the value of pi and developed the method of exhaustion to find areas and volumes.",
+                                    "reference_indexes": [
+                                        2,
+                                        11
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "snippet": "Pioneers of Algebra & Modern Math"
+                        },
+                        {
+                            "type": "list",
+                            "list": [
+                                {
+                                    "title": "Al-Khwarizmi",
+                                    "snippet": "(c. 780\u2013850): His book Al-Kitab al-Mukhtasar fi Hisab al-Jabr wal-Muqabala gave us the word \"algebra,\" and his name is the root of \"algorithm\".",
+                                    "reference_indexes": [
+                                        7
+                                    ]
+                                },
+                                {
+                                    "title": "Diophantus",
+                                    "snippet": "(c. 215\u2013285 CE): Called the \"father of algebra,\" his major work Arithmetica inspired later mathematicians like Euler and Fermat.",
+                                    "reference_indexes": [
+                                        0
+                                    ]
+                                },
+                                {
+                                    "title": "Ren\u00e9 Descartes",
+                                    "snippet": "(1596\u20131650): A philosopher and mathematician who improved mathematical notation by using x, y, and z for unknowns and superscripts for exponents.",
+                                    "reference_indexes": [
+                                        3
+                                    ]
+                                },
+                                {
+                                    "title": "George Boole",
+                                    "snippet": "(1815\u20131864): Developed Boolean algebra, the mathematical logic underlying all computer systems.",
+                                    "reference_indexes": [
+                                        1,
+                                        8
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "snippet": "Key Figures in Calculus, Physics, and Beyond"
+                        },
+                        {
+                            "type": "list",
+                            "list": [
+                                {
+                                    "title": "Isaac Newton",
+                                    "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxJM9KxWKXMDIVSevRqKgLoOOEZ9CdkjcV1HZq7i5pTzyEgEK90VAN4DTWotT_m0c8ZdG97A",
+                                    "snippet": "(1643\u20131727): A pivotal figure whose work in motion and gravity revolutionized scientific thought.",
+                                    "reference_indexes": [
+                                        1
+                                    ]
+                                },
+                                {
+                                    "title": "Leonhard Euler",
+                                    "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR84SjBCpD49W3HzClAZQz6IbnbLl33s9NzSep0XcqcR184ZkG3_SDzUS6ynZH8XtMWIUXWaQ",
+                                    "snippet": "(1707\u20131783): A highly prolific mathematician and physicist who made major contributions to calculus, graph theory, and more.",
+                                    "reference_indexes": [
+                                        0,
+                                        5
+                                    ]
+                                },
+                                {
+                                    "title": "Carl Friedrich Gauss",
+                                    "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQhhKRf9BaKRpH5G4Jpa4ZygDUzwYHfAEPc5w3GInbwgBPPfB5m9xYhK_ewAFAnnSntTqHQdw",
+                                    "snippet": "(1777\u20131855): Known as the \"Prince of Mathematicians,\" he made groundbreaking discoveries in number theory and statistics.",
+                                    "reference_indexes": [
+                                        10
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "snippet": "Recent and Modern Contributions"
+                        },
+                        {
+                            "type": "list",
+                            "list": [
+                                {
+                                    "title": "Srinivasa Ramanujan",
+                                    "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR7xhHuAjl6jp249g67vJJrGebeozq6YAoXWDsr1LRacnmPNbu4W89Fp9VWJNSiQQti_TiWCA",
+                                    "snippet": "(1887\u20131920): An Indian mathematician and prodigy who made significant discoveries in number theory, infinite series, and continued fractions.",
+                                    "reference_indexes": [
+                                        5
+                                    ]
+                                },
+                                {
+                                    "title": "John Horton Conway",
+                                    "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTWTOo5-XnsqQHxl_MCM2E-HzMHAJFbJZq8qKNTRk9Sp8E8cSsP-ecqbWRCBB9Vgdnb4mPfZQ",
+                                    "snippet": "(1937\u20132020): Created the \"Game of Life\" cellular automaton and made contributions to combinatorial game theory.",
+                                    "reference_indexes": [
+                                        6
+                                    ]
+                                },
+                                {
+                                    "title": "Maryam Mirzakhani",
+                                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0ooZUaNGSj5ai73kSEdFIoxrXN3zGCk3p7ZqfeCpoYYL21OkyYLUyP4cnHEGt-LJYPlJGag",
+                                    "snippet": "(1977\u20132017): The first woman to win the Fields Medal, her research focused on hyperbolic geometry and the dynamics of Riemann surfaces.",
+                                    "reference_indexes": [
+                                        6
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "references": [
+                        {
+                            "title": "12 famous mathematicians and their discoveries - InquiBox",
+                            "link": "https://inquibox.com/11-famous-mathematicians-and-their-discoveries/#:~:text=Diophantus%20(AD%20285%20and%20299)&text=Diophantus%20is%20sometimes%20called%20%E2%80%9Cthe,Read%20more.",
+                            "snippet": "Diophantus (AD 285 and 299) ... Diophantus is sometimes called \u201cthe father of algebra\u201d and developed theories on numbers and solvi...",
+                            "source": "InquiBox",
+                            "index": 0
+                        },
+                        {
+                            "title": "Famous Mathematicians: Pioneers Who Changed the World",
+                            "link": "https://www.edulyte.com/blog/famous-mathematicians/",
+                            "source": "Edulyte",
+                            "index": 1
+                        },
+                        {
+                            "title": "Famous Mathematicians | Famous Mathematicians",
+                            "link": "https://famous-mathematicians.org/#:~:text=Archimedes%20provided%20principles%20and%20methods,seen%20as%20milestone%20in%20mathematics.",
+                            "snippet": "Archimedes provided principles and methods used in mathematics today. He provided the exact numerical value of pi, developed a sys...",
+                            "source": "Famous Mathematicians",
+                            "index": 2
+                        },
+                        {
+                            "title": "Renowned Mathematicians and Their Contributions - Piqosity",
+                            "link": "https://www.piqosity.com/renowned-mathematicians-from-around-the-world/#:~:text=With%20Algebra%2C%20Bombelli%20also%20became,most%20notably%2C%20the%20natural%20sciences.",
+                            "snippet": "Mar 19, 2025 \u2014 With Algebra, Bombelli also became the first to write the rules for operations with complex numbers (except for divisi...",
+                            "source": "Piqosity",
+                            "index": 3
+                        },
+                        {
+                            "title": "The 100 Greatest Mathematicians - FabPedigree.com",
+                            "link": "http://fabpedigree.com/james/mathmen.htm#:~:text=Pythagoras%20and%20Parmenides%20of%20Elea,new%20mode%20of%20human%20consciousness.",
+                            "snippet": "Pythagoras and Parmenides of Elea also played key roles in that development which began with Thales. These ideas led to the school...",
+                            "source": "FabPedigree.com",
+                            "index": 4
+                        },
+                        {
+                            "title": "15 Famous Mathematicians in History That Kids Should Know",
+                            "link": "https://www.splashlearn.com/blog/famous-mathematicians-in-history/",
+                            "snippet": "May 17, 2024 \u2014 * Euclid. * Archimedes. * Pythagoras. * Carl Friedrich Gauss. * Leonhard Euler. * Aryabhatta. * Hypatia. * Fibonacci.",
+                            "source": "SplashLearn",
+                            "index": 5
+                        },
+                        {
+                            "title": "Famous Mathematicians and Their Stories: Lesser-Known but ...",
+                            "link": "https://www.mathnasium.com/math-centers/northbethesda/news/famous-mathematicians-and-their-stories-lesser-known-influential-figures-nb#:~:text=Maryam%20Mirzakhani%2C%20an%20Iranian%20mathematician,a%20lasting%20impact%20on%20mathematics.",
+                            "snippet": "Jul 9, 2024 \u2014 Maryam Mirzakhani, an Iranian mathematician, made history in 2014 as the first woman to win the Fields Medal, one of th...",
+                            "source": "Mathnasium",
+                            "index": 6
+                        },
+                        {
+                            "title": "Famous mathematicians and their contributions - Facebook",
+                            "link": "https://www.facebook.com/groups/2127373170805852/posts/2650924181784079/#:~:text=Al%2DKhwarizmi%20was%20a%20famous,under%20rulers%20who%20valued%20knowledge",
+                            "snippet": "May 15, 2025 \u2014 Al-Khwarizmi was a famous Persian mathematician, born around 780 in what is now Uzbekistan. He worked in Baghdad, wher...",
+                            "source": "Facebook",
+                            "index": 7
+                        },
+                        {
+                            "title": "Famous Mathematicians and Statisticians - Statistics How To",
+                            "link": "https://www.statisticshowto.com/probability-and-statistics/famous-mathematicians-and-statisticians/#:~:text=Famous%20Mathematicians%20%231:%20George%20Boole,allied%20with%20math%2C%20not%20philosophy.",
+                            "snippet": "Famous Mathematicians #1: George Boole. George Boole was an English mathematician (1815-1864) best known for his work on logic, wh...",
+                            "source": "Statistics How To",
+                            "index": 8
+                        },
+                        {
+                            "title": "Who Invented Math? History, Facts & More - Codeyoung",
+                            "link": "https://www.codeyoung.com/blog/who-invented-math-history-facts-and-more-cmcerp13h0002sjjrw2iruuu5#:~:text=Many%20brilliant%20minds%20shaped%20math,as%20the%20founders%20of%20mathematics.",
+                            "snippet": "Jun 27, 2025 \u2014 Many brilliant minds shaped math history. The most notable ones include Euclid, Al-Khwarizmi, Aryabhata, and Sir Isaac...",
+                            "source": "Codeyoung",
+                            "index": 9
+                        },
+                        {
+                            "title": "The Most Famous Mathematicians Ever: Beyond the Numbers",
+                            "link": "https://www.historyoasis.com/post/famous-mathematicians#:~:text=CARL%20FRIEDRICH%20GAUSS%20What%20is%20this?%20Carl,could%20be%20paired%20to%20create%20equal%20sums.",
+                            "snippet": "Mar 17, 2025 \u2014 CARL FRIEDRICH GAUSS What is this? Carl Friedrich Gauss was known as the \u201cPrince of Mathematicians\u201d who revolutionized...",
+                            "source": "History Oasis",
+                            "index": 10
+                        },
+                        {
+                            "title": "The Greatest Three | SpringerLink",
+                            "link": "https://link.springer.com/chapter/10.1007/978-3-031-58916-4_26#:~:text=The%20three%20greatest%20mathematicians%20of,greater%20than%20310/71.",
+                            "snippet": "Jun 12, 2024 \u2014 The three greatest mathematicians of all time were Archimedes, Isaac Newton, and Karl Friedrich Gauss. Archimedes was ...",
+                            "source": "Springer",
+                            "index": 11
+                        }
+                    ]
+                }
+            },
+            {
+                "text": "Salary",
+                "subtitle": "What Is The Average Salary Of A Mathematician?",
+                "search_link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=what+is+the+average+salary+of+a+mathematician&sa=X&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQrooIegQIHRAS",
+                "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=what+is+the+average+salary+of+a+mathematician",
+                "ai_overview": {
+                    "text_blocks": [
+                        {
+                            "type": "paragraph",
+                            "snippet": "The median annual salary for a mathematician was $121,680 in May 2024, according to the Bureau of Labor Statistics (BLS), with other sources providing similar figures, such as a $116,440 median salary in 2023 from US News Money. Salaries can vary significantly based on experience, industry, and location, with the top 25% earning around $148,240 and the lowest-paid 25% earning about $81,910.",
+                            "snippet_highlighted_words": [
+                                "$121,680"
+                            ],
+                            "reference_indexes": [
+                                0,
+                                1,
+                                2,
+                                3,
+                                7
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "snippet": "Key Salary Figures",
+                            "reference_indexes": [
+                                0,
+                                7
+                            ]
+                        },
+                        {
+                            "type": "list",
+                            "list": [
+                                {
+                                    "snippet": "Median Salary (2024): $121,680 (Source: Bureau of Labor Statistics)"
+                                },
+                                {
+                                    "snippet": "Median Salary (2023): $116,440 (Source: US News Money)"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "snippet": "Factors Affecting Salary"
+                        },
+                        {
+                            "type": "list",
+                            "list": [
+                                {
+                                    "title": "Experience:",
+                                    "snippet": "A key factor, with more years of experience generally leading to higher compensation.",
+                                    "reference_indexes": [
+                                        5
+                                    ]
+                                },
+                                {
+                                    "title": "Industry:",
+                                    "snippet": "Top-paying industries for mathematicians often include scientific research and development services.",
+                                    "reference_indexes": [
+                                        6
+                                    ]
+                                },
+                                {
+                                    "title": "Location:",
+                                    "snippet": "Salaries can vary significantly by geographic area, with higher compensation in areas like San Jose, CA.",
+                                    "reference_indexes": [
+                                        4
+                                    ]
+                                },
+                                {
+                                    "title": "Education:",
+                                    "snippet": "While a master's degree is typical, the specific educational requirements can impact earning potential.",
+                                    "reference_indexes": [
+                                        0,
+                                        5
+                                    ]
+                                },
+                                {
+                                    "title": "Company Size and Skills:",
+                                    "snippet": "The size of the employer and the specific mathematical skills a mathematician possesses also influence pay.",
+                                    "reference_indexes": [
+                                        5
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "references": [
+                        {
+                            "title": "Mathematicians and Statisticians - U.S. Bureau of Labor Statistics",
+                            "link": "https://www.bls.gov/ooh/math/mathematicians-and-statisticians.htm#:~:text=Mathematicians%20and%20statisticians%20typically%20need,the%20average%20for%20all%20occupations.",
+                            "snippet": "Mathematicians and statisticians typically need at least a master's degree in mathematics or statistics. However, some positions a...",
+                            "source": "U.S. Bureau of Labor Statistics",
+                            "index": 0
+                        },
+                        {
+                            "title": "How much does a mathematician make?",
+                            "link": "https://www.quora.com/How-much-does-a-mathematician-make",
+                            "snippet": "Jun 15, 2021",
+                            "source": "Quora",
+                            "index": 1
+                        },
+                        {
+                            "title": "Salary: Mathematician (August, 2025) United States - ZipRecruiter",
+                            "link": "https://www.ziprecruiter.com/Salaries/Mathematician-Salary#:~:text=How%20much%20does%20a%20Mathematician,states%20nationwide%20for%20Mathematician%20salaries.",
+                            "snippet": "How much does a Mathematician make? As of Aug 22, 2025, the average annual pay for a Mathematician in the United States is $56,723...",
+                            "source": "ZipRecruiter",
+                            "index": 2
+                        },
+                        {
+                            "title": "18 Highest Paying Math Jobs That You Can Pursue | Indeed.com",
+                            "link": "https://www.indeed.com/career-advice/finding-a-job/highest-paying-math-jobs#:~:text=10.,and%20conducting%20research%20on%20principles.",
+                            "snippet": "Apr 18, 2024 \u2014 10. Mathematician. National average salary: $111,102 per year Primary duties: A mathematician applies mathematical the...",
+                            "source": "Indeed",
+                            "index": 3
+                        },
+                        {
+                            "title": "Mathematician Salary - August 2025 - Comparably",
+                            "link": "https://www.comparably.com/salaries/salaries-for-mathematician#:~:text=How%20much%20does%20a%20Mathematician,97%25%20greater%20than%20US%20average.",
+                            "snippet": "Nov 13, 2023 \u2014 How much does a Mathematician make? The average Mathematician in the US makes $124,016. Mathematicians make the most i...",
+                            "source": "Comparably",
+                            "index": 4
+                        },
+                        {
+                            "title": "Mathematician I Salary in the United States",
+                            "link": "https://www.salary.com/research/salary/benchmark/mathematician-i-salary#:~:text=How%20much%20does%20a%20Mathematician,understand%20how%20they%20impact%20compensation.",
+                            "snippet": "How much does a Mathematician I make? As of August 01, 2025, the average annual salary for a Mathematician I in the United States ...",
+                            "source": "Salary.com",
+                            "index": 5
+                        },
+                        {
+                            "title": "Theoretical Mathematician Career Salary - Work - Chron.com",
+                            "link": "https://work.chron.com/theoretical-mathematician-career-salary-6051.html#:~:text=National%20Salaries,%E2%80%8B$64%2C930%E2%80%8B%20per%20year.",
+                            "snippet": "National Salaries Job growth for all mathematicians is expected to be much faster than the average for all industries, at 33 perce...",
+                            "source": "Work - Chron.com",
+                            "index": 6
+                        },
+                        {
+                            "title": "Mathematician - Career Rankings, Salary, Reviews and Advice",
+                            "link": "https://money.usnews.com/careers/best-jobs/mathematician#:~:text=How%20Much%20Does%20a%20Mathematician,%2Dpaid%2025%25%20made%20$81%2C910.",
+                            "snippet": "How Much Does a Mathematician Make? Mathematicians made a median salary of $116,440 in 2023. The best-paid 25% made $148,240 that ...",
+                            "source": "US News Money",
+                            "index": 7
+                        }
+                    ]
+                }
+            },
+            {
+                "text": "Education",
+                "subtitle": "What Are The Educational Requirements To Become A Mathematician?",
+                "title": "Mathematicians and Statisticians - U.S. Bureau of Labor Statistics",
+                "link": "https://www.bls.gov/ooh/math/mathematicians-and-statisticians.htm#:~:text=In%20private%20industry%2C%20mathematicians%20typically,bachelor's%20degree%20programs%20in%20mathematics.",
+                "displayed_link": "https://www.bls.gov \u203a ooh \u203a math \u203a mathematicians-and-...",
+                "snippet": "In private industry, mathematicians typically need either a master's or a doctoral degree; statisticians typically need a master's degree, but some entry-level positions may accept candidates with a bachelor's degree. Most colleges and universities have bachelor's degree programs in mathematics.",
+                "snippet_highlighted_words": [
+                    "either a master's or a doctoral degree"
+                ],
+                "favicon": "https://serpapi.com/searches/68b8766ebd1731f7dd65c434/images/fa0f8879610185c62bb1f4b09ab0abeff4516c14924a4bbd289e5a0a0f78acef95d2de57e2847023.png",
+                "source": "bls.gov",
+                "search_link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=what+are+the+educational+requirements+to+become+a+mathematician&sa=X&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQrooIegQIHRAY",
+                "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=what+are+the+educational+requirements+to+become+a+mathematician"
+            },
+            {
+                "text": "Career Prospects",
+                "subtitle": "What Are The Career Prospects For Mathematicians?",
+                "search_link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=what+are+the+career+prospects+for+mathematicians&sa=X&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQrooIegQIHRAh",
+                "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=what+are+the+career+prospects+for+mathematicians",
+                "ai_overview": {
+                    "text_blocks": [
+                        {
+                            "type": "paragraph",
+                            "snippet": "Mathematicians have excellent career prospects with high demand across many industries, including finance, data science, technology, and education, with job growth projected to be much faster than the average. They work as actuaries, statisticians, financial analysts, data scientists, teachers, and in various roles within engineering and research. The strong analytical and problem-solving skills developed by studying mathematics are highly valued in the modern workforce, driving opportunities in data analysis and complex problem-solving.",
+                            "snippet_highlighted_words": [
+                                "finance, data science, technology, and education"
+                            ],
+                            "reference_indexes": [
+                                0,
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                6
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "snippet": "Key Career Paths"
+                        },
+                        {
+                            "type": "list",
+                            "list": [
+                                {
+                                    "title": "Data Science & Analytics:",
+                                    "snippet": "With the increasing volume of data, mathematicians are in demand to analyze, manage, and interpret this information to make informed decisions.",
+                                    "reference_indexes": [
+                                        1,
+                                        5
+                                    ]
+                                },
+                                {
+                                    "title": "Finance & Banking:",
+                                    "snippet": "Roles like financial analysts, budget analysts, and investment analysts are common, requiring strong analytical and modeling skills to manage risk and financial portfolios.",
+                                    "reference_indexes": [
+                                        1,
+                                        4
+                                    ]
+                                },
+                                {
+                                    "title": "Insurance:",
+                                    "snippet": "Actuaries use mathematical and statistical methods to assess risk, calculate financial costs, and develop policies, a role with significant projected growth.",
+                                    "reference_indexes": [
+                                        1,
+                                        2,
+                                        4
+                                    ]
+                                },
+                                {
+                                    "title": "Education:",
+                                    "snippet": "Mathematicians can become teachers or professors at various academic levels, sharing their expertise and fostering critical thinking skills in students.",
+                                    "reference_indexes": [
+                                        5,
+                                        6
+                                    ]
+                                },
+                                {
+                                    "title": "Research & Development:",
+                                    "snippet": "Opportunities exist in academic research, scientific research, and consulting firms, applying advanced mathematical concepts to solve complex, real-world problems.",
+                                    "reference_indexes": [
+                                        0,
+                                        6,
+                                        7
+                                    ]
+                                },
+                                {
+                                    "title": "Engineering & Technology:",
+                                    "snippet": "The skills of a mathematician are valuable in fields like engineering and the tech industry for developing software and solving technical challenges.",
+                                    "reference_indexes": [
+                                        0,
+                                        6,
+                                        8,
+                                        9,
+                                        10,
+                                        11
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "snippet": "Why Mathematicians Are Highly Valued"
+                        },
+                        {
+                            "type": "list",
+                            "list": [
+                                {
+                                    "title": "Analytical & Critical Thinking:",
+                                    "snippet": "A math degree hones analytical, critical thinking, logical reasoning, and deduction skills essential for complex problem-solving.",
+                                    "reference_indexes": [
+                                        5
+                                    ]
+                                },
+                                {
+                                    "title": "Data-Driven Decision Making:",
+                                    "snippet": "Mathematicians are trained to work with data, making them invaluable in a business environment that increasingly relies on statistical analysis and data mining to make strategic decisions.",
+                                    "reference_indexes": [
+                                        1,
+                                        5
+                                    ]
+                                },
+                                {
+                                    "title": "Adaptability:",
+                                    "snippet": "The foundational skills of a mathematician are transferable across many disciplines, allowing for diverse and evolving career paths.",
+                                    "reference_indexes": [
+                                        5,
+                                        6
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "references": [
+                        {
+                            "title": "What can I do with a mathematics degree? | Prospects.ac.uk",
+                            "link": "https://www.prospects.ac.uk/careers-advice/what-can-i-do-with-my-degree/mathematics#:~:text=Studying%20mathematics%20opens%20up%20careers,Statistician",
+                            "snippet": "Studying mathematics opens up careers in a range of sectors such as IT, finance, engineering, space science and teaching. Job opti...",
+                            "source": "Prospects",
+                            "index": 0
+                        },
+                        {
+                            "title": "Best Mathematics Career Paths | Learn How To Become",
+                            "link": "https://www.learnhowtobecome.org/careers-in-mathematics/#:~:text=Mathematicians%20will%20be%20needed%20to,online%20and%20on%20mobile%20devices.&text=These%20professionals%20will%20see%20growth,to%20manage%20and%20avoid%20risk.&text=Technological%20advances%20are%20driving%20the%20increase%20of%20this%20profession.&text=Growth%20in%20this%20industry%20is,policy%2C%20and%20health%20care%20decisions.&text=Growth%20is%20tied%20to%20increased%20college%20enrollments.&text=Growing%20investment%20opportunities%20coupled%20with,a%20demand%20for%20financial%20analysts.&text=As%20businesses%20amass%20larger%20amounts,needed%20to%20manage%20this%20information.&text=Competition%20in%20the%20global%20economy,a%20demand%20in%20this%20career.",
+                            "snippet": "Mathematicians will be needed to analyze the increasing amounts of digital data that companies generate online and on mobile devic...",
+                            "source": "LearnHowToBecome.org",
+                            "index": 1
+                        },
+                        {
+                            "title": "10 High-Paying Careers For Math Majors",
+                            "link": "https://www.affordablecollegesonline.org/college-resource-center/math-degree-best-careers/#:~:text=Math%20degrees%20can%20lead%20to%20high%2Dgrowth%20roles,to%20align%20their%20studies%20with%20career%20goals.",
+                            "snippet": "Jul 9, 2025 \u2014 Math degrees can lead to high-growth roles like actuary, statistician, data scientist, and financial analyst, with proj...",
+                            "source": "Affordable Colleges Online",
+                            "index": 2
+                        },
+                        {
+                            "title": "Mathematicians | My Future",
+                            "link": "https://myfuture.com/occupations-industries/occupations/mathematicians/#:~:text=What%20is%20the%20job%20outlook,on%20average%2C%20over%20the%20decade.",
+                            "snippet": "What is the job outlook? Overall employment of mathematicians and statisticians is projected to grow 11 percent from 2023 to 2033,",
+                            "source": "myfuture.com",
+                            "index": 3
+                        },
+                        {
+                            "title": "29 Jobs You Can Do With a Mathematics Degree | FAQs",
+                            "link": "https://mwcc.edu/blog/mathematics-faqs/#:~:text=Typical%20Mathematics%20Careers,Data%20scientist",
+                            "snippet": "Oct 27, 2023 \u2014 Typical Mathematics Careers A mathematics degree opens up many opportunities for graduates across different industries...",
+                            "source": "Mount Wachusett Community College",
+                            "index": 4
+                        },
+                        {
+                            "title": "What Can You Do With a Math Degree? 8 In-Demand Jobs - Coursera",
+                            "link": "https://www.coursera.org/articles/what-can-you-do-with-a-math-degree#:~:text=With%20a%20math%20degree%2C%20you%20can%20choose%20from%20many%20different,Research",
+                            "snippet": "Nov 1, 2024 \u2014 With a math degree, you can choose from many different industries to pursue a career, such as engineering, education, f...",
+                            "source": "Coursera",
+                            "index": 5
+                        },
+                        {
+                            "title": "What Do Mathematicians Do? - Working Areas and Responsibilities",
+                            "link": "https://lead-academy.org/blog/what-does-a-mathematician-do/#:~:text=A%20mathematician%20can%20work%20in,mathematics%20at%20universities%20and%20colleges.",
+                            "snippet": "A mathematician can work in many different industries, such as finance, healthcare, engineering, manufacturing and technology. The...",
+                            "source": "Lead-Academy.org",
+                            "index": 6
+                        },
+                        {
+                            "title": "Math and Stats Careers: Finding Your Place in the Workforce",
+                            "link": "https://www.murraystate.edu/academics/CollegesDepartments/CollegeOfScienceEngineeringandTechnology/CollegeOfSciencePrograms/mathStats/whitherwithmath/careersinmathstatslist.aspx",
+                            "snippet": "* Works with large businesses to solve a wide variety of complex mathematical problems. * A variety of degrees complement this ar...",
+                            "source": "Murray State University",
+                            "index": 7
+                        },
+                        {
+                            "title": "Careers and your future in Mathematics",
+                            "link": "https://www.brunel.ac.uk/mathematics/why-study-mathematics-at-brunel/careers-and-your-future#:~:text=Technology%20and%20IT:%20with%20a%20solid%20foundation,are%20assets%20in%20the%20ever%2Devolving%20tech%20industry.",
+                            "snippet": "Technology and IT: with a solid foundation in mathematics, you can excel in technology-related careers such as software developmen...",
+                            "source": "Brunel University",
+                            "index": 8
+                        },
+                        {
+                            "title": "Career Paths for BSc (Hons) Mathematics Graduates",
+                            "link": "https://www.krmangalam.edu.in/career-paths-for-bsc-hons-mathematics-graduates/#:~:text=Software%20Development%20and%20Engineering:%20Mathematics%20graduates%20can,valuable%20for%20developing%20algorithms%20and%20mathematical%20models.",
+                            "snippet": "Aug 2, 2023 \u2014 Software Development and Engineering: Mathematics graduates can pursue careers in software development and engineering,",
+                            "source": "K.R. Mangalam University",
+                            "index": 9
+                        },
+                        {
+                            "title": "Mathematics for Engineering Specialization",
+                            "link": "https://www.coursera.org/specializations/bits-mathematics-for-engineering-specialization#:~:text=It%20(%20This%20Specialization%20)%20's%20important,enhance%20your%20problem%2Dsolving%20capabilities%20and%20career%20prospects.",
+                            "snippet": "It ( This Specialization ) 's important because strong mathematical skills are consistently cited as critical requirements for tec...",
+                            "source": "Coursera",
+                            "index": 10
+                        },
+                        {
+                            "title": "Engineering Mathematics: Everything You Need to Know When Assessing Engineering Mathematics Skills",
+                            "link": "https://www.alooba.com/skills/concepts/engineering-mathematics-401/#:~:text=These%20topics%20and%20subtopics%20form%20the%20foundation,contribute%20significantly%20to%20the%20field%20of%20engineering.",
+                            "snippet": "These topics and subtopics form the foundation of engineering mathematics, providing the necessary tools for engineers to analyze ...",
+                            "source": "Alooba",
+                            "index": 11
+                        }
+                    ]
+                }
+            },
+            {
+                "text": "Fields",
+                "subtitle": "What Are The Different Fields Of Mathematics That Mathematicians Work In?",
+                "search_link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=what+are+the+different+fields+of+mathematics+that+mathematicians+work+in&sa=X&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQrooIegQIHRAq",
+                "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=what+are+the+different+fields+of+mathematics+that+mathematicians+work+in",
+                "ai_overview": {
+                    "text_blocks": [
+                        {
+                            "type": "paragraph",
+                            "snippet": "Mathematicians work in various fields including Algebra, Number Theory, Geometry, Analysis, Logic, Combinatorics, Probability, Statistics, Operations Research, and Theoretical Computer Science. They apply these mathematical principles and techniques to diverse areas like finance, actuarial science, physics, computer science, and operations research to solve complex problems, design new technologies, and model real-world phenomena.",
+                            "snippet_highlighted_words": [
+                                "Algebra, Number Theory, Geometry, Analysis, Logic, Combinatorics, Probability, Statistics, Operations Research, and Theoretical Computer Science"
+                            ],
+                            "reference_indexes": [
+                                0,
+                                2,
+                                5,
+                                6
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "snippet": "Here are some of the different fields:"
+                        },
+                        {
+                            "type": "paragraph",
+                            "snippet": "Pure Mathematics"
+                        },
+                        {
+                            "type": "heading",
+                            "snippet": "These fields focus on developing mathematical theory and concepts:",
+                            "reference_indexes": [
+                                0,
+                                9,
+                                10
+                            ]
+                        },
+                        {
+                            "type": "list",
+                            "list": [
+                                {
+                                    "snippet": "Algebra: Deals with the abstract properties of number systems, polynomials, and other mathematical structures.",
+                                    "reference_indexes": [
+                                        0
+                                    ]
+                                },
+                                {
+                                    "snippet": "Number Theory: Focuses on the properties of integers, including prime numbers.",
+                                    "reference_indexes": [
+                                        0
+                                    ]
+                                },
+                                {
+                                    "snippet": "Geometry: Explores mathematical spaces, their transformations, and properties.",
+                                    "reference_indexes": [
+                                        0
+                                    ]
+                                },
+                                {
+                                    "snippet": "Analysis: Involves concepts like partial differential equations, dynamic systems, and extending calculus.",
+                                    "reference_indexes": [
+                                        0,
+                                        4
+                                    ]
+                                },
+                                {
+                                    "snippet": "Logic: Studies the foundations of mathematics and mathematical reasoning.",
+                                    "reference_indexes": [
+                                        0
+                                    ]
+                                },
+                                {
+                                    "snippet": "Combinatorics: Focuses on counting discrete objects and structures.",
+                                    "reference_indexes": [
+                                        0
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "snippet": "Applied Mathematics & Related Fields"
+                        },
+                        {
+                            "type": "heading",
+                            "snippet": "These fields use mathematical methods to solve problems in science, industry, and other areas:",
+                            "reference_indexes": [
+                                7,
+                                9
+                            ]
+                        },
+                        {
+                            "type": "list",
+                            "list": [
+                                {
+                                    "snippet": "Statistics: Involves the collection, analysis, interpretation, and presentation of quantitative data.",
+                                    "reference_indexes": [
+                                        6,
+                                        8
+                                    ]
+                                },
+                                {
+                                    "snippet": "Operations Research: Uses advanced mathematical analysis to solve complex problems and improve decision-making in organizations.",
+                                    "reference_indexes": [
+                                        2,
+                                        7
+                                    ]
+                                },
+                                {
+                                    "snippet": "Theoretical Computer Science: Examines the logical foundations of computation and complexity.",
+                                    "reference_indexes": [
+                                        0
+                                    ]
+                                },
+                                {
+                                    "snippet": "Probability: Models and analyzes phenomena that are random or unpredictable.",
+                                    "reference_indexes": [
+                                        0
+                                    ]
+                                },
+                                {
+                                    "snippet": "Actuarial Science: Applies mathematical and statistical methods to assess and manage risk, often in the insurance and financial industries.",
+                                    "reference_indexes": [
+                                        6
+                                    ]
+                                },
+                                {
+                                    "snippet": "Mathematical Finance: Develops and applies mathematical models to financial markets.",
+                                    "reference_indexes": [
+                                        3,
+                                        11,
+                                        12,
+                                        13
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "snippet": "Applications of Mathematics"
+                        },
+                        {
+                            "type": "heading",
+                            "snippet": "Mathematicians apply their skills in numerous sectors, such as:",
+                            "reference_indexes": [
+                                7
+                            ]
+                        },
+                        {
+                            "type": "list",
+                            "list": [
+                                {
+                                    "snippet": "Government: In areas like national security, defense, and public service.",
+                                    "reference_indexes": [
+                                        5,
+                                        7,
+                                        9
+                                    ]
+                                },
+                                {
+                                    "snippet": "Business and Finance: For roles like financial analysts, market research analysts, and actuaries.",
+                                    "reference_indexes": [
+                                        2,
+                                        6
+                                    ]
+                                },
+                                {
+                                    "snippet": "Technology: As data scientists, computer programmers, and software developers.",
+                                    "reference_indexes": [
+                                        1
+                                    ]
+                                },
+                                {
+                                    "snippet": "Healthcare: In medical research and developing tools for diagnosis.",
+                                    "reference_indexes": [
+                                        1,
+                                        5
+                                    ]
+                                },
+                                {
+                                    "snippet": "Science: For modeling in physics, atmospheric conditions, and other scientific domains.",
+                                    "reference_indexes": [
+                                        2,
+                                        5
+                                    ]
+                                },
+                                {
+                                    "snippet": "Academia: For teaching and research at universities and research institutions.",
+                                    "reference_indexes": [
+                                        9
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "references": [
+                        {
+                            "title": "What are all the general fields of math? - Reddit",
+                            "link": "https://www.reddit.com/r/math/comments/l273hi/what_are_all_the_general_fields_of_math/",
+                            "snippet": "Jan 21, 2021 \u2014 The Princeton Companion to Mathematics identifies 10 major branches: * Algebra , which may or may not be what you mea...",
+                            "source": "Reddit",
+                            "index": 0
+                        },
+                        {
+                            "title": "10 In-Demand Math Careers",
+                            "link": "https://graduate.northeastern.edu/knowledge-hub/best-math-careers/#:~:text=Industry%20roles%20vary%20greatly%2C%20and,career%20in%20the%20healthcare%20industry.",
+                            "snippet": "Industry roles vary greatly, and the opportunities are endless based on your interests. People with an advanced degree in mathemat...",
+                            "source": "Northeastern University Graduate Programs",
+                            "index": 1
+                        },
+                        {
+                            "title": "Mathematicians and Statisticians - U.S. Bureau of Labor Statistics",
+                            "link": "https://www.bls.gov/ooh/math/mathematicians-and-statisticians.htm",
+                            "source": "Bureau of Labor Statistics (.gov)",
+                            "index": 2
+                        },
+                        {
+                            "title": "29 Jobs You Can Do With a Mathematics Degree | FAQs",
+                            "link": "https://mwcc.edu/blog/mathematics-faqs/#:~:text=Master's%20degree:%20A%20master's%20is,they%20come%20with%20high%20specializations.",
+                            "snippet": "Oct 27, 2023 \u2014 Master's degree: A master's is a post-graduate degree covering advanced study and research over one to two years. Stud...",
+                            "source": "Mount Wachusett Community College",
+                            "index": 3
+                        },
+                        {
+                            "title": "10 High-Paying Careers For Math Majors - Affordable Colleges Online",
+                            "link": "https://www.affordablecollegesonline.org/college-resource-center/math-degree-best-careers/#:~:text=Differential%20Equations%20and%20Dynamical%20Systems,to%20analyze%20diverse%20mathematical%20models.",
+                            "snippet": "Jul 9, 2025 \u2014 Differential Equations and Dynamical Systems This specialization covers topics such as perturbation theory and averagin...",
+                            "source": "Affordable Colleges Online",
+                            "index": 4
+                        },
+                        {
+                            "title": "Mathematics-Related Professions - UC Davis Math",
+                            "link": "https://www.math.ucdavis.edu/~kouba/MathJobs.html#:~:text=research%20scientist%2D%2D%20model%20atmospheric,of%20complicated%20theoretical%20legal%20concepts",
+                            "snippet": "research scientist-- model atmospheric conditions to gain insight into the effect of changing emissions from cars, trucks, power p...",
+                            "source": "UC Davis Math",
+                            "index": 5
+                        },
+                        {
+                            "title": "Careers Fields of Study: All What can you do with a math degree ... - MTSU",
+                            "link": "https://w1.mtsu.edu/faculty/wding/CareerArticleJMC.pdf",
+                            "snippet": "Actuarial Mathematics. An actuary is a risk management professional who helps to design insurance plans, including recommending pr...",
+                            "source": "MTSU",
+                            "index": 6
+                        },
+                        {
+                            "title": "What Can I Do With a Major In Mathematics? - UGA Career Center",
+                            "link": "https://career.uga.edu/wcidwami/mathematics#:~:text=Market%20research%20analysts%20study%20market,Statistician",
+                            "snippet": "Market research analysts study market conditions in local, regional, or national areas to examine potential sales of a product or ...",
+                            "source": "UGA Career Center",
+                            "index": 7
+                        },
+                        {
+                            "title": "What Can You Do With a Mathematics Degree? - Top Universities",
+                            "link": "https://www.topuniversities.com/student-info/careers-advice/what-can-you-do-mathematics-degree#:~:text=to%20non%2Dspecialists.-,Statistician%20careers,solid%20communication%20and%20IT%20skills.",
+                            "snippet": "Jul 25, 2024 \u2014 Statistician careers Statisticians are specialists in statistics \u2013the collation, analysis, interpretation and presenta...",
+                            "source": "Top Universities",
+                            "index": 8
+                        },
+                        {
+                            "title": "Careers in mathematics | EBSCO Research Starters",
+                            "link": "https://www.ebsco.com/research-starters/mathematics/careers-mathematics#:~:text=Even%20areas%20that%20are%20traditionally,education%2C%20applied%20mathematics%2C%20or%20statistics",
+                            "snippet": "Even areas that are traditionally viewed as pure mathematics such as combinatorics, number theory, topology, algebraic and differe...",
+                            "source": "EBSCO",
+                            "index": 9
+                        },
+                        {
+                            "title": "What Can I Do with a Math Major?",
+                            "link": "https://cas.umw.edu/math/what-can-i-do-with-a-math-major/#:~:text=General%20Description%20Mathematicians%20study%20concepts%20and%20theories,basic%20knowledge%20are%20classified%20as%20theoretical%20mathematicians.",
+                            "snippet": "General Description Mathematicians study concepts and theories used to solve problems involving quantitative and qualitative relat...",
+                            "source": "University of Mary Washington",
+                            "index": 10
+                        },
+                        {
+                            "title": "Financial Mathematics: Definition and Real-World Applications",
+                            "link": "https://www.indeed.com/career-advice/career-development/financial-mathematics#:~:text=Financial%20Mathematics:%20Definition%20and%20Real%2DWorld%20Applications%20Financial,financial%20problems%2C%20market%20modeling%20and%20data%20analysis.",
+                            "snippet": "Jul 24, 2025 \u2014 Financial Mathematics: Definition and Real-World Applications Financial mathematics focuses on applying mathematical f...",
+                            "source": "Indeed",
+                            "index": 11
+                        },
+                        {
+                            "title": "Best Mathematical Finance Courses & Certificates [2025]",
+                            "link": "https://www.coursera.org/courses?query=mathematical%20finance#:~:text=Mathematical%20finance%20is%20a%20growing%20field%20that,of%20theories%20and%20principles%20developed%20by%20economists.",
+                            "snippet": "Mathematical finance is a growing field that seeks to apply mathematical modeling and formulas to create financial pricing structu...",
+                            "source": "Coursera",
+                            "index": 12
+                        },
+                        {
+                            "title": "Mathematical Finance: Models & Strategies",
+                            "link": "https://www.studysmarter.co.uk/explanations/math/applied-mathematics/mathematical-finance/#:~:text=Understanding%20the%20Basics%20of%20Mathematical%20Finance%20At,trends%2C%20valuing%20assets%2C%20and%20managing%20financial%20risks.",
+                            "snippet": "Mar 20, 2024 \u2014 Understanding the Basics of Mathematical Finance At the core of mathematical finance are various mathematical models a...",
+                            "source": "StudySmarter UK",
+                            "index": 13
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=mathematicians&num=50&sca_esv=cbb70bed2ede2303&ei=cXa4aL60NoGEwbkP85OTGA&start=50&sa=N&sstk=Ac65TH5fugaMMPsZOi-5jrbt3AEBt8S56RwNmVMJXNs6URpoHyCrcARRRjE8_KkOWZFFLXNL55lBqZvV2lVxE-yVeUejAOktvRri5g&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQ8NMDegQICRAK",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=mathematicians&num=50&sca_esv=cbb70bed2ede2303&ei=cXa4aL60NoGEwbkP85OTGA&start=50&sa=N&sstk=Ac65TH5fugaMMPsZOi-5jrbt3AEBt8S56RwNmVMJXNs6URpoHyCrcARRRjE8_KkOWZFFLXNL55lBqZvV2lVxE-yVeUejAOktvRri5g&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQ8tMDegQICRAE",
+            "3": "https://www.google.com/search?q=mathematicians&num=50&sca_esv=cbb70bed2ede2303&ei=cXa4aL60NoGEwbkP85OTGA&start=100&sa=N&sstk=Ac65TH5fugaMMPsZOi-5jrbt3AEBt8S56RwNmVMJXNs6URpoHyCrcARRRjE8_KkOWZFFLXNL55lBqZvV2lVxE-yVeUejAOktvRri5g&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQ8tMDegQICRAG",
+            "4": "https://www.google.com/search?q=mathematicians&num=50&sca_esv=cbb70bed2ede2303&ei=cXa4aL60NoGEwbkP85OTGA&start=150&sa=N&sstk=Ac65TH5fugaMMPsZOi-5jrbt3AEBt8S56RwNmVMJXNs6URpoHyCrcARRRjE8_KkOWZFFLXNL55lBqZvV2lVxE-yVeUejAOktvRri5g&ved=2ahUKEwj-sM3qir2PAxUBQjABHfPJBAMQ8tMDegQICRAI"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=mathematicians&start=50",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=mathematicians&start=50",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=mathematicians&start=50",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=mathematicians&start=100",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=mathematicians&start=150"
+        }
+    }
+}

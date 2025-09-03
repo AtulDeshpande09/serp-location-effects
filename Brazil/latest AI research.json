@@ -1,0 +1,1004 @@
+{
+    "search_metadata": {
+        "id": "68b876c6d2d7405288e0ce97",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/c0595386fe48d913/68b876c6d2d7405288e0ce97.json",
+        "pixel_position_endpoint": "https://serpapi.com/searches/c0595386fe48d913/68b876c6d2d7405288e0ce97.json_with_pixel_position",
+        "created_at": "2025-09-03 17:11:34 UTC",
+        "processed_at": "2025-09-03 17:11:34 UTC",
+        "google_url": "https://www.google.com/search?q=latest+AI+research&oq=latest+AI+research&uule=w+CAIQICIGQnJhemls&num=50&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/c0595386fe48d913/68b876c6d2d7405288e0ce97.html",
+        "total_time_taken": 1.43
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "latest AI research",
+        "location_requested": "Brazil",
+        "location_used": "Brazil",
+        "google_domain": "google.com",
+        "num": "50",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "latest AI research",
+        "total_results": 1380000000,
+        "time_taken_displayed": 0.4,
+        "organic_results_state": "Results for exact spelling"
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "AI Researchers SHOCKING New Social Deception ...",
+            "link": "https://www.youtube.com/watch?v=q29RU1B0XUg",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxe4TLWHdZpmw5kK40n3Fc-FA-AdyNxgU2kMQIWcYDk9wfYVFAWCEIXcV7B5D7&s&ec=73086137",
+            "channel": "Wes Roth",
+            "duration": "16:41",
+            "platform": "YouTube"
+        },
+        {
+            "position": 2,
+            "title": "Apple AI Researcher for Robotics Joins Meta in Latest Exit",
+            "link": "https://www.youtube.com/watch?v=LWlb1b-bJAs",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPx7l3hvqFKzQM0ekrR-WnxhKpdGf-tyB5pQfmuSDmJ1MHRf0rQtBMyQQfvUUD&s&ec=73086137",
+            "channel": "Bloomberg Podcasts",
+            "duration": "3:40",
+            "platform": "YouTube"
+        },
+        {
+            "position": 3,
+            "title": "AI News : GPT-=5 Discovers New Math, AI Race Over? Meta ...",
+            "link": "https://www.youtube.com/watch?v=YHnOkLSXGdE",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQXQRMoILNmXNJyMMGkAbY5dngdHOK2Q4TU9IeEMhej0AVTPsOrTE8KJqbgvhn&s&ec=73086137",
+            "channel": "TheAIGRID",
+            "duration": "33:20",
+            "platform": "YouTube"
+        },
+        {
+            "position": 4,
+            "title": "MIT Viral Study DEBUNKED",
+            "link": "https://www.youtube.com/watch?v=X6O21jbRcN4&vl=en",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Se-e7czMC8W8X-VgT1_FLbFp4WSeabQi6vPbvSN9lbNQQEKr3eEmRmhF1fid&s&ec=73086137",
+            "channel": "Wes Roth",
+            "duration": "17:53",
+            "platform": "YouTube"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "What is the newest technology in AI?",
+            "type": "featured_snippet",
+            "title": "Latest Trends in Artificial Intelligence",
+            "link": "https://in.element14.com/latest-trends-in-artificial-intelligence",
+            "list": [
+                "Intelligent Process Automation. ... ",
+                "A Shift Toward Cybersecurity. ... ",
+                "AI for Personalised Services. ... ",
+                "Automated AI Development. ... ",
+                "Autonomous Vehicles. ... ",
+                "Incorporating Facial Recognition. ... ",
+                "Convergence of IoT and AI. ... ",
+                "AI in Healthcare."
+            ],
+            "displayed_link": "https://in.element14.com \u203a latest-trends-in-artificial-intelli...",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsTj_zhZh2ZlB1meIl3is75Gj64pVE79py36Rz7j_E&s",
+            "source_logo": "https://serpapi.com/searches/68b876c6d2d7405288e0ce97/images/34007368d26174507fc6f72093b6693a5fc8ca06f4ccfafab26fb7b41598f287.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRmFHZFlOazFST1hoWVRrWTViRlJ2YWpZMmVEYzFPRlpWWldoTmRUZDRkRXR0WlROcWFITkNPV1Z3VnpGM1pYQjZaSFUxYm1OMVFqbE9Yekk1WW5sT1MwTlJPRGRLTFc1VWF6WXlTRzgzUVVKUlkzVnBVMDlNVEZaUFp4SVhlRE5oTkdGTWJucEJZMWRzY1hSelVIbHdabFF5UVZFYUlrRkdUVUZIUjNKclFWaEdiSEJ5VVdKTFJIaHNhelpTZDNoRlgyVmpRMHN0T1VFIiwiZmN2IjoiMyIsImVpIjoieDNhNGFMbnpBY1dscXRzUHlwZlQyQVEiLCJxYyI6IkNoSnNZWFJsYzNRZ1lXa2djbVZ6WldGeVkyZ1FBSDN1ZkI4XyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgbmV3ZXN0IHRlY2hub2xvZ3kgaW4gQUk/IiwibGsiOiJHaU4zYUdGMElHbHpJSFJvWlNCdVpYZGxjM1FnZEdWamFHNXZiRzluZVNCcGJpQmhhUSIsImJzIjoiYzRXT3VRb0NNUlJGc1UxbEdWSTlOM0JwSkdBZExMV3lFOFRDT0Q0bjBUaVJUTVlnLUVmaVhfaFhOa1lMY2NYLW5ITXZHWkg2V0VrUE9nZXZFRElNbUh2d21Lak1HcHZ1UVdmUUh3aDZGcnpCYXVFZktqV1prdlp6Y1dNanRMVUIzYkl3TVFWTDY4QmhqdElsU3RETGdYZFlLX3dVcEg0UnlJUzA3dldnallFNTNvMFluVHVVYTYtY0xWSjEtOEc3dkNmb2NjWGJyQm5lLWRqOHhwTWhxWHc4bDR1ZHpCSmMzRWIyNkFVOXpYaVZ3Y2ZoQnhmamtTdVhyZyIsImlkIjoiZmNfeDNhNGFMbnpBY1dscXRzUHlwZlQyQVFfNiJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRmFHZFlOazFST1hoWVRrWTViRlJ2YWpZMmVEYzFPRlpWWldoTmRUZDRkRXR0WlROcWFITkNPV1Z3VnpGM1pYQjZaSFUxYm1OMVFqbE9Yekk1WW5sT1MwTlJPRGRLTFc1VWF6WXlTRzgzUVVKUlkzVnBVMDlNVEZaUFp4SVhlRE5oTkdGTWJucEJZMWRzY1hSelVIbHdabFF5UVZFYUlrRkdUVUZIUjNKclFWaEdiSEJ5VVdKTFJIaHNhelpTZDNoRlgyVmpRMHN0T1VFIiwiZmN2IjoiMyIsImVpIjoieDNhNGFMbnpBY1dscXRzUHlwZlQyQVEiLCJxYyI6IkNoSnNZWFJsYzNRZ1lXa2djbVZ6WldGeVkyZ1FBSDN1ZkI4XyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgbmV3ZXN0IHRlY2hub2xvZ3kgaW4gQUk%2FIiwibGsiOiJHaU4zYUdGMElHbHpJSFJvWlNCdVpYZGxjM1FnZEdWamFHNXZiRzluZVNCcGJpQmhhUSIsImJzIjoiYzRXT3VRb0NNUlJGc1UxbEdWSTlOM0JwSkdBZExMV3lFOFRDT0Q0bjBUaVJUTVlnLUVmaVhfaFhOa1lMY2NYLW5ITXZHWkg2V0VrUE9nZXZFRElNbUh2d21Lak1HcHZ1UVdmUUh3aDZGcnpCYXVFZktqV1prdlp6Y1dNanRMVUIzYkl3TVFWTDY4QmhqdElsU3RETGdYZFlLX3dVcEg0UnlJUzA3dldnallFNTNvMFluVHVVYTYtY0xWSjEtOEc3dkNmb2NjWGJyQm5lLWRqOHhwTWhxWHc4bDR1ZHpCSmMzRWIyNkFVOXpYaVZ3Y2ZoQnhmamtTdVhyZyIsImlkIjoiZmNfeDNhNGFMbnpBY1dscXRzUHlwZlQyQVFfNiJ9"
+        },
+        {
+            "question": "What is the most powerful AI for research?",
+            "type": "featured_snippet",
+            "snippet": "Best AI Data Analysis Tools",
+            "table": [
+                [
+                    "Tool",
+                    "Features",
+                    "Best For"
+                ],
+                [
+                    "NVivo",
+                    "Qualitative data analysis, text analysis",
+                    "Qualitative researchers, interview analysis"
+                ],
+                [
+                    "Google AutoML",
+                    "Machine learning model builder",
+                    "Business and research AI applications"
+                ],
+                [
+                    "R",
+                    "Open-source statistical computing",
+                    "Advanced statistical analysis"
+                ]
+            ],
+            "formatted": [
+                {
+                    "tool": "NVivo",
+                    "features": "Qualitative data analysis, text analysis",
+                    "best_for": "Qualitative researchers, interview analysis"
+                },
+                {
+                    "tool": "Google AutoML",
+                    "features": "Machine learning model builder",
+                    "best_for": "Business and research AI applications"
+                },
+                {
+                    "tool": "R",
+                    "features": "Open-source statistical computing",
+                    "best_for": "Advanced statistical analysis"
+                }
+            ],
+            "title": "Best AI Research Tools for Academics and Researchers - Litmaps",
+            "link": "https://www.litmaps.com/learn/best-ai-research-tools",
+            "displayed_link": "https://www.litmaps.com \u203a learn \u203a best-ai-research-tools",
+            "source_logo": "https://serpapi.com/searches/68b876c6d2d7405288e0ce97/images/34007368d26174507fc6f72093b6693a51f3cf09c8439e621ad72b0e37e07a17.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRmFHZFlOazFST1hoWVRrWTViRlJ2YWpZMmVEYzFPRlpWWldoTmRUZDRkRXR0WlROcWFITkNPV1Z3VnpGM1pYQjZaSFUxYm1OMVFqbE9Yekk1WW5sT1MwTlJPRGRLTFc1VWF6WXlTRzgzUVVKUlkzVnBVMDlNVEZaUFp4SVhlRE5oTkdGTWJucEJZMWRzY1hSelVIbHdabFF5UVZFYUlrRkdUVUZIUjNKclFWaEdiSEJ5VVdKTFJIaHNhelpTZDNoRlgyVmpRMHN0T1VFIiwiZmN2IjoiMyIsImVpIjoieDNhNGFMbnpBY1dscXRzUHlwZlQyQVEiLCJxYyI6IkNoSnNZWFJsYzNRZ1lXa2djbVZ6WldGeVkyZ1FBSDN1ZkI4XyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgbW9zdCBwb3dlcmZ1bCBBSSBmb3IgcmVzZWFyY2g/IiwibGsiOiJHaWwzYUdGMElHbHpJSFJvWlNCdGIzTjBJSEJ2ZDJWeVpuVnNJR0ZwSUdadmNpQnlaWE5sWVhKamFBIiwiYnMiOiJjNFdPdVFvQ01SUkZzVTFsR1ZJOU4zQnBKR0FkTExXeUU4VENPRDRuMFRpUlRNWWctRWZpWF9oWE5rWUxjY1gtbkhNdkdaSDZXRWtQT2dldkVESU1tSHZ3bUtqTUdwdnVRV2ZRSHdoNkZyekJhdUVmS2pXWmt2WnpjV01qdExVQjNiSXdNUVZMNjhCaGp0SWxTdERMZ1hkWUtfd1VwSDRSeUlTMDd2V2dqWUU1M28wWW5UdVVhNi1jTFZKMS04Rzd2Q2ZvY2NYYnJCbmUtZGo4eHBNaHFYdzhsNHVkekJKYzNFYjI2QVU5elhpVndjZmhCeGZqa1N1WHJnIiwiaWQiOiJmY194M2E0YUxuekFjV2xxdHNQeXBmVDJBUV82In0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRmFHZFlOazFST1hoWVRrWTViRlJ2YWpZMmVEYzFPRlpWWldoTmRUZDRkRXR0WlROcWFITkNPV1Z3VnpGM1pYQjZaSFUxYm1OMVFqbE9Yekk1WW5sT1MwTlJPRGRLTFc1VWF6WXlTRzgzUVVKUlkzVnBVMDlNVEZaUFp4SVhlRE5oTkdGTWJucEJZMWRzY1hSelVIbHdabFF5UVZFYUlrRkdUVUZIUjNKclFWaEdiSEJ5VVdKTFJIaHNhelpTZDNoRlgyVmpRMHN0T1VFIiwiZmN2IjoiMyIsImVpIjoieDNhNGFMbnpBY1dscXRzUHlwZlQyQVEiLCJxYyI6IkNoSnNZWFJsYzNRZ1lXa2djbVZ6WldGeVkyZ1FBSDN1ZkI4XyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgbW9zdCBwb3dlcmZ1bCBBSSBmb3IgcmVzZWFyY2g%2FIiwibGsiOiJHaWwzYUdGMElHbHpJSFJvWlNCdGIzTjBJSEJ2ZDJWeVpuVnNJR0ZwSUdadmNpQnlaWE5sWVhKamFBIiwiYnMiOiJjNFdPdVFvQ01SUkZzVTFsR1ZJOU4zQnBKR0FkTExXeUU4VENPRDRuMFRpUlRNWWctRWZpWF9oWE5rWUxjY1gtbkhNdkdaSDZXRWtQT2dldkVESU1tSHZ3bUtqTUdwdnVRV2ZRSHdoNkZyekJhdUVmS2pXWmt2WnpjV01qdExVQjNiSXdNUVZMNjhCaGp0SWxTdERMZ1hkWUtfd1VwSDRSeUlTMDd2V2dqWUU1M28wWW5UdVVhNi1jTFZKMS04Rzd2Q2ZvY2NYYnJCbmUtZGo4eHBNaHFYdzhsNHVkekJKYzNFYjI2QVU5elhpVndjZmhCeGZqa1N1WHJnIiwiaWQiOiJmY194M2E0YUxuekFjV2xxdHNQeXBmVDJBUV82In0%3D"
+        },
+        {
+            "question": "What will be the AI breakthrough in 2025?",
+            "type": "featured_snippet",
+            "snippet": "Future Predictions of AI AI-driven personalization is set to reach new heights by 2025. As algorithms become more sophisticated, they will seamlessly understand individual user preferences and behavior, leading to highly tailored experiences across various platforms.",
+            "title": "The Future Prediction of AI by 2025 - Hul Hub",
+            "link": "https://www.hulhub.com/future-prediction-of-ai#:~:text=Future%20Predictions%20of%20AI&text=AI%2Ddriven%20personalization%20is%20set,tailored%20experiences%20across%20various%20platforms.",
+            "displayed_link": "https://www.hulhub.com \u203a future-prediction-of-ai",
+            "source_logo": "https://serpapi.com/searches/68b876c6d2d7405288e0ce97/images/34007368d26174507fc6f72093b6693a7bd4164fe328748c0a1cb81baa0ae2bd.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRmFHZFlOazFST1hoWVRrWTViRlJ2YWpZMmVEYzFPRlpWWldoTmRUZDRkRXR0WlROcWFITkNPV1Z3VnpGM1pYQjZaSFUxYm1OMVFqbE9Yekk1WW5sT1MwTlJPRGRLTFc1VWF6WXlTRzgzUVVKUlkzVnBVMDlNVEZaUFp4SVhlRE5oTkdGTWJucEJZMWRzY1hSelVIbHdabFF5UVZFYUlrRkdUVUZIUjNKclFWaEdiSEJ5VVdKTFJIaHNhelpTZDNoRlgyVmpRMHN0T1VFIiwiZmN2IjoiMyIsImVpIjoieDNhNGFMbnpBY1dscXRzUHlwZlQyQVEiLCJxYyI6IkNoSnNZWFJsYzNRZ1lXa2djbVZ6WldGeVkyZ1FBSDN1ZkI4XyIsInF1ZXN0aW9uIjoiV2hhdCB3aWxsIGJlIHRoZSBBSSBicmVha3Rocm91Z2ggaW4gMjAyNT8iLCJsayI6IkdpaDNhR0YwSUhkcGJHd2dZbVVnZEdobElHRnBJR0p5WldGcmRHaHliM1ZuYUNCcGJpQXlNREkxIiwiYnMiOiJjNFdPdVFvQ01SUkZzVTFsR1ZJOU4zQnBKR0FkTExXeUU4VENPRDRuMFRpUlRNWWctRWZpWF9oWE5rWUxjY1gtbkhNdkdaSDZXRWtQT2dldkVESU1tSHZ3bUtqTUdwdnVRV2ZRSHdoNkZyekJhdUVmS2pXWmt2WnpjV01qdExVQjNiSXdNUVZMNjhCaGp0SWxTdERMZ1hkWUtfd1VwSDRSeUlTMDd2V2dqWUU1M28wWW5UdVVhNi1jTFZKMS04Rzd2Q2ZvY2NYYnJCbmUtZGo4eHBNaHFYdzhsNHVkekJKYzNFYjI2QVU5elhpVndjZmhCeGZqa1N1WHJnIiwiaWQiOiJmY194M2E0YUxuekFjV2xxdHNQeXBmVDJBUV82In0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRmFHZFlOazFST1hoWVRrWTViRlJ2YWpZMmVEYzFPRlpWWldoTmRUZDRkRXR0WlROcWFITkNPV1Z3VnpGM1pYQjZaSFUxYm1OMVFqbE9Yekk1WW5sT1MwTlJPRGRLTFc1VWF6WXlTRzgzUVVKUlkzVnBVMDlNVEZaUFp4SVhlRE5oTkdGTWJucEJZMWRzY1hSelVIbHdabFF5UVZFYUlrRkdUVUZIUjNKclFWaEdiSEJ5VVdKTFJIaHNhelpTZDNoRlgyVmpRMHN0T1VFIiwiZmN2IjoiMyIsImVpIjoieDNhNGFMbnpBY1dscXRzUHlwZlQyQVEiLCJxYyI6IkNoSnNZWFJsYzNRZ1lXa2djbVZ6WldGeVkyZ1FBSDN1ZkI4XyIsInF1ZXN0aW9uIjoiV2hhdCB3aWxsIGJlIHRoZSBBSSBicmVha3Rocm91Z2ggaW4gMjAyNT8iLCJsayI6IkdpaDNhR0YwSUhkcGJHd2dZbVVnZEdobElHRnBJR0p5WldGcmRHaHliM1ZuYUNCcGJpQXlNREkxIiwiYnMiOiJjNFdPdVFvQ01SUkZzVTFsR1ZJOU4zQnBKR0FkTExXeUU4VENPRDRuMFRpUlRNWWctRWZpWF9oWE5rWUxjY1gtbkhNdkdaSDZXRWtQT2dldkVESU1tSHZ3bUtqTUdwdnVRV2ZRSHdoNkZyekJhdUVmS2pXWmt2WnpjV01qdExVQjNiSXdNUVZMNjhCaGp0SWxTdERMZ1hkWUtfd1VwSDRSeUlTMDd2V2dqWUU1M28wWW5UdVVhNi1jTFZKMS04Rzd2Q2ZvY2NYYnJCbmUtZGo4eHBNaHFYdzhsNHVkekJKYzNFYjI2QVU5elhpVndjZmhCeGZqa1N1WHJnIiwiaWQiOiJmY194M2E0YUxuekFjV2xxdHNQeXBmVDJBUV82In0%3D"
+        },
+        {
+            "question": "What is the most advanced AI yet?",
+            "type": "featured_snippet",
+            "snippet": "Sophia is a Robot occupied with the most advanced AI features, including Speech Recognition, Natural Language Processing, Speech Synthesis, Robot Facial expressions, Gesture controls, and Emotion Simulation.",
+            "title": "Top 5 World's Most Advanced AI Systems - Quark Machine Learning",
+            "date": "May 19, 2025",
+            "link": "https://www.quarkml.com/2023/02/top-5-worlds-most-advanced-ai-systems.html#:~:text=Sophia%20is%20a%20Robot%20occupied,Gesture%20controls%2C%20and%20Emotion%20Simulation.",
+            "displayed_link": "https://www.quarkml.com \u203a 2023/02 \u203a top-5-worlds-mos...",
+            "source_logo": "https://serpapi.com/searches/68b876c6d2d7405288e0ce97/images/34007368d26174507fc6f72093b6693a98c2f284591903f8b9b67d36db499986.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRmFHZFlOazFST1hoWVRrWTViRlJ2YWpZMmVEYzFPRlpWWldoTmRUZDRkRXR0WlROcWFITkNPV1Z3VnpGM1pYQjZaSFUxYm1OMVFqbE9Yekk1WW5sT1MwTlJPRGRLTFc1VWF6WXlTRzgzUVVKUlkzVnBVMDlNVEZaUFp4SVhlRE5oTkdGTWJucEJZMWRzY1hSelVIbHdabFF5UVZFYUlrRkdUVUZIUjNKclFWaEdiSEJ5VVdKTFJIaHNhelpTZDNoRlgyVmpRMHN0T1VFIiwiZmN2IjoiMyIsImVpIjoieDNhNGFMbnpBY1dscXRzUHlwZlQyQVEiLCJxYyI6IkNoSnNZWFJsYzNRZ1lXa2djbVZ6WldGeVkyZ1FBSDN1ZkI4XyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgbW9zdCBhZHZhbmNlZCBBSSB5ZXQ/IiwibGsiOiJHaUIzYUdGMElHbHpJSFJvWlNCdGIzTjBJR0ZrZG1GdVkyVmtJR0ZwSUhsbGRBIiwiYnMiOiJjNFdPdVFvQ01SUkZzVTFsR1ZJOU4zQnBKR0FkTExXeUU4VENPRDRuMFRpUlRNWWctRWZpWF9oWE5rWUxjY1gtbkhNdkdaSDZXRWtQT2dldkVESU1tSHZ3bUtqTUdwdnVRV2ZRSHdoNkZyekJhdUVmS2pXWmt2WnpjV01qdExVQjNiSXdNUVZMNjhCaGp0SWxTdERMZ1hkWUtfd1VwSDRSeUlTMDd2V2dqWUU1M28wWW5UdVVhNi1jTFZKMS04Rzd2Q2ZvY2NYYnJCbmUtZGo4eHBNaHFYdzhsNHVkekJKYzNFYjI2QVU5elhpVndjZmhCeGZqa1N1WHJnIiwiaWQiOiJmY194M2E0YUxuekFjV2xxdHNQeXBmVDJBUV82In0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaRmFHZFlOazFST1hoWVRrWTViRlJ2YWpZMmVEYzFPRlpWWldoTmRUZDRkRXR0WlROcWFITkNPV1Z3VnpGM1pYQjZaSFUxYm1OMVFqbE9Yekk1WW5sT1MwTlJPRGRLTFc1VWF6WXlTRzgzUVVKUlkzVnBVMDlNVEZaUFp4SVhlRE5oTkdGTWJucEJZMWRzY1hSelVIbHdabFF5UVZFYUlrRkdUVUZIUjNKclFWaEdiSEJ5VVdKTFJIaHNhelpTZDNoRlgyVmpRMHN0T1VFIiwiZmN2IjoiMyIsImVpIjoieDNhNGFMbnpBY1dscXRzUHlwZlQyQVEiLCJxYyI6IkNoSnNZWFJsYzNRZ1lXa2djbVZ6WldGeVkyZ1FBSDN1ZkI4XyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgbW9zdCBhZHZhbmNlZCBBSSB5ZXQ%2FIiwibGsiOiJHaUIzYUdGMElHbHpJSFJvWlNCdGIzTjBJR0ZrZG1GdVkyVmtJR0ZwSUhsbGRBIiwiYnMiOiJjNFdPdVFvQ01SUkZzVTFsR1ZJOU4zQnBKR0FkTExXeUU4VENPRDRuMFRpUlRNWWctRWZpWF9oWE5rWUxjY1gtbkhNdkdaSDZXRWtQT2dldkVESU1tSHZ3bUtqTUdwdnVRV2ZRSHdoNkZyekJhdUVmS2pXWmt2WnpjV01qdExVQjNiSXdNUVZMNjhCaGp0SWxTdERMZ1hkWUtfd1VwSDRSeUlTMDd2V2dqWUU1M28wWW5UdVVhNi1jTFZKMS04Rzd2Q2ZvY2NYYnJCbmUtZGo4eHBNaHFYdzhsNHVkekJKYzNFYjI2QVU5elhpVndjZmhCeGZqa1N1WHJnIiwiaWQiOiJmY194M2E0YUxuekFjV2xxdHNQeXBmVDJBUV82In0%3D"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Artificial intelligence | MIT News | Massachusetts Institute of ...",
+            "link": "https://news.mit.edu/topic/artificial-intelligence2",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://news.mit.edu/topic/artificial-intelligence2&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQFnoECCAQAQ",
+            "displayed_link": "https://news.mit.edu \u203a topic \u203a artificial-intelligence2",
+            "favicon": "https://serpapi.com/searches/68b876c6d2d7405288e0ce97/images/4318e272750bc6db29a3c1e7b2e70c884cc4e57222b184112feaf84f6c94bee2.png",
+            "snippet": "New research shows the natural variability in climate data can cause AI models to struggle at predicting local temperature and rainfall. August 26, 2025.",
+            "snippet_highlighted_words": [
+                "New research",
+                "AI"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "With AI, researchers predict...",
+                        "link": "https://news.mit.edu/2025/researchers-predict-protein-location-within-human-cell-using-ai-0515"
+                    },
+                    {
+                        "title": "AI learns how vision and...",
+                        "link": "https://news.mit.edu/2025/ai-learns-how-vision-and-sound-are-connected-without-human-intervention-0522"
+                    },
+                    {
+                        "title": "How we really judge AI",
+                        "link": "https://news.mit.edu/2025/how-we-really-judge-ai-0610"
+                    }
+                ]
+            },
+            "source": "Massachusetts Institute of Technology"
+        },
+        {
+            "position": 2,
+            "title": "The Latest AI News and AI Breakthroughs that Matter Most",
+            "link": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.crescendo.ai/news/latest-ai-news-and-updates&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQFnoECBYQAQ",
+            "displayed_link": "https://www.crescendo.ai \u203a news \u203a latest-ai-news-and-u...",
+            "favicon": "https://serpapi.com/searches/68b876c6d2d7405288e0ce97/images/4318e272750bc6db29a3c1e7b2e70c8883f4edb462f36aa95ba8c354c82f2a35.jpeg",
+            "snippet": "AI Breakthrough- AI Boosts Early Detection of Diabetic Eye Disease. Date: July 16, 2025. Summary: New research shows AI can accurately screen for diabetic ...",
+            "snippet_highlighted_words": [
+                "AI Breakthrough- AI Boosts Early Detection of Diabetic Eye Disease"
+            ],
+            "source": "Crescendo.ai"
+        },
+        {
+            "position": 3,
+            "title": "Artificial Intelligence News -- ScienceDaily",
+            "link": "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sciencedaily.com/news/computers_math/artificial_intelligence/&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQFnoECBkQAQ",
+            "displayed_link": "https://www.sciencedaily.com \u203a news \u203a computers_math",
+            "favicon": "https://serpapi.com/searches/68b876c6d2d7405288e0ce97/images/4318e272750bc6db29a3c1e7b2e70c885da46af43f3984106a1c211dae8497d3.png",
+            "snippet": "Artificial Intelligence News. Everything on AI including futuristic robots with artificial intelligence, computer models of human intelligence and more.",
+            "snippet_highlighted_words": [
+                "futuristic robots with artificial intelligence"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "AI at light speed: How glass...",
+                        "link": "https://www.sciencedaily.com/releases/2025/06/250619090855.htm"
+                    },
+                    {
+                        "title": "Could AI understand emotions...",
+                        "link": "https://www.sciencedaily.com/releases/2025/05/250522124755.htm"
+                    }
+                ]
+            },
+            "source": "ScienceDaily"
+        },
+        {
+            "position": 4,
+            "title": "Artificial Intelligence",
+            "link": "https://arxiv.org/list/cs.AI/recent",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://arxiv.org/list/cs.AI/recent&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQFnoECB0QAQ",
+            "displayed_link": "https://arxiv.org \u203a list \u203a cs.AI \u203a recent",
+            "favicon": "https://serpapi.com/searches/68b876c6d2d7405288e0ce97/images/4318e272750bc6db29a3c1e7b2e70c889a11d4f83ba67341b4d9bf42b45b51df.png",
+            "snippet": "Subjects: Artificial Intelligence (cs.AI); Computation and Language (cs.CL); Computer Vision and Pattern Recognition (cs.CV); Human-Computer Interaction (cs ...",
+            "snippet_highlighted_words": [
+                "Artificial Intelligence",
+                "AI"
+            ],
+            "source": "arXiv"
+        },
+        {
+            "position": 5,
+            "title": "AI Research Papers",
+            "link": "https://arize.com/ai-research-papers/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://arize.com/ai-research-papers/&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQFnoECBcQAQ",
+            "displayed_link": "https://arize.com \u203a ai-research-papers",
+            "favicon": "https://serpapi.com/searches/68b876c6d2d7405288e0ce97/images/4318e272750bc6db29a3c1e7b2e70c88e18477ef114e4cf767e96c80e1edd63f.png",
+            "snippet": "Keep up with the latest in AI research. Follow the latest in generative AI research papers and stay ahead of cutting-edge advancements.",
+            "snippet_highlighted_words": [
+                "generative AI research papers"
+            ],
+            "source": "Arize AI"
+        },
+        {
+            "position": 6,
+            "title": "The 2025 AI Index Report | Stanford HAI",
+            "link": "https://hai.stanford.edu/ai-index/2025-ai-index-report",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://hai.stanford.edu/ai-index/2025-ai-index-report&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQFnoECBgQAQ",
+            "displayed_link": "https://hai.stanford.edu \u203a ai-index \u203a 2025-ai-index-report",
+            "favicon": "https://serpapi.com/searches/68b876c6d2d7405288e0ce97/images/4318e272750bc6db29a3c1e7b2e70c88905f62d8597350d1a37394823d395adc.png",
+            "snippet": "Nearly 90% of notable AI models in 2024 came from industry, up from 60% in 2023, while academia remains the top source of highly cited research. Model scale ...",
+            "snippet_highlighted_words": [
+                "AI",
+                "research"
+            ],
+            "source": "Stanford HAI"
+        },
+        {
+            "position": 7,
+            "title": "Google AI - Research",
+            "link": "https://ai.google/research/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ai.google/research/&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQFnoFCJABEAE",
+            "displayed_link": "https://ai.google \u203a research",
+            "favicon": "https://serpapi.com/searches/68b876c6d2d7405288e0ce97/images/4318e272750bc6db29a3c1e7b2e70c888f9f4ee7c92a35e6455d897b1580ef6f.png",
+            "snippet": "Research teams across Google are innovating across domains to positively impact society, with breakthroughs that have helped usher in a new era of AI.",
+            "snippet_highlighted_words": [
+                "Research",
+                "new",
+                "AI"
+            ],
+            "source": "Google AI"
+        },
+        {
+            "position": 8,
+            "title": "Ai2: Truly open breakthrough AI",
+            "link": "https://allenai.org/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://allenai.org/&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQFnoECC8QAQ",
+            "displayed_link": "https://allenai.org",
+            "favicon": "https://serpapi.com/searches/68b876c6d2d7405288e0ce97/images/4318e272750bc6db29a3c1e7b2e70c8861ae62972abed179f53a8d9b251451dc.png",
+            "snippet": "Ai2, founded by Paul Allen and led by Ali Farhadi, conducts high-impact research and engineering to tackle key problems in artificial intelligence.",
+            "snippet_highlighted_words": [
+                "conducts high-impact research and engineering"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Team Directory",
+                        "link": "https://allenai.org/team"
+                    },
+                    {
+                        "title": "Research",
+                        "link": "https://allenai.org/papers"
+                    },
+                    {
+                        "title": "AI for science",
+                        "link": "https://allenai.org/ai-for-science"
+                    },
+                    {
+                        "title": "Research principles",
+                        "link": "https://allenai.org/research-principles"
+                    }
+                ]
+            },
+            "source": "Allen AI"
+        },
+        {
+            "position": 9,
+            "title": "Google DeepMind",
+            "link": "https://deepmind.google/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://deepmind.google/&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQFnoECF0QAQ",
+            "displayed_link": "https://deepmind.google",
+            "favicon": "https://serpapi.com/searches/68b876c6d2d7405288e0ce97/images/4318e272750bc6db29a3c1e7b2e70c88d42176dc27dd39561e5c2b1d884cd323.png",
+            "snippet": "Artificial intelligence could be one of humanity's most useful inventions. We research and build safe artificial intelligence systems.",
+            "snippet_highlighted_words": [
+                "Artificial intelligence",
+                "research",
+                "artificial intelligence"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Publications",
+                        "link": "https://deepmind.google/research/publications/"
+                    },
+                    {
+                        "title": "Research",
+                        "link": "https://deepmind.google/research/"
+                    },
+                    {
+                        "title": "AlphaGenome: AI for better...",
+                        "link": "https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/"
+                    },
+                    {
+                        "title": "AI achieves silver-medal...",
+                        "link": "https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/"
+                    }
+                ]
+            },
+            "source": "Google DeepMind"
+        },
+        {
+            "position": 10,
+            "title": "There are 32 different ways AI can go rogue, scientists say",
+            "link": "https://www.livescience.com/technology/artificial-intelligence/there-are-32-different-ways-ai-can-go-rogue-scientists-say-from-hallucinating-answers-to-a-complete-misalignment-with-humanity",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.livescience.com/technology/artificial-intelligence/there-are-32-different-ways-ai-can-go-rogue-scientists-say-from-hallucinating-answers-to-a-complete-misalignment-with-humanity&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQFnoFCJUBEAE",
+            "displayed_link": "https://www.livescience.com \u203a ... \u203a Artificial Intelligence",
+            "favicon": "https://serpapi.com/searches/68b876c6d2d7405288e0ce97/images/4318e272750bc6db29a3c1e7b2e70c88afa5b4876f0c668296cedc57c839ee85.png",
+            "date": "3 days ago",
+            "snippet": "In new research, the scientists set out to categorize the risks of AI in straying from its intended path, drawing analogies with human ...",
+            "snippet_highlighted_words": [
+                "new research",
+                "AI"
+            ],
+            "source": "Live Science"
+        },
+        {
+            "position": 11,
+            "title": "Journal of Artificial Intelligence Research",
+            "link": "https://www.jair.org/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.jair.org/&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQFnoFCKUBEAE",
+            "displayed_link": "https://www.jair.org",
+            "favicon": "https://serpapi.com/searches/68b876c6d2d7405288e0ce97/images/4318e272750bc6db29a3c1e7b2e70c885cdcfebc840928569d61f907d7d285bf.png",
+            "snippet": "The journal's scope encompasses all areas of AI, including agents and multi-agent systems, automated reasoning, constraint processing and search, knowledge ...",
+            "snippet_highlighted_words": [
+                "AI"
+            ],
+            "source": "Journal of Artificial Intelligence Research"
+        },
+        {
+            "position": 12,
+            "title": "Artificial Intelligence - latest research news and features",
+            "link": "https://techxplore.com/tags/artificial+intelligence/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://techxplore.com/tags/artificial%2Bintelligence/&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQFnoECCoQAQ",
+            "displayed_link": "https://techxplore.com \u203a tags \u203a artificial+intelligence",
+            "favicon": "https://serpapi.com/searches/68b876c6d2d7405288e0ce97/images/4318e272750bc6db29a3c1e7b2e70c8816a18c91b3f8cb14a1e4731685333fb0.png",
+            "snippet": "Get the latest news and updates on artificial intelligence from Tech Xplore. Stay ahead with updates on innovations, research, and breakthroughs.",
+            "snippet_highlighted_words": [
+                "Get the latest news and updates on artificial intelligence"
+            ],
+            "source": "Tech Xplore"
+        },
+        {
+            "position": 13,
+            "title": "Google Research - Explore Our Latest Research in Science ...",
+            "link": "https://research.google/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://research.google/&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQFnoECEQQAQ",
+            "displayed_link": "https://research.google",
+            "favicon": "https://serpapi.com/searches/68b876c6d2d7405288e0ce97/images/4318e272750bc6db29a3c1e7b2e70c8845422a4e8d489acb8452f7370ab1daa4.png",
+            "snippet": "Discover Google Research. We publish research papers across a wide range of domains and share our latest developments in AI and science research.",
+            "snippet_highlighted_words": [
+                "Google Research"
+            ],
+            "source": "Google Research"
+        },
+        {
+            "position": 14,
+            "title": "Artificial Intelligence | NSF - National Science Foundation",
+            "link": "https://www.nsf.gov/focus-areas/ai",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nsf.gov/focus-areas/ai&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQFnoECGgQAQ",
+            "displayed_link": "https://www.nsf.gov \u203a focus-areas \u203a ai",
+            "favicon": "https://serpapi.com/searches/68b876c6d2d7405288e0ce97/images/4318e272750bc6db29a3c1e7b2e70c88b757900d59efa15eeeb0bea8b597fc42.png",
+            "snippet": "We invest in fundamental AI research, accelerate AI-powered discovery across all fields of science and engineering and deepen the understanding of economic ...",
+            "snippet_highlighted_words": [
+                "fundamental AI research"
+            ],
+            "missing": [
+                "latest"
+            ],
+            "must_include": {
+                "word": "latest",
+                "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=%22latest%22+AI+research&sa=X&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQ5t4CegQIbxAB"
+            },
+            "source": "National Science Foundation (.gov)"
+        },
+        {
+            "position": 15,
+            "title": "Research - AI at Meta",
+            "link": "https://ai.meta.com/research/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ai.meta.com/research/&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQFnoECHcQAQ",
+            "displayed_link": "https://ai.meta.com \u203a research",
+            "favicon": "https://serpapi.com/searches/68b876c6d2d7405288e0ce97/images/4318e272750bc6db29a3c1e7b2e70c88e82f82e839ee601463de33d6e836337b.png",
+            "snippet": "Advancing AI through fundamental and applied research. With a decade of experience, the Meta FAIR team aims to achieve advanced machine intelligence (AMI).",
+            "snippet_highlighted_words": [
+                "Advancing AI through fundamental and applied research"
+            ],
+            "source": "AI at Meta"
+        },
+        {
+            "position": 16,
+            "title": "Official Google AI news and updates",
+            "link": "https://blog.google/technology/ai/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://blog.google/technology/ai/&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQFnoFCIwBEAE",
+            "displayed_link": "https://blog.google \u203a technology \u203a ai",
+            "favicon": "https://serpapi.com/searches/68b876c6d2d7405288e0ce97/images/4318e272750bc6db29a3c1e7b2e70c88606220c11be4adf26eec2258368712c6.png",
+            "snippet": "Explore the cutting-edge work Google is doing in AI and machine learning.",
+            "snippet_highlighted_words": [
+                "AI"
+            ],
+            "source": "The Keyword"
+        },
+        {
+            "position": 17,
+            "title": "OpenAI",
+            "link": "https://openai.com/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://openai.com/&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQFnoFCKABEAE",
+            "displayed_link": "https://openai.com",
+            "favicon": "https://serpapi.com/searches/68b876c6d2d7405288e0ce97/images/4318e272750bc6db29a3c1e7b2e70c88a3434d5fa80ceb4a47937ee55305bf4c.png",
+            "snippet": "We believe our research will eventually lead to artificial general intelligence, a system that can solve human-level problems. Building safe and beneficial ...",
+            "snippet_highlighted_words": [
+                "research"
+            ],
+            "source": "OpenAI"
+        },
+        {
+            "position": 18,
+            "title": "AI News | Latest AI News, Analysis & Events",
+            "link": "https://www.artificialintelligence-news.com/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.artificialintelligence-news.com/&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQFnoFCKoBEAE",
+            "displayed_link": "https://www.artificialintelligence-news.com",
+            "favicon": "https://serpapi.com/searches/68b876c6d2d7405288e0ce97/images/4318e272750bc6db29a3c1e7b2e70c88ba7e8c0e1a27c54a6c234e582c6f4cb3.png",
+            "snippet": "AI hacking tool exploits zero-day security vulnerabilities in minutes \u00b7 Meta revises AI chatbot policies amid child safety concerns \u00b7 Microsoft gives free Copilot ...",
+            "snippet_highlighted_words": [
+                "AI hacking tool exploits zero-day security vulnerabilities in minutes"
+            ],
+            "source": "AI News"
+        },
+        {
+            "position": 19,
+            "title": "Research at NVIDIA | Advancing the Latest Technology",
+            "link": "https://www.nvidia.com/en-us/research/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nvidia.com/en-us/research/&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQFnoFCK8BEAE",
+            "displayed_link": "https://www.nvidia.com \u203a en-us \u203a research",
+            "favicon": "https://serpapi.com/searches/68b876c6d2d7405288e0ce97/images/4318e272750bc6db29a3c1e7b2e70c880481948a37fc8b372f94c3fd587d0d1d.png",
+            "snippet": "AI and graphics research breakthroughs in neural rendering, 3D generation and world simulation power robotics, autonomous vehicles and content creation. Read ...",
+            "snippet_highlighted_words": [
+                "AI and graphics research breakthroughs"
+            ],
+            "source": "NVIDIA"
+        },
+        {
+            "position": 20,
+            "title": "AI Index | Stanford HAI",
+            "link": "https://hai.stanford.edu/ai-index",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://hai.stanford.edu/ai-index&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQFnoECCsQAQ",
+            "displayed_link": "https://hai.stanford.edu \u203a ai-index",
+            "favicon": "https://serpapi.com/searches/68b876c6d2d7405288e0ce97/images/4318e272750bc6db29a3c1e7b2e70c888ff5422587ce742daabfbbb264acaa12.png",
+            "snippet": "The AI Index offers one of the most comprehensive, data-driven views of artificial intelligence. Recognized as a trusted resource by global media, governments, ...",
+            "snippet_highlighted_words": [
+                "AI",
+                "artificial intelligence"
+            ],
+            "source": "Stanford University"
+        },
+        {
+            "position": 21,
+            "title": "The State of AI: Global survey",
+            "link": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQFnoECHgQAQ",
+            "displayed_link": "https://www.mckinsey.com \u203a capabilities \u203a our-insights",
+            "favicon": "https://serpapi.com/searches/68b876c6d2d7405288e0ce97/images/4318e272750bc6db29a3c1e7b2e70c88d94288b53f08a3a92e6197ed6ac9decb.jpeg",
+            "date": "Mar 12, 2025",
+            "snippet": "In the latest survey, 78 percent of respondents say their organizations use AI in at least one business function, up from 72 percent ...",
+            "snippet_highlighted_words": [
+                "latest",
+                "AI"
+            ],
+            "source": "McKinsey & Company"
+        },
+        {
+            "position": 22,
+            "title": "AI at Meta Blog",
+            "link": "https://ai.meta.com/blog/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ai.meta.com/blog/&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQFnoECEMQAQ",
+            "displayed_link": "https://ai.meta.com \u203a blog",
+            "favicon": "https://serpapi.com/searches/68b876c6d2d7405288e0ce97/images/4318e272750bc6db29a3c1e7b2e70c88f3c1cc24d7e00e7c4a19572add184cc5.png",
+            "snippet": "Stay up to date on the latest artificial intelligence news from Facebook.",
+            "snippet_highlighted_words": [
+                "latest artificial intelligence"
+            ],
+            "source": "AI at Meta"
+        },
+        {
+            "position": 23,
+            "title": "Artificial Intelligence - AI Research",
+            "link": "https://scienceexchange.caltech.edu/topics/artificial-intelligence-research",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://scienceexchange.caltech.edu/topics/artificial-intelligence-research&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQFnoECFgQAQ",
+            "displayed_link": "https://scienceexchange.caltech.edu \u203a topics \u203a artificial-i...",
+            "favicon": "https://serpapi.com/searches/68b876c6d2d7405288e0ce97/images/4318e272750bc6db29a3c1e7b2e70c886e480bae1400e3b87a70a9cec822518d.png",
+            "snippet": "Artificial intelligence is transforming scientific research as well as everyday life, from communications to transportation to health care and more. Explore ...",
+            "snippet_highlighted_words": [
+                "Artificial intelligence is transforming scientific research"
+            ],
+            "source": "Caltech Science Exchange"
+        },
+        {
+            "position": 24,
+            "title": "Artificial intelligence | MIT News | Massachusetts Institute of ...",
+            "link": "https://news.mit.edu/topic/artificial-intelligence2?type=2",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://news.mit.edu/topic/artificial-intelligence2%3Ftype%3D2&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQFnoECHUQAQ",
+            "displayed_link": "https://news.mit.edu \u203a topic \u203a artificial-intelligence2",
+            "favicon": "https://serpapi.com/searches/68b876c6d2d7405288e0ce97/images/4318e272750bc6db29a3c1e7b2e70c887e3cd8a0d51cb6e039ce20fbe4e68376.png",
+            "snippet": "Using AI, researchers at MIT have developed new antibiotics for gonorrhoea and MRSA, two infections that are typically hard to treat. The team \u201ctrained the AI ...",
+            "snippet_highlighted_words": [
+                "Using AI, researchers at MIT have developed new antibiotics for gonorrhoea and MRSA"
+            ],
+            "source": "MIT News"
+        },
+        {
+            "position": 25,
+            "title": "AI and Microsoft Research",
+            "link": "https://www.microsoft.com/en-us/research/focus-area/ai-and-microsoft-research/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.microsoft.com/en-us/research/focus-area/ai-and-microsoft-research/&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQFnoECHQQAQ",
+            "displayed_link": "https://www.microsoft.com \u203a en-us \u203a research \u203a focus-area",
+            "favicon": "https://serpapi.com/searches/68b876c6d2d7405288e0ce97/images/4318e272750bc6db29a3c1e7b2e70c88783df33948221ce677d38e2b75f6b8c7.png",
+            "snippet": "The latest generation of large-scale AI models is exhibiting surprising emergent capabilities, such as the ability to explain their reasoning, to write code and ...",
+            "snippet_highlighted_words": [
+                "latest",
+                "AI"
+            ],
+            "source": "Microsoft"
+        },
+        {
+            "position": 26,
+            "title": "Research",
+            "link": "https://www.anthropic.com/research",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.anthropic.com/research&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQFnoFCIABEAE",
+            "displayed_link": "https://www.anthropic.com \u203a research",
+            "favicon": "https://serpapi.com/searches/68b876c6d2d7405288e0ce97/images/4318e272750bc6db29a3c1e7b2e70c880d2443a76fc2d8740088963a0c4da12e.png",
+            "snippet": "At Anthropic, we develop large-scale AI systems, and our research teams help us to create safer, steerable, and more reliable models.",
+            "snippet_highlighted_words": [
+                "AI",
+                "research"
+            ],
+            "source": "Anthropic"
+        },
+        {
+            "position": 27,
+            "title": "AI Paper with Code | Research Insights",
+            "link": "https://www.qualcomm.com/research/artificial-intelligence/papers",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.qualcomm.com/research/artificial-intelligence/papers&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQFnoFCIEBEAE",
+            "displayed_link": "https://www.qualcomm.com \u203a research \u203a papers",
+            "favicon": "https://serpapi.com/searches/68b876c6d2d7405288e0ce97/images/4318e272750bc6db29a3c1e7b2e70c88834a9b776a1e115c872a693e08fffc12.png",
+            "snippet": "Access AI paper with code and gain valuable research insights. Check out Qualcomm's cutting-edge advancements today. Explore now.",
+            "snippet_highlighted_words": [
+                "Access AI paper with code"
+            ],
+            "source": "Qualcomm"
+        },
+        {
+            "position": 28,
+            "title": "Latest News from Google Research Blog",
+            "link": "https://research.google/blog/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://research.google/blog/&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQFnoFCJEBEAE",
+            "displayed_link": "https://research.google \u203a blog",
+            "favicon": "https://serpapi.com/searches/68b876c6d2d7405288e0ce97/images/4318e272750bc6db29a3c1e7b2e70c8842c313eae912c15b42d70bfb65d00be9.png",
+            "snippet": "The latest research from Google. Follow us. August 27, 2025. How Google's AI can help transform health professions education.",
+            "snippet_highlighted_words": [
+                "How Google's AI can help transform health professions education"
+            ],
+            "source": "Google Research"
+        },
+        {
+            "position": 29,
+            "title": "Game OVER? New AI Research Stuns AI Community.",
+            "link": "https://www.youtube.com/watch?v=-uL-NUs-YoM",
+            "displayed_link": "44.2K+ views \u00b7 4 months ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyF5dVbevhHSyBwEchGVtHjMmgF-xQSbYMgdTdZ9aQCV_um4LvsYu6c4DJLCvH&s&ec=73086137",
+            "favicon": "https://serpapi.com/searches/68b876c6d2d7405288e0ce97/images/4318e272750bc6db29a3c1e7b2e70c8895893921f034ab6eb34d0d2348ba11ab.png",
+            "snippet": "Reinforcement learning doesn't really teach new skills it only helps the AI guess better faster.",
+            "duration": "15:11",
+            "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRodT-s0dnm44G-mOvKHMDsok0ZeqsDxkz9PA",
+            "source": "YouTube \u00b7 TheAIGRID"
+        },
+        {
+            "position": 30,
+            "title": "AI News & Articles - Artificial Intelligence Updates",
+            "link": "https://spectrum.ieee.org/topic/artificial-intelligence/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://spectrum.ieee.org/topic/artificial-intelligence/&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQFnoFCJMBEAE",
+            "displayed_link": "https://spectrum.ieee.org \u203a topic \u203a artificial-intelligence",
+            "favicon": "https://serpapi.com/searches/68b876c6d2d7405288e0ce97/images/4318e272750bc6db29a3c1e7b2e70c885cc966015772504688d9d1d6532a9f3d.png",
+            "snippet": "The latest advances in artificial intelligence and machine learning, generative AI, ChatGPT, LLMs, deepfakes, and more.",
+            "snippet_highlighted_words": [
+                "The latest advances in artificial intelligence and machine learning"
+            ],
+            "source": "IEEE Spectrum"
+        },
+        {
+            "position": 31,
+            "title": "AI Magazine: Home of AI and Artificial Intelligence News",
+            "link": "https://aimagazine.com/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aimagazine.com/&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQFnoFCJYBEAE",
+            "displayed_link": "https://aimagazine.com",
+            "favicon": "https://serpapi.com/searches/68b876c6d2d7405288e0ce97/images/4318e272750bc6db29a3c1e7b2e70c88873da779ea3e5219b11b387cffb88e59.png",
+            "snippet": "The No.1 Magazine, Website, Newsletter & Webinar service covering AI, Machine Learning, AR & VR, Data, Technology and AI Applications.",
+            "snippet_highlighted_words": [
+                "AI",
+                "AI"
+            ],
+            "source": "AI Magazine"
+        },
+        {
+            "position": 32,
+            "title": "Artificial Intelligence - Latest AI News and Analysis",
+            "link": "https://www.wsj.com/tech/ai?gaa_at=eafs&gaa_n=ASWzDAiwMmJXVKb4nlFwcg1Exm4PSOfAMvlY_44FcdkYOLfPKBHva8K1SOA9&gaa_ts=68b87a4b&gaa_sig=K86cjqr7_ZQVaRG2EdhD5HdeQe_I_-ylilNDhqgljCPrOHk0O7OadiSYdDMcQihnhtD0DX-gfopjqgrW67Cd3A%3D%3D",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.wsj.com/tech/ai%3Fgaa_at%3Deafs%26gaa_n%3DASWzDAiwMmJXVKb4nlFwcg1Exm4PSOfAMvlY_44FcdkYOLfPKBHva8K1SOA9%26gaa_ts%3D68b87a4b%26gaa_sig%3DK86cjqr7_ZQVaRG2EdhD5HdeQe_I_-ylilNDhqgljCPrOHk0O7OadiSYdDMcQihnhtD0DX-gfopjqgrW67Cd3A%253D%253D&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQFnoFCMkBEAE",
+            "displayed_link": "https://www.wsj.com \u203a tech \u203a ai",
+            "favicon": "https://serpapi.com/searches/68b876c6d2d7405288e0ce97/images/4318e272750bc6db29a3c1e7b2e70c880a4d687676853116806bfd8f0929f31f.png",
+            "snippet": "The latest artificial intelligence news coverage focusing on the technology, tools and the companies building AI technology.",
+            "snippet_highlighted_words": [
+                "The latest artificial intelligence news coverage"
+            ],
+            "source": "The Wall Street Journal"
+        },
+        {
+            "position": 33,
+            "title": "Research",
+            "link": "https://openai.com/research/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://openai.com/research/&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQFnoFCKkBEAE",
+            "displayed_link": "https://openai.com \u203a research",
+            "favicon": "https://serpapi.com/searches/68b876c6d2d7405288e0ce97/images/4318e272750bc6db29a3c1e7b2e70c88a2d26af605e74c28c16f9226fa183fdc.png",
+            "snippet": "Our research on applying AI to audio processing and audio generation has led to developments in automatic speech recognition and original musical compositions.",
+            "snippet_highlighted_words": [
+                "research",
+                "AI"
+            ],
+            "source": "OpenAI"
+        },
+        {
+            "position": 34,
+            "title": "Artificial intelligence",
+            "link": "https://www.technologyreview.com/topic/artificial-intelligence/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.technologyreview.com/topic/artificial-intelligence/&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQFnoFCKsBEAE",
+            "displayed_link": "https://www.technologyreview.com \u203a topic \u203a artificial-int...",
+            "favicon": "https://serpapi.com/searches/68b876c6d2d7405288e0ce97/images/4318e272750bc6db29a3c1e7b2e70c8817460dbc98b0b4260bc531678b300e3d.png",
+            "snippet": "James Zou used virtual AI 'scientists' to find novel covid-19 treatments. Now, he's having AI review and present all of the research at a controversial new ...",
+            "snippet_highlighted_words": [
+                "James Zou used virtual AI 'scientists' to find novel covid-19 treatments"
+            ],
+            "source": "MIT Technology Review"
+        },
+        {
+            "position": 35,
+            "title": "Top 25 Artificial Intelligence and Big Data News Publications",
+            "link": "https://www.certainly.io/blog/top-ai-big-data-publications",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.certainly.io/blog/top-ai-big-data-publications&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQFnoFCKwBEAE",
+            "displayed_link": "https://www.certainly.io \u203a blog \u203a top-ai-big-data-public...",
+            "favicon": "https://serpapi.com/searches/68b876c6d2d7405288e0ce97/images/4318e272750bc6db29a3c1e7b2e70c883a13327ee18ad4f8edd3c7135a6454e7.png",
+            "snippet": "We have gathered top tech publications about latest big data trends including Artificial Intelligence, Big Data and Machine Learning, Deep Learning and trends ...",
+            "snippet_highlighted_words": [
+                "latest big data trends"
+            ],
+            "source": "Certainly.io"
+        },
+        {
+            "position": 36,
+            "title": "I just released a big update for my AI research agent ...",
+            "link": "https://www.reddit.com/r/LocalLLaMA/comments/1n6f5xl/i_just_released_a_big_update_for_my_ai_research/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/LocalLLaMA/comments/1n6f5xl/i_just_released_a_big_update_for_my_ai_research/&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQFnoFCLkBEAE",
+            "displayed_link": "50+ comments \u00b7 1 day ago",
+            "favicon": "https://serpapi.com/searches/68b876c6d2d7405288e0ce97/images/4318e272750bc6db29a3c1e7b2e70c88f50de764b062fda4ad8da9bbb382f908.png",
+            "snippet": "I just released a big update for my AI research agent, MAESTRO, with a new docs site showing example reports from Qwen 72B, GPT-OSS 120B, and ...",
+            "snippet_highlighted_words": [
+                "AI research",
+                "new"
+            ],
+            "source": "Reddit \u00b7 r/LocalLLaMA"
+        },
+        {
+            "position": 37,
+            "title": "Artificial Intelligence | Latest News, Photos & Videos",
+            "link": "https://www.wired.com/tag/artificial-intelligence/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.wired.com/tag/artificial-intelligence/&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQFnoECC0QAQ",
+            "displayed_link": "https://www.wired.com \u203a tag \u203a artificial-intelligence",
+            "favicon": "https://serpapi.com/searches/68b876c6d2d7405288e0ce97/images/4318e272750bc6db29a3c1e7b2e70c888d32c665803ba0a0f0ccf0df98c02746.png",
+            "snippet": "Spiritual Influencers Say 'Sentient' AI Can Help You Solve Life's Mysteries. By Webb Wright ; Meet the Guys Betting Big on AI Gambling Agents. By Kate Knibbs.",
+            "snippet_highlighted_words": [
+                "Spiritual Influencers Say 'Sentient' AI Can Help You Solve Life's Mysteries"
+            ],
+            "source": "WIRED"
+        },
+        {
+            "position": 38,
+            "title": "AI is Burning - 5 New Papers",
+            "link": "https://www.youtube.com/watch?v=wzXBXGVbItE&vl=en-US",
+            "displayed_link": "34.2K+ views \u00b7 2 months ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvcooc5SVAkwnvpRA_VGkpc-IHjD_OZH5_vHrKM4Cl8zV94HD5fLq2t8vSevD1&s&ec=73086137",
+            "favicon": "https://serpapi.com/searches/68b876c6d2d7405288e0ce97/images/4318e272750bc6db29a3c1e7b2e70c88ea9bb713b0b735bd00a2a0ec965583ef.png",
+            "snippet": "The current challenges of AI Agents: Logic, Lies and LLMs. I analyze 5 newly published Arxiv AI reports on June 23, 2025. Those new research ...",
+            "duration": "23:17",
+            "key_moments": [
+                {
+                    "time": "04:08",
+                    "title": "The Crisis of Internal Consistency",
+                    "link": "https://www.youtube.com/watch?v=wzXBXGVbItE&vl=en-US&t=248"
+                },
+                {
+                    "time": "11:42",
+                    "title": "Outline Agent",
+                    "link": "https://www.youtube.com/watch?v=wzXBXGVbItE&vl=en-US&t=702"
+                },
+                {
+                    "time": "19:17",
+                    "title": "Self-Consistency Paper",
+                    "link": "https://www.youtube.com/watch?v=wzXBXGVbItE&vl=en-US&t=1157"
+                },
+                {
+                    "time": "20:47",
+                    "title": "The Challenges We Face Today with Llm",
+                    "link": "https://www.youtube.com/watch?v=wzXBXGVbItE&vl=en-US&t=1247"
+                }
+            ],
+            "source": "YouTube \u00b7 Discover AI"
+        },
+        {
+            "position": 39,
+            "title": "Featured Archives - Cornell AI Initiative",
+            "link": "https://ai.cornell.edu/category/featured/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ai.cornell.edu/category/featured/&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQFnoECC4QAQ",
+            "displayed_link": "https://ai.cornell.edu \u203a category \u203a featured",
+            "favicon": "https://serpapi.com/searches/68b876c6d2d7405288e0ce97/images/4318e272750bc6db29a3c1e7b2e70c8830d8cb8b06f0b70b4ee018bebd1dd6b8.png",
+            "snippet": "Cornell Bowers researchers have developed a new AI-powered system that allows robots to learn tasks by watching a single how-to video. https://news.cornell ...",
+            "snippet_highlighted_words": [
+                "Cornell Bowers researchers have developed a new AI-powered system"
+            ],
+            "source": "Cornell AI Initiative"
+        },
+        {
+            "position": 40,
+            "title": "Publications",
+            "link": "https://deepmind.google/research/publications/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://deepmind.google/research/publications/&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQFnoECEEQAQ",
+            "displayed_link": "https://deepmind.google \u203a research \u203a publications",
+            "favicon": "https://serpapi.com/searches/68b876c6d2d7405288e0ce97/images/4318e272750bc6db29a3c1e7b2e70c88402180259f74cfeea9380e6d6570f86d.png",
+            "snippet": "Publications. Explore a selection of our recent research on some of the most complex and interesting challenges in AI. 224 publications.",
+            "snippet_highlighted_words": [
+                "recent research on some of the most complex and interesting challenges in AI"
+            ],
+            "source": "Google DeepMind"
+        },
+        {
+            "position": 41,
+            "title": "Apple Machine Learning Research: Overview",
+            "link": "https://machinelearning.apple.com/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://machinelearning.apple.com/&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQFnoECEIQAQ",
+            "displayed_link": "https://machinelearning.apple.com",
+            "favicon": "https://serpapi.com/searches/68b876c6d2d7405288e0ce97/images/4318e272750bc6db29a3c1e7b2e70c88bc2b855d4459186ef0dde28321aed33b.png",
+            "snippet": "Apple machine learning teams are engaged in state of the art research in machine learning and artificial intelligence. Learn about the latest advancements.",
+            "snippet_highlighted_words": [
+                "research",
+                "artificial intelligence",
+                "latest"
+            ],
+            "source": "Apple Machine Learning Research"
+        },
+        {
+            "position": 42,
+            "title": "FutureTools - The Latest AI and Machine Learning News",
+            "link": "https://www.futuretools.io/news",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.futuretools.io/news&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQFnoECE0QAQ",
+            "displayed_link": "https://www.futuretools.io \u203a news",
+            "favicon": "https://serpapi.com/searches/68b876c6d2d7405288e0ce97/images/4318e272750bc6db29a3c1e7b2e70c88a5901759e092b5c173489a432480e0d2.png",
+            "snippet": "The latest news, updated daily, from the world of artificial intelligence, machine learning, and future tech.",
+            "snippet_highlighted_words": [
+                "latest",
+                "artificial intelligence"
+            ],
+            "source": "Future Tools"
+        },
+        {
+            "position": 43,
+            "title": "Artificial Intelligence",
+            "link": "https://www.harvard.edu/in-focus/artificial-intelligence/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.harvard.edu/in-focus/artificial-intelligence/&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQFnoECE4QAQ",
+            "displayed_link": "https://www.harvard.edu \u203a in-focus \u203a artificial-intellige...",
+            "favicon": "https://serpapi.com/searches/68b876c6d2d7405288e0ce97/images/4318e272750bc6db29a3c1e7b2e70c88042f4bae45776b3f982edcf3abce9e8b.png",
+            "snippet": "Can AI get an M.D.? ... From diagnosing diseases to predicting patient outcomes, new AI models could have a major impact on the quality and efficiency of ...",
+            "snippet_highlighted_words": [
+                "AI",
+                "new AI"
+            ],
+            "source": "Harvard University"
+        },
+        {
+            "position": 44,
+            "title": "AI Weekly \u2014 AI News & Leading Newsletter on Artificial ...",
+            "link": "https://aiweekly.co/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://aiweekly.co/&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQFnoECFkQAQ",
+            "displayed_link": "https://aiweekly.co",
+            "favicon": "https://serpapi.com/searches/68b876c6d2d7405288e0ce97/images/4318e272750bc6db29a3c1e7b2e70c885bc8a337e9c05b88b1aa13548f8af55f.png",
+            "snippet": "Agentic AI is being talked about as the next major wave of artificial intelligence, but its meaning for enterprises remains to be settled. Capgemini Research ...",
+            "snippet_highlighted_words": [
+                "AI",
+                "artificial intelligence",
+                "Research"
+            ],
+            "source": "AI Weekly"
+        },
+        {
+            "position": 45,
+            "title": "AI News",
+            "link": "https://caias.mst.edu/ai-news/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://caias.mst.edu/ai-news/&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQFnoECFwQAQ",
+            "displayed_link": "https://caias.mst.edu \u203a ai-news",
+            "date": "Dec 28, 2024",
+            "snippet": "New research shows the natural variability in climate data can cause AI models to struggle at predicting local temperature and rainfall. DW: \u201c ...",
+            "snippet_highlighted_words": [
+                "New research",
+                "AI"
+            ],
+            "source": "Missouri S&T"
+        },
+        {
+            "position": 46,
+            "title": "Machine learning - Latest research and news",
+            "link": "https://www.nature.com/subjects/machine-learning",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nature.com/subjects/machine-learning&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQFnoECGsQAQ",
+            "displayed_link": "https://www.nature.com \u203a subjects",
+            "favicon": "https://serpapi.com/searches/68b876c6d2d7405288e0ce97/images/4318e272750bc6db29a3c1e7b2e70c88fe9527e39e35108c841d67b6dfc3751d.png",
+            "snippet": "Featured ; The importance of negative training data for robust antibody binding prediction \u00b7 20 Aug 2025 Nature Machine Intelligence ; AI learns from nature to ...",
+            "snippet_highlighted_words": [
+                "AI"
+            ],
+            "source": "Nature"
+        },
+        {
+            "position": 47,
+            "title": "Artificial Intelligence",
+            "link": "https://ucsd.edu/research-innovation/artificial-intelligence.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ucsd.edu/research-innovation/artificial-intelligence.html&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQFnoECHMQAQ",
+            "displayed_link": "https://ucsd.edu \u203a research-innovation \u203a artificial-intellig...",
+            "favicon": "https://serpapi.com/searches/68b876c6d2d7405288e0ce97/images/4318e272750bc6db29a3c1e7b2e70c88d73582ef0751776d869a3b43f5773afd.jpeg",
+            "snippet": "\u201cWhenever you have a new technology, it plays out in ways you can't imagine.\u201d - Terrence Sejnowski, distinguished professor. Unpredictable. Game Changing.",
+            "snippet_highlighted_words": [
+                "new"
+            ],
+            "source": "University of California San Diego"
+        },
+        {
+            "position": 48,
+            "title": "Adobe Research",
+            "link": "https://research.adobe.com/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://research.adobe.com/&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQFnoECCwQAQ",
+            "displayed_link": "https://research.adobe.com",
+            "favicon": "https://serpapi.com/searches/68b876c6d2d7405288e0ce97/images/4318e272750bc6db29a3c1e7b2e70c88cfe84489114754eac474ec4268835215.png",
+            "snippet": "What happens when AI doesn't just respond\u2014but learns and improves from every human interaction? Principal Research Scientist Branislav Kveton shares his work on ...",
+            "snippet_highlighted_words": [
+                "AI",
+                "Research"
+            ],
+            "source": "Adobe Research"
+        }
+    ],
+    "top_stories": [
+        {
+            "title": "NSF Announces Funding to Establish the National AI Research Resource Operations Center",
+            "link": "https://www.hpcwire.com/off-the-wire/nsf-announces-funding-to-establish-the-national-ai-research-resource-operations-center/",
+            "source": "HPCwire",
+            "source_logo": "https://serpapi.com/searches/68b876c6d2d7405288e0ce97/images/4043f8a224b748cdd3e06bdb94eee2aee81f079eee80545d526687bce1cc9c3b.png",
+            "date": "58 minutes ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzINdm3jDyzHrypzS5O4mx1Foz_BFlxI5s-ffyq8JifpMufAOLtCFTNaQ&usqp=CAI&s"
+        },
+        {
+            "title": "Apple AI Researcher for Robotics Joins Meta in Latest Exit",
+            "link": "https://www.youtube.com/watch?v=LWlb1b-bJAs",
+            "source": "YouTube \u00b7 Bloomberg Podcasts",
+            "date": "2 hours ago",
+            "thumbnail": "https://img.youtube.com/vi/LWlb1b-bJAs/hqdefault.jpg",
+            "label": "Video"
+        },
+        {
+            "title": "There are 32 different ways AI can go rogue, scientists say \u2014 from hallucinating answers to a complete misalignment with humanity",
+            "link": "https://www.livescience.com/technology/artificial-intelligence/there-are-32-different-ways-ai-can-go-rogue-scientists-say-from-hallucinating-answers-to-a-complete-misalignment-with-humanity",
+            "source": "Live Science",
+            "source_logo": "https://serpapi.com/searches/68b876c6d2d7405288e0ce97/images/4043f8a224b748cd93fc743ea8cc8a5d022b53f961f31d25e41d14fbf389b636.png",
+            "date": "3 days ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4sOCZCerAoixYkH04LrTJqVNZrmQPjrZeEk-SxqsA6BnwTtBSLeD6iLQ&usqp=CAI&s"
+        }
+    ],
+    "top_stories_link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=latest+AI+research&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQt8YBKAF6BAhaEAM",
+    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Brazil&num=50&q=latest+AI+research&tbm=nws",
+    "related_searches": [
+        {
+            "block_position": 1,
+            "query": "Latest ai research paper",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Latest+ai+research+paper&sa=X&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQ1QJ6BQi-ARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Brazil&num=50&q=Latest+ai+research+paper"
+        },
+        {
+            "block_position": 1,
+            "query": "Latest AI technology news",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Latest+AI+technology+news&sa=X&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQ1QJ6BQjIARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Brazil&num=50&q=Latest+AI+technology+news"
+        },
+        {
+            "block_position": 1,
+            "query": "AI news today Live",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=AI+news+today+Live&sa=X&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQ1QJ6BQjGARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Brazil&num=50&q=AI+news+today+Live"
+        },
+        {
+            "block_position": 1,
+            "query": "AI research news",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=AI+research+news&sa=X&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQ1QJ6BQjEARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Brazil&num=50&q=AI+research+news"
+        },
+        {
+            "block_position": 1,
+            "query": "Future of AI news",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Future+of+AI+news&sa=X&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQ1QJ6BQjDARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Brazil&num=50&q=Future+of+AI+news"
+        },
+        {
+            "block_position": 1,
+            "query": "Research papers on Artificial intelligence PDF",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Research+papers+on+Artificial+intelligence+PDF&sa=X&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQ1QJ6BQjBARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Brazil&num=50&q=Research+papers+on+Artificial+intelligence+PDF"
+        },
+        {
+            "block_position": 1,
+            "query": "New AI technology ChatGPT",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=New+AI+technology+ChatGPT&sa=X&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQ1QJ6BQjCARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Brazil&num=50&q=New+AI+technology+ChatGPT"
+        },
+        {
+            "block_position": 1,
+            "query": "Latest AI breakthroughs",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Latest+AI+breakthroughs&sa=X&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQ1QJ6BQjAARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Brazil&num=50&q=Latest+AI+breakthroughs"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=latest+AI+research&num=50&sca_esv=cbb70bed2ede2303&ei=x3a4aLnzAcWlqtsPypfT2AQ&start=50&sa=N&sstk=Ac65TH56zXRalkaqTtWWhmWyGZ4vZm7p5hat6Hmc_dsqIxbq1vw9IaJ1xfaRpPja21EAqMpRIG7r8MMLkwrFOrZApG09rkZ04mdx6w&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQ8NMDegQIChAK",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=latest+AI+research&num=50&sca_esv=cbb70bed2ede2303&ei=x3a4aLnzAcWlqtsPypfT2AQ&start=50&sa=N&sstk=Ac65TH56zXRalkaqTtWWhmWyGZ4vZm7p5hat6Hmc_dsqIxbq1vw9IaJ1xfaRpPja21EAqMpRIG7r8MMLkwrFOrZApG09rkZ04mdx6w&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQ8tMDegQIChAE",
+            "3": "https://www.google.com/search?q=latest+AI+research&num=50&sca_esv=cbb70bed2ede2303&ei=x3a4aLnzAcWlqtsPypfT2AQ&start=100&sa=N&sstk=Ac65TH56zXRalkaqTtWWhmWyGZ4vZm7p5hat6Hmc_dsqIxbq1vw9IaJ1xfaRpPja21EAqMpRIG7r8MMLkwrFOrZApG09rkZ04mdx6w&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQ8tMDegQIChAG",
+            "4": "https://www.google.com/search?q=latest+AI+research&num=50&sca_esv=cbb70bed2ede2303&ei=x3a4aLnzAcWlqtsPypfT2AQ&start=150&sa=N&sstk=Ac65TH56zXRalkaqTtWWhmWyGZ4vZm7p5hat6Hmc_dsqIxbq1vw9IaJ1xfaRpPja21EAqMpRIG7r8MMLkwrFOrZApG09rkZ04mdx6w&ved=2ahUKEwj58pmTi72PAxXFkmoFHcrLFEsQ8tMDegQIChAI"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Brazil&num=50&q=latest+AI+research&start=50",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Brazil&num=50&q=latest+AI+research&start=50",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Brazil&num=50&q=latest+AI+research&start=50",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Brazil&num=50&q=latest+AI+research&start=100",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Brazil&num=50&q=latest+AI+research&start=150"
+        }
+    }
+}

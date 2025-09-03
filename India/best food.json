@@ -1,0 +1,1622 @@
+{
+    "search_metadata": {
+        "id": "68b87673b255a87af0fc4c8c",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/f93033826ca5b20c/68b87673b255a87af0fc4c8c.json",
+        "pixel_position_endpoint": "https://serpapi.com/searches/f93033826ca5b20c/68b87673b255a87af0fc4c8c.json_with_pixel_position",
+        "created_at": "2025-09-03 17:10:11 UTC",
+        "processed_at": "2025-09-03 17:10:11 UTC",
+        "google_url": "https://www.google.com/search?q=best+food&oq=best+food&uule=w+CAIQICIFSW5kaWE&num=50&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/f93033826ca5b20c/68b87673b255a87af0fc4c8c.html",
+        "total_time_taken": 1.8
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "best food",
+        "location_requested": "India",
+        "location_used": "India",
+        "google_domain": "google.com",
+        "num": "50",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "best food",
+        "total_results": 9780000000,
+        "time_taken_displayed": 0.5,
+        "organic_results_state": "Results for exact spelling"
+    },
+    "local_map": {
+        "image": "https://www.google.com/maps/vt/data=9bpodV4nJTipQdcS49Nn_aSgNX0dTRwXULFiG3QVTLq-j9A-AYCN5PriASN5qSarOQBAoHyWioUZS5lVVtp4XclofuwD0zeaoJxR8cOanXhdd9445BAqFCYXDI9Pf7jQQuNin0jXBEFboODoYf5SqcS5ZJjQYeXXCdOsJ6Z_urHtE1ZMl0A0OYqG3gp0fFnOmYtx6g67sEB5L2ENlsqPGbakpqFnhQhwtbZmtvUSJwooEgbWgOMXPICjsmv6jRnQVkOwgVZT9G4H2bEuth2vpdRIR08fuPDd7uV-ZvqXJWaCDCK3NTcWN4E3iVwC4oJDTbc2J5dQwahjUcR8PP9KtctOoZpgQpmn9efEzj_Nv0pAbPrQeZyRqLnAf04ZWSrps_jxO-5LYT36PPGryCigUhXIxXHnA42HncVOneZqtWDeZCUhjcbI8UnhZaaRmiR-8a44HodQaZ4BKga5UC6cQ6NC7D85MKEv-xBqJ_DV-Nsl99Q7YT6PBcAvzaV2b-9umqmREqVoo5xYl7hNMWMyKQVowduBwkWbTmvP0yupwvzYtZNwSn9-t08IUt8QkTzDBLUhQoclcznsJXVMiDbWjBqzSJYFjDk5lDdAdBrl_xqOX9SBqEt9XR9LENvPXw2fDO0cyklw-yhLgzWKyFeI92UePMJyutIW_t-CwkFtyIGEj0faaolZBt_NR3T1bI7XA3SKHSwl3oimQI2VdiIyyaU3zbD11jaRsquE0ixivpVBYA4z-7WNEn7ZuZp0UpYEnQC6YPo-yxUxLi5-3LDQIw1t2v8yjwtLN2nPkgsNsf1HnX3L5F75opHetqktNguhQ3EhzOz6eTXMuvLiBkJdw2gDS3xRdIwD-zvFhbDBDrlByc_-1DZrWekNmvKGgPa76drMTptTZp_j_j23J76teo_zRoRULTiJ-nadoxf12KCFKaOeigzQlA3-Zxw6yYhmZ_0L6FQ5NyZEvFtuSYtX9aF4EyPonQ437vbQ57jJM4AzfLB4dY1wH5Zxp4lmQTdDe2GbqsfzKIdBVS4_9a6FOKqSuykObDQtAtTuK8AkoK_CkyPYZHwXTne-RirJE7uu4kvJ88j74c6tUi6EsoyAkdmxB7-EHWMZ_UYjbqugnkhQiZfL7SldUdz5neXeQ9J4QjIviQcb_GspP-p002gvhx-ON4Y615Xhgboy1ZH5ZSvLBi7Pd6DMtBkGHuhmyo06549AFB6vHI826vIUikd6tt6gxOZukh9DVs2jC-a0pMu_Chil-k-8rBnYv8XBxFcX04q-rzRuM9gu7YKtMev-WROWPUFC9kS0A2rKDUv6UPfZwFLOfJD5dx2tf6lXwvxbhWziHLeiMcFxX8XBo8sZ3kHm0DKxb4hkgGkDSve5ZQlo_Pje5VNZwMYsDtO7NbsacO-SP21WCgnxOvGbvXfPZ3rf-Tzqu0grQGt3oF9sjI_iqG25cTcrPAZ56Q",
+        "gps_coordinates": {
+            "latitude": 21.37124437,
+            "longitude": 82.08984375
+        }
+    },
+    "local_results": {
+        "places": [
+            {
+                "position": 1,
+                "rating": 4.4,
+                "reviews": 2400,
+                "reviews_original": "(2.4K)",
+                "price": "$$$",
+                "description": "\"Very expensive but good atmosphere, service and healthy food.\"",
+                "lsig": "AB86z5XnsPuXR9Z3fLyiZazu-9Jn",
+                "thumbnail": "https://serpapi.com/searches/68b87673b255a87af0fc4c8c/images/e263c69171e6f7b732703d7d37d21ca93f677f486ef28040eb2588b153a586aa8fee6fe5de5dfc89.jpeg",
+                "place_id": "10482844180819538972",
+                "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&ludocid=10482844180819538972&num=50&q=best+food",
+                "gps_coordinates": {
+                    "latitude": 21.240171,
+                    "longitude": 81.68464
+                },
+                "title": "Godwit Cafe | Best Cafes in Raipur | Best Jain food in Raipur | Pure Veg restaurant",
+                "type": "Vegetarian",
+                "address": "Raipur, Chhattisgarh, India"
+            },
+            {
+                "position": 2,
+                "rating": 4.0,
+                "reviews": 733,
+                "reviews_original": "(733)",
+                "price": "\u20b9200\u2013400",
+                "description": "\"The placewas impeccably clean, and the atmosphere was lovely.\"",
+                "lsig": "AB86z5VBYZI84UifYonk88Dbr7P9",
+                "thumbnail": "https://serpapi.com/searches/68b87673b255a87af0fc4c8c/images/e263c69171e6f7b732703d7d37d21ca91d1f820a6d6a026635576dfbc58594c651f258f11a2f2934.jpeg",
+                "place_id": "9996907292292627407",
+                "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&ludocid=9996907292292627407&num=50&q=best+food",
+                "gps_coordinates": {
+                    "latitude": 21.164179,
+                    "longitude": 81.25228
+                },
+                "title": "Food Parks",
+                "type": "Restaurant",
+                "address": "Durg, Chhattisgarh, India"
+            },
+            {
+                "position": 3,
+                "rating": 4.7,
+                "reviews": 435,
+                "reviews_original": "(435)",
+                "description": "\"Outstanding mind-blowing\"",
+                "lsig": "AB86z5WJncHNMBHZQ0VRWy4etB8u",
+                "thumbnail": "https://serpapi.com/searches/68b87673b255a87af0fc4c8c/images/e263c69171e6f7b732703d7d37d21ca9faeac1b7df56dfd6d21c56c309f6f0956117fcbe44dc17c8.jpeg",
+                "place_id": "7848720633942786627",
+                "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&ludocid=7848720633942786627&num=50&q=best+food",
+                "gps_coordinates": {
+                    "latitude": 20.506508,
+                    "longitude": 82.92239
+                },
+                "title": "Alishan Fun & Food Park",
+                "type": "Restaurant",
+                "address": "Kantabanji, Odisha, India",
+                "hours": "Closes soon \u22c5 11 PM"
+            }
+        ],
+        "more_locations_link": "https://www.google.com/search?sca_esv=cbb70bed2ede2303&tbm=lcl&q=best+food&rflfq=1&num=10&uule=w+CAIQICIFSW5kaWE&sa=X&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQjGp6BAg3EAE"
+    },
+    "inline_images": [
+        {
+            "source": "https://www.eater.com/24282771/best-new-restaurants-america-2024",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiCm3tVUDCLfPcQ_jcGM2G-CTaKSIpv4tYgNfebhnb8zmnqQqz_B2qnCE&s",
+            "original": "https://platform.eater.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25734730/1.jpg?quality=90&strip=all&crop=16.720691518098%2C0%2C66.558616963803%2C100&w=2400",
+            "title": "The 14 Best New Restaurants in America in 2024 | Eater",
+            "source_name": "Eater"
+        },
+        {
+            "source": "https://www.delish.com/cooking/recipe-ideas/a37694582/picanha-steak-recipe/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUtgMrJ9HsEpUFdE6m4OY3q56dB3HmyM7Y7AiD4H1xV1s1iCpaU4g5gAE&s",
+            "original": "https://hips.hearstapps.com/hmg-prod/images/del059924-picanhasteak-024-bjg-index-664d1411c61e0.jpg?crop=0.8888888888888888xw:1xh;center,top&resize=1200:*",
+            "title": "Picanha Steak",
+            "source_name": "Delish"
+        },
+        {
+            "source": "https://www.washingtonian.com/2020/01/22/anju-100-very-best-restaurants/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOsKms9mm46CWSsxJvhib0lzuYWfAJFsbbrCcY8UJBrF5srsA8dcCBXxE&s",
+            "original": "https://www.washingtonian.com/wp-content/uploads/2020/01/100Best-scaled.jpg",
+            "title": "Anju Is #1 on Washingtonian's 100 Very Best Restaurants List ...",
+            "source_name": "Washingtonian"
+        },
+        {
+            "source": "https://www.leahsugerman.com/blog/worlds-best-food",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP117VQ2GExD_i4ZVlF11LwJmsPr-79WldGpKnCVV2AppfGHZD9s0otFQ&s",
+            "original": "https://cdn.prod.website-files.com/56f03b1536442f6b27f0f08c/5f03324cbb2506842953d137_worlds-best-foods-pizza.jpg",
+            "title": "World's Best Food: 10 Dishes From Around the World You Need ...",
+            "source_name": "Leah Sugerman"
+        },
+        {
+            "source": "https://www.foodnetwork.com/fn-dish/recipes/2020/3/comfort-food-recipes-food-network-staffers",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiyVREtPJModXB5KHt4XYNmAqhRubs3bTbo2aIt68zgzCPv7bLm5iP5Mg&s",
+            "original": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2020/03/10/0/FNK_BEST-CHICKEN-AND-RICE-H_s4x3.jpg.rend.hgtvcom.1280.1280.85.suffix/1583851621211.webp",
+            "title": "Our Favorite Comfort Food Recipes | Food Network",
+            "source_name": "Food Network"
+        },
+        {
+            "source": "https://localadventurer.com/places-to-eat-in-nyc-food-bucket-list/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCUGu549fk8LYN6C29_yx1NxM9-Jl6tiHoxyGJCuzxoEAGvnIYbo89fm4&s",
+            "original": "https://localadventurer.com/wp-content/uploads/2018/04/places-to-eat-in-nyc-food-bucket-list.jpg",
+            "title": "The Ultimate NYC Food Bucket List in 2025 (99 Best Places to ...",
+            "source_name": "Local Adventurer"
+        },
+        {
+            "source": "https://www.cnn.com/travel/article/world-best-food-dishes",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRprbb-R52goNwfl6kjXY-tHeEKEcBHwWVos0OCh0pkWKA7mZ16S6pqSjc&s",
+            "original": "https://media.cnn.com/api/v1/images/stellar/prod/140430115517-06-comfort-foods.jpg?q=w_1280,h_720,x_0,y_0,c_fill",
+            "title": "World food: 50 best dishes | CNN",
+            "source_name": "CNN"
+        },
+        {
+            "source": "https://www.youtube.com/watch?v=Cch4mayoNgg",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8mAlsY0v9xxaq8Sxqn-K23idzGICUpXXYvwRJL92sWyLNl5A9vnSSSN4&s",
+            "original": "https://i.ytimg.com/vi/Cch4mayoNgg/maxresdefault.jpg",
+            "title": "#1 Food Country in the World?? I Put it to the Test!",
+            "source_name": "YouTube"
+        },
+        {
+            "source": "https://www.bbcgoodfood.com/recipes/category/cuisine-collections",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmNHFBAnJr6ZdYLBUDlTsF_v6zkAR0EUuHNXmtB_JBRDWo7kBJV3mHJMs&s",
+            "original": "https://images.immediate.co.uk/production/volatile/sites/30/2023/01/Maqlooba-4cd95c3.jpg?quality=90&resize=708,643",
+            "title": "Cuisines recipes | Good Food",
+            "source_name": "BBC Good Food"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "What is the 10 best food?",
+            "type": "ai_overview",
+            "text_blocks": [
+                {
+                    "type": "paragraph",
+                    "snippet": "There is no single, definitive list of the top 10 best foods, as \"best\" can mean most popular, healthiest, or most delicious, and varies by region and personal preference. However, globally popular foods include pizza, tacos, sushi, pasta, curry, and hamburgers. For health, key foods are salmon, broccoli, berries, beans, nuts, leafy green vegetables, and whole grains. Some specific dishes frequently mentioned for their excellence are Massaman curry, Neapolitan pizza, sushi, and Peking duck.",
+                    "snippet_highlighted_words": [
+                        "pizza, tacos, sushi, pasta, curry, and hamburgers"
+                    ],
+                    "reference_indexes": [
+                        0,
+                        1,
+                        2,
+                        3,
+                        5,
+                        7
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "snippet": "Popular & Iconic Foods"
+                },
+                {
+                    "type": "list",
+                    "list": [
+                        {
+                            "snippet": "Pizza: A universally loved dish with global appeal.",
+                            "reference_indexes": [
+                                7,
+                                8,
+                                17
+                            ]
+                        },
+                        {
+                            "snippet": "Rice Dishes: Essential for billions worldwide, with dishes like biryani, sushi, and fried rice being popular.",
+                            "reference_indexes": [
+                                7,
+                                12
+                            ]
+                        },
+                        {
+                            "snippet": "Pasta: Versatile and enjoyed in various forms, including spaghetti and lasagna.",
+                            "reference_indexes": [
+                                7
+                            ]
+                        },
+                        {
+                            "snippet": "Noodles: A staple across many cultures, with dishes like ramen and pho being well-known.",
+                            "reference_indexes": [
+                                7
+                            ]
+                        },
+                        {
+                            "snippet": "Hamburgers: An iconic comfort food that is popular across demographics.",
+                            "reference_indexes": [
+                                7,
+                                21
+                            ]
+                        },
+                        {
+                            "snippet": "Sushi: A Japanese staple with international recognition for its fresh ingredients and skilled preparation.",
+                            "reference_indexes": [
+                                0,
+                                7,
+                                16,
+                                19
+                            ]
+                        },
+                        {
+                            "snippet": "Curries: Flavorful dishes featuring complex spices, with varieties like Massaman curry highly praised.",
+                            "reference_indexes": [
+                                0,
+                                7,
+                                9,
+                                20
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "snippet": "Healthy & Nutritious Foods"
+                },
+                {
+                    "type": "list",
+                    "list": [
+                        {
+                            "snippet": "Salmon: A rich source of protein and healthy fats.",
+                            "reference_indexes": [
+                                3,
+                                4
+                            ]
+                        },
+                        {
+                            "snippet": "Broccoli & Leafy Greens: Cruciferous vegetables like broccoli, kale, and spinach are packed with vitamins and minerals.",
+                            "reference_indexes": [
+                                1,
+                                2,
+                                3,
+                                6
+                            ]
+                        },
+                        {
+                            "snippet": "Berries: Blueberries, strawberries, and raspberries are rich in antioxidants.",
+                            "reference_indexes": [
+                                1,
+                                10,
+                                14,
+                                22
+                            ]
+                        },
+                        {
+                            "snippet": "Beans & Lentils: Excellent sources of fiber and plant-based protein.",
+                            "reference_indexes": [
+                                1,
+                                3
+                            ]
+                        },
+                        {
+                            "snippet": "Almonds & Nuts: Provide protein, healthy fats, and other nutrients.",
+                            "reference_indexes": [
+                                2,
+                                3,
+                                15
+                            ]
+                        },
+                        {
+                            "snippet": "Sweet Potatoes: A nutrient-dense and versatile root vegetable.",
+                            "reference_indexes": [
+                                1,
+                                3,
+                                11,
+                                18
+                            ]
+                        },
+                        {
+                            "snippet": "Whole Grains: Quinoa, oats, and whole wheat are good sources of fiber.",
+                            "reference_indexes": [
+                                1,
+                                3
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "snippet": "Highly-Regarded Dishes"
+                },
+                {
+                    "type": "list",
+                    "list": [
+                        {
+                            "snippet": "Massaman Curry (Thailand): Frequently ranked among the world's best dishes due to its complex spices.",
+                            "reference_indexes": [
+                                0,
+                                20
+                            ]
+                        },
+                        {
+                            "snippet": "Neapolitan Pizza (Italy): A specific style of pizza renowned for its authentic preparation.",
+                            "reference_indexes": [
+                                0
+                            ]
+                        },
+                        {
+                            "snippet": "Peking Duck (China): A famous and celebrated dish from Chinese cuisine.",
+                            "reference_indexes": [
+                                0,
+                                13
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "references": [
+                {
+                    "title": "World food: 50 best dishes - CNN",
+                    "link": "https://www.cnn.com/travel/article/world-best-food-dishes",
+                    "snippet": "For now, feast your eyes and control your drooling, as we reveal some of the world's best foods that can help inspire your travel...",
+                    "source": "CNN",
+                    "index": 0
+                },
+                {
+                    "title": "Top 10 Foods for Health | Patient Education",
+                    "link": "https://www.ucsfhealth.org/education/top-ten-foods-for-health#:~:text=Top%2010%20Foods%20for%20Health,Soy",
+                    "snippet": "Top 10 Foods for Health | Patient Education | UCSF Health. Top 10 Foods for Health. 1. Water. Drink 8 to 12 cups of water daily. 2...",
+                    "source": "UCSF Health",
+                    "index": 1
+                },
+                {
+                    "title": "Top 15 healthy foods you should be eating - UC Davis Health",
+                    "link": "https://health.ucdavis.edu/blog/good-food/top-15-healthy-foods-you-should-be-eating/2019/04",
+                    "snippet": "Apr 5, 2019 \u2014 Here are the top 15 foods you should be eating according to our experts: * Fish. ... * Broccoli or any of the crucifer...",
+                    "source": "University of California - Davis Health",
+                    "index": 2
+                },
+                {
+                    "title": "10 great health foods - Mayo Clinic",
+                    "link": "https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/10-great-health-foods/art-20546837",
+                    "snippet": "Mar 28, 2024 \u2014 Here are 10 great foods to add or increase in your diet. * Almonds. Nuts eaten whole are considered a protein, in the...",
+                    "source": "Mayo Clinic",
+                    "index": 3
+                },
+                {
+                    "title": "What are your top 10 favorite foods as an adult? - Quora",
+                    "link": "https://www.quora.com/What-are-your-top-10-favorite-foods-as-an-adult",
+                    "snippet": "Apr 28, 2022 \u2014 * Broccoli. * Asparagus. * Corn. * Yams. * Quinoa. * Yogurt. * Mussells. * Salmon. * T-Bone Steak. * Mashed potatoes.",
+                    "source": "Quora",
+                    "index": 4
+                },
+                {
+                    "title": "Best Fast Food Chains Ranked : r/fastfood",
+                    "link": "https://www.reddit.com/r/fastfood/comments/29ve51/best_fast_food_chains_ranked/#:~:text=As%20with%20many%20comparative%20lists%20like%20this%2C,the%20suburbs%20of%20Boston.%22%20Not%20much%20help.",
+                    "snippet": "Jul 5, 2014 \u2014 As with many comparative lists like this, the top-rated choices are nearly always local or regional and simply aren't a...",
+                    "source": "Reddit",
+                    "index": 5
+                },
+                {
+                    "title": "16 Foods Rich in Minerals",
+                    "link": "https://www.healthline.com/nutrition/foods-with-minerals#:~:text=These%20health%20benefits%20are%20directly%20related%20to,cruciferous%20vegetables%20)%20impressive%20concentration%20of%20minerals.",
+                    "snippet": "Jul 15, 2020 \u2014 These health benefits are directly related to the nutrient density of these veggies, including their ( cruciferous veg...",
+                    "source": "Healthline",
+                    "index": 6
+                },
+                {
+                    "title": "10 Most Popular FOODS in the World | Education - Vocal Media",
+                    "link": "https://vocal.media/education/10-most-popular-foods-in-the-world",
+                    "snippet": "10 Most Popular FOODS in the World * Pizza. * Rice dishes (e.g. fried rice, biryani) * Tacos. * Sushi. * Pasta dishes (e.g. spagh...",
+                    "source": "Vocal",
+                    "index": 7
+                },
+                {
+                    "title": "The most popular american dishes in America | Consumer - YouGov",
+                    "link": "https://today.yougov.com/ratings/consumer/popularity/american-dishes/all#:~:text=popularity%20is%20the%20%25%20of%20people%20who,browns83%25%20*%208%20Steak%20and%20Baked%20potato81%25",
+                    "snippet": "popularity is the % of people who have a positive opinion of a american dish. Find out more * 1 Hamburgers86% * 2 French Fries86%",
+                    "source": "YouGov",
+                    "index": 8
+                },
+                {
+                    "title": "#Top 7 Popular Curries You Must Try at Least Once",
+                    "link": "https://www.secretfoodtours.com/blog/popular-curries-you-must-try/#:~:text=Top%207%20Popular%20Curries%20You%20Must%20Try,of%20a%20curry%20lies%20in%20its%20versatility.",
+                    "snippet": "Jan 25, 2025 \u2014 Top 7 Popular Curries You Must Try at Least Once Curries are loved worldwide for their bold flavors and comforting app...",
+                    "source": "Secret Food Tours",
+                    "index": 9
+                },
+                {
+                    "title": "The health benefits of popular foods",
+                    "link": "https://www.medicalnewstoday.com/articles/269143#:~:text=Strawberries%20Strawberries%20are%20one%20of%20the%20most,that%20can%20be%20beneficial%20for%20your%20health.",
+                    "snippet": "Strawberries Strawberries are one of the most popular, refreshing, and healthy treats on the planet; they contain many vitamins an...",
+                    "source": "MedicalNewsToday",
+                    "index": 10
+                },
+                {
+                    "title": "Top 9 Healthiest Foods to Eat to Lose Weight and Feel Great",
+                    "link": "https://www.healthline.com/nutrition/top-9-healthiest-foods-to-eat#:~:text=Root%20vegetables%20like%20potatoes%20and%20sweet%20potatoes%20are%20healthy%2C%20nutritious%20and%20very%20filling.",
+                    "snippet": "Apr 24, 2018 \u2014 Root vegetables like potatoes and sweet potatoes are healthy, nutritious and very filling.",
+                    "source": "Healthline",
+                    "index": 11
+                },
+                {
+                    "title": "The World's Most Eaten Foods - YouTube",
+                    "link": "https://www.youtube.com/watch?v=GRX7fixiocM&t=12",
+                    "snippet": "Mar 10, 2024 \u2014 you. number one rice this might not have been a surprise for some as rice is the most common food in Asia. and is nati...",
+                    "source": "YouTube \u00b7 Travel & Taste",
+                    "index": 12
+                },
+                {
+                    "title": "Signature dishes around the world",
+                    "link": "https://www.signatureluxurytravel.com.au/signature-dishes-around-the-world/#:~:text=China%20%E2%80%93%20Peking%20Duck%20When%20it%20comes,Duck%20is%20a%20crisp%20and%20succulent%20feast.",
+                    "snippet": "China \u2013 Peking Duck When it comes to signature dishes around the world, Peking Duck is a standout. Globally renowned and synonymou...",
+                    "source": "Signature Luxury Travel & Style",
+                    "index": 13
+                },
+                {
+                    "title": "Top 50 Healthiest Foods",
+                    "link": "https://www.nrgxpress.com/top-50-healthiest-foods/#:~:text=4.%20Blueberries%20Blueberries%20are%20not%20only%20delicious%2C,powerful%20sources%20of%20antioxidants%20in%20the%20world.",
+                    "snippet": "4. Blueberries Blueberries are not only delicious, but also among the most powerful sources of antioxidants in the world.",
+                    "source": "NRG Xpress",
+                    "index": 14
+                },
+                {
+                    "title": "Melt Away Belly Fat with These Superfoods: The Ultimate Guide to the Best Foods for Weight Loss",
+                    "link": "https://appvoices.org/media/melt-away-belly-fat-with-these-superfoods-33985-the-ultimate-guide-to-the-best-foods-for-weight-2/#:~:text=Almonds:%20Almonds%20are%20packed%20with%20protein%2Cs%20mute,a%20satisfying%20crunch%20while%20delivering%20important%20nutrients.",
+                    "snippet": "Jul 22, 2025 \u2014 Almonds: Almonds are packed with protein,s mute disease, fiber, and healthy fats. They can provide a satisfying crunch...",
+                    "source": "Appalachian Voices",
+                    "index": 15
+                },
+                {
+                    "title": "Delicious Favorites at California Pizza Kitchen",
+                    "link": "https://www.lemon8-app.com/jimenneeezzz/7215747018407444997?region=us#:~:text=Top%20Favorite%20Foods:%20Sushi%2C%20Seafood%2C%20and%20More,for%20its%20vibrant%20presentation%20and%20fresh%20ingredients.",
+                    "snippet": "Mar 28, 2023 \u2014 Top Favorite Foods: Sushi, Seafood, and More When it ( Azteca D'Oro ) comes to comfort food, there's nothing quite lik...",
+                    "source": "Lemon 8",
+                    "index": 16
+                },
+                {
+                    "title": "The pizza taste test",
+                    "link": "https://www.lovefood.com/news/58477/pizza-taste-test#:~:text=Fast%20forward%20to%20today%20and%20pizza%20is,worthy%20contender%20for%20a%20lovefood%20taste%20test.",
+                    "snippet": "Nov 9, 2012 \u2014 Fast forward to today and pizza is a truly global food, topped with just about anything and eaten by just about everyon...",
+                    "source": "LoveFood",
+                    "index": 17
+                },
+                {
+                    "title": "Breakfast Recipes",
+                    "link": "https://foodrevolution.org/blog/tag/breakfast-recipes/#:~:text=Cooking%20with%20Sweet%20Potatoes:%20Flavorful%20Recipes%20to,%E2%80%94%20and%20they're%20incredibly%20healthy%20to%20boot.",
+                    "snippet": "Cooking with Sweet Potatoes: Flavorful Recipes to Try Today Sweet potatoes are one of the most versatile and delicious foods out t...",
+                    "source": "Food Revolution Network",
+                    "index": 18
+                },
+                {
+                    "title": "Indulge in Decadence: The Top Luxury Meals Around the World | Island Gardens",
+                    "link": "https://islandgardens.com/indulge-in-decadence-the-top-luxury-meals-around-the-world#:~:text=No%20luxury%20dining%20experience%20would%20be%20complete,form%20that%20is%20revered%20around%20the%20world.",
+                    "snippet": "May 21, 2024 \u2014 No luxury dining experience would be complete without a taste of authentic Japanese sushi. Made with the freshest ingr...",
+                    "source": "The Deck | Island Gardens",
+                    "index": 19
+                },
+                {
+                    "title": "Thai Airways spicing up its menu with signature dishes from renowned eateries",
+                    "link": "https://www.nationthailand.com/blogs/life/food/40042107",
+                    "snippet": "Oct 6, 2024 \u2014 Massaman curry has been ranked as the No. 1 dish in \u201cThe World's 50 Best Foods\u201d. It is complex and requires numerous sp...",
+                    "source": "Nation Thailand",
+                    "index": 20
+                },
+                {
+                    "title": "2019 Burger Report: Beyond basics | 2019-03-04",
+                    "link": "https://www.provisioneronline.com/articles/107509-burger-report-beyond-basics#:~:text=%E2%80%9CBurgers%20are%20universally%20loved%2C%E2%80%9D%20reports%20Datassential%2C%20a,top%20percentile%20for%20nearly%20every%20demographic%20segment.",
+                    "snippet": "Mar 4, 2019 \u2014 \u201cBurgers are universally loved,\u201d reports Datassential, a Chicago-based market research firm, noting burgers are the 10t...",
+                    "source": "The National Provisioner",
+                    "index": 21
+                },
+                {
+                    "title": "A Heart-Healthy Shopping List for Older Adults",
+                    "link": "https://bethesdahealth.org/blog/a-heart-healthy-shopping-list-for-older-adults/#:~:text=Berries%20%E2%80%93%20including%20strawberries%2C%20blueberries%2C%20blackberries%2C%20and,also%20great%20choices%20for%20your%20shopping%20list.",
+                    "snippet": "Feb 2, 2023 \u2014 Berries \u2013 including strawberries, blueberries, blackberries, and raspberries contain vitamins and antioxidants vital to...",
+                    "source": "Bethesda Health Group",
+                    "index": 22
+                }
+            ],
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVFVZFhUbE41VGtkdVRtSTJkRXB3VkhoQ1h6Rktja2RhVWpGblRHbG5kRlZWT0c5b1lYVlRPVEExUTJOMU9GUjFORTFEWWt4SU1WWlFia3BJZFZaQk16Um5iSGMwVGxWSmNqVlBWVzlKZGtJMFlWOVFSa3RrVFZWa1FSSVhaRWhoTkdGSlpqWkdTM1ZPZDJKclVEZGZTemwzUVZVYUlrRkdUVUZIUjNGZlZUTlRTMlZyUlhsdmRTMXFSVW95UjNjeVdXSklXalZEYTFFIiwiZmN2IjoiMyIsImVpIjoiZEhhNGFJZjZGS3VOd2JrUDdfSzl3QVUiLCJxYyI6IkNnbGlaWE4wSUdadmIyUVFBSDN1VGdFXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgMTAgYmVzdCBmb29kPyIsImxrIjoiR2hoM2FHRjBJR2x6SUhSb1pTQXhNQ0JpWlhOMElHWnZiMlEiLCJicyI6ImMtT3k0cElNejBnc1VjZ3NWaWpKU0ZVd05GQklTaTB1VVVqTHowLXhsLWkyTlpLU2tpakhJY19sd0NXRHJCY3NVWkpZWEZJSjFkNnJZU1FySlYyT1d3bVhGNWN5aGdrZ0NZWE1QTEJBZVg1UkR0Q2dIVnhHQ2xKeUdBYkJWSUpWY2Zsd0tTR2JWWkpmZ0hCdEl0eExweE9ObEtVVXl3a3BGR0FFQUEiLCJpZCI6ImZjX2RIYTRhSWY2Rkt1Tndia1A3X0s5d0FVXzIifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVFVZFhUbE41VGtkdVRtSTJkRXB3VkhoQ1h6Rktja2RhVWpGblRHbG5kRlZWT0c5b1lYVlRPVEExUTJOMU9GUjFORTFEWWt4SU1WWlFia3BJZFZaQk16Um5iSGMwVGxWSmNqVlBWVzlKZGtJMFlWOVFSa3RrVFZWa1FSSVhaRWhoTkdGSlpqWkdTM1ZPZDJKclVEZGZTemwzUVZVYUlrRkdUVUZIUjNGZlZUTlRTMlZyUlhsdmRTMXFSVW95UjNjeVdXSklXalZEYTFFIiwiZmN2IjoiMyIsImVpIjoiZEhhNGFJZjZGS3VOd2JrUDdfSzl3QVUiLCJxYyI6IkNnbGlaWE4wSUdadmIyUVFBSDN1VGdFXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgMTAgYmVzdCBmb29kPyIsImxrIjoiR2hoM2FHRjBJR2x6SUhSb1pTQXhNQ0JpWlhOMElHWnZiMlEiLCJicyI6ImMtT3k0cElNejBnc1VjZ3NWaWpKU0ZVd05GQklTaTB1VVVqTHowLXhsLWkyTlpLU2tpakhJY19sd0NXRHJCY3NVWkpZWEZJSjFkNnJZU1FySlYyT1d3bVhGNWN5aGdrZ0NZWE1QTEJBZVg1UkR0Q2dIVnhHQ2xKeUdBYkJWSUpWY2Zsd0tTR2JWWkpmZ0hCdEl0eExweE9ObEtVVXl3a3BGR0FFQUEiLCJpZCI6ImZjX2RIYTRhSWY2Rkt1Tndia1A3X0s5d0FVXzIifQ%3D%3D"
+        },
+        {
+            "question": "What is the best tasty food?",
+            "type": "featured_snippet",
+            "title": "What the most delicious food that every body interested? - Quora",
+            "date": "Jan 24, 2019",
+            "link": "https://www.quora.com/What-the-most-delicious-food-that-every-body-interested",
+            "list": [
+                "Sushi (Japan) Source Prepared with vinegared rice and a wide range of ingredients including seafood, vegetables, and sometimes fruits...",
+                "Rendang, Indonesia...",
+                "Ramen, Japan...",
+                "Tom Yam Goong, Thailand...",
+                "Kebab, Turkey...",
+                "Pho, Vietnam...",
+                "Peking duck, China...",
+                "Paella, Spain."
+            ],
+            "displayed_link": "https://www.quora.com \u203a What-the-most-delicious-food-...",
+            "source_logo": "https://serpapi.com/searches/68b87673b255a87af0fc4c8c/images/92762dc204ff5aeb437dfdcc2450f4be766ecd0e34e21a68bcc249c11ef3d7b3.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVFVZFhUbE41VGtkdVRtSTJkRXB3VkhoQ1h6Rktja2RhVWpGblRHbG5kRlZWT0c5b1lYVlRPVEExUTJOMU9GUjFORTFEWWt4SU1WWlFia3BJZFZaQk16Um5iSGMwVGxWSmNqVlBWVzlKZGtJMFlWOVFSa3RrVFZWa1FSSVhaRWhoTkdGSlpqWkdTM1ZPZDJKclVEZGZTemwzUVZVYUlrRkdUVUZIUjNGZlZUTlRTMlZyUlhsdmRTMXFSVW95UjNjeVdXSklXalZEYTFFIiwiZmN2IjoiMyIsImVpIjoiZEhhNGFJZjZGS3VOd2JrUDdfSzl3QVUiLCJxYyI6IkNnbGlaWE4wSUdadmIyUVFBSDN1VGdFXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgYmVzdCB0YXN0eSBmb29kPyIsImxrIjoiR2h0M2FHRjBJR2x6SUhSb1pTQmlaWE4wSUhSaGMzUjVJR1p2YjJRIiwiYnMiOiJjLU95NHBJTXowZ3NVY2dzVmlqSlNGVXdORkJJU2kwdVVVakx6MC14bC1pMk5aS1NraWpISWNfbHdDV0RyQmNzVVpKWVhGSUoxZDZyWVNRckpWMk9Xd21YRjVjeWhna2dDWVhNUExCQWVYNVJEdENnSFZ4R0NsSnlHQWJCVklKVmNmbHdLU0diVlpKZmdIQnRJdHhMcHhPTmxLVVV5d2twRkdBRUFBIiwiaWQiOiJmY19kSGE0YUlmNkZLdU53YmtQN19LOXdBVV8yIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVFVZFhUbE41VGtkdVRtSTJkRXB3VkhoQ1h6Rktja2RhVWpGblRHbG5kRlZWT0c5b1lYVlRPVEExUTJOMU9GUjFORTFEWWt4SU1WWlFia3BJZFZaQk16Um5iSGMwVGxWSmNqVlBWVzlKZGtJMFlWOVFSa3RrVFZWa1FSSVhaRWhoTkdGSlpqWkdTM1ZPZDJKclVEZGZTemwzUVZVYUlrRkdUVUZIUjNGZlZUTlRTMlZyUlhsdmRTMXFSVW95UjNjeVdXSklXalZEYTFFIiwiZmN2IjoiMyIsImVpIjoiZEhhNGFJZjZGS3VOd2JrUDdfSzl3QVUiLCJxYyI6IkNnbGlaWE4wSUdadmIyUVFBSDN1VGdFXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgYmVzdCB0YXN0eSBmb29kPyIsImxrIjoiR2h0M2FHRjBJR2x6SUhSb1pTQmlaWE4wSUhSaGMzUjVJR1p2YjJRIiwiYnMiOiJjLU95NHBJTXowZ3NVY2dzVmlqSlNGVXdORkJJU2kwdVVVakx6MC14bC1pMk5aS1NraWpISWNfbHdDV0RyQmNzVVpKWVhGSUoxZDZyWVNRckpWMk9Xd21YRjVjeWhna2dDWVhNUExCQWVYNVJEdENnSFZ4R0NsSnlHQWJCVklKVmNmbHdLU0diVlpKZmdIQnRJdHhMcHhPTmxLVVV5d2twRkdBRUFBIiwiaWQiOiJmY19kSGE0YUlmNkZLdU53YmtQN19LOXdBVV8yIn0%3D"
+        },
+        {
+            "question": "What is the best food in the world?",
+            "type": "featured_snippet",
+            "title": "For now, feast your eyes and control your drooling, as we reveal some of the world's best foods that can help inspire your travel plans:",
+            "link": "https://www.cnn.com/travel/article/world-best-food-dishes",
+            "list": [
+                "Massaman curry, Thailand.",
+                "Neapolitan pizza, Italy. ... ",
+                "Chocolate, Mexico. ... ",
+                "Sushi, Japan. ... ",
+                "Peking duck, China. ... ",
+                "Hamburger, Germany. ... ",
+                "Penang assam laksa, Malaysia. ... ",
+                "Tom yum goong, Thailand. ... "
+            ],
+            "displayed_link": "https://www.cnn.com \u203a travel \u203a article \u203a world-best-food...",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJBP1Sk4L5i8D4Je843HfHJDJZWqIKChtaUiUoR749_A&s",
+            "source_logo": "https://serpapi.com/searches/68b87673b255a87af0fc4c8c/images/92762dc204ff5aeb437dfdcc2450f4bee7ff766650b1793c71f71b1883572983.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVFVZFhUbE41VGtkdVRtSTJkRXB3VkhoQ1h6Rktja2RhVWpGblRHbG5kRlZWT0c5b1lYVlRPVEExUTJOMU9GUjFORTFEWWt4SU1WWlFia3BJZFZaQk16Um5iSGMwVGxWSmNqVlBWVzlKZGtJMFlWOVFSa3RrVFZWa1FSSVhaRWhoTkdGSlpqWkdTM1ZPZDJKclVEZGZTemwzUVZVYUlrRkdUVUZIUjNGZlZUTlRTMlZyUlhsdmRTMXFSVW95UjNjeVdXSklXalZEYTFFIiwiZmN2IjoiMyIsImVpIjoiZEhhNGFJZjZGS3VOd2JrUDdfSzl3QVUiLCJxYyI6IkNnbGlaWE4wSUdadmIyUVFBSDN1VGdFXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgYmVzdCBmb29kIGluIHRoZSB3b3JsZD8iLCJsayI6IkdoNTNhR0YwSUdseklIUm9aU0JpWlhOMElHWnZiMlFnYVc0Z2QyOXliR1EiLCJicyI6ImMtT3k0cElNejBnc1VjZ3NWaWpKU0ZVd05GQklTaTB1VVVqTHowLXhsLWkyTlpLU2tpakhJY19sd0NXRHJCY3NVWkpZWEZJSjFkNnJZU1FySlYyT1d3bVhGNWN5aGdrZ0NZWE1QTEJBZVg1UkR0Q2dIVnhHQ2xKeUdBYkJWSUpWY2Zsd0tTR2JWWkpmZ0hCdEl0eExweE9ObEtVVXl3a3BGR0FFQUEiLCJpZCI6ImZjX2RIYTRhSWY2Rkt1Tndia1A3X0s5d0FVXzIifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVFVZFhUbE41VGtkdVRtSTJkRXB3VkhoQ1h6Rktja2RhVWpGblRHbG5kRlZWT0c5b1lYVlRPVEExUTJOMU9GUjFORTFEWWt4SU1WWlFia3BJZFZaQk16Um5iSGMwVGxWSmNqVlBWVzlKZGtJMFlWOVFSa3RrVFZWa1FSSVhaRWhoTkdGSlpqWkdTM1ZPZDJKclVEZGZTemwzUVZVYUlrRkdUVUZIUjNGZlZUTlRTMlZyUlhsdmRTMXFSVW95UjNjeVdXSklXalZEYTFFIiwiZmN2IjoiMyIsImVpIjoiZEhhNGFJZjZGS3VOd2JrUDdfSzl3QVUiLCJxYyI6IkNnbGlaWE4wSUdadmIyUVFBSDN1VGdFXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgYmVzdCBmb29kIGluIHRoZSB3b3JsZD8iLCJsayI6IkdoNTNhR0YwSUdseklIUm9aU0JpWlhOMElHWnZiMlFnYVc0Z2QyOXliR1EiLCJicyI6ImMtT3k0cElNejBnc1VjZ3NWaWpKU0ZVd05GQklTaTB1VVVqTHowLXhsLWkyTlpLU2tpakhJY19sd0NXRHJCY3NVWkpZWEZJSjFkNnJZU1FySlYyT1d3bVhGNWN5aGdrZ0NZWE1QTEJBZVg1UkR0Q2dIVnhHQ2xKeUdBYkJWSUpWY2Zsd0tTR2JWWkpmZ0hCdEl0eExweE9ObEtVVXl3a3BGR0FFQUEiLCJpZCI6ImZjX2RIYTRhSWY2Rkt1Tndia1A3X0s5d0FVXzIifQ%3D%3D"
+        },
+        {
+            "question": "What is the top 10 best fast food?",
+            "type": "featured_snippet",
+            "title": "Technomic Releases Annual Ranking of the Top 15 Fast-Food Chains in the U.S.",
+            "date": "Jun 25, 2025",
+            "link": "https://1851franchise.com/technomic-releases-annual-ranking-of-the-top-15-fast-food-chains-in-the-us-2729695",
+            "list": [
+                "McDonald's.",
+                "Starbucks.",
+                "Chick-fil-A.",
+                "Taco Bell.",
+                "Wendy's.",
+                "Dunkin'",
+                "Chipotle Mexican Grill.",
+                "Burger King."
+            ],
+            "displayed_link": "https://1851franchise.com \u203a technomic-releases-annual-r...",
+            "source_logo": "https://serpapi.com/searches/68b87673b255a87af0fc4c8c/images/92762dc204ff5aeb437dfdcc2450f4beb3626799504342f06d8f203a37b7b319.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVFVZFhUbE41VGtkdVRtSTJkRXB3VkhoQ1h6Rktja2RhVWpGblRHbG5kRlZWT0c5b1lYVlRPVEExUTJOMU9GUjFORTFEWWt4SU1WWlFia3BJZFZaQk16Um5iSGMwVGxWSmNqVlBWVzlKZGtJMFlWOVFSa3RrVFZWa1FSSVhaRWhoTkdGSlpqWkdTM1ZPZDJKclVEZGZTemwzUVZVYUlrRkdUVUZIUjNGZlZUTlRTMlZyUlhsdmRTMXFSVW95UjNjeVdXSklXalZEYTFFIiwiZmN2IjoiMyIsImVpIjoiZEhhNGFJZjZGS3VOd2JrUDdfSzl3QVUiLCJxYyI6IkNnbGlaWE4wSUdadmIyUVFBSDN1VGdFXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgdG9wIDEwIGJlc3QgZmFzdCBmb29kPyIsImxrIjoiYzVOU0xNOUlMRkhJTEZZb3lVaFZLTWt2VURBMFVFaEtMUzVSU0VzRUVmbjVLUUEiLCJicyI6ImMtT3k0cElNejBnc1VjZ3NWaWpKU0ZVd05GQklTaTB1VVVqTHowLXhsLWkyTlpLU2tpakhJY19sd0NXRHJCY3NVWkpZWEZJSjFkNnJZU1FySlYyT1d3bVhGNWN5aGdrZ0NZWE1QTEJBZVg1UkR0Q2dIVnhHQ2xKeUdBYkJWSUpWY2Zsd0tTR2JWWkpmZ0hCdEl0eExweE9ObEtVVXl3a3BGR0FFQUEiLCJpZCI6ImZjX2RIYTRhSWY2Rkt1Tndia1A3X0s5d0FVXzIifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSVFVZFhUbE41VGtkdVRtSTJkRXB3VkhoQ1h6Rktja2RhVWpGblRHbG5kRlZWT0c5b1lYVlRPVEExUTJOMU9GUjFORTFEWWt4SU1WWlFia3BJZFZaQk16Um5iSGMwVGxWSmNqVlBWVzlKZGtJMFlWOVFSa3RrVFZWa1FSSVhaRWhoTkdGSlpqWkdTM1ZPZDJKclVEZGZTemwzUVZVYUlrRkdUVUZIUjNGZlZUTlRTMlZyUlhsdmRTMXFSVW95UjNjeVdXSklXalZEYTFFIiwiZmN2IjoiMyIsImVpIjoiZEhhNGFJZjZGS3VOd2JrUDdfSzl3QVUiLCJxYyI6IkNnbGlaWE4wSUdadmIyUVFBSDN1VGdFXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgdG9wIDEwIGJlc3QgZmFzdCBmb29kPyIsImxrIjoiYzVOU0xNOUlMRkhJTEZZb3lVaFZLTWt2VURBMFVFaEtMUzVSU0VzRUVmbjVLUUEiLCJicyI6ImMtT3k0cElNejBnc1VjZ3NWaWpKU0ZVd05GQklTaTB1VVVqTHowLXhsLWkyTlpLU2tpakhJY19sd0NXRHJCY3NVWkpZWEZJSjFkNnJZU1FySlYyT1d3bVhGNWN5aGdrZ0NZWE1QTEJBZVg1UkR0Q2dIVnhHQ2xKeUdBYkJWSUpWY2Zsd0tTR2JWWkpmZ0hCdEl0eExweE9ObEtVVXl3a3BGR0FFQUEiLCJpZCI6ImZjX2RIYTRhSWY2Rkt1Tndia1A3X0s5d0FVXzIifQ%3D%3D"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Home | Best Foods US",
+            "link": "https://www.bestfoods.com/us/en/home.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bestfoods.com/us/en/home.html&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQFnoFCJkBEAE",
+            "displayed_link": "https://www.bestfoods.com \u203a ...",
+            "thumbnail": "https://serpapi.com/searches/68b87673b255a87af0fc4c8c/images/f5a3ca0afc1659df1b906021e13ed5bbf3c6465c0d89797c35e8eb5894094032.jpeg",
+            "favicon": "https://serpapi.com/searches/68b87673b255a87af0fc4c8c/images/f5a3ca0afc1659df1b906021e13ed5bb6eb8c3d393806a9bc3cda3a5bd5a6b10.png",
+            "snippet": "Welcome to Best Foods! Explore our wide range of mayonnaises, dressings and spreads, find a new recipe, or learn about our story and values.",
+            "snippet_highlighted_words": [
+                "Explore our wide range of mayonnaises, dressings and spreads"
+            ],
+            "source": "bestfoods.com"
+        },
+        {
+            "position": 2,
+            "title": "What is the best food that you have ever eaten? : r/AskReddit",
+            "link": "https://www.reddit.com/r/AskReddit/comments/1e8bho0/what_is_the_best_food_that_you_have_ever_eaten/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/AskReddit/comments/1e8bho0/what_is_the_best_food_that_you_have_ever_eaten/&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQFnoECEAQAQ",
+            "displayed_link": "300+ comments \u00b7 1 year ago",
+            "favicon": "https://serpapi.com/searches/68b87673b255a87af0fc4c8c/images/f5a3ca0afc1659df1b906021e13ed5bb07be89720550209e550fc2b65040c83d.png",
+            "snippet": "The brown butter lobster roll from Eventide Oyster Co in Portland, Maine. Hands down. I think about it daily. Had it 5/6 years ago.",
+            "snippet_highlighted_words": [
+                "The brown butter lobster roll from Eventide Oyster Co in Portland, Maine"
+            ],
+            "sitelinks": {
+                "list": [
+                    {
+                        "title": "First time in LA. What are some must eat food? - Reddit",
+                        "link": "https://www.reddit.com/r/FoodLosAngeles/comments/1bv5p8w/first_time_in_la_what_are_some_must_eat_food/",
+                        "answer_count": 51,
+                        "date": "Apr 3, 2024"
+                    },
+                    {
+                        "title": "Planning to move to Plano, what's some good food ...",
+                        "link": "https://www.reddit.com/r/plano/comments/1itjvaw/planning_to_move_to_plano_whats_some_good_food/",
+                        "answer_count": 111,
+                        "date": "Feb 20, 2025"
+                    }
+                ]
+            },
+            "source": "Reddit \u00b7 r/AskReddit"
+        },
+        {
+            "position": 3,
+            "title": "I Ate The World's Best Street Food",
+            "link": "https://www.youtube.com/watch?v=cAgsmgXWZr4",
+            "displayed_link": "23.7M+ views \u00b7 2 months ago",
+            "thumbnail": "https://serpapi.com/searches/68b87673b255a87af0fc4c8c/images/f5a3ca0afc1659df1b906021e13ed5bb967d33986231cbd36fea36ed16d25688.jpeg",
+            "favicon": "https://serpapi.com/searches/68b87673b255a87af0fc4c8c/images/f5a3ca0afc1659df1b906021e13ed5bb11e43b82f8294359bb4791c4ab444df7.png",
+            "snippet": "I'm traveling the world to find the best street food on the planet ranging from chili crab in Singapore to durian in Malaysia and so much more.",
+            "duration": "25:22",
+            "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQB9EOc0xiaPjlL-bh32ZKAUzhU0awOczscAg",
+            "source": "YouTube \u00b7 Nick DiGiovanni"
+        },
+        {
+            "position": 4,
+            "title": "TOP 10 BEST Food in Fort Worth, TX - Updated 2025",
+            "link": "https://www.yelp.com/search?find_desc=Food&find_loc=Fort+Worth%2C+TX",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.yelp.com/search%3Ffind_desc%3DFood%26find_loc%3DFort%2BWorth%252C%2BTX&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQFnoECGoQAQ",
+            "displayed_link": "https://www.yelp.com \u203a Restaurants",
+            "favicon": "https://serpapi.com/searches/68b87673b255a87af0fc4c8c/images/f5a3ca0afc1659df1b906021e13ed5bbd275ccf72b6ea9e493cb187ce7a47216.png",
+            "snippet": "Top 10 Best Food Near Fort Worth, Texas \u00b7 1. Terry Black's Barbecue \u00b7 2. Hatsuyuki Handroll Bar \u00b7 3. The Archibald \u00b7 4. Fire Pot \u00b7 5. Bite My Biscuit \u00b7 6. The ...",
+            "snippet_highlighted_words": [
+                "1. Terry Black's Barbecue"
+            ],
+            "source": "Yelp"
+        },
+        {
+            "position": 5,
+            "title": "What is the best food you have eaten?",
+            "link": "https://www.quora.com/What-is-the-best-food-you-have-eaten",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quora.com/What-is-the-best-food-you-have-eaten&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQFnoFCIcBEAE",
+            "displayed_link": "610+ answers \u00b7 9 years ago",
+            "favicon": "https://serpapi.com/searches/68b87673b255a87af0fc4c8c/images/f5a3ca0afc1659df1b906021e13ed5bbd865058d2fe92a56687dbd81045e5a01.png",
+            "snippet": "Buffalo Wings. No craving is as fierce and relentless! The picture below looks pretty much like how I would like them...fried but not breaded ...",
+            "snippet_highlighted_words": [
+                "Buffalo Wings"
+            ],
+            "source": "Quora"
+        },
+        {
+            "position": 6,
+            "title": "Where to Eat in Seattle: Must-Try Restaurants for Every Foodie ...",
+            "link": "https://www.thetruthtraveller.com/blog/where-to-eat-in-seattle-must-try-restaurants-for-every-foodie",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.thetruthtraveller.com/blog/where-to-eat-in-seattle-must-try-restaurants-for-every-foodie&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQFnoFCJ4BEAE",
+            "displayed_link": "https://www.thetruthtraveller.com \u203a blog \u203a where-to-eat...",
+            "favicon": "https://serpapi.com/searches/68b87673b255a87af0fc4c8c/images/f5a3ca0afc1659df1b906021e13ed5bb9bfe1b2ea6c05cb28350426e0692d133.png",
+            "date": "Mar 23, 2025",
+            "snippet": "Discover the best places to eat in Seattle, from fresh seafood at Pike Place Market to top-rated Italian at Cortina, unparalleled Chinese at ...",
+            "snippet_highlighted_words": [
+                "fresh seafood at Pike Place Market"
+            ],
+            "source": "thetruthtraveller.com"
+        },
+        {
+            "position": 7,
+            "title": "What's the one food we should eat, at which place?",
+            "link": "https://www.tripadvisor.com/ShowTopic-g50207-i345-k14783910-What_s_the_one_food_we_should_eat_at_which_place-Cleveland_Ohio.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tripadvisor.com/ShowTopic-g50207-i345-k14783910-What_s_the_one_food_we_should_eat_at_which_place-Cleveland_Ohio.html&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQFnoECD4QAQ",
+            "displayed_link": "https://www.tripadvisor.com \u203a ShowTopic-g50207-i34...",
+            "favicon": "https://serpapi.com/searches/68b87673b255a87af0fc4c8c/images/f5a3ca0afc1659df1b906021e13ed5bbb245daf9a840854e5c520eb7c70a4976.png",
+            "date": "Jun 4, 2024",
+            "snippet": "I know Marie's Restaurant on St. Clair Ave. has good central European food. I believe it's Slovenian.",
+            "snippet_highlighted_words": [
+                "Marie's Restaurant on St. Clair Ave"
+            ],
+            "source": "Tripadvisor"
+        },
+        {
+            "position": 8,
+            "title": "Must-try eats in Houston - Texas: Dining",
+            "link": "https://forums.egullet.org/topic/34995-must-try-eats-in-houston/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://forums.egullet.org/topic/34995-must-try-eats-in-houston/&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQFnoECGwQAQ",
+            "displayed_link": "https://forums.egullet.org \u203a ... \u203a Texas \u203a Texas: Dining",
+            "favicon": "https://serpapi.com/searches/68b87673b255a87af0fc4c8c/images/f5a3ca0afc1659df1b906021e13ed5bb6e2cd89db42d2b7136f6a7d3d52994a4.png",
+            "date": "Jan 13, 2004",
+            "snippet": "Bodacious sandwiches; 2. The best BBQ; 3. Small restaurants where the chef cooks with passion and individuality. I write about restaurants for ...",
+            "snippet_highlighted_words": [
+                "Bodacious sandwiches"
+            ],
+            "source": "eGullet Forums"
+        },
+        {
+            "position": 9,
+            "title": "Great Food Philadelphia, PA - Last Updated September 2025",
+            "link": "https://www.yelp.com/search?find_desc=Great+Food&find_loc=Philadelphia%2C+PA",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.yelp.com/search%3Ffind_desc%3DGreat%2BFood%26find_loc%3DPhiladelphia%252C%2BPA&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQFnoECGsQAQ",
+            "displayed_link": "https://www.yelp.com \u203a Restaurants",
+            "favicon": "https://serpapi.com/searches/68b87673b255a87af0fc4c8c/images/f5a3ca0afc1659df1b906021e13ed5bb2ada66c584de554e3f23563f2d8bae68.png",
+            "snippet": "Top 10 Best Great Food in Philadelphia, PA - Last Updated August 2025 - Yelp - The Love, Grandmas Philly, El Fogon Latino Restaurant, Tortilleria San Roman, ...",
+            "snippet_highlighted_words": [
+                "The Love"
+            ],
+            "source": "Yelp"
+        },
+        {
+            "position": 10,
+            "title": "What's the most delicious food you have tried in Sioux Falls ...",
+            "link": "https://www.quora.com/What-s-the-most-delicious-food-you-have-tried-in-Sioux-Falls-SD",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quora.com/What-s-the-most-delicious-food-you-have-tried-in-Sioux-Falls-SD&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQFnoECHwQAQ",
+            "displayed_link": "7 answers \u00b7 6 years ago",
+            "favicon": "https://serpapi.com/searches/68b87673b255a87af0fc4c8c/images/f5a3ca0afc1659df1b906021e13ed5bb78f15f7298bee41468299bccfdf67db2.png",
+            "snippet": "Fiero Pizza is awesome and has been rated the best pizza in South Dakota. Boss' Pizza and Tomacelli's are usually pretty good and offer some ...",
+            "snippet_highlighted_words": [
+                "Fiero Pizza is awesome and has been rated the best pizza in South Dakota"
+            ],
+            "source": "Quora"
+        },
+        {
+            "position": 11,
+            "title": "Siler City NC - Bestfood Cafeteria",
+            "link": "https://www.facebook.com/BestfoodSilerCity/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/BestfoodSilerCity/&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQFnoFCJEBEAE",
+            "displayed_link": "4.2K+ followers",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSolwI3fCSjX5CWIb1eoOnl5oXxecUyJh_-Z1Sag2ZNVaKx_DunGzFS&usqp=CAE&s",
+            "favicon": "https://serpapi.com/searches/68b87673b255a87af0fc4c8c/images/f5a3ca0afc1659df1b906021e13ed5bb61bdd7222afd2dabafb1550333eb1d85.png",
+            "snippet": "Menu for Tuesday, September 2nd Meats Chicken Pie Fried Chicken Country Style Steak Fried Chicken Salmon Patties BBQ Chicken Bourbon Chicken Ranch Chicken ...",
+            "snippet_highlighted_words": [
+                "Menu for Tuesday, September 2nd"
+            ],
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "rating": 4.4,
+                        "reviews": 100
+                    },
+                    "extensions": [
+                        "4.4(100)"
+                    ]
+                }
+            },
+            "source": "Facebook \u00b7 Bestfood Cafeteria"
+        },
+        {
+            "position": 12,
+            "title": "Best Ever Food Review Show",
+            "link": "https://www.youtube.com/channel/UCcAd5Np7fO8SeejB1FVKcYw",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/channel/UCcAd5Np7fO8SeejB1FVKcYw&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQFnoFCJwBEAE",
+            "displayed_link": "11.7M+ followers",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEbxMP_fm4nIRhP_IB_FVNHIHZNy2q99R3ZXpHfViEmI0gMvL5LSGE&usqp=CAE&s",
+            "favicon": "https://serpapi.com/searches/68b87673b255a87af0fc4c8c/images/f5a3ca0afc1659df1b906021e13ed5bb0e98fa7f83fdc676c342106e795c9d0d.png",
+            "snippet": "I travel to unique parts of the world on the hunt for the best food each country has to offer and share these stories with you in my videos. ...more",
+            "snippet_highlighted_words": [
+                "best food each country has to offer"
+            ],
+            "source": "YouTube \u00b7 Best Ever Food Review Show"
+        },
+        {
+            "position": 13,
+            "title": "Insanely Cheesy #DDD Pasta Videos with Guy Fieri Diners ...",
+            "link": "https://www.youtube.com/watch?v=l2LkssCdlfw",
+            "displayed_link": "15.1K+ views \u00b7 18 hours ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxvTwvJ08VK2rT-UkpPG2Of68iVT1C1tcbj0ymkUI1cgL2TJWO0hmpZbjkMY0d&s&ec=73086138",
+            "favicon": "https://serpapi.com/searches/68b87673b255a87af0fc4c8c/images/f5a3ca0afc1659df1b906021e13ed5bba1550215309af09f517df194c6c7ad6d.png",
+            "snippet": "Get ready to take a trip to Flavortown with Guy Fieri as we dive into the cheesiest pasta videos ever featured on Diners, Drive-Ins and ...",
+            "duration": "28:42",
+            "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRfezFRT7f9er9yGq9ldp60N-rtNN864F6nbg",
+            "source": "YouTube \u00b7 Food Network"
+        },
+        {
+            "position": 14,
+            "title": "What is the ULTIMATE Chicago food or dish we should try?",
+            "link": "https://www.tripadvisor.com/ShowTopic-g35805-i32-k7714373-What_is_the_ULTIMATE_Chicago_food_or_dish_we_should_try-Chicago_Illinois.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tripadvisor.com/ShowTopic-g35805-i32-k7714373-What_is_the_ULTIMATE_Chicago_food_or_dish_we_should_try-Chicago_Illinois.html&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQFnoFCKABEAE",
+            "displayed_link": "https://www.tripadvisor.com \u203a ShowTopic-g35805-i32-...",
+            "favicon": "https://serpapi.com/searches/68b87673b255a87af0fc4c8c/images/f5a3ca0afc1659df1b906021e13ed5bbd782677ba2daa6be4f2c76cb4c1ec681.png",
+            "date": "Aug 12, 2014",
+            "snippet": "You can try the iconic Chicago things like deep dish pizza, hotdogs, italian beef they are fine. No big deal IMO. Or you could look at Chicago food on a ...",
+            "snippet_highlighted_words": [
+                "deep dish pizza, hotdogs, italian beef"
+            ],
+            "source": "Tripadvisor"
+        },
+        {
+            "position": 15,
+            "title": "This is one of the best Food festivals in the country. Catch me ...",
+            "link": "https://www.tiktok.com/@vibesinatl/video/7545493288623656223",
+            "displayed_link": "205K+ views \u00b7 1 day ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsfPXAnNjjLoSqoGy8Nf-uQF127L8B-oZo7h6T2i1F8gstjnxXYNjdO_loio6D&s&ec=73086138",
+            "favicon": "https://serpapi.com/searches/68b87673b255a87af0fc4c8c/images/f5a3ca0afc1659df1b906021e13ed5bbe515194881bc3bc0aebb8540d528f9e6.png",
+            "snippet": "Catch me at the @AtlantaFood&WineFestival Festival Tasting Tents presented by Goya Foods serving up bold bites and repping Southern flavor, my ...",
+            "duration": "0:33",
+            "source": "TikTok \u00b7 VibesinATL"
+        },
+        {
+            "position": 16,
+            "title": "Best meal at New Orleans restaurant",
+            "link": "https://www.facebook.com/groups/neworleansfoodies/posts/2006930030143350/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/neworleansfoodies/posts/2006930030143350/&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQFnoFCKwBEAE",
+            "displayed_link": "50+ comments \u00b7 1 day ago",
+            "favicon": "https://serpapi.com/searches/68b87673b255a87af0fc4c8c/images/f5a3ca0afc1659df1b906021e13ed5bb5d8dfeefb30a14f9f7e1b4deb9c59d98.png",
+            "snippet": "Finally tried Jacques Imos! May be the best meal I've ever had. I got the short rib special, Robert got the swordfish special, and my brother ...",
+            "snippet_highlighted_words": [
+                "Jacques Imos"
+            ],
+            "source": "Facebook \u00b7 New Orleans Foodies"
+        },
+        {
+            "position": 17,
+            "title": "Why Wendy's Is The BEST Fast Food Restaurant",
+            "link": "https://www.youtube.com/watch?v=l3rc9IQ7_Dc",
+            "displayed_link": "42.3K+ views \u00b7 19 hours ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_N8ASJ9GIyiVPGL6D6eqfKbMU6xr_-G_LWZ_HLKWfFuXswC2ANjn_ebdhkdi5&s&ec=73086138",
+            "favicon": "https://serpapi.com/searches/68b87673b255a87af0fc4c8c/images/f5a3ca0afc1659df1b906021e13ed5bb081dbb923931bd280d3c1805adc32d4d.png",
+            "snippet": "Why Wendy's Is The BEST Fast Food Restaurant. 42K views \u00b7 15 hours ... Grocery Store Food is NOT Supposed To Be This Good.. KingSchratz ...",
+            "duration": "10:18",
+            "source": "YouTube \u00b7 KingSchratz"
+        },
+        {
+            "position": 18,
+            "title": "What to Eat and Drink at This Year's U.S. Open",
+            "link": "https://www.grubstreet.com/article/us-open-tennis-best-food.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.grubstreet.com/article/us-open-tennis-best-food.html&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQFnoECDoQAQ",
+            "displayed_link": "https://www.grubstreet.com \u203a us-open-tennis-best-food",
+            "favicon": "https://serpapi.com/searches/68b87673b255a87af0fc4c8c/images/f5a3ca0afc1659df1b906021e13ed5bb7a14c714b419bb1426dae76333a2d16b.png",
+            "date": "Aug 25, 2025",
+            "snippet": "Technically, the U.S. Open is a tennis tournament. But it's also an excellent food festival. Here are our picks for the best steaks, shrimp ...",
+            "snippet_highlighted_words": [
+                "Here are our picks for the best steaks, shrimp"
+            ],
+            "source": "Grub Street"
+        },
+        {
+            "position": 19,
+            "title": "The Ultimate NYC Food Bucket List in 2025 (99 Best ...",
+            "link": "https://localadventurer.com/places-to-eat-in-nyc-food-bucket-list/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://localadventurer.com/places-to-eat-in-nyc-food-bucket-list/&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQFnoECDkQAQ",
+            "displayed_link": "https://localadventurer.com \u203a Recent Posts",
+            "favicon": "https://serpapi.com/searches/68b87673b255a87af0fc4c8c/images/f5a3ca0afc1659df1b906021e13ed5bb19b52e7aa16e6ec9d20d3c64cf20550f.png",
+            "snippet": "We've tried all the three starred Michelin restaurants as well as many of the cheapest eats in the city. 99 Best Places to Eat in NYC Food Bucket List",
+            "snippet_highlighted_words": [
+                "eats",
+                "Best",
+                "Food"
+            ],
+            "source": "Local Adventurer"
+        },
+        {
+            "position": 20,
+            "title": "Explore Seattle's Best Food Spots on a Morning Out",
+            "link": "https://www.tiktok.com/@danielhwin/video/7544147264923569438",
+            "displayed_link": "4.2K+ views \u00b7 4 days ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjG8bF7TF8NZ5tM7uMieMtpa39c5BLVjbCKqQ8IDQ2pklnDgIPnQflk7X0VSVE&s&ec=73086138",
+            "favicon": "https://serpapi.com/searches/68b87673b255a87af0fc4c8c/images/f5a3ca0afc1659df1b906021e13ed5bb668d4f20ac79cd1cd8fe3f4db7075f7c.png",
+            "snippet": "Join me for a delightful morning of eating in Seattle. Discover local favorites including Hello Em and more! #seattle #food #pnw #CapCut.",
+            "duration": "0:57",
+            "source": "TikTok \u00b7 Daniel | PHL Chinatown Foodie"
+        },
+        {
+            "position": 21,
+            "title": "The best dishes I ate in Utah this year",
+            "link": "https://gastronomicslc.com/2024/12/31/the-best-dishes-i-ate-in-utah-this-year/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://gastronomicslc.com/2024/12/31/the-best-dishes-i-ate-in-utah-this-year/&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQFnoECGAQAQ",
+            "displayed_link": "https://gastronomicslc.com \u203a 2024/12/31 \u203a the-best-dish...",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdzIThL-sYx-hmz4bEJoFExqIocc-DQ_1l3oYBx_ogzmfcTNmd7wys&usqp=CAE&s",
+            "favicon": "https://serpapi.com/searches/68b87673b255a87af0fc4c8c/images/f5a3ca0afc1659df1b906021e13ed5bb21953f42a677034fecc3653165198d42.png",
+            "date": "Dec 31, 2024",
+            "snippet": "The best dishes I ate in Utah this year \u00b7 Wisteria \u00b7 Bhansa Ghar \u00b7 Felt Bar & Eatery \u00b7 Koyote \u00b7 Pho 777 \u00b7 Enrico's Deli \u00b7 Drunken Kitchen.",
+            "snippet_highlighted_words": [
+                "Wisteria"
+            ],
+            "source": "Gastronomic Salt Lake City"
+        },
+        {
+            "position": 22,
+            "title": "The 20 Best Things I Ate in 2024, in New Jersey",
+            "link": "https://thedigestonline.com/dining/the-20-best-things-i-ate-in-2024-in-new-jersey/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://thedigestonline.com/dining/the-20-best-things-i-ate-in-2024-in-new-jersey/&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQFnoECF4QAQ",
+            "displayed_link": "https://thedigestonline.com \u203a dining \u203a the-20-best-thing...",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSggb2fgk9xW5WlcGjs7Cpvbw5pEdLqwec86agiWFYObmClSmKW5Cvl&usqp=CAE&s",
+            "favicon": "https://serpapi.com/searches/68b87673b255a87af0fc4c8c/images/f5a3ca0afc1659df1b906021e13ed5bbf05cd32a53f2284bfb4352880faabf24.png",
+            "date": "Dec 30, 2024",
+            "snippet": "From perfect pizza pies to stuffed pork gyros, nothing is off-limits. Without further ado, these are the best bites I've had\u2014in New Jersey\u2014in ...",
+            "snippet_highlighted_words": [
+                "perfect pizza pies"
+            ],
+            "source": "New Jersey Digest"
+        },
+        {
+            "position": 23,
+            "title": "My 24 Favorite Restaurants in Brooklyn - Alex Reichek",
+            "link": "https://alexreichek.com/best-restaurants-brooklyn/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://alexreichek.com/best-restaurants-brooklyn/&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQFnoECHoQAQ",
+            "displayed_link": "https://alexreichek.com \u203a Where to Eat",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdN0GWuJDObLOFUkYyyCh9FnhEsS6ZedxCPW36dnZyPUieYKB9Angc&usqp=CAE&s",
+            "favicon": "https://serpapi.com/searches/68b87673b255a87af0fc4c8c/images/f5a3ca0afc1659df1b906021e13ed5bbfb38e9485d579cf98afcfa5da01ce575.png",
+            "snippet": "A guide for all of you to discover the top places to eat! There's some classic favorites and a lot of new hot spots as I'm always updating this list.",
+            "snippet_highlighted_words": [
+                "classic favorites and a lot of new hot spots"
+            ],
+            "source": "alexreichek.com"
+        },
+        {
+            "position": 24,
+            "title": "States' Plates",
+            "link": "https://www.foodnetwork.com/restaurants/packages/best-food-in-america",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.foodnetwork.com/restaurants/packages/best-food-in-america&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQFnoECHkQAQ",
+            "displayed_link": "https://www.foodnetwork.com \u203a Restaurants",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMw8JN16duom-Vj8bLbkLy5ER6e5hSjEXpZZ81A6DD_Cazjjl-SoQL&usqp=CAE&s",
+            "favicon": "https://serpapi.com/searches/68b87673b255a87af0fc4c8c/images/f5a3ca0afc1659df1b906021e13ed5bba11e36739bdc8e6082a9edd09684ebf0.png",
+            "snippet": "Find out where to get the top dishes from every state, including avocado toast in California, beignets in New Orleans, deep-dish pizza in Illinois and more.",
+            "snippet_highlighted_words": [
+                "avocado toast in California, beignets in New Orleans, deep-dish pizza in Illinois"
+            ],
+            "source": "Food Network"
+        },
+        {
+            "position": 25,
+            "title": "How Japan is Destroying American Fast Food!!",
+            "link": "https://www.youtube.com/watch?v=eeyJt_bXxhA",
+            "displayed_link": "5.2M+ views \u00b7 9 months ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHJeT15qLFQNe5b3TPJRLMfhSgmiOUJ7FTQwHJW1zEsSCuyk6PdySrncXS-VwU&s&ec=73086138",
+            "favicon": "https://serpapi.com/searches/68b87673b255a87af0fc4c8c/images/f5a3ca0afc1659df1b906021e13ed5bb9655fc9b4ad06ef3565e4e94f5c9e6f2.png",
+            "snippet": "How China is DESTROYING American Fast Food!! \u00b7 How Japan is Destroying American Restaurants!! \u00b7 How Thailand is DESTROYING American Fast Food!! \u00b7 I ...",
+            "duration": "20:22",
+            "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQLZJY8Nrp_eQzv1PUpk2ZuZejiPXlJMMVtUg",
+            "source": "YouTube \u00b7 More Best Ever Food Review Show"
+        },
+        {
+            "position": 26,
+            "title": "The Top 25 Best Dishes of 2024 - Our Favorite Bites ...",
+            "link": "https://andershusa.com/the-top-25-best-dishes-of-2024/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://andershusa.com/the-top-25-best-dishes-of-2024/&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQFnoECG0QAQ",
+            "displayed_link": "https://andershusa.com \u203a the-top-25-best-dishes-of-2024",
+            "favicon": "https://serpapi.com/searches/68b87673b255a87af0fc4c8c/images/f5a3ca0afc1659df1b906021e13ed5bb7c96e0bbcc65ef36ec4761bdb7c0d70e.png",
+            "date": "Dec 30, 2024",
+            "snippet": "Discover the top 25 best dishes of 2024! These were our favorite bites this year as we traveled the world around Scandinavia and beyond.",
+            "snippet_highlighted_words": [
+                "best dishes of 2024"
+            ],
+            "source": "Anders & Kaitlin"
+        },
+        {
+            "position": 27,
+            "title": "A Guide to the Best Food and Drink in Philly",
+            "link": "https://www.visitphilly.com/food-drink/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.visitphilly.com/food-drink/&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQFnoFCIQBEAE",
+            "displayed_link": "https://www.visitphilly.com \u203a food-drink",
+            "favicon": "https://serpapi.com/searches/68b87673b255a87af0fc4c8c/images/f5a3ca0afc1659df1b906021e13ed5bb793efdf80cdc17b9b9e16f89a392143c.png",
+            "snippet": "Discover the best food and drink in Philly. Explore the best restaurants and bars for delicious and diverse food (including 300+ BYOB).",
+            "snippet_highlighted_words": [
+                "Explore the best restaurants and bars"
+            ],
+            "source": "Visit Philadelphia"
+        },
+        {
+            "position": 28,
+            "title": "One of the best beef burgers @klappakistan . . . . [ fashion ...",
+            "link": "https://www.instagram.com/reel/DOI9j0qDGTv/",
+            "displayed_link": "2 likes \u00b7 4 hours ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJOxIbAy4cuba4BE8mIO6ZoFGsfXbIZCitkiqmcA1eWvr9VBD29WYs4CshJdXl&s&ec=73086138",
+            "favicon": "https://serpapi.com/searches/68b87673b255a87af0fc4c8c/images/f5a3ca0afc1659df1b906021e13ed5bb65818f631a8536ddc814c19632353348.png",
+            "snippet": "So ji clap has launched a new menu and I went to their Lahore Jahattan branch to try them out. I tried their in house fabric smash burger it ...",
+            "duration": "0:26",
+            "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTO7CPoFiQYO2P5YP-SFpQbD0Is6oqt4t5uFQ",
+            "source": "Instagram \u00b7 khushbajamshaid"
+        },
+        {
+            "position": 29,
+            "title": "Best Places to Eat in Cedar Rapids",
+            "link": "https://www.tourismcedarrapids.com/restaurants/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tourismcedarrapids.com/restaurants/&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQFnoFCIMBEAE",
+            "displayed_link": "https://www.tourismcedarrapids.com \u203a restaurants",
+            "favicon": "https://serpapi.com/searches/68b87673b255a87af0fc4c8c/images/f5a3ca0afc1659df1b906021e13ed5bb4950976e898fabef857a75b0b9e6a257.png",
+            "snippet": "Explore our guide to the best places to eat in Cedar Rapids featuring restaurants like Cellar 19 Wine & Deli, 16th Ave Grill, 30 Hop, 350 First, and more!",
+            "snippet_highlighted_words": [
+                "best places to eat in Cedar Rapids"
+            ],
+            "source": "Cedar Rapids Tourism"
+        },
+        {
+            "position": 30,
+            "title": "My Honest Review Of Royal Caribbean's New Star Of The ...",
+            "link": "https://www.delish.com/food/a65830280/royal-caribbean-star-of-the-seas-best-food-drinks/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.delish.com/food/a65830280/royal-caribbean-star-of-the-seas-best-food-drinks/&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQFnoFCIUBEAE",
+            "displayed_link": "https://www.delish.com \u203a food \u203a royal-caribbean-star-o...",
+            "favicon": "https://serpapi.com/searches/68b87673b255a87af0fc4c8c/images/f5a3ca0afc1659df1b906021e13ed5bb613a31a8ef3622d1d857a6c29a761ce6.png",
+            "date": "5 days ago",
+            "snippet": "Some of the best food is free, while luxe dining and drink packages come at a cost. Don't miss highlights like Sorrento's pizza, the supper club ...",
+            "snippet_highlighted_words": [
+                "best food"
+            ],
+            "source": "Delish"
+        },
+        {
+            "position": 31,
+            "title": "I Tried The Best Street Food In America",
+            "link": "https://www.youtube.com/watch?v=X1S05ZClQj4",
+            "displayed_link": "4.7M+ views \u00b7 5 months ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmbPn9pUPcJMw-1ZNFTvJOp7HD6JF_4pjia-gShC8cc52ZSpWLc67pm4njjMel&s&ec=73086138",
+            "favicon": "https://serpapi.com/searches/68b87673b255a87af0fc4c8c/images/f5a3ca0afc1659df1b906021e13ed5bb37b2a295a404a7f11f6954a294922ad4.png",
+            "snippet": "We asked you the audience which cities have the best street food in America after thousands of responses we have our top four.",
+            "duration": "34:56",
+            "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRElEw4phTbvdCHQH35EsoZT64kYTsS4u7uig",
+            "source": "YouTube \u00b7 Joshua Weissman"
+        },
+        {
+            "position": 32,
+            "title": "TasteAtlas Awards 24/25 - What's the Best Food in ...",
+            "link": "https://www.tasteatlas.com/best",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tasteatlas.com/best&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQFnoFCJIBEAE",
+            "displayed_link": "https://www.tasteatlas.com \u203a best",
+            "favicon": "https://serpapi.com/searches/68b87673b255a87af0fc4c8c/images/f5a3ca0afc1659df1b906021e13ed5bb15d058c07d3d12d6246fd046aef48e9d.png",
+            "snippet": "TasteAtlas Traditional Food Awards: Best dishes, best cuisines, best cheeses, best food cities & regions, most legendary restaurants in the world.",
+            "snippet_highlighted_words": [
+                "Best dishes, best cuisines, best cheeses, best food cities & regions"
+            ],
+            "source": "TasteAtlas"
+        },
+        {
+            "position": 33,
+            "title": "The Best Way to Cook Salmon",
+            "link": "https://www.foodandwine.com/best-way-to-cook-salmon-11797741",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.foodandwine.com/best-way-to-cook-salmon-11797741&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQFnoFCJ8BEAE",
+            "displayed_link": "https://www.foodandwine.com \u203a best-way-to-cook-salm...",
+            "favicon": "https://serpapi.com/searches/68b87673b255a87af0fc4c8c/images/f5a3ca0afc1659df1b906021e13ed5bbd4550f7a89a70b2fd7362d77dba612cc.png",
+            "date": "2 days ago",
+            "snippet": "Starting salmon skin-side down in a cold nonstick skillet was the winning method, yielding deeply crisp skin and consistently tender, juicy fish ...",
+            "snippet_highlighted_words": [
+                "Starting salmon skin-side down in a cold nonstick skillet"
+            ],
+            "source": "Food & Wine"
+        },
+        {
+            "position": 34,
+            "title": "The 42 best foods to try in Omaha",
+            "link": "https://wanderlog.com/list/geoCategory/1809752/best-foods-to-try-in-omaha",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://wanderlog.com/list/geoCategory/1809752/best-foods-to-try-in-omaha&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQFnoFCJ0BEAE",
+            "displayed_link": "https://wanderlog.com \u203a list \u203a geoCategory \u203a best-foods...",
+            "favicon": "https://serpapi.com/searches/68b87673b255a87af0fc4c8c/images/f5a3ca0afc1659df1b906021e13ed5bb8f3a18941f0b7002be343c6801a79e99.png",
+            "snippet": "We've collected the most-often-mentioned 42 places from other articles, including favorites like Block 16, Yoshitomo, and M's Pub.",
+            "snippet_highlighted_words": [
+                "Block 16, Yoshitomo, and M's Pub"
+            ],
+            "source": "Wanderlog"
+        },
+        {
+            "position": 35,
+            "title": "St. Louis' Top 25 Restaurants Right Now, According to Yelp",
+            "link": "https://www.riverfronttimes.com/st-louis-top-25-restaurants-right-now-according-to-yelp/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.riverfronttimes.com/st-louis-top-25-restaurants-right-now-according-to-yelp/&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQFnoFCLcBEAE",
+            "displayed_link": "https://www.riverfronttimes.com \u203a News",
+            "favicon": "https://serpapi.com/searches/68b87673b255a87af0fc4c8c/images/f5a3ca0afc1659df1b906021e13ed5bb1b895fbc1232a36e48913738527c3c01.png",
+            "date": "Apr 11, 2025",
+            "snippet": "MABEL SUEN. 25. Hamilton's Urban Steakhouse and Bourbon Bar \u00b7 1 of 25 ; Courtesy Niche Food Group. 24. Brasserie by Niche \u00b7 2 of 25 ; Google Maps.",
+            "snippet_highlighted_words": [
+                "Hamilton's Urban Steakhouse and Bourbon Bar"
+            ],
+            "source": "Riverfront Times"
+        },
+        {
+            "position": 36,
+            "title": "The 38 Best Restaurants in San Francisco",
+            "link": "https://sf.eater.com/maps/best-restaurants-san-francisco-38",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sf.eater.com/maps/best-restaurants-san-francisco-38&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQFnoFCK0BEAE",
+            "displayed_link": "https://sf.eater.com \u203a maps \u203a best-restaurants-san-francisc...",
+            "favicon": "https://serpapi.com/searches/68b87673b255a87af0fc4c8c/images/f5a3ca0afc1659df1b906021e13ed5bb15f5d300820c88fb19dd9ff7eb755bf5.png",
+            "snippet": "Lunette's well-priced, crunchy, chewy, and spicy menu is some of the best food in the city, and certainly at the Ferry Building and along the waterfront. The ...",
+            "snippet_highlighted_words": [
+                "Lunette's well-priced, crunchy, chewy, and spicy menu"
+            ],
+            "source": "Eater San Francisco"
+        },
+        {
+            "position": 37,
+            "title": "88 All-Time Best Dinner Recipes",
+            "link": "https://www.food.com/ideas/all-time-best-dinner-recipes-6009",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.food.com/ideas/all-time-best-dinner-recipes-6009&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQFnoFCLQBEAE",
+            "displayed_link": "https://www.food.com \u203a ideas \u203a all-time-best-dinner-rec...",
+            "favicon": "https://serpapi.com/searches/68b87673b255a87af0fc4c8c/images/f5a3ca0afc1659df1b906021e13ed5bbc32f37b855d3def6c5bd21a582658a99.png",
+            "snippet": "Explore this collection of our all-time best dinner recipes for main dishes, sides and salads. Heres what you want to eat for dinner right now, ...",
+            "snippet_highlighted_words": [
+                "our all-time best dinner recipes"
+            ],
+            "source": "Food.com"
+        },
+        {
+            "position": 38,
+            "title": "How To Spend A Long Weekend In Boone, North Carolina ...",
+            "link": "https://www.southernliving.com/boone-nc-11800987?srsltid=AfmBOooEX5WUSAmPpZ5BR8ufZKdZC80H1IvtTkPh1ZJ0Rrbx_ukonhJW",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.southernliving.com/boone-nc-11800987%3Fsrsltid%3DAfmBOooEX5WUSAmPpZ5BR8ufZKdZC80H1IvtTkPh1ZJ0Rrbx_ukonhJW&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQFnoECD0QAQ",
+            "displayed_link": "https://www.southernliving.com \u203a ... \u203a North Carolina",
+            "favicon": "https://serpapi.com/searches/68b87673b255a87af0fc4c8c/images/f5a3ca0afc1659df1b906021e13ed5bb2c391f67b5bdb6546b60c7d5f6744d30.png",
+            "date": "3 days ago",
+            "snippet": "There's a tasting room, a restaurant, a beer garden, and a food truck serving barbecue. Another popular watering hole is Appalachian Mountain ...",
+            "snippet_highlighted_words": [
+                "There's a tasting room, a restaurant, a beer garden, and a food truck serving barbecue"
+            ],
+            "source": "Southern Living"
+        },
+        {
+            "position": 39,
+            "title": "Best Eats - Bay Area",
+            "link": "https://www.kitchenknifeforums.com/threads/best-eats-bay-area.55121/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.kitchenknifeforums.com/threads/best-eats-bay-area.55121/&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQFnoECDsQAQ",
+            "displayed_link": "https://www.kitchenknifeforums.com \u203a threads \u203a best-e...",
+            "favicon": "https://serpapi.com/searches/68b87673b255a87af0fc4c8c/images/f5a3ca0afc1659df1b906021e13ed5bbd240011204663dc9df3d85f8b978ffb1.png",
+            "date": "Aug 25, 2021",
+            "snippet": "House of Prime Rib is legendary...highly recommended! June's Pizza is also superb, but takeout only. Pro tip: Bring beer and wine and eat on the picnic tables in ...",
+            "snippet_highlighted_words": [
+                "House of Prime Rib is legendary"
+            ],
+            "source": "Kitchen Knife Forums"
+        },
+        {
+            "position": 40,
+            "title": "#1 Food Country in the World?? I Put it to the Test!",
+            "link": "https://www.youtube.com/watch?v=Cch4mayoNgg",
+            "displayed_link": "3.2M+ views \u00b7 5 months ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbyLOeJPEZ2EPyoY2alpvjmKqZVoFf7dcVSzkr0XuXfL420AaUcBslLd5o_wWi&s&ec=73086138",
+            "favicon": "https://serpapi.com/searches/68b87673b255a87af0fc4c8c/images/f5a3ca0afc1659df1b906021e13ed5bb4c948c5f04add0c14ae958f1ddcdf121.png",
+            "snippet": "The number one Cuisine across the planet is Moroccan Cuisine. Today after trying this country's most iconic dishes all decided Morocco truly should carry the crown of Best Food Country.",
+            "duration": "23:54",
+            "key_moments": [
+                {
+                    "time": "00:00",
+                    "title": "\u00bb Intro",
+                    "link": "https://www.youtube.com/watch?v=Cch4mayoNgg&t=0",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA2V8QAnWjoBczxK2fbSGA7xq9vNhoV3Sdp3_-cFJ_vA&s"
+                },
+                {
+                    "time": "01:32",
+                    "title": "\u00bb Khobz Bread",
+                    "link": "https://www.youtube.com/watch?v=Cch4mayoNgg&t=92",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD65qagD0GMcqLsktBHpayTK37DN6y4JfBUnIsutpX1Q&s"
+                },
+                {
+                    "time": "03:25",
+                    "title": "\u00bb Goat & Chicken Tagine",
+                    "link": "https://www.youtube.com/watch?v=Cch4mayoNgg&t=205",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnPutSnxugbYBC1RW1ByuaXmMzPCZg5UAz4-t5F31uyw&s"
+                },
+                {
+                    "time": "08:55",
+                    "title": "\u00bb Couscous & Beef",
+                    "link": "https://www.youtube.com/watch?v=Cch4mayoNgg&t=535",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIvetFYxGZrsNY74QnybFb_5vTMWdNWT-SGJ_O0HDKyQ&s"
+                },
+                {
+                    "time": "13:00",
+                    "title": "\u00bb Pigeon Pastilla",
+                    "link": "https://www.youtube.com/watch?v=Cch4mayoNgg&t=780",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB6GSLFiH3BZWBbZIg2fG68SLx01LxQeqjGk-sBG2SqQ&s"
+                },
+                {
+                    "time": "17:41",
+                    "title": "\u00bb Chicken Rfissa",
+                    "link": "https://www.youtube.com/watch?v=Cch4mayoNgg&t=1061",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzEt4emNmCihA09kCCIXtpgoRV9d-7o60aI1RvkBibXA&s"
+                },
+                {
+                    "time": "21:48",
+                    "title": "\u00bb Video Conclusion (Recap)",
+                    "link": "https://www.youtube.com/watch?v=Cch4mayoNgg&t=1308",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGhXMnBEqlLvBtoIgObXGzQqFF7G-PGMe-vo7O-L1KLA&s"
+                },
+                {
+                    "time": "22:37",
+                    "title": "\u00bb More Best Ever Food Review Show",
+                    "link": "https://www.youtube.com/watch?v=Cch4mayoNgg&t=1357",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL0qKk69MqJHB85bzp_ZpBrk7G42T2TJTSNlP2naUf3g&s"
+                },
+                {
+                    "time": "22:54",
+                    "title": "\u00bb Bloopers & LOLs",
+                    "link": "https://www.youtube.com/watch?v=Cch4mayoNgg&t=1374",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4iabt1TnzmNYA6gh1XsDVSk8uj1TaBuOvavQgFSOLKg&s"
+                },
+                {
+                    "time": "23:19",
+                    "title": "\u00bb Outro (Thanks & Peace!)",
+                    "link": "https://www.youtube.com/watch?v=Cch4mayoNgg&t=1399",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRZ4IBqfko6uz0LUVjncyEEFJZfOjteR-DwXFMVhHmzw&s"
+                }
+            ],
+            "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRFHNH_2unb8nldrg-Kx-PMJfguSUG3fTjEMA",
+            "source": "YouTube \u00b7 Best Ever Food Review Show"
+        },
+        {
+            "position": 41,
+            "title": "The 26 Best Dishes We Ate Across the U.S. in 2024",
+            "link": "https://www.nytimes.com/2024/12/17/dining/best-restaurant-dishes-america.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nytimes.com/2024/12/17/dining/best-restaurant-dishes-america.html&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQFnoECDwQAQ",
+            "displayed_link": "https://www.nytimes.com \u203a best-restaurant-dishes-america",
+            "favicon": "https://serpapi.com/searches/68b87673b255a87af0fc4c8c/images/f5a3ca0afc1659df1b906021e13ed5bbd1709ff99d6d00f9cc250f54882e3cb6.png",
+            "date": "Dec 19, 2024",
+            "snippet": "Whether soups or sweets, a single tasting-menu course or a perfect ham sandwich, these are the bites from 2024 that will linger in our minds well into the new ...",
+            "source": "The New York Times"
+        },
+        {
+            "position": 42,
+            "title": "The 10 Best Places to Eat in Rhode Island",
+            "link": "https://food52.com/story/26455-best-food-in-rhode-island",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://food52.com/story/26455-best-food-in-rhode-island&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQFnoECFMQAQ",
+            "displayed_link": "https://food52.com \u203a story \u203a 26455-best-food-in-rhode-i...",
+            "favicon": "https://serpapi.com/searches/68b87673b255a87af0fc4c8c/images/f5a3ca0afc1659df1b906021e13ed5bb355081f936b7d9b6bb695700ffd9f9bd.png",
+            "date": "Aug 4, 2021",
+            "snippet": "Rhode Island has no shortage of tasty treats to try, like clam cakes and Del's Lemonade. Here are some of the food destinations you can't leave ...",
+            "snippet_highlighted_words": [
+                "food"
+            ],
+            "source": "Food52"
+        },
+        {
+            "position": 43,
+            "title": "The Best (And Worst) Foods To Order At Sheetz",
+            "link": "https://www.thetakeout.com/sheetz-food-menu-what-to-order-best-worst-items-review-1850724705/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.thetakeout.com/sheetz-food-menu-what-to-order-best-worst-items-review-1850724705/&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQFnoECFUQAQ",
+            "displayed_link": "https://www.thetakeout.com \u203a Grocery \u203a Gas Stations",
+            "favicon": "https://serpapi.com/searches/68b87673b255a87af0fc4c8c/images/f5a3ca0afc1659df1b906021e13ed5bb4587b0ba39ac2cdf0868afac396023e7.png",
+            "date": "Jun 18, 2025",
+            "snippet": "The Sheetz foods with the \"best\" designation were those that either appeared to be higher quality, more nuanced, and bold in flavor, or had a more appealing ...",
+            "snippet_highlighted_words": [
+                "foods",
+                "best"
+            ],
+            "source": "The Takeout"
+        },
+        {
+            "position": 44,
+            "title": "Chattanooga, Tennessee: Discover the Best Food Spots",
+            "link": "https://www.instagram.com/reel/DOH3LuDjkb9/",
+            "displayed_link": "4.6K+ likes \u00b7 14 hours ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEQqeSu9qZJ0nZf7-uEUJsTdFpuYOtkul6Ue0ySONMgWkAh6ZB-cMGhfh1mJ0g&s&ec=73086138",
+            "favicon": "https://serpapi.com/searches/68b87673b255a87af0fc4c8c/images/f5a3ca0afc1659df1b906021e13ed5bbd571b728c6e3e8380d5613c8f3714c22.png",
+            "snippet": "You know my fat ass need to eat before a good show. You want a good show? Put me on the food spots. Chattanooga, Tennessee. OCR. Chattanooga, ...",
+            "source": "Instagram \u00b7 thatmexicanot"
+        },
+        {
+            "position": 45,
+            "title": "Best Ever Food Review Show",
+            "link": "https://www.youtube.com/@BestEverFoodReviewShow",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/%40BestEverFoodReviewShow&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQFnoECFIQAQ",
+            "displayed_link": "11.7M+ followers",
+            "favicon": "https://serpapi.com/searches/68b87673b255a87af0fc4c8c/images/f5a3ca0afc1659df1b906021e13ed5bbe8f1aa9cd4209445a1fddf1034c9c40c.png",
+            "snippet": "Share your videos with friends, family, and the world.",
+            "source": "YouTube \u00b7 Best Ever Food Review Show"
+        },
+        {
+            "position": 46,
+            "title": "Pie-Eyed Pizzeria on Food Network list of best slices to try",
+            "link": "https://www.nbcchicago.com/news/local/chicago-pizzeria-makes-food-networks-list-of-50-best-slices-to-try-in-the-us/3818356/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nbcchicago.com/news/local/chicago-pizzeria-makes-food-networks-list-of-50-best-slices-to-try-in-the-us/3818356/&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQFnoECFQQAQ",
+            "displayed_link": "https://www.nbcchicago.com \u203a news \u203a local \u203a chicago-...",
+            "favicon": "https://serpapi.com/searches/68b87673b255a87af0fc4c8c/images/f5a3ca0afc1659df1b906021e13ed5bb6a0978b6ff0f0c102f23ac4ace9fa44f.png",
+            "date": "24 hours ago",
+            "snippet": "The River West pizza joint is open until around 2 a.m. on Fridays and Saturdays, making it easy to grab a late-night slice.",
+            "source": "NBC 5 Chicago"
+        },
+        {
+            "position": 47,
+            "title": "Order directly from the restaurants you love",
+            "link": "https://www.toasttab.com/local",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.toasttab.com/local&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQFnoECFYQAQ",
+            "displayed_link": "https://www.toasttab.com \u203a local",
+            "favicon": "https://serpapi.com/searches/68b87673b255a87af0fc4c8c/images/f5a3ca0afc1659df1b906021e13ed5bb39423f7346fe15ff37631d2f59f58f4b.png",
+            "snippet": "Best place to order takeout and delivery. Great selection with lowest prices and no commissions for restaurants. Search by location, cuisine, and more.",
+            "snippet_highlighted_words": [
+                "Best"
+            ],
+            "source": "Toast"
+        },
+        {
+            "position": 48,
+            "title": "What's The Best Food From Each Of These Countries ...",
+            "link": "https://www.youtube.com/shorts/R073xajZ5tA",
+            "displayed_link": "340.8K+ views \u00b7 1 day ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI7cbPC20WHwBSyHe6MsqasBYGtE1CPJFTW-YpScOWM2NW8NckhY8i-5P65n1F&s&ec=73086138",
+            "favicon": "https://serpapi.com/searches/68b87673b255a87af0fc4c8c/images/f5a3ca0afc1659df1b906021e13ed5bba064d95dea4745fa5eeba835c3ec2f20.png",
+            "snippet": "What's The Best Food From Each Of These Countries?! #shorts #country #food #culture #cuisine. Out of Time \u00b7 Blast Off Music. 9.2 ...",
+            "duration": "1:00",
+            "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS_0UlF8VNntYx6tyFpBsu1G2gEwFyhRzOD1A",
+            "source": "YouTube \u00b7 Makeshift Project"
+        }
+    ],
+    "filters": [
+        {
+            "name": "For weight loss",
+            "parameters": {
+                "uds": "AOm0WdE2fekQnsyfYEw8JPYozOKzaFlLUArXOBOF57D0ALbz0Vkx2Udon-AP_H4vxrjcTt9It1ot7ld1B8cc1qFvOc8Xryb49MELLIYjcf3UWrXyfPqiuoiJGM-x7WpNx9PAHvYO6eM5L6NBSrZzXXxZVt8Nod0A_VPfoSXmqI2UVpzRaf94aHXCP_gFm2s5xTj6KCcQSkeqVPnScSlFb6_S7SCWdtR9Ag",
+                "q": "Best food for weight loss"
+            },
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Best+food+for+weight+loss&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzaFlLUArXOBOF57D0ALbz0Vkx2Udon-AP_H4vxrjcTt9It1ot7ld1B8cc1qFvOc8Xryb49MELLIYjcf3UWrXyfPqiuoiJGM-x7WpNx9PAHvYO6eM5L6NBSrZzXXxZVt8Nod0A_VPfoSXmqI2UVpzRaf94aHXCP_gFm2s5xTj6KCcQSkeqVPnScSlFb6_S7SCWdtR9Ag&sa=X&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQxKsJKAB6BAghEAE&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=Best+food+for+weight+loss&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzaFlLUArXOBOF57D0ALbz0Vkx2Udon-AP_H4vxrjcTt9It1ot7ld1B8cc1qFvOc8Xryb49MELLIYjcf3UWrXyfPqiuoiJGM-x7WpNx9PAHvYO6eM5L6NBSrZzXXxZVt8Nod0A_VPfoSXmqI2UVpzRaf94aHXCP_gFm2s5xTj6KCcQSkeqVPnScSlFb6_S7SCWdtR9Ag"
+        },
+        {
+            "name": "Open now",
+            "parameters": {
+                "uds": "AOm0WdE2fekQnsyfYEw8JPYozOKzaP2tASMpE1M0-2Bk2HwHv7DC6CaQKVO5Ay6m4MdW4GKbXJt93kIhAuQZjRS3WXZTH8J2dSDozQSgDYPl84nronqG2KnTF2SSpNF2YmfjxlOKxmPWreAX0M2NaJU0eL6kfBBlcu_rJGd-1G19sJnJ_x_7upU",
+                "q": "best food open now"
+            },
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=best+food+open+now&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzaP2tASMpE1M0-2Bk2HwHv7DC6CaQKVO5Ay6m4MdW4GKbXJt93kIhAuQZjRS3WXZTH8J2dSDozQSgDYPl84nronqG2KnTF2SSpNF2YmfjxlOKxmPWreAX0M2NaJU0eL6kfBBlcu_rJGd-1G19sJnJ_x_7upU&sa=X&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQxKsJKAF6BAgoEAE&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=best+food+open+now&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzaP2tASMpE1M0-2Bk2HwHv7DC6CaQKVO5Ay6m4MdW4GKbXJt93kIhAuQZjRS3WXZTH8J2dSDozQSgDYPl84nronqG2KnTF2SSpNF2YmfjxlOKxmPWreAX0M2NaJU0eL6kfBBlcu_rJGd-1G19sJnJ_x_7upU"
+        },
+        {
+            "name": "In the world",
+            "parameters": {
+                "uds": "AOm0WdE2fekQnsyfYEw8JPYozOKzGhJR116RBkOcE2qiPJnI-eAe0YpO4egoY2wD3cZuiw6KhAVSt5sObNINq9jIlwGQKDz8YFrkQd-_TMIFERjClG2SmYcRaz5U4i-LvN2InM2nFafKFr9-aY4Q7oScFnLufiE0RILe93Lgo0CnEWfSVan56r_mqkXOoXpZ3jHCHjhhpOtARoqncXazH8vDIQdYjOmhGw",
+                "q": "Best food in the world"
+            },
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Best+food+in+the+world&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzGhJR116RBkOcE2qiPJnI-eAe0YpO4egoY2wD3cZuiw6KhAVSt5sObNINq9jIlwGQKDz8YFrkQd-_TMIFERjClG2SmYcRaz5U4i-LvN2InM2nFafKFr9-aY4Q7oScFnLufiE0RILe93Lgo0CnEWfSVan56r_mqkXOoXpZ3jHCHjhhpOtARoqncXazH8vDIQdYjOmhGw&sa=X&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQxKsJKAJ6BAgiEAE&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=Best+food+in+the+world&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzGhJR116RBkOcE2qiPJnI-eAe0YpO4egoY2wD3cZuiw6KhAVSt5sObNINq9jIlwGQKDz8YFrkQd-_TMIFERjClG2SmYcRaz5U4i-LvN2InM2nFafKFr9-aY4Q7oScFnLufiE0RILe93Lgo0CnEWfSVan56r_mqkXOoXpZ3jHCHjhhpOtARoqncXazH8vDIQdYjOmhGw"
+        },
+        {
+            "name": "Cuisine",
+            "options": [
+                {
+                    "name": "Any cuisine"
+                },
+                {
+                    "name": "Buffet",
+                    "parameters": {
+                        "uds": "AOm0WdGReDh_4Qh1-4MMdzbh_h0bgSM5WnHBH-TI9hPB_Yjk0U2IaTS8MKbVi88545cLEaSwnPETWO7nPEVGadM-Jrc8aI1rEYsbKZookZComPvjzc7mlsN66P6LAbtwvbpcTqrx9p44KUxOXNLgVSUvNy_ufwkzkpQqlGolbxKnY3xV27lB_cxffOIjLQuLO0HlDzVImbySixRQQIcGyxK5swSZFiNX7RN5TlOG4eSn-YcaIsMrDRoAL0elXjWcyUKVHI1naZtndCGse_piNAHeJZdvJWCKcvOr7BZIWve1ZQRD3zuvDpcMSM4RJMRApd2GikL3XRDq_g9gKaSdGKt_SV1zg-ccoN2CLZuL_sMoDwU-zFxRQEfSipIx1V-PiRbRTYdbv8apHl2FHuaqLjOlHxqfsKsJ4mvRR375Fdr2fYiUxWiIDxOBqsGrWanVui1JEPlSxavb75ZLmSn_LLym8NzgSxfVZbcDXAEURoa1oU88rPwCXq3L037fe6KugUYdctbfQAtscJOi2iTZguycd0mSjaZtCwSuUpCZFP5_xdrA6VhKGxchavSM06vMkJR-LHar_4hzGkoe9RpjODdbXKTrXYxF1vHbtQd0dl4WPmdTsUGRfzrtvo6br-DI2E-NaGkRlU0ajSm9KAzAXPykZ8FhdwLoOsdxCry_rS43i1aRYOyHkT8",
+                        "q": "buffet best food"
+                    },
+                    "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=buffet+best+food&uds=AOm0WdGReDh_4Qh1-4MMdzbh_h0bgSM5WnHBH-TI9hPB_Yjk0U2IaTS8MKbVi88545cLEaSwnPETWO7nPEVGadM-Jrc8aI1rEYsbKZookZComPvjzc7mlsN66P6LAbtwvbpcTqrx9p44KUxOXNLgVSUvNy_ufwkzkpQqlGolbxKnY3xV27lB_cxffOIjLQuLO0HlDzVImbySixRQQIcGyxK5swSZFiNX7RN5TlOG4eSn-YcaIsMrDRoAL0elXjWcyUKVHI1naZtndCGse_piNAHeJZdvJWCKcvOr7BZIWve1ZQRD3zuvDpcMSM4RJMRApd2GikL3XRDq_g9gKaSdGKt_SV1zg-ccoN2CLZuL_sMoDwU-zFxRQEfSipIx1V-PiRbRTYdbv8apHl2FHuaqLjOlHxqfsKsJ4mvRR375Fdr2fYiUxWiIDxOBqsGrWanVui1JEPlSxavb75ZLmSn_LLym8NzgSxfVZbcDXAEURoa1oU88rPwCXq3L037fe6KugUYdctbfQAtscJOi2iTZguycd0mSjaZtCwSuUpCZFP5_xdrA6VhKGxchavSM06vMkJR-LHar_4hzGkoe9RpjODdbXKTrXYxF1vHbtQd0dl4WPmdTsUGRfzrtvo6br-DI2E-NaGkRlU0ajSm9KAzAXPykZ8FhdwLoOsdxCry_rS43i1aRYOyHkT8&sa=X&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQkbEKegQIGRAD",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=buffet+best+food&uds=AOm0WdGReDh_4Qh1-4MMdzbh_h0bgSM5WnHBH-TI9hPB_Yjk0U2IaTS8MKbVi88545cLEaSwnPETWO7nPEVGadM-Jrc8aI1rEYsbKZookZComPvjzc7mlsN66P6LAbtwvbpcTqrx9p44KUxOXNLgVSUvNy_ufwkzkpQqlGolbxKnY3xV27lB_cxffOIjLQuLO0HlDzVImbySixRQQIcGyxK5swSZFiNX7RN5TlOG4eSn-YcaIsMrDRoAL0elXjWcyUKVHI1naZtndCGse_piNAHeJZdvJWCKcvOr7BZIWve1ZQRD3zuvDpcMSM4RJMRApd2GikL3XRDq_g9gKaSdGKt_SV1zg-ccoN2CLZuL_sMoDwU-zFxRQEfSipIx1V-PiRbRTYdbv8apHl2FHuaqLjOlHxqfsKsJ4mvRR375Fdr2fYiUxWiIDxOBqsGrWanVui1JEPlSxavb75ZLmSn_LLym8NzgSxfVZbcDXAEURoa1oU88rPwCXq3L037fe6KugUYdctbfQAtscJOi2iTZguycd0mSjaZtCwSuUpCZFP5_xdrA6VhKGxchavSM06vMkJR-LHar_4hzGkoe9RpjODdbXKTrXYxF1vHbtQd0dl4WPmdTsUGRfzrtvo6br-DI2E-NaGkRlU0ajSm9KAzAXPykZ8FhdwLoOsdxCry_rS43i1aRYOyHkT8"
+                },
+                {
+                    "name": "Chinese",
+                    "parameters": {
+                        "uds": "AOm0WdFUBfpvfMBfkBB9pWBJlNFPVSSTeEpFkKe1f8SEl-afEV-9uFwQPlUbxjFgnEcnAAEjt3oVwwdQU_qPK42Zs1AtZz4i7t74f7JkpGdltW9zjiMOuBfNOwbuiAxo9qzKNTrfhQbUP1Txmqne7YGA9J_nNlSYJOPmtRMe1F8ZtdLejqVoR4RlK6xBtg0fiRuRDqfYRfYjYNfua6v3JvRsxIKaSnpntMrH3V5UMv1bYysS57m9Drinbng9AdDUOGu2JezgfHFU1auvCelELHQldJOF9yCVLQB1f2-uoplRyTeHbjz6T0tA4be_lVoaQ2CqslHPn3tm3OkviGW_8q4OwR7SnOku9FIAYreZ6IHujJdO1Jh3seeB2wWy3b-6bCLyHlrgd7DYckwK66Gqh0dQIB03f9JFM_H9OrkxIZnJSqisquy92x_y90grVHjmzPPjARJCQOmQA9Cbiw313FfmmWVvLODR1B_ah8AKQU2k_bHUho4jiWDIvUz13Un14KvddS1pSxa8KlKnAp02548YR8vZdfFVuAb8vj10CDaZ_PiuXkW8oRHNqQ99xcupxB7XAm6pnU0_j5LCQswQyaTVfQpm39CNgtAjnIEqr_-jgKk66brbkSfTMo5dqoqJrACXYrqSEzD6PAMPBaxPNf7d3AETZynPebaxs2LkY7L118xMgyyoDSc",
+                        "q": "chinese best food"
+                    },
+                    "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=chinese+best+food&uds=AOm0WdFUBfpvfMBfkBB9pWBJlNFPVSSTeEpFkKe1f8SEl-afEV-9uFwQPlUbxjFgnEcnAAEjt3oVwwdQU_qPK42Zs1AtZz4i7t74f7JkpGdltW9zjiMOuBfNOwbuiAxo9qzKNTrfhQbUP1Txmqne7YGA9J_nNlSYJOPmtRMe1F8ZtdLejqVoR4RlK6xBtg0fiRuRDqfYRfYjYNfua6v3JvRsxIKaSnpntMrH3V5UMv1bYysS57m9Drinbng9AdDUOGu2JezgfHFU1auvCelELHQldJOF9yCVLQB1f2-uoplRyTeHbjz6T0tA4be_lVoaQ2CqslHPn3tm3OkviGW_8q4OwR7SnOku9FIAYreZ6IHujJdO1Jh3seeB2wWy3b-6bCLyHlrgd7DYckwK66Gqh0dQIB03f9JFM_H9OrkxIZnJSqisquy92x_y90grVHjmzPPjARJCQOmQA9Cbiw313FfmmWVvLODR1B_ah8AKQU2k_bHUho4jiWDIvUz13Un14KvddS1pSxa8KlKnAp02548YR8vZdfFVuAb8vj10CDaZ_PiuXkW8oRHNqQ99xcupxB7XAm6pnU0_j5LCQswQyaTVfQpm39CNgtAjnIEqr_-jgKk66brbkSfTMo5dqoqJrACXYrqSEzD6PAMPBaxPNf7d3AETZynPebaxs2LkY7L118xMgyyoDSc&sa=X&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQkbEKegQIGRAE",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=chinese+best+food&uds=AOm0WdFUBfpvfMBfkBB9pWBJlNFPVSSTeEpFkKe1f8SEl-afEV-9uFwQPlUbxjFgnEcnAAEjt3oVwwdQU_qPK42Zs1AtZz4i7t74f7JkpGdltW9zjiMOuBfNOwbuiAxo9qzKNTrfhQbUP1Txmqne7YGA9J_nNlSYJOPmtRMe1F8ZtdLejqVoR4RlK6xBtg0fiRuRDqfYRfYjYNfua6v3JvRsxIKaSnpntMrH3V5UMv1bYysS57m9Drinbng9AdDUOGu2JezgfHFU1auvCelELHQldJOF9yCVLQB1f2-uoplRyTeHbjz6T0tA4be_lVoaQ2CqslHPn3tm3OkviGW_8q4OwR7SnOku9FIAYreZ6IHujJdO1Jh3seeB2wWy3b-6bCLyHlrgd7DYckwK66Gqh0dQIB03f9JFM_H9OrkxIZnJSqisquy92x_y90grVHjmzPPjARJCQOmQA9Cbiw313FfmmWVvLODR1B_ah8AKQU2k_bHUho4jiWDIvUz13Un14KvddS1pSxa8KlKnAp02548YR8vZdfFVuAb8vj10CDaZ_PiuXkW8oRHNqQ99xcupxB7XAm6pnU0_j5LCQswQyaTVfQpm39CNgtAjnIEqr_-jgKk66brbkSfTMo5dqoqJrACXYrqSEzD6PAMPBaxPNf7d3AETZynPebaxs2LkY7L118xMgyyoDSc"
+                },
+                {
+                    "name": "European",
+                    "parameters": {
+                        "uds": "AOm0WdH2wYwoNKqD8dQ9QzV7dJbBqB_pCOIyT8ot8Xjn-InCmtQIZWWSXEcYPIGaN4IUZFe8uZVjULsYNWzdLzSa3WK1ayof944HsT1FL9ezTJyz3loA8R62TVDKijSTlXPNr9aj_RaaUWE2kgTV-jX24dDSDy6Iju1tk3eAvVXPnXTeKQZWg8d7EV1cf5B89XUR904LckkOPc8KcOmnyIrWrvToQ4a9BG8Vl2Rw9OalDsvBkdATxufHYiJAkRO7YlwOpbgrLhtr3YsGaT-EBgzfSN9vvvQhQkhDUnLUqXFMUBCd3BuREc0p2LKhV6aiJx1TjBANAa48X0je-iA4TYRUpjwFc2XzaduJkhKkLy60DxS9chqZywJDJi3GjUY1gnaTc5pQChYeBx81N6EQ8o3Qfx4GxwNH84mgyc75eKq441H7gdvwRG7Wju0xV231QHIq8EzTW-1hdWK8UipzyjH4JsMBAI4qy0HH_54WVYo6BO4lNxLXboVeeXzhB4NNdgZUmlHVrPFa5UN40Y3-Zp_RTLQdqjNV5YkL-5X68Gev6Vwrt-MlfJfSoMsWXtBY4NeVxbImMXMUTBzHCdHlFFXrIgSagLZ5fSk8mMB03fms4NTIoxui8Bw9gB5_kRBPxuE4I2jqMQ69vjJUxlbT6fFQTtxtR-SwrqBY4rbYnNF64Oy762DgVzc",
+                        "q": "european best food"
+                    },
+                    "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=european+best+food&uds=AOm0WdH2wYwoNKqD8dQ9QzV7dJbBqB_pCOIyT8ot8Xjn-InCmtQIZWWSXEcYPIGaN4IUZFe8uZVjULsYNWzdLzSa3WK1ayof944HsT1FL9ezTJyz3loA8R62TVDKijSTlXPNr9aj_RaaUWE2kgTV-jX24dDSDy6Iju1tk3eAvVXPnXTeKQZWg8d7EV1cf5B89XUR904LckkOPc8KcOmnyIrWrvToQ4a9BG8Vl2Rw9OalDsvBkdATxufHYiJAkRO7YlwOpbgrLhtr3YsGaT-EBgzfSN9vvvQhQkhDUnLUqXFMUBCd3BuREc0p2LKhV6aiJx1TjBANAa48X0je-iA4TYRUpjwFc2XzaduJkhKkLy60DxS9chqZywJDJi3GjUY1gnaTc5pQChYeBx81N6EQ8o3Qfx4GxwNH84mgyc75eKq441H7gdvwRG7Wju0xV231QHIq8EzTW-1hdWK8UipzyjH4JsMBAI4qy0HH_54WVYo6BO4lNxLXboVeeXzhB4NNdgZUmlHVrPFa5UN40Y3-Zp_RTLQdqjNV5YkL-5X68Gev6Vwrt-MlfJfSoMsWXtBY4NeVxbImMXMUTBzHCdHlFFXrIgSagLZ5fSk8mMB03fms4NTIoxui8Bw9gB5_kRBPxuE4I2jqMQ69vjJUxlbT6fFQTtxtR-SwrqBY4rbYnNF64Oy762DgVzc&sa=X&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQkbEKegQIGRAF",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=european+best+food&uds=AOm0WdH2wYwoNKqD8dQ9QzV7dJbBqB_pCOIyT8ot8Xjn-InCmtQIZWWSXEcYPIGaN4IUZFe8uZVjULsYNWzdLzSa3WK1ayof944HsT1FL9ezTJyz3loA8R62TVDKijSTlXPNr9aj_RaaUWE2kgTV-jX24dDSDy6Iju1tk3eAvVXPnXTeKQZWg8d7EV1cf5B89XUR904LckkOPc8KcOmnyIrWrvToQ4a9BG8Vl2Rw9OalDsvBkdATxufHYiJAkRO7YlwOpbgrLhtr3YsGaT-EBgzfSN9vvvQhQkhDUnLUqXFMUBCd3BuREc0p2LKhV6aiJx1TjBANAa48X0je-iA4TYRUpjwFc2XzaduJkhKkLy60DxS9chqZywJDJi3GjUY1gnaTc5pQChYeBx81N6EQ8o3Qfx4GxwNH84mgyc75eKq441H7gdvwRG7Wju0xV231QHIq8EzTW-1hdWK8UipzyjH4JsMBAI4qy0HH_54WVYo6BO4lNxLXboVeeXzhB4NNdgZUmlHVrPFa5UN40Y3-Zp_RTLQdqjNV5YkL-5X68Gev6Vwrt-MlfJfSoMsWXtBY4NeVxbImMXMUTBzHCdHlFFXrIgSagLZ5fSk8mMB03fms4NTIoxui8Bw9gB5_kRBPxuE4I2jqMQ69vjJUxlbT6fFQTtxtR-SwrqBY4rbYnNF64Oy762DgVzc"
+                },
+                {
+                    "name": "Fast food",
+                    "parameters": {
+                        "uds": "AOm0WdGS5HAmv7VqF2qCDFdAXA1B9Io1alGOZ5mvoYVGi7iGcuNT-UxirDrkAXNpYXy0pIGfb6izmcvC2RXbkQsYJUYiXOZSqU-KWr0snOdxyJSD21M7C_YrehkksMdq2_qBFkM3Av5_h5ZZwhY-fEYAlowYQV35-VgxxwzEU186lNeH1ZV--jhwDjp_Tvvflp3TojeFN5cKDvu49DLrkWBaGxbwGvoZExroxMGWgKf0Jo3vUuOvSnq-bsbatNv90OPgdRkusDddCf3vA0iEnRz31eLnWSHfJ2IUNVbSILuKDEEU3OibCAd4M6GPuAsXdh8x9jUdNXyKwN9hJ_M0rnFs_5eMMbHB9ZwEedfPNB8Zc2BA0fOYv7mz8Xnsa9oojvaek_TZnvjyUwRxbT_z9IdehnBaOS2BW5TYPYmrzrJw7BVzz8mU1F5KeB8NRnpSdDmgS_ERoXFSGh7w3yvg6fA5_MibOqn7yyHlXrYQy6eSyTFUOaaqw6ZyabjRvKvCS8BLKgXttDmGl3WLx2pMW0BD-roMX8-s5D9f9vHVuINFjeNii5yDm7XGucqb6VQnCMBdF8Uafei90q_1_UbM25kxCFwxdfWaSErvAFoYb5juR6VAwdL8aiRzR0MjpdKYTBYiHMCYdSa4GxZUXFLbP-SvHr3FZLiEC_HgGl9NTTKXYrl53nNdMXI",
+                        "q": "fast food best food"
+                    },
+                    "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=fast+food+best+food&uds=AOm0WdGS5HAmv7VqF2qCDFdAXA1B9Io1alGOZ5mvoYVGi7iGcuNT-UxirDrkAXNpYXy0pIGfb6izmcvC2RXbkQsYJUYiXOZSqU-KWr0snOdxyJSD21M7C_YrehkksMdq2_qBFkM3Av5_h5ZZwhY-fEYAlowYQV35-VgxxwzEU186lNeH1ZV--jhwDjp_Tvvflp3TojeFN5cKDvu49DLrkWBaGxbwGvoZExroxMGWgKf0Jo3vUuOvSnq-bsbatNv90OPgdRkusDddCf3vA0iEnRz31eLnWSHfJ2IUNVbSILuKDEEU3OibCAd4M6GPuAsXdh8x9jUdNXyKwN9hJ_M0rnFs_5eMMbHB9ZwEedfPNB8Zc2BA0fOYv7mz8Xnsa9oojvaek_TZnvjyUwRxbT_z9IdehnBaOS2BW5TYPYmrzrJw7BVzz8mU1F5KeB8NRnpSdDmgS_ERoXFSGh7w3yvg6fA5_MibOqn7yyHlXrYQy6eSyTFUOaaqw6ZyabjRvKvCS8BLKgXttDmGl3WLx2pMW0BD-roMX8-s5D9f9vHVuINFjeNii5yDm7XGucqb6VQnCMBdF8Uafei90q_1_UbM25kxCFwxdfWaSErvAFoYb5juR6VAwdL8aiRzR0MjpdKYTBYiHMCYdSa4GxZUXFLbP-SvHr3FZLiEC_HgGl9NTTKXYrl53nNdMXI&sa=X&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQkbEKegQIGRAG",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=fast+food+best+food&uds=AOm0WdGS5HAmv7VqF2qCDFdAXA1B9Io1alGOZ5mvoYVGi7iGcuNT-UxirDrkAXNpYXy0pIGfb6izmcvC2RXbkQsYJUYiXOZSqU-KWr0snOdxyJSD21M7C_YrehkksMdq2_qBFkM3Av5_h5ZZwhY-fEYAlowYQV35-VgxxwzEU186lNeH1ZV--jhwDjp_Tvvflp3TojeFN5cKDvu49DLrkWBaGxbwGvoZExroxMGWgKf0Jo3vUuOvSnq-bsbatNv90OPgdRkusDddCf3vA0iEnRz31eLnWSHfJ2IUNVbSILuKDEEU3OibCAd4M6GPuAsXdh8x9jUdNXyKwN9hJ_M0rnFs_5eMMbHB9ZwEedfPNB8Zc2BA0fOYv7mz8Xnsa9oojvaek_TZnvjyUwRxbT_z9IdehnBaOS2BW5TYPYmrzrJw7BVzz8mU1F5KeB8NRnpSdDmgS_ERoXFSGh7w3yvg6fA5_MibOqn7yyHlXrYQy6eSyTFUOaaqw6ZyabjRvKvCS8BLKgXttDmGl3WLx2pMW0BD-roMX8-s5D9f9vHVuINFjeNii5yDm7XGucqb6VQnCMBdF8Uafei90q_1_UbM25kxCFwxdfWaSErvAFoYb5juR6VAwdL8aiRzR0MjpdKYTBYiHMCYdSa4GxZUXFLbP-SvHr3FZLiEC_HgGl9NTTKXYrl53nNdMXI"
+                },
+                {
+                    "name": "Italian",
+                    "parameters": {
+                        "uds": "AOm0WdGpj3JtNp8fXDg7d6FElEuFNK8KFzKfVG4Elek7IRSDzKMVle0LHaM9lV4h4-gf4jHdFvbE3qtNPgtz3F60DArX4L4ddnCQGEaawR6eYt1B8usvCBK5nrOWEzNxOACIEyIGr5GQXoTTqHROrDkv9tLwc8B-HZg3LmDZxpnD9SCdEbUlFIzKzLu_9sStj352ut9yqfVPUgCoLjZ8VIveUIzAcsGoKW5w-miFXaNFDmwElu43bRWwQyicAhLdilP8TuNc61qBs0r1XRv919rvpyMWQBkej0rgw6RJ2M9FhbHtKYCzTwS17xPNM5IqTA-nf98ZuvQcI2qC74lNNYxzOajcPdGPpc6hUJf-n76J9Few4RZ9Y0xgMCX2u6zG96AuDx4abSTNcrA9ecznaMFYU_CwzEFhcf9aR0d5BAAbCO9Ct2FmL6ZCEvvT474nxQD-0tA9FsuAjwhgYin9MOzy5Tl3GjogmqC7m8a45qUgf35mrBQDzXOWSJy_-BHVJUSD-OjTkCC2jvW8Cuo94kx5QTlqHIcA0MEtorBTwwD6A39f44XSXtypn1n3TSpkMQGxzy6FzAQA5hfouM1h715x7CKIAjloIyMBjk_ML9mt1EMVuWUjXMaQ9Sjj3aVnKlvH8yXujM7mkcOEbamsF6ZNHFU0gVIUfN1BeAnvnvWvAQ8G_0Mn4gs",
+                        "q": "italian best food"
+                    },
+                    "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=italian+best+food&uds=AOm0WdGpj3JtNp8fXDg7d6FElEuFNK8KFzKfVG4Elek7IRSDzKMVle0LHaM9lV4h4-gf4jHdFvbE3qtNPgtz3F60DArX4L4ddnCQGEaawR6eYt1B8usvCBK5nrOWEzNxOACIEyIGr5GQXoTTqHROrDkv9tLwc8B-HZg3LmDZxpnD9SCdEbUlFIzKzLu_9sStj352ut9yqfVPUgCoLjZ8VIveUIzAcsGoKW5w-miFXaNFDmwElu43bRWwQyicAhLdilP8TuNc61qBs0r1XRv919rvpyMWQBkej0rgw6RJ2M9FhbHtKYCzTwS17xPNM5IqTA-nf98ZuvQcI2qC74lNNYxzOajcPdGPpc6hUJf-n76J9Few4RZ9Y0xgMCX2u6zG96AuDx4abSTNcrA9ecznaMFYU_CwzEFhcf9aR0d5BAAbCO9Ct2FmL6ZCEvvT474nxQD-0tA9FsuAjwhgYin9MOzy5Tl3GjogmqC7m8a45qUgf35mrBQDzXOWSJy_-BHVJUSD-OjTkCC2jvW8Cuo94kx5QTlqHIcA0MEtorBTwwD6A39f44XSXtypn1n3TSpkMQGxzy6FzAQA5hfouM1h715x7CKIAjloIyMBjk_ML9mt1EMVuWUjXMaQ9Sjj3aVnKlvH8yXujM7mkcOEbamsF6ZNHFU0gVIUfN1BeAnvnvWvAQ8G_0Mn4gs&sa=X&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQkbEKegQIGRAH",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=italian+best+food&uds=AOm0WdGpj3JtNp8fXDg7d6FElEuFNK8KFzKfVG4Elek7IRSDzKMVle0LHaM9lV4h4-gf4jHdFvbE3qtNPgtz3F60DArX4L4ddnCQGEaawR6eYt1B8usvCBK5nrOWEzNxOACIEyIGr5GQXoTTqHROrDkv9tLwc8B-HZg3LmDZxpnD9SCdEbUlFIzKzLu_9sStj352ut9yqfVPUgCoLjZ8VIveUIzAcsGoKW5w-miFXaNFDmwElu43bRWwQyicAhLdilP8TuNc61qBs0r1XRv919rvpyMWQBkej0rgw6RJ2M9FhbHtKYCzTwS17xPNM5IqTA-nf98ZuvQcI2qC74lNNYxzOajcPdGPpc6hUJf-n76J9Few4RZ9Y0xgMCX2u6zG96AuDx4abSTNcrA9ecznaMFYU_CwzEFhcf9aR0d5BAAbCO9Ct2FmL6ZCEvvT474nxQD-0tA9FsuAjwhgYin9MOzy5Tl3GjogmqC7m8a45qUgf35mrBQDzXOWSJy_-BHVJUSD-OjTkCC2jvW8Cuo94kx5QTlqHIcA0MEtorBTwwD6A39f44XSXtypn1n3TSpkMQGxzy6FzAQA5hfouM1h715x7CKIAjloIyMBjk_ML9mt1EMVuWUjXMaQ9Sjj3aVnKlvH8yXujM7mkcOEbamsF6ZNHFU0gVIUfN1BeAnvnvWvAQ8G_0Mn4gs"
+                },
+                {
+                    "name": "North indian",
+                    "parameters": {
+                        "uds": "AOm0WdH2wYwoNKqD8dQ9QzV7dJbB-hoWqeQU7cfd78RID2LeMsoU3Rm9VY5mxLHP6lenBQiSnUU5uYUiBcP1fBPHjdUamVo1gVhmX9v7Mre36TmOuXgnGQY2Q6qJfBxV3ZTuQoWiCFJxTqMd7QffjgjcQCripZVVzJDFpCQDOU6Oshkc_OLkzAEUGJetdOZpiy-4hl6H-P4WJ3-Oh2EcYMWkagyvki6F8lOS5ieSfLTRRGoYJ3taZraUM0qvpfxHCiuo4-EjIRHWKG6R3jyI4TIwM0X03MNf91Ri-QJK_fwQjqi-BYTR4X5Ch-Xt_J8d0Z92FDCYTKXZYpt7QgFupBl1UpxUiRX5BHIDfb5pbP59vFrF1pT7CUSZjCTNv1gJtKfcN62r9bFqaBwsKbLIOIix8P6yM1xxchJccOiEERH6CinzuJCu4GUGokhGWxeY9ALp0XPk89348Sc-STUoWsG1FTXrOgs0Rd8hYHNO_d_0WKQukuYTiybCs-572TaLgX8WDgZDhbMxQGgQEz0y9NwYD49zJ2tE99Hop_s0Hnqec1sit7zqm9CSGkV0OVr_z9vIWPyyGIBHQEgDmvXP8CZwaOMeYFXhB0-Da-fxcB2j8i3VDz-5HjJJ7735yCRzG2sQNIOG76x2uHg-WBwmwpqMKqrk62RzkuRmacNzXve5fwphv6JUVac",
+                        "q": "north indian best food"
+                    },
+                    "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=north+indian+best+food&uds=AOm0WdH2wYwoNKqD8dQ9QzV7dJbB-hoWqeQU7cfd78RID2LeMsoU3Rm9VY5mxLHP6lenBQiSnUU5uYUiBcP1fBPHjdUamVo1gVhmX9v7Mre36TmOuXgnGQY2Q6qJfBxV3ZTuQoWiCFJxTqMd7QffjgjcQCripZVVzJDFpCQDOU6Oshkc_OLkzAEUGJetdOZpiy-4hl6H-P4WJ3-Oh2EcYMWkagyvki6F8lOS5ieSfLTRRGoYJ3taZraUM0qvpfxHCiuo4-EjIRHWKG6R3jyI4TIwM0X03MNf91Ri-QJK_fwQjqi-BYTR4X5Ch-Xt_J8d0Z92FDCYTKXZYpt7QgFupBl1UpxUiRX5BHIDfb5pbP59vFrF1pT7CUSZjCTNv1gJtKfcN62r9bFqaBwsKbLIOIix8P6yM1xxchJccOiEERH6CinzuJCu4GUGokhGWxeY9ALp0XPk89348Sc-STUoWsG1FTXrOgs0Rd8hYHNO_d_0WKQukuYTiybCs-572TaLgX8WDgZDhbMxQGgQEz0y9NwYD49zJ2tE99Hop_s0Hnqec1sit7zqm9CSGkV0OVr_z9vIWPyyGIBHQEgDmvXP8CZwaOMeYFXhB0-Da-fxcB2j8i3VDz-5HjJJ7735yCRzG2sQNIOG76x2uHg-WBwmwpqMKqrk62RzkuRmacNzXve5fwphv6JUVac&sa=X&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQkbEKegQIGRAI",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=north+indian+best+food&uds=AOm0WdH2wYwoNKqD8dQ9QzV7dJbB-hoWqeQU7cfd78RID2LeMsoU3Rm9VY5mxLHP6lenBQiSnUU5uYUiBcP1fBPHjdUamVo1gVhmX9v7Mre36TmOuXgnGQY2Q6qJfBxV3ZTuQoWiCFJxTqMd7QffjgjcQCripZVVzJDFpCQDOU6Oshkc_OLkzAEUGJetdOZpiy-4hl6H-P4WJ3-Oh2EcYMWkagyvki6F8lOS5ieSfLTRRGoYJ3taZraUM0qvpfxHCiuo4-EjIRHWKG6R3jyI4TIwM0X03MNf91Ri-QJK_fwQjqi-BYTR4X5Ch-Xt_J8d0Z92FDCYTKXZYpt7QgFupBl1UpxUiRX5BHIDfb5pbP59vFrF1pT7CUSZjCTNv1gJtKfcN62r9bFqaBwsKbLIOIix8P6yM1xxchJccOiEERH6CinzuJCu4GUGokhGWxeY9ALp0XPk89348Sc-STUoWsG1FTXrOgs0Rd8hYHNO_d_0WKQukuYTiybCs-572TaLgX8WDgZDhbMxQGgQEz0y9NwYD49zJ2tE99Hop_s0Hnqec1sit7zqm9CSGkV0OVr_z9vIWPyyGIBHQEgDmvXP8CZwaOMeYFXhB0-Da-fxcB2j8i3VDz-5HjJJ7735yCRzG2sQNIOG76x2uHg-WBwmwpqMKqrk62RzkuRmacNzXve5fwphv6JUVac"
+                },
+                {
+                    "name": "Pizza",
+                    "parameters": {
+                        "uds": "AOm0WdGS5HAmv7VqF2qCDFdAXA1BwJhvYM5hikPtGe_yknJMjhjoalH3x9LK7t4HRX9iicI4KkkPTCJqrSUNO2-G7iexCz_Qk7n6BBX6FW5PL---tF22cKzs_tr-rVQBA6Ct3PscU4DUXfIpq6yGaqYf0rycjLtC8oMfnXHsz7Mpz8FTBPs5eLLs0cXtd9yHWlO1TsbZ5LWM0I5t14PYvwpUrDW1XCnRJ4N936WoWem-X-irzkO1hw1W9Z6xOvfcw19Puyc_42R6MvXQEQuoY4A8kcYLeDTq8Cq55HXhnzQpxGQBEKpELDolx313BvGJk5poPQSujGoq2GPlj8bc6zNpVvfZv6xzFvHLM5dGIgUiKwW1vRFRJ74u9qjcBMHzaQ4RaWh3sVq0-7Bpd_ZVB7N4YQLSHwmE3Pb80rVcap2WAlTzzTWcB972yt3B2drbwYkRPkEtO9__BHUYzjHMZK4UZc04d4M_oHcapVL4TDuXtm-X6viyTPBp75xJzrXd_PlZMP6qaAlm3WUTzWYr0MD187ywzYqJjoqWWgwugiMU6rW-B7Y6RkJPRhZ7zJihU7t_YoZB9iyenJBJ_7OOIzuDszX3GqL3jlN0Mh5uU3ko6vJM9CdF6YzyLIgyjkSd8JJ-1MtHn77B3vccONcUOvPpL4bfNI3-hjJj6OSo0uxj7Q4l2rAFKjM",
+                        "q": "pizza best food"
+                    },
+                    "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=pizza+best+food&uds=AOm0WdGS5HAmv7VqF2qCDFdAXA1BwJhvYM5hikPtGe_yknJMjhjoalH3x9LK7t4HRX9iicI4KkkPTCJqrSUNO2-G7iexCz_Qk7n6BBX6FW5PL---tF22cKzs_tr-rVQBA6Ct3PscU4DUXfIpq6yGaqYf0rycjLtC8oMfnXHsz7Mpz8FTBPs5eLLs0cXtd9yHWlO1TsbZ5LWM0I5t14PYvwpUrDW1XCnRJ4N936WoWem-X-irzkO1hw1W9Z6xOvfcw19Puyc_42R6MvXQEQuoY4A8kcYLeDTq8Cq55HXhnzQpxGQBEKpELDolx313BvGJk5poPQSujGoq2GPlj8bc6zNpVvfZv6xzFvHLM5dGIgUiKwW1vRFRJ74u9qjcBMHzaQ4RaWh3sVq0-7Bpd_ZVB7N4YQLSHwmE3Pb80rVcap2WAlTzzTWcB972yt3B2drbwYkRPkEtO9__BHUYzjHMZK4UZc04d4M_oHcapVL4TDuXtm-X6viyTPBp75xJzrXd_PlZMP6qaAlm3WUTzWYr0MD187ywzYqJjoqWWgwugiMU6rW-B7Y6RkJPRhZ7zJihU7t_YoZB9iyenJBJ_7OOIzuDszX3GqL3jlN0Mh5uU3ko6vJM9CdF6YzyLIgyjkSd8JJ-1MtHn77B3vccONcUOvPpL4bfNI3-hjJj6OSo0uxj7Q4l2rAFKjM&sa=X&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQkbEKegQIGRAJ",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=pizza+best+food&uds=AOm0WdGS5HAmv7VqF2qCDFdAXA1BwJhvYM5hikPtGe_yknJMjhjoalH3x9LK7t4HRX9iicI4KkkPTCJqrSUNO2-G7iexCz_Qk7n6BBX6FW5PL---tF22cKzs_tr-rVQBA6Ct3PscU4DUXfIpq6yGaqYf0rycjLtC8oMfnXHsz7Mpz8FTBPs5eLLs0cXtd9yHWlO1TsbZ5LWM0I5t14PYvwpUrDW1XCnRJ4N936WoWem-X-irzkO1hw1W9Z6xOvfcw19Puyc_42R6MvXQEQuoY4A8kcYLeDTq8Cq55HXhnzQpxGQBEKpELDolx313BvGJk5poPQSujGoq2GPlj8bc6zNpVvfZv6xzFvHLM5dGIgUiKwW1vRFRJ74u9qjcBMHzaQ4RaWh3sVq0-7Bpd_ZVB7N4YQLSHwmE3Pb80rVcap2WAlTzzTWcB972yt3B2drbwYkRPkEtO9__BHUYzjHMZK4UZc04d4M_oHcapVL4TDuXtm-X6viyTPBp75xJzrXd_PlZMP6qaAlm3WUTzWYr0MD187ywzYqJjoqWWgwugiMU6rW-B7Y6RkJPRhZ7zJihU7t_YoZB9iyenJBJ_7OOIzuDszX3GqL3jlN0Mh5uU3ko6vJM9CdF6YzyLIgyjkSd8JJ-1MtHn77B3vccONcUOvPpL4bfNI3-hjJj6OSo0uxj7Q4l2rAFKjM"
+                },
+                {
+                    "name": "Seafood",
+                    "parameters": {
+                        "uds": "AOm0WdHCp2X35QArf3WjPz2io4iY9p9fUsVJpXiXfmuoDXdQVcuJ6uaIU8Gp8Vc4Mlh4c8rV-YsZgrSCrIBvkiuU5z7rhmp7e8Q8dzzfeb8uJlx4MJPX--4J8IPR1zWueK46JtaFbO1h2fGorqvNwEhuS5nJ1dhcP_99FG_Je6tGkwwN3s6A4D7M-rZpHS3JlAmKnpUFChkNCncpd9Kee-zvhv6hOn9j7u6uLGR0nDyLAp2QnTKz21qSxCPmIVNVwF5fuksGhBQHPLEFfYGYPFahsl35VuFjELKcALea7zIBlIk7H_B5nwDAl04IHl87_q3Vh1weDHmoqWnskl-LNpQP2PMu4FvNIYOCIxhKTrkHzTZGhaO0ved80YZlKm9VEc9Jq8l8kmf9uDr4tQES3Ufh-4ZuawGTugqCBrW8CM9ferUTjku7JDSPbYaGIGnXUl7As3cPr1SiSbkc6GDJVxiSllFPUR4s0ifTcR7tXFpBiJE-JnAEusf3rwf3la_EE2dzCmHWJVCXIg-fdngCRcijanh0NstlimmpApwcAu-5EEmR_tqRLGY0p-f-_s93x2XRDkp8Etz05125jjyVK1TeAJ8GXKgNjgeXbWxDxK_ibIuME4Mls1zif_j8lqpE-Wm3SirBrbGLtaInoY79mxZx0605EIAkN4oIzOig-gVBm_gqB_nWO6w",
+                        "q": "seafood best food"
+                    },
+                    "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=seafood+best+food&uds=AOm0WdHCp2X35QArf3WjPz2io4iY9p9fUsVJpXiXfmuoDXdQVcuJ6uaIU8Gp8Vc4Mlh4c8rV-YsZgrSCrIBvkiuU5z7rhmp7e8Q8dzzfeb8uJlx4MJPX--4J8IPR1zWueK46JtaFbO1h2fGorqvNwEhuS5nJ1dhcP_99FG_Je6tGkwwN3s6A4D7M-rZpHS3JlAmKnpUFChkNCncpd9Kee-zvhv6hOn9j7u6uLGR0nDyLAp2QnTKz21qSxCPmIVNVwF5fuksGhBQHPLEFfYGYPFahsl35VuFjELKcALea7zIBlIk7H_B5nwDAl04IHl87_q3Vh1weDHmoqWnskl-LNpQP2PMu4FvNIYOCIxhKTrkHzTZGhaO0ved80YZlKm9VEc9Jq8l8kmf9uDr4tQES3Ufh-4ZuawGTugqCBrW8CM9ferUTjku7JDSPbYaGIGnXUl7As3cPr1SiSbkc6GDJVxiSllFPUR4s0ifTcR7tXFpBiJE-JnAEusf3rwf3la_EE2dzCmHWJVCXIg-fdngCRcijanh0NstlimmpApwcAu-5EEmR_tqRLGY0p-f-_s93x2XRDkp8Etz05125jjyVK1TeAJ8GXKgNjgeXbWxDxK_ibIuME4Mls1zif_j8lqpE-Wm3SirBrbGLtaInoY79mxZx0605EIAkN4oIzOig-gVBm_gqB_nWO6w&sa=X&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQkbEKegQIGRAK",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=seafood+best+food&uds=AOm0WdHCp2X35QArf3WjPz2io4iY9p9fUsVJpXiXfmuoDXdQVcuJ6uaIU8Gp8Vc4Mlh4c8rV-YsZgrSCrIBvkiuU5z7rhmp7e8Q8dzzfeb8uJlx4MJPX--4J8IPR1zWueK46JtaFbO1h2fGorqvNwEhuS5nJ1dhcP_99FG_Je6tGkwwN3s6A4D7M-rZpHS3JlAmKnpUFChkNCncpd9Kee-zvhv6hOn9j7u6uLGR0nDyLAp2QnTKz21qSxCPmIVNVwF5fuksGhBQHPLEFfYGYPFahsl35VuFjELKcALea7zIBlIk7H_B5nwDAl04IHl87_q3Vh1weDHmoqWnskl-LNpQP2PMu4FvNIYOCIxhKTrkHzTZGhaO0ved80YZlKm9VEc9Jq8l8kmf9uDr4tQES3Ufh-4ZuawGTugqCBrW8CM9ferUTjku7JDSPbYaGIGnXUl7As3cPr1SiSbkc6GDJVxiSllFPUR4s0ifTcR7tXFpBiJE-JnAEusf3rwf3la_EE2dzCmHWJVCXIg-fdngCRcijanh0NstlimmpApwcAu-5EEmR_tqRLGY0p-f-_s93x2XRDkp8Etz05125jjyVK1TeAJ8GXKgNjgeXbWxDxK_ibIuME4Mls1zif_j8lqpE-Wm3SirBrbGLtaInoY79mxZx0605EIAkN4oIzOig-gVBm_gqB_nWO6w"
+                },
+                {
+                    "name": "South indian",
+                    "parameters": {
+                        "uds": "AOm0WdFUBfpvfMBfkBB9pWBJlNFPpDtg-G0gS0_BSpAhIovTujI5XmFHKFiBbJEOuE09_OLb11S4WS3ye-hsXklbCIW3F-FyMp-MBFynenHSRNBuUYrSpFLKsbguqfAdXnIDnB1aRx1ln_ktFKhPTzD7oEvfnGXXhiQ4F6XnsmLTcQuII6ki7KORJRvOSD5pkxCATGGi9CulxVahmSMt_uWM_KD1oQ1hXeg2UjKvoPvFZHtF1C-zilASnLQWOcRT1GPCf-3BAGVGMgxT9altjrZcuE-81kzR9LwLWo3-3ZX7rcJFRYcNBBt7GsTl_S1GRJK7RB6CUtLIRsly3pA1AW-E9T-M4oxD4BCyY5fgqpUEvhkBBgjHxIIUpgxqoIK-699X08stKFOOdjwIhKLt5NDIY8gjYFdr3aSNjUuipSgn2U_eYviPyMEgI4JMIwyGXnhKt3qGoQUpBW39plcCE5avxPntd5AVV8njBpAU3L1B1WXNANwpVhryUed8ed4UwyZlj0_kLPOSoP-H4X-cYA1VD1rOc_tU1mxRZTno3mK5KNNAdLrQMwxiV5vHIWPNa4yl1zqmbdyC2bGvAVAvsMiZre1Mb2ls7xGwzDCmBKivpwI2_pI2Cx9XKyUk1xGMvKFWaxifZrpe-ilEx3D3uUqQ_n6XB0jPMY-7XJU9xHAe4gUIuQpDKJg",
+                        "q": "south indian best food"
+                    },
+                    "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=south+indian+best+food&uds=AOm0WdFUBfpvfMBfkBB9pWBJlNFPpDtg-G0gS0_BSpAhIovTujI5XmFHKFiBbJEOuE09_OLb11S4WS3ye-hsXklbCIW3F-FyMp-MBFynenHSRNBuUYrSpFLKsbguqfAdXnIDnB1aRx1ln_ktFKhPTzD7oEvfnGXXhiQ4F6XnsmLTcQuII6ki7KORJRvOSD5pkxCATGGi9CulxVahmSMt_uWM_KD1oQ1hXeg2UjKvoPvFZHtF1C-zilASnLQWOcRT1GPCf-3BAGVGMgxT9altjrZcuE-81kzR9LwLWo3-3ZX7rcJFRYcNBBt7GsTl_S1GRJK7RB6CUtLIRsly3pA1AW-E9T-M4oxD4BCyY5fgqpUEvhkBBgjHxIIUpgxqoIK-699X08stKFOOdjwIhKLt5NDIY8gjYFdr3aSNjUuipSgn2U_eYviPyMEgI4JMIwyGXnhKt3qGoQUpBW39plcCE5avxPntd5AVV8njBpAU3L1B1WXNANwpVhryUed8ed4UwyZlj0_kLPOSoP-H4X-cYA1VD1rOc_tU1mxRZTno3mK5KNNAdLrQMwxiV5vHIWPNa4yl1zqmbdyC2bGvAVAvsMiZre1Mb2ls7xGwzDCmBKivpwI2_pI2Cx9XKyUk1xGMvKFWaxifZrpe-ilEx3D3uUqQ_n6XB0jPMY-7XJU9xHAe4gUIuQpDKJg&sa=X&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQkbEKegQIGRAL",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=south+indian+best+food&uds=AOm0WdFUBfpvfMBfkBB9pWBJlNFPpDtg-G0gS0_BSpAhIovTujI5XmFHKFiBbJEOuE09_OLb11S4WS3ye-hsXklbCIW3F-FyMp-MBFynenHSRNBuUYrSpFLKsbguqfAdXnIDnB1aRx1ln_ktFKhPTzD7oEvfnGXXhiQ4F6XnsmLTcQuII6ki7KORJRvOSD5pkxCATGGi9CulxVahmSMt_uWM_KD1oQ1hXeg2UjKvoPvFZHtF1C-zilASnLQWOcRT1GPCf-3BAGVGMgxT9altjrZcuE-81kzR9LwLWo3-3ZX7rcJFRYcNBBt7GsTl_S1GRJK7RB6CUtLIRsly3pA1AW-E9T-M4oxD4BCyY5fgqpUEvhkBBgjHxIIUpgxqoIK-699X08stKFOOdjwIhKLt5NDIY8gjYFdr3aSNjUuipSgn2U_eYviPyMEgI4JMIwyGXnhKt3qGoQUpBW39plcCE5avxPntd5AVV8njBpAU3L1B1WXNANwpVhryUed8ed4UwyZlj0_kLPOSoP-H4X-cYA1VD1rOc_tU1mxRZTno3mK5KNNAdLrQMwxiV5vHIWPNa4yl1zqmbdyC2bGvAVAvsMiZre1Mb2ls7xGwzDCmBKivpwI2_pI2Cx9XKyUk1xGMvKFWaxifZrpe-ilEx3D3uUqQ_n6XB0jPMY-7XJU9xHAe4gUIuQpDKJg"
+                },
+                {
+                    "name": "Vegetarian",
+                    "parameters": {
+                        "uds": "AOm0WdGS5HAmv7VqF2qCDFdAXA1B9Io1alGOZ5mvoYVGi7iGcv3rg4f2ShQ1VzTLWcYf9bn2-i8GrjmhLHka3g8cELff-k3nY5x1c2hjUe4PG5u4l0Aq6kPmzkDiu00yXzVexBf2abPurfDd0f_knFt-kYS_-MjVSihGx2PiniahGTAatHZQ4Byair6wy97sa-wYCH0jNlk4tVA7vfihy42CApAmDFfxBrTa1Cfvjo_V8uFVF3grkFNf2QYP3Qka8UfIIJSf9QRL3qlonf2XsBkZY-2ZBD1hR_iq4dUaArc6eJZsaQPTQQNWXxzf9IX25FoLKsJcjC7wOE76LFj5CJH9szNjvYsNqmu85WVqTRD0QKpi3pKqFTJknkPNKf3HAZFZw8c7nY2hQWViC6o6NiOf_rupQfZXSFen7OU1f4xzg8PUQsKZrj-_1qrMNsN8LqknJi0jZjjhjNfEHqOx6J6rZoDD3BkdeTiS1cKIO5diZzf7k-alUrzLCy5Jw99Zt1BHTn5SFDsBof2ibQ3tnmr6yxdx_Hw1ygqTLVNplu1aGqJlns4t0EfG2KVqxBXFx1miQFvxZNWqC6ISSawlXZPhjs1OYqInDp8mYmz_0mdaBpQKVBeZIWpUDDa8dsnVfqWtUWVaflW8I-U21wi1MwTNGLKaAhykGm2cRrTbudQekpQfwqT7fFU",
+                        "q": "vegetarian best food"
+                    },
+                    "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=vegetarian+best+food&uds=AOm0WdGS5HAmv7VqF2qCDFdAXA1B9Io1alGOZ5mvoYVGi7iGcv3rg4f2ShQ1VzTLWcYf9bn2-i8GrjmhLHka3g8cELff-k3nY5x1c2hjUe4PG5u4l0Aq6kPmzkDiu00yXzVexBf2abPurfDd0f_knFt-kYS_-MjVSihGx2PiniahGTAatHZQ4Byair6wy97sa-wYCH0jNlk4tVA7vfihy42CApAmDFfxBrTa1Cfvjo_V8uFVF3grkFNf2QYP3Qka8UfIIJSf9QRL3qlonf2XsBkZY-2ZBD1hR_iq4dUaArc6eJZsaQPTQQNWXxzf9IX25FoLKsJcjC7wOE76LFj5CJH9szNjvYsNqmu85WVqTRD0QKpi3pKqFTJknkPNKf3HAZFZw8c7nY2hQWViC6o6NiOf_rupQfZXSFen7OU1f4xzg8PUQsKZrj-_1qrMNsN8LqknJi0jZjjhjNfEHqOx6J6rZoDD3BkdeTiS1cKIO5diZzf7k-alUrzLCy5Jw99Zt1BHTn5SFDsBof2ibQ3tnmr6yxdx_Hw1ygqTLVNplu1aGqJlns4t0EfG2KVqxBXFx1miQFvxZNWqC6ISSawlXZPhjs1OYqInDp8mYmz_0mdaBpQKVBeZIWpUDDa8dsnVfqWtUWVaflW8I-U21wi1MwTNGLKaAhykGm2cRrTbudQekpQfwqT7fFU&sa=X&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQkbEKegQIGRAM",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=vegetarian+best+food&uds=AOm0WdGS5HAmv7VqF2qCDFdAXA1B9Io1alGOZ5mvoYVGi7iGcv3rg4f2ShQ1VzTLWcYf9bn2-i8GrjmhLHka3g8cELff-k3nY5x1c2hjUe4PG5u4l0Aq6kPmzkDiu00yXzVexBf2abPurfDd0f_knFt-kYS_-MjVSihGx2PiniahGTAatHZQ4Byair6wy97sa-wYCH0jNlk4tVA7vfihy42CApAmDFfxBrTa1Cfvjo_V8uFVF3grkFNf2QYP3Qka8UfIIJSf9QRL3qlonf2XsBkZY-2ZBD1hR_iq4dUaArc6eJZsaQPTQQNWXxzf9IX25FoLKsJcjC7wOE76LFj5CJH9szNjvYsNqmu85WVqTRD0QKpi3pKqFTJknkPNKf3HAZFZw8c7nY2hQWViC6o6NiOf_rupQfZXSFen7OU1f4xzg8PUQsKZrj-_1qrMNsN8LqknJi0jZjjhjNfEHqOx6J6rZoDD3BkdeTiS1cKIO5diZzf7k-alUrzLCy5Jw99Zt1BHTn5SFDsBof2ibQ3tnmr6yxdx_Hw1ygqTLVNplu1aGqJlns4t0EfG2KVqxBXFx1miQFvxZNWqC6ISSawlXZPhjs1OYqInDp8mYmz_0mdaBpQKVBeZIWpUDDa8dsnVfqWtUWVaflW8I-U21wi1MwTNGLKaAhykGm2cRrTbudQekpQfwqT7fFU"
+                }
+            ]
+        },
+        {
+            "name": "Cuisine",
+            "options": [
+                {
+                    "name": "Any cuisine"
+                },
+                {
+                    "name": "Buffet",
+                    "parameters": {
+                        "uds": "AOm0WdGReDh_4Qh1-4MMdzbh_h0bgSM5WnHBH-TI9hPB_Yjk0U2IaTS8MKbVi88545cLEaSwnPETWO7nPEVGadM-Jrc8aI1rEYsbKZookZComPvjzc7mlsN66P6LAbtwvbpcTqrx9p44KUxOXNLgVSUvNy_ufwkzkpQqlGolbxKnY3xV27lB_cxffOIjLQuLO0HlDzVImbySixRQQIcGyxK5swSZFiNX7RN5TlOG4eSn-YcaIsMrDRoAL0elXjWcyUKVHI1naZtndCGse_piNAHeJZdvJWCKcvOr7BZIWve1ZQRD3zuvDpcMSM4RJMRApd2GikL3XRDq_g9gKaSdGKt_SV1zg-ccoN2CLZuL_sMoDwU-zFxRQEfSipIx1V-PiRbRTYdbv8apHl2FHuaqLjOlHxqfsKsJ4mvRR375Fdr2fYiUxWiIDxOBqsGrWanVui1JEPlSxavb75ZLmSn_LLym8NzgSxfVZbcDXAEURoa1oU88rPwCXq3L037fe6KugUYdctbfQAtscJOi2iTZguycd0mSjaZtCwSuUpCZFP5_xdrA6VhKGxchavSM06vMkJR-LHar_4hzGkoe9RpjODdbXKTrXYxF1vHbtQd0dl4WPmdTsUGRfzrtvo6br-DI2E-NaGkRlU0ajSm9KAzAXPykZ8FhdwLoOsdxCry_rS43i1aRYOyHkT8",
+                        "q": "buffet best food"
+                    },
+                    "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=buffet+best+food&uds=AOm0WdGReDh_4Qh1-4MMdzbh_h0bgSM5WnHBH-TI9hPB_Yjk0U2IaTS8MKbVi88545cLEaSwnPETWO7nPEVGadM-Jrc8aI1rEYsbKZookZComPvjzc7mlsN66P6LAbtwvbpcTqrx9p44KUxOXNLgVSUvNy_ufwkzkpQqlGolbxKnY3xV27lB_cxffOIjLQuLO0HlDzVImbySixRQQIcGyxK5swSZFiNX7RN5TlOG4eSn-YcaIsMrDRoAL0elXjWcyUKVHI1naZtndCGse_piNAHeJZdvJWCKcvOr7BZIWve1ZQRD3zuvDpcMSM4RJMRApd2GikL3XRDq_g9gKaSdGKt_SV1zg-ccoN2CLZuL_sMoDwU-zFxRQEfSipIx1V-PiRbRTYdbv8apHl2FHuaqLjOlHxqfsKsJ4mvRR375Fdr2fYiUxWiIDxOBqsGrWanVui1JEPlSxavb75ZLmSn_LLym8NzgSxfVZbcDXAEURoa1oU88rPwCXq3L037fe6KugUYdctbfQAtscJOi2iTZguycd0mSjaZtCwSuUpCZFP5_xdrA6VhKGxchavSM06vMkJR-LHar_4hzGkoe9RpjODdbXKTrXYxF1vHbtQd0dl4WPmdTsUGRfzrtvo6br-DI2E-NaGkRlU0ajSm9KAzAXPykZ8FhdwLoOsdxCry_rS43i1aRYOyHkT8&sa=X&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQkbEKegQIGRAD",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=buffet+best+food&uds=AOm0WdGReDh_4Qh1-4MMdzbh_h0bgSM5WnHBH-TI9hPB_Yjk0U2IaTS8MKbVi88545cLEaSwnPETWO7nPEVGadM-Jrc8aI1rEYsbKZookZComPvjzc7mlsN66P6LAbtwvbpcTqrx9p44KUxOXNLgVSUvNy_ufwkzkpQqlGolbxKnY3xV27lB_cxffOIjLQuLO0HlDzVImbySixRQQIcGyxK5swSZFiNX7RN5TlOG4eSn-YcaIsMrDRoAL0elXjWcyUKVHI1naZtndCGse_piNAHeJZdvJWCKcvOr7BZIWve1ZQRD3zuvDpcMSM4RJMRApd2GikL3XRDq_g9gKaSdGKt_SV1zg-ccoN2CLZuL_sMoDwU-zFxRQEfSipIx1V-PiRbRTYdbv8apHl2FHuaqLjOlHxqfsKsJ4mvRR375Fdr2fYiUxWiIDxOBqsGrWanVui1JEPlSxavb75ZLmSn_LLym8NzgSxfVZbcDXAEURoa1oU88rPwCXq3L037fe6KugUYdctbfQAtscJOi2iTZguycd0mSjaZtCwSuUpCZFP5_xdrA6VhKGxchavSM06vMkJR-LHar_4hzGkoe9RpjODdbXKTrXYxF1vHbtQd0dl4WPmdTsUGRfzrtvo6br-DI2E-NaGkRlU0ajSm9KAzAXPykZ8FhdwLoOsdxCry_rS43i1aRYOyHkT8"
+                },
+                {
+                    "name": "Chinese",
+                    "parameters": {
+                        "uds": "AOm0WdFUBfpvfMBfkBB9pWBJlNFPVSSTeEpFkKe1f8SEl-afEV-9uFwQPlUbxjFgnEcnAAEjt3oVwwdQU_qPK42Zs1AtZz4i7t74f7JkpGdltW9zjiMOuBfNOwbuiAxo9qzKNTrfhQbUP1Txmqne7YGA9J_nNlSYJOPmtRMe1F8ZtdLejqVoR4RlK6xBtg0fiRuRDqfYRfYjYNfua6v3JvRsxIKaSnpntMrH3V5UMv1bYysS57m9Drinbng9AdDUOGu2JezgfHFU1auvCelELHQldJOF9yCVLQB1f2-uoplRyTeHbjz6T0tA4be_lVoaQ2CqslHPn3tm3OkviGW_8q4OwR7SnOku9FIAYreZ6IHujJdO1Jh3seeB2wWy3b-6bCLyHlrgd7DYckwK66Gqh0dQIB03f9JFM_H9OrkxIZnJSqisquy92x_y90grVHjmzPPjARJCQOmQA9Cbiw313FfmmWVvLODR1B_ah8AKQU2k_bHUho4jiWDIvUz13Un14KvddS1pSxa8KlKnAp02548YR8vZdfFVuAb8vj10CDaZ_PiuXkW8oRHNqQ99xcupxB7XAm6pnU0_j5LCQswQyaTVfQpm39CNgtAjnIEqr_-jgKk66brbkSfTMo5dqoqJrACXYrqSEzD6PAMPBaxPNf7d3AETZynPebaxs2LkY7L118xMgyyoDSc",
+                        "q": "chinese best food"
+                    },
+                    "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=chinese+best+food&uds=AOm0WdFUBfpvfMBfkBB9pWBJlNFPVSSTeEpFkKe1f8SEl-afEV-9uFwQPlUbxjFgnEcnAAEjt3oVwwdQU_qPK42Zs1AtZz4i7t74f7JkpGdltW9zjiMOuBfNOwbuiAxo9qzKNTrfhQbUP1Txmqne7YGA9J_nNlSYJOPmtRMe1F8ZtdLejqVoR4RlK6xBtg0fiRuRDqfYRfYjYNfua6v3JvRsxIKaSnpntMrH3V5UMv1bYysS57m9Drinbng9AdDUOGu2JezgfHFU1auvCelELHQldJOF9yCVLQB1f2-uoplRyTeHbjz6T0tA4be_lVoaQ2CqslHPn3tm3OkviGW_8q4OwR7SnOku9FIAYreZ6IHujJdO1Jh3seeB2wWy3b-6bCLyHlrgd7DYckwK66Gqh0dQIB03f9JFM_H9OrkxIZnJSqisquy92x_y90grVHjmzPPjARJCQOmQA9Cbiw313FfmmWVvLODR1B_ah8AKQU2k_bHUho4jiWDIvUz13Un14KvddS1pSxa8KlKnAp02548YR8vZdfFVuAb8vj10CDaZ_PiuXkW8oRHNqQ99xcupxB7XAm6pnU0_j5LCQswQyaTVfQpm39CNgtAjnIEqr_-jgKk66brbkSfTMo5dqoqJrACXYrqSEzD6PAMPBaxPNf7d3AETZynPebaxs2LkY7L118xMgyyoDSc&sa=X&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQkbEKegQIGRAE",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=chinese+best+food&uds=AOm0WdFUBfpvfMBfkBB9pWBJlNFPVSSTeEpFkKe1f8SEl-afEV-9uFwQPlUbxjFgnEcnAAEjt3oVwwdQU_qPK42Zs1AtZz4i7t74f7JkpGdltW9zjiMOuBfNOwbuiAxo9qzKNTrfhQbUP1Txmqne7YGA9J_nNlSYJOPmtRMe1F8ZtdLejqVoR4RlK6xBtg0fiRuRDqfYRfYjYNfua6v3JvRsxIKaSnpntMrH3V5UMv1bYysS57m9Drinbng9AdDUOGu2JezgfHFU1auvCelELHQldJOF9yCVLQB1f2-uoplRyTeHbjz6T0tA4be_lVoaQ2CqslHPn3tm3OkviGW_8q4OwR7SnOku9FIAYreZ6IHujJdO1Jh3seeB2wWy3b-6bCLyHlrgd7DYckwK66Gqh0dQIB03f9JFM_H9OrkxIZnJSqisquy92x_y90grVHjmzPPjARJCQOmQA9Cbiw313FfmmWVvLODR1B_ah8AKQU2k_bHUho4jiWDIvUz13Un14KvddS1pSxa8KlKnAp02548YR8vZdfFVuAb8vj10CDaZ_PiuXkW8oRHNqQ99xcupxB7XAm6pnU0_j5LCQswQyaTVfQpm39CNgtAjnIEqr_-jgKk66brbkSfTMo5dqoqJrACXYrqSEzD6PAMPBaxPNf7d3AETZynPebaxs2LkY7L118xMgyyoDSc"
+                },
+                {
+                    "name": "European",
+                    "parameters": {
+                        "uds": "AOm0WdH2wYwoNKqD8dQ9QzV7dJbBqB_pCOIyT8ot8Xjn-InCmtQIZWWSXEcYPIGaN4IUZFe8uZVjULsYNWzdLzSa3WK1ayof944HsT1FL9ezTJyz3loA8R62TVDKijSTlXPNr9aj_RaaUWE2kgTV-jX24dDSDy6Iju1tk3eAvVXPnXTeKQZWg8d7EV1cf5B89XUR904LckkOPc8KcOmnyIrWrvToQ4a9BG8Vl2Rw9OalDsvBkdATxufHYiJAkRO7YlwOpbgrLhtr3YsGaT-EBgzfSN9vvvQhQkhDUnLUqXFMUBCd3BuREc0p2LKhV6aiJx1TjBANAa48X0je-iA4TYRUpjwFc2XzaduJkhKkLy60DxS9chqZywJDJi3GjUY1gnaTc5pQChYeBx81N6EQ8o3Qfx4GxwNH84mgyc75eKq441H7gdvwRG7Wju0xV231QHIq8EzTW-1hdWK8UipzyjH4JsMBAI4qy0HH_54WVYo6BO4lNxLXboVeeXzhB4NNdgZUmlHVrPFa5UN40Y3-Zp_RTLQdqjNV5YkL-5X68Gev6Vwrt-MlfJfSoMsWXtBY4NeVxbImMXMUTBzHCdHlFFXrIgSagLZ5fSk8mMB03fms4NTIoxui8Bw9gB5_kRBPxuE4I2jqMQ69vjJUxlbT6fFQTtxtR-SwrqBY4rbYnNF64Oy762DgVzc",
+                        "q": "european best food"
+                    },
+                    "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=european+best+food&uds=AOm0WdH2wYwoNKqD8dQ9QzV7dJbBqB_pCOIyT8ot8Xjn-InCmtQIZWWSXEcYPIGaN4IUZFe8uZVjULsYNWzdLzSa3WK1ayof944HsT1FL9ezTJyz3loA8R62TVDKijSTlXPNr9aj_RaaUWE2kgTV-jX24dDSDy6Iju1tk3eAvVXPnXTeKQZWg8d7EV1cf5B89XUR904LckkOPc8KcOmnyIrWrvToQ4a9BG8Vl2Rw9OalDsvBkdATxufHYiJAkRO7YlwOpbgrLhtr3YsGaT-EBgzfSN9vvvQhQkhDUnLUqXFMUBCd3BuREc0p2LKhV6aiJx1TjBANAa48X0je-iA4TYRUpjwFc2XzaduJkhKkLy60DxS9chqZywJDJi3GjUY1gnaTc5pQChYeBx81N6EQ8o3Qfx4GxwNH84mgyc75eKq441H7gdvwRG7Wju0xV231QHIq8EzTW-1hdWK8UipzyjH4JsMBAI4qy0HH_54WVYo6BO4lNxLXboVeeXzhB4NNdgZUmlHVrPFa5UN40Y3-Zp_RTLQdqjNV5YkL-5X68Gev6Vwrt-MlfJfSoMsWXtBY4NeVxbImMXMUTBzHCdHlFFXrIgSagLZ5fSk8mMB03fms4NTIoxui8Bw9gB5_kRBPxuE4I2jqMQ69vjJUxlbT6fFQTtxtR-SwrqBY4rbYnNF64Oy762DgVzc&sa=X&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQkbEKegQIGRAF",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=european+best+food&uds=AOm0WdH2wYwoNKqD8dQ9QzV7dJbBqB_pCOIyT8ot8Xjn-InCmtQIZWWSXEcYPIGaN4IUZFe8uZVjULsYNWzdLzSa3WK1ayof944HsT1FL9ezTJyz3loA8R62TVDKijSTlXPNr9aj_RaaUWE2kgTV-jX24dDSDy6Iju1tk3eAvVXPnXTeKQZWg8d7EV1cf5B89XUR904LckkOPc8KcOmnyIrWrvToQ4a9BG8Vl2Rw9OalDsvBkdATxufHYiJAkRO7YlwOpbgrLhtr3YsGaT-EBgzfSN9vvvQhQkhDUnLUqXFMUBCd3BuREc0p2LKhV6aiJx1TjBANAa48X0je-iA4TYRUpjwFc2XzaduJkhKkLy60DxS9chqZywJDJi3GjUY1gnaTc5pQChYeBx81N6EQ8o3Qfx4GxwNH84mgyc75eKq441H7gdvwRG7Wju0xV231QHIq8EzTW-1hdWK8UipzyjH4JsMBAI4qy0HH_54WVYo6BO4lNxLXboVeeXzhB4NNdgZUmlHVrPFa5UN40Y3-Zp_RTLQdqjNV5YkL-5X68Gev6Vwrt-MlfJfSoMsWXtBY4NeVxbImMXMUTBzHCdHlFFXrIgSagLZ5fSk8mMB03fms4NTIoxui8Bw9gB5_kRBPxuE4I2jqMQ69vjJUxlbT6fFQTtxtR-SwrqBY4rbYnNF64Oy762DgVzc"
+                },
+                {
+                    "name": "Fast food",
+                    "parameters": {
+                        "uds": "AOm0WdGS5HAmv7VqF2qCDFdAXA1B9Io1alGOZ5mvoYVGi7iGcuNT-UxirDrkAXNpYXy0pIGfb6izmcvC2RXbkQsYJUYiXOZSqU-KWr0snOdxyJSD21M7C_YrehkksMdq2_qBFkM3Av5_h5ZZwhY-fEYAlowYQV35-VgxxwzEU186lNeH1ZV--jhwDjp_Tvvflp3TojeFN5cKDvu49DLrkWBaGxbwGvoZExroxMGWgKf0Jo3vUuOvSnq-bsbatNv90OPgdRkusDddCf3vA0iEnRz31eLnWSHfJ2IUNVbSILuKDEEU3OibCAd4M6GPuAsXdh8x9jUdNXyKwN9hJ_M0rnFs_5eMMbHB9ZwEedfPNB8Zc2BA0fOYv7mz8Xnsa9oojvaek_TZnvjyUwRxbT_z9IdehnBaOS2BW5TYPYmrzrJw7BVzz8mU1F5KeB8NRnpSdDmgS_ERoXFSGh7w3yvg6fA5_MibOqn7yyHlXrYQy6eSyTFUOaaqw6ZyabjRvKvCS8BLKgXttDmGl3WLx2pMW0BD-roMX8-s5D9f9vHVuINFjeNii5yDm7XGucqb6VQnCMBdF8Uafei90q_1_UbM25kxCFwxdfWaSErvAFoYb5juR6VAwdL8aiRzR0MjpdKYTBYiHMCYdSa4GxZUXFLbP-SvHr3FZLiEC_HgGl9NTTKXYrl53nNdMXI",
+                        "q": "fast food best food"
+                    },
+                    "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=fast+food+best+food&uds=AOm0WdGS5HAmv7VqF2qCDFdAXA1B9Io1alGOZ5mvoYVGi7iGcuNT-UxirDrkAXNpYXy0pIGfb6izmcvC2RXbkQsYJUYiXOZSqU-KWr0snOdxyJSD21M7C_YrehkksMdq2_qBFkM3Av5_h5ZZwhY-fEYAlowYQV35-VgxxwzEU186lNeH1ZV--jhwDjp_Tvvflp3TojeFN5cKDvu49DLrkWBaGxbwGvoZExroxMGWgKf0Jo3vUuOvSnq-bsbatNv90OPgdRkusDddCf3vA0iEnRz31eLnWSHfJ2IUNVbSILuKDEEU3OibCAd4M6GPuAsXdh8x9jUdNXyKwN9hJ_M0rnFs_5eMMbHB9ZwEedfPNB8Zc2BA0fOYv7mz8Xnsa9oojvaek_TZnvjyUwRxbT_z9IdehnBaOS2BW5TYPYmrzrJw7BVzz8mU1F5KeB8NRnpSdDmgS_ERoXFSGh7w3yvg6fA5_MibOqn7yyHlXrYQy6eSyTFUOaaqw6ZyabjRvKvCS8BLKgXttDmGl3WLx2pMW0BD-roMX8-s5D9f9vHVuINFjeNii5yDm7XGucqb6VQnCMBdF8Uafei90q_1_UbM25kxCFwxdfWaSErvAFoYb5juR6VAwdL8aiRzR0MjpdKYTBYiHMCYdSa4GxZUXFLbP-SvHr3FZLiEC_HgGl9NTTKXYrl53nNdMXI&sa=X&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQkbEKegQIGRAG",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=fast+food+best+food&uds=AOm0WdGS5HAmv7VqF2qCDFdAXA1B9Io1alGOZ5mvoYVGi7iGcuNT-UxirDrkAXNpYXy0pIGfb6izmcvC2RXbkQsYJUYiXOZSqU-KWr0snOdxyJSD21M7C_YrehkksMdq2_qBFkM3Av5_h5ZZwhY-fEYAlowYQV35-VgxxwzEU186lNeH1ZV--jhwDjp_Tvvflp3TojeFN5cKDvu49DLrkWBaGxbwGvoZExroxMGWgKf0Jo3vUuOvSnq-bsbatNv90OPgdRkusDddCf3vA0iEnRz31eLnWSHfJ2IUNVbSILuKDEEU3OibCAd4M6GPuAsXdh8x9jUdNXyKwN9hJ_M0rnFs_5eMMbHB9ZwEedfPNB8Zc2BA0fOYv7mz8Xnsa9oojvaek_TZnvjyUwRxbT_z9IdehnBaOS2BW5TYPYmrzrJw7BVzz8mU1F5KeB8NRnpSdDmgS_ERoXFSGh7w3yvg6fA5_MibOqn7yyHlXrYQy6eSyTFUOaaqw6ZyabjRvKvCS8BLKgXttDmGl3WLx2pMW0BD-roMX8-s5D9f9vHVuINFjeNii5yDm7XGucqb6VQnCMBdF8Uafei90q_1_UbM25kxCFwxdfWaSErvAFoYb5juR6VAwdL8aiRzR0MjpdKYTBYiHMCYdSa4GxZUXFLbP-SvHr3FZLiEC_HgGl9NTTKXYrl53nNdMXI"
+                },
+                {
+                    "name": "Italian",
+                    "parameters": {
+                        "uds": "AOm0WdGpj3JtNp8fXDg7d6FElEuFNK8KFzKfVG4Elek7IRSDzKMVle0LHaM9lV4h4-gf4jHdFvbE3qtNPgtz3F60DArX4L4ddnCQGEaawR6eYt1B8usvCBK5nrOWEzNxOACIEyIGr5GQXoTTqHROrDkv9tLwc8B-HZg3LmDZxpnD9SCdEbUlFIzKzLu_9sStj352ut9yqfVPUgCoLjZ8VIveUIzAcsGoKW5w-miFXaNFDmwElu43bRWwQyicAhLdilP8TuNc61qBs0r1XRv919rvpyMWQBkej0rgw6RJ2M9FhbHtKYCzTwS17xPNM5IqTA-nf98ZuvQcI2qC74lNNYxzOajcPdGPpc6hUJf-n76J9Few4RZ9Y0xgMCX2u6zG96AuDx4abSTNcrA9ecznaMFYU_CwzEFhcf9aR0d5BAAbCO9Ct2FmL6ZCEvvT474nxQD-0tA9FsuAjwhgYin9MOzy5Tl3GjogmqC7m8a45qUgf35mrBQDzXOWSJy_-BHVJUSD-OjTkCC2jvW8Cuo94kx5QTlqHIcA0MEtorBTwwD6A39f44XSXtypn1n3TSpkMQGxzy6FzAQA5hfouM1h715x7CKIAjloIyMBjk_ML9mt1EMVuWUjXMaQ9Sjj3aVnKlvH8yXujM7mkcOEbamsF6ZNHFU0gVIUfN1BeAnvnvWvAQ8G_0Mn4gs",
+                        "q": "italian best food"
+                    },
+                    "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=italian+best+food&uds=AOm0WdGpj3JtNp8fXDg7d6FElEuFNK8KFzKfVG4Elek7IRSDzKMVle0LHaM9lV4h4-gf4jHdFvbE3qtNPgtz3F60DArX4L4ddnCQGEaawR6eYt1B8usvCBK5nrOWEzNxOACIEyIGr5GQXoTTqHROrDkv9tLwc8B-HZg3LmDZxpnD9SCdEbUlFIzKzLu_9sStj352ut9yqfVPUgCoLjZ8VIveUIzAcsGoKW5w-miFXaNFDmwElu43bRWwQyicAhLdilP8TuNc61qBs0r1XRv919rvpyMWQBkej0rgw6RJ2M9FhbHtKYCzTwS17xPNM5IqTA-nf98ZuvQcI2qC74lNNYxzOajcPdGPpc6hUJf-n76J9Few4RZ9Y0xgMCX2u6zG96AuDx4abSTNcrA9ecznaMFYU_CwzEFhcf9aR0d5BAAbCO9Ct2FmL6ZCEvvT474nxQD-0tA9FsuAjwhgYin9MOzy5Tl3GjogmqC7m8a45qUgf35mrBQDzXOWSJy_-BHVJUSD-OjTkCC2jvW8Cuo94kx5QTlqHIcA0MEtorBTwwD6A39f44XSXtypn1n3TSpkMQGxzy6FzAQA5hfouM1h715x7CKIAjloIyMBjk_ML9mt1EMVuWUjXMaQ9Sjj3aVnKlvH8yXujM7mkcOEbamsF6ZNHFU0gVIUfN1BeAnvnvWvAQ8G_0Mn4gs&sa=X&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQkbEKegQIGRAH",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=italian+best+food&uds=AOm0WdGpj3JtNp8fXDg7d6FElEuFNK8KFzKfVG4Elek7IRSDzKMVle0LHaM9lV4h4-gf4jHdFvbE3qtNPgtz3F60DArX4L4ddnCQGEaawR6eYt1B8usvCBK5nrOWEzNxOACIEyIGr5GQXoTTqHROrDkv9tLwc8B-HZg3LmDZxpnD9SCdEbUlFIzKzLu_9sStj352ut9yqfVPUgCoLjZ8VIveUIzAcsGoKW5w-miFXaNFDmwElu43bRWwQyicAhLdilP8TuNc61qBs0r1XRv919rvpyMWQBkej0rgw6RJ2M9FhbHtKYCzTwS17xPNM5IqTA-nf98ZuvQcI2qC74lNNYxzOajcPdGPpc6hUJf-n76J9Few4RZ9Y0xgMCX2u6zG96AuDx4abSTNcrA9ecznaMFYU_CwzEFhcf9aR0d5BAAbCO9Ct2FmL6ZCEvvT474nxQD-0tA9FsuAjwhgYin9MOzy5Tl3GjogmqC7m8a45qUgf35mrBQDzXOWSJy_-BHVJUSD-OjTkCC2jvW8Cuo94kx5QTlqHIcA0MEtorBTwwD6A39f44XSXtypn1n3TSpkMQGxzy6FzAQA5hfouM1h715x7CKIAjloIyMBjk_ML9mt1EMVuWUjXMaQ9Sjj3aVnKlvH8yXujM7mkcOEbamsF6ZNHFU0gVIUfN1BeAnvnvWvAQ8G_0Mn4gs"
+                },
+                {
+                    "name": "North indian",
+                    "parameters": {
+                        "uds": "AOm0WdH2wYwoNKqD8dQ9QzV7dJbB-hoWqeQU7cfd78RID2LeMsoU3Rm9VY5mxLHP6lenBQiSnUU5uYUiBcP1fBPHjdUamVo1gVhmX9v7Mre36TmOuXgnGQY2Q6qJfBxV3ZTuQoWiCFJxTqMd7QffjgjcQCripZVVzJDFpCQDOU6Oshkc_OLkzAEUGJetdOZpiy-4hl6H-P4WJ3-Oh2EcYMWkagyvki6F8lOS5ieSfLTRRGoYJ3taZraUM0qvpfxHCiuo4-EjIRHWKG6R3jyI4TIwM0X03MNf91Ri-QJK_fwQjqi-BYTR4X5Ch-Xt_J8d0Z92FDCYTKXZYpt7QgFupBl1UpxUiRX5BHIDfb5pbP59vFrF1pT7CUSZjCTNv1gJtKfcN62r9bFqaBwsKbLIOIix8P6yM1xxchJccOiEERH6CinzuJCu4GUGokhGWxeY9ALp0XPk89348Sc-STUoWsG1FTXrOgs0Rd8hYHNO_d_0WKQukuYTiybCs-572TaLgX8WDgZDhbMxQGgQEz0y9NwYD49zJ2tE99Hop_s0Hnqec1sit7zqm9CSGkV0OVr_z9vIWPyyGIBHQEgDmvXP8CZwaOMeYFXhB0-Da-fxcB2j8i3VDz-5HjJJ7735yCRzG2sQNIOG76x2uHg-WBwmwpqMKqrk62RzkuRmacNzXve5fwphv6JUVac",
+                        "q": "north indian best food"
+                    },
+                    "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=north+indian+best+food&uds=AOm0WdH2wYwoNKqD8dQ9QzV7dJbB-hoWqeQU7cfd78RID2LeMsoU3Rm9VY5mxLHP6lenBQiSnUU5uYUiBcP1fBPHjdUamVo1gVhmX9v7Mre36TmOuXgnGQY2Q6qJfBxV3ZTuQoWiCFJxTqMd7QffjgjcQCripZVVzJDFpCQDOU6Oshkc_OLkzAEUGJetdOZpiy-4hl6H-P4WJ3-Oh2EcYMWkagyvki6F8lOS5ieSfLTRRGoYJ3taZraUM0qvpfxHCiuo4-EjIRHWKG6R3jyI4TIwM0X03MNf91Ri-QJK_fwQjqi-BYTR4X5Ch-Xt_J8d0Z92FDCYTKXZYpt7QgFupBl1UpxUiRX5BHIDfb5pbP59vFrF1pT7CUSZjCTNv1gJtKfcN62r9bFqaBwsKbLIOIix8P6yM1xxchJccOiEERH6CinzuJCu4GUGokhGWxeY9ALp0XPk89348Sc-STUoWsG1FTXrOgs0Rd8hYHNO_d_0WKQukuYTiybCs-572TaLgX8WDgZDhbMxQGgQEz0y9NwYD49zJ2tE99Hop_s0Hnqec1sit7zqm9CSGkV0OVr_z9vIWPyyGIBHQEgDmvXP8CZwaOMeYFXhB0-Da-fxcB2j8i3VDz-5HjJJ7735yCRzG2sQNIOG76x2uHg-WBwmwpqMKqrk62RzkuRmacNzXve5fwphv6JUVac&sa=X&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQkbEKegQIGRAI",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=north+indian+best+food&uds=AOm0WdH2wYwoNKqD8dQ9QzV7dJbB-hoWqeQU7cfd78RID2LeMsoU3Rm9VY5mxLHP6lenBQiSnUU5uYUiBcP1fBPHjdUamVo1gVhmX9v7Mre36TmOuXgnGQY2Q6qJfBxV3ZTuQoWiCFJxTqMd7QffjgjcQCripZVVzJDFpCQDOU6Oshkc_OLkzAEUGJetdOZpiy-4hl6H-P4WJ3-Oh2EcYMWkagyvki6F8lOS5ieSfLTRRGoYJ3taZraUM0qvpfxHCiuo4-EjIRHWKG6R3jyI4TIwM0X03MNf91Ri-QJK_fwQjqi-BYTR4X5Ch-Xt_J8d0Z92FDCYTKXZYpt7QgFupBl1UpxUiRX5BHIDfb5pbP59vFrF1pT7CUSZjCTNv1gJtKfcN62r9bFqaBwsKbLIOIix8P6yM1xxchJccOiEERH6CinzuJCu4GUGokhGWxeY9ALp0XPk89348Sc-STUoWsG1FTXrOgs0Rd8hYHNO_d_0WKQukuYTiybCs-572TaLgX8WDgZDhbMxQGgQEz0y9NwYD49zJ2tE99Hop_s0Hnqec1sit7zqm9CSGkV0OVr_z9vIWPyyGIBHQEgDmvXP8CZwaOMeYFXhB0-Da-fxcB2j8i3VDz-5HjJJ7735yCRzG2sQNIOG76x2uHg-WBwmwpqMKqrk62RzkuRmacNzXve5fwphv6JUVac"
+                },
+                {
+                    "name": "Pizza",
+                    "parameters": {
+                        "uds": "AOm0WdGS5HAmv7VqF2qCDFdAXA1BwJhvYM5hikPtGe_yknJMjhjoalH3x9LK7t4HRX9iicI4KkkPTCJqrSUNO2-G7iexCz_Qk7n6BBX6FW5PL---tF22cKzs_tr-rVQBA6Ct3PscU4DUXfIpq6yGaqYf0rycjLtC8oMfnXHsz7Mpz8FTBPs5eLLs0cXtd9yHWlO1TsbZ5LWM0I5t14PYvwpUrDW1XCnRJ4N936WoWem-X-irzkO1hw1W9Z6xOvfcw19Puyc_42R6MvXQEQuoY4A8kcYLeDTq8Cq55HXhnzQpxGQBEKpELDolx313BvGJk5poPQSujGoq2GPlj8bc6zNpVvfZv6xzFvHLM5dGIgUiKwW1vRFRJ74u9qjcBMHzaQ4RaWh3sVq0-7Bpd_ZVB7N4YQLSHwmE3Pb80rVcap2WAlTzzTWcB972yt3B2drbwYkRPkEtO9__BHUYzjHMZK4UZc04d4M_oHcapVL4TDuXtm-X6viyTPBp75xJzrXd_PlZMP6qaAlm3WUTzWYr0MD187ywzYqJjoqWWgwugiMU6rW-B7Y6RkJPRhZ7zJihU7t_YoZB9iyenJBJ_7OOIzuDszX3GqL3jlN0Mh5uU3ko6vJM9CdF6YzyLIgyjkSd8JJ-1MtHn77B3vccONcUOvPpL4bfNI3-hjJj6OSo0uxj7Q4l2rAFKjM",
+                        "q": "pizza best food"
+                    },
+                    "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=pizza+best+food&uds=AOm0WdGS5HAmv7VqF2qCDFdAXA1BwJhvYM5hikPtGe_yknJMjhjoalH3x9LK7t4HRX9iicI4KkkPTCJqrSUNO2-G7iexCz_Qk7n6BBX6FW5PL---tF22cKzs_tr-rVQBA6Ct3PscU4DUXfIpq6yGaqYf0rycjLtC8oMfnXHsz7Mpz8FTBPs5eLLs0cXtd9yHWlO1TsbZ5LWM0I5t14PYvwpUrDW1XCnRJ4N936WoWem-X-irzkO1hw1W9Z6xOvfcw19Puyc_42R6MvXQEQuoY4A8kcYLeDTq8Cq55HXhnzQpxGQBEKpELDolx313BvGJk5poPQSujGoq2GPlj8bc6zNpVvfZv6xzFvHLM5dGIgUiKwW1vRFRJ74u9qjcBMHzaQ4RaWh3sVq0-7Bpd_ZVB7N4YQLSHwmE3Pb80rVcap2WAlTzzTWcB972yt3B2drbwYkRPkEtO9__BHUYzjHMZK4UZc04d4M_oHcapVL4TDuXtm-X6viyTPBp75xJzrXd_PlZMP6qaAlm3WUTzWYr0MD187ywzYqJjoqWWgwugiMU6rW-B7Y6RkJPRhZ7zJihU7t_YoZB9iyenJBJ_7OOIzuDszX3GqL3jlN0Mh5uU3ko6vJM9CdF6YzyLIgyjkSd8JJ-1MtHn77B3vccONcUOvPpL4bfNI3-hjJj6OSo0uxj7Q4l2rAFKjM&sa=X&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQkbEKegQIGRAJ",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=pizza+best+food&uds=AOm0WdGS5HAmv7VqF2qCDFdAXA1BwJhvYM5hikPtGe_yknJMjhjoalH3x9LK7t4HRX9iicI4KkkPTCJqrSUNO2-G7iexCz_Qk7n6BBX6FW5PL---tF22cKzs_tr-rVQBA6Ct3PscU4DUXfIpq6yGaqYf0rycjLtC8oMfnXHsz7Mpz8FTBPs5eLLs0cXtd9yHWlO1TsbZ5LWM0I5t14PYvwpUrDW1XCnRJ4N936WoWem-X-irzkO1hw1W9Z6xOvfcw19Puyc_42R6MvXQEQuoY4A8kcYLeDTq8Cq55HXhnzQpxGQBEKpELDolx313BvGJk5poPQSujGoq2GPlj8bc6zNpVvfZv6xzFvHLM5dGIgUiKwW1vRFRJ74u9qjcBMHzaQ4RaWh3sVq0-7Bpd_ZVB7N4YQLSHwmE3Pb80rVcap2WAlTzzTWcB972yt3B2drbwYkRPkEtO9__BHUYzjHMZK4UZc04d4M_oHcapVL4TDuXtm-X6viyTPBp75xJzrXd_PlZMP6qaAlm3WUTzWYr0MD187ywzYqJjoqWWgwugiMU6rW-B7Y6RkJPRhZ7zJihU7t_YoZB9iyenJBJ_7OOIzuDszX3GqL3jlN0Mh5uU3ko6vJM9CdF6YzyLIgyjkSd8JJ-1MtHn77B3vccONcUOvPpL4bfNI3-hjJj6OSo0uxj7Q4l2rAFKjM"
+                },
+                {
+                    "name": "Seafood",
+                    "parameters": {
+                        "uds": "AOm0WdHCp2X35QArf3WjPz2io4iY9p9fUsVJpXiXfmuoDXdQVcuJ6uaIU8Gp8Vc4Mlh4c8rV-YsZgrSCrIBvkiuU5z7rhmp7e8Q8dzzfeb8uJlx4MJPX--4J8IPR1zWueK46JtaFbO1h2fGorqvNwEhuS5nJ1dhcP_99FG_Je6tGkwwN3s6A4D7M-rZpHS3JlAmKnpUFChkNCncpd9Kee-zvhv6hOn9j7u6uLGR0nDyLAp2QnTKz21qSxCPmIVNVwF5fuksGhBQHPLEFfYGYPFahsl35VuFjELKcALea7zIBlIk7H_B5nwDAl04IHl87_q3Vh1weDHmoqWnskl-LNpQP2PMu4FvNIYOCIxhKTrkHzTZGhaO0ved80YZlKm9VEc9Jq8l8kmf9uDr4tQES3Ufh-4ZuawGTugqCBrW8CM9ferUTjku7JDSPbYaGIGnXUl7As3cPr1SiSbkc6GDJVxiSllFPUR4s0ifTcR7tXFpBiJE-JnAEusf3rwf3la_EE2dzCmHWJVCXIg-fdngCRcijanh0NstlimmpApwcAu-5EEmR_tqRLGY0p-f-_s93x2XRDkp8Etz05125jjyVK1TeAJ8GXKgNjgeXbWxDxK_ibIuME4Mls1zif_j8lqpE-Wm3SirBrbGLtaInoY79mxZx0605EIAkN4oIzOig-gVBm_gqB_nWO6w",
+                        "q": "seafood best food"
+                    },
+                    "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=seafood+best+food&uds=AOm0WdHCp2X35QArf3WjPz2io4iY9p9fUsVJpXiXfmuoDXdQVcuJ6uaIU8Gp8Vc4Mlh4c8rV-YsZgrSCrIBvkiuU5z7rhmp7e8Q8dzzfeb8uJlx4MJPX--4J8IPR1zWueK46JtaFbO1h2fGorqvNwEhuS5nJ1dhcP_99FG_Je6tGkwwN3s6A4D7M-rZpHS3JlAmKnpUFChkNCncpd9Kee-zvhv6hOn9j7u6uLGR0nDyLAp2QnTKz21qSxCPmIVNVwF5fuksGhBQHPLEFfYGYPFahsl35VuFjELKcALea7zIBlIk7H_B5nwDAl04IHl87_q3Vh1weDHmoqWnskl-LNpQP2PMu4FvNIYOCIxhKTrkHzTZGhaO0ved80YZlKm9VEc9Jq8l8kmf9uDr4tQES3Ufh-4ZuawGTugqCBrW8CM9ferUTjku7JDSPbYaGIGnXUl7As3cPr1SiSbkc6GDJVxiSllFPUR4s0ifTcR7tXFpBiJE-JnAEusf3rwf3la_EE2dzCmHWJVCXIg-fdngCRcijanh0NstlimmpApwcAu-5EEmR_tqRLGY0p-f-_s93x2XRDkp8Etz05125jjyVK1TeAJ8GXKgNjgeXbWxDxK_ibIuME4Mls1zif_j8lqpE-Wm3SirBrbGLtaInoY79mxZx0605EIAkN4oIzOig-gVBm_gqB_nWO6w&sa=X&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQkbEKegQIGRAK",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=seafood+best+food&uds=AOm0WdHCp2X35QArf3WjPz2io4iY9p9fUsVJpXiXfmuoDXdQVcuJ6uaIU8Gp8Vc4Mlh4c8rV-YsZgrSCrIBvkiuU5z7rhmp7e8Q8dzzfeb8uJlx4MJPX--4J8IPR1zWueK46JtaFbO1h2fGorqvNwEhuS5nJ1dhcP_99FG_Je6tGkwwN3s6A4D7M-rZpHS3JlAmKnpUFChkNCncpd9Kee-zvhv6hOn9j7u6uLGR0nDyLAp2QnTKz21qSxCPmIVNVwF5fuksGhBQHPLEFfYGYPFahsl35VuFjELKcALea7zIBlIk7H_B5nwDAl04IHl87_q3Vh1weDHmoqWnskl-LNpQP2PMu4FvNIYOCIxhKTrkHzTZGhaO0ved80YZlKm9VEc9Jq8l8kmf9uDr4tQES3Ufh-4ZuawGTugqCBrW8CM9ferUTjku7JDSPbYaGIGnXUl7As3cPr1SiSbkc6GDJVxiSllFPUR4s0ifTcR7tXFpBiJE-JnAEusf3rwf3la_EE2dzCmHWJVCXIg-fdngCRcijanh0NstlimmpApwcAu-5EEmR_tqRLGY0p-f-_s93x2XRDkp8Etz05125jjyVK1TeAJ8GXKgNjgeXbWxDxK_ibIuME4Mls1zif_j8lqpE-Wm3SirBrbGLtaInoY79mxZx0605EIAkN4oIzOig-gVBm_gqB_nWO6w"
+                },
+                {
+                    "name": "South indian",
+                    "parameters": {
+                        "uds": "AOm0WdFUBfpvfMBfkBB9pWBJlNFPpDtg-G0gS0_BSpAhIovTujI5XmFHKFiBbJEOuE09_OLb11S4WS3ye-hsXklbCIW3F-FyMp-MBFynenHSRNBuUYrSpFLKsbguqfAdXnIDnB1aRx1ln_ktFKhPTzD7oEvfnGXXhiQ4F6XnsmLTcQuII6ki7KORJRvOSD5pkxCATGGi9CulxVahmSMt_uWM_KD1oQ1hXeg2UjKvoPvFZHtF1C-zilASnLQWOcRT1GPCf-3BAGVGMgxT9altjrZcuE-81kzR9LwLWo3-3ZX7rcJFRYcNBBt7GsTl_S1GRJK7RB6CUtLIRsly3pA1AW-E9T-M4oxD4BCyY5fgqpUEvhkBBgjHxIIUpgxqoIK-699X08stKFOOdjwIhKLt5NDIY8gjYFdr3aSNjUuipSgn2U_eYviPyMEgI4JMIwyGXnhKt3qGoQUpBW39plcCE5avxPntd5AVV8njBpAU3L1B1WXNANwpVhryUed8ed4UwyZlj0_kLPOSoP-H4X-cYA1VD1rOc_tU1mxRZTno3mK5KNNAdLrQMwxiV5vHIWPNa4yl1zqmbdyC2bGvAVAvsMiZre1Mb2ls7xGwzDCmBKivpwI2_pI2Cx9XKyUk1xGMvKFWaxifZrpe-ilEx3D3uUqQ_n6XB0jPMY-7XJU9xHAe4gUIuQpDKJg",
+                        "q": "south indian best food"
+                    },
+                    "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=south+indian+best+food&uds=AOm0WdFUBfpvfMBfkBB9pWBJlNFPpDtg-G0gS0_BSpAhIovTujI5XmFHKFiBbJEOuE09_OLb11S4WS3ye-hsXklbCIW3F-FyMp-MBFynenHSRNBuUYrSpFLKsbguqfAdXnIDnB1aRx1ln_ktFKhPTzD7oEvfnGXXhiQ4F6XnsmLTcQuII6ki7KORJRvOSD5pkxCATGGi9CulxVahmSMt_uWM_KD1oQ1hXeg2UjKvoPvFZHtF1C-zilASnLQWOcRT1GPCf-3BAGVGMgxT9altjrZcuE-81kzR9LwLWo3-3ZX7rcJFRYcNBBt7GsTl_S1GRJK7RB6CUtLIRsly3pA1AW-E9T-M4oxD4BCyY5fgqpUEvhkBBgjHxIIUpgxqoIK-699X08stKFOOdjwIhKLt5NDIY8gjYFdr3aSNjUuipSgn2U_eYviPyMEgI4JMIwyGXnhKt3qGoQUpBW39plcCE5avxPntd5AVV8njBpAU3L1B1WXNANwpVhryUed8ed4UwyZlj0_kLPOSoP-H4X-cYA1VD1rOc_tU1mxRZTno3mK5KNNAdLrQMwxiV5vHIWPNa4yl1zqmbdyC2bGvAVAvsMiZre1Mb2ls7xGwzDCmBKivpwI2_pI2Cx9XKyUk1xGMvKFWaxifZrpe-ilEx3D3uUqQ_n6XB0jPMY-7XJU9xHAe4gUIuQpDKJg&sa=X&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQkbEKegQIGRAL",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=south+indian+best+food&uds=AOm0WdFUBfpvfMBfkBB9pWBJlNFPpDtg-G0gS0_BSpAhIovTujI5XmFHKFiBbJEOuE09_OLb11S4WS3ye-hsXklbCIW3F-FyMp-MBFynenHSRNBuUYrSpFLKsbguqfAdXnIDnB1aRx1ln_ktFKhPTzD7oEvfnGXXhiQ4F6XnsmLTcQuII6ki7KORJRvOSD5pkxCATGGi9CulxVahmSMt_uWM_KD1oQ1hXeg2UjKvoPvFZHtF1C-zilASnLQWOcRT1GPCf-3BAGVGMgxT9altjrZcuE-81kzR9LwLWo3-3ZX7rcJFRYcNBBt7GsTl_S1GRJK7RB6CUtLIRsly3pA1AW-E9T-M4oxD4BCyY5fgqpUEvhkBBgjHxIIUpgxqoIK-699X08stKFOOdjwIhKLt5NDIY8gjYFdr3aSNjUuipSgn2U_eYviPyMEgI4JMIwyGXnhKt3qGoQUpBW39plcCE5avxPntd5AVV8njBpAU3L1B1WXNANwpVhryUed8ed4UwyZlj0_kLPOSoP-H4X-cYA1VD1rOc_tU1mxRZTno3mK5KNNAdLrQMwxiV5vHIWPNa4yl1zqmbdyC2bGvAVAvsMiZre1Mb2ls7xGwzDCmBKivpwI2_pI2Cx9XKyUk1xGMvKFWaxifZrpe-ilEx3D3uUqQ_n6XB0jPMY-7XJU9xHAe4gUIuQpDKJg"
+                },
+                {
+                    "name": "Vegetarian",
+                    "parameters": {
+                        "uds": "AOm0WdGS5HAmv7VqF2qCDFdAXA1B9Io1alGOZ5mvoYVGi7iGcv3rg4f2ShQ1VzTLWcYf9bn2-i8GrjmhLHka3g8cELff-k3nY5x1c2hjUe4PG5u4l0Aq6kPmzkDiu00yXzVexBf2abPurfDd0f_knFt-kYS_-MjVSihGx2PiniahGTAatHZQ4Byair6wy97sa-wYCH0jNlk4tVA7vfihy42CApAmDFfxBrTa1Cfvjo_V8uFVF3grkFNf2QYP3Qka8UfIIJSf9QRL3qlonf2XsBkZY-2ZBD1hR_iq4dUaArc6eJZsaQPTQQNWXxzf9IX25FoLKsJcjC7wOE76LFj5CJH9szNjvYsNqmu85WVqTRD0QKpi3pKqFTJknkPNKf3HAZFZw8c7nY2hQWViC6o6NiOf_rupQfZXSFen7OU1f4xzg8PUQsKZrj-_1qrMNsN8LqknJi0jZjjhjNfEHqOx6J6rZoDD3BkdeTiS1cKIO5diZzf7k-alUrzLCy5Jw99Zt1BHTn5SFDsBof2ibQ3tnmr6yxdx_Hw1ygqTLVNplu1aGqJlns4t0EfG2KVqxBXFx1miQFvxZNWqC6ISSawlXZPhjs1OYqInDp8mYmz_0mdaBpQKVBeZIWpUDDa8dsnVfqWtUWVaflW8I-U21wi1MwTNGLKaAhykGm2cRrTbudQekpQfwqT7fFU",
+                        "q": "vegetarian best food"
+                    },
+                    "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=vegetarian+best+food&uds=AOm0WdGS5HAmv7VqF2qCDFdAXA1B9Io1alGOZ5mvoYVGi7iGcv3rg4f2ShQ1VzTLWcYf9bn2-i8GrjmhLHka3g8cELff-k3nY5x1c2hjUe4PG5u4l0Aq6kPmzkDiu00yXzVexBf2abPurfDd0f_knFt-kYS_-MjVSihGx2PiniahGTAatHZQ4Byair6wy97sa-wYCH0jNlk4tVA7vfihy42CApAmDFfxBrTa1Cfvjo_V8uFVF3grkFNf2QYP3Qka8UfIIJSf9QRL3qlonf2XsBkZY-2ZBD1hR_iq4dUaArc6eJZsaQPTQQNWXxzf9IX25FoLKsJcjC7wOE76LFj5CJH9szNjvYsNqmu85WVqTRD0QKpi3pKqFTJknkPNKf3HAZFZw8c7nY2hQWViC6o6NiOf_rupQfZXSFen7OU1f4xzg8PUQsKZrj-_1qrMNsN8LqknJi0jZjjhjNfEHqOx6J6rZoDD3BkdeTiS1cKIO5diZzf7k-alUrzLCy5Jw99Zt1BHTn5SFDsBof2ibQ3tnmr6yxdx_Hw1ygqTLVNplu1aGqJlns4t0EfG2KVqxBXFx1miQFvxZNWqC6ISSawlXZPhjs1OYqInDp8mYmz_0mdaBpQKVBeZIWpUDDa8dsnVfqWtUWVaflW8I-U21wi1MwTNGLKaAhykGm2cRrTbudQekpQfwqT7fFU&sa=X&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQkbEKegQIGRAM",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=vegetarian+best+food&uds=AOm0WdGS5HAmv7VqF2qCDFdAXA1B9Io1alGOZ5mvoYVGi7iGcv3rg4f2ShQ1VzTLWcYf9bn2-i8GrjmhLHka3g8cELff-k3nY5x1c2hjUe4PG5u4l0Aq6kPmzkDiu00yXzVexBf2abPurfDd0f_knFt-kYS_-MjVSihGx2PiniahGTAatHZQ4Byair6wy97sa-wYCH0jNlk4tVA7vfihy42CApAmDFfxBrTa1Cfvjo_V8uFVF3grkFNf2QYP3Qka8UfIIJSf9QRL3qlonf2XsBkZY-2ZBD1hR_iq4dUaArc6eJZsaQPTQQNWXxzf9IX25FoLKsJcjC7wOE76LFj5CJH9szNjvYsNqmu85WVqTRD0QKpi3pKqFTJknkPNKf3HAZFZw8c7nY2hQWViC6o6NiOf_rupQfZXSFen7OU1f4xzg8PUQsKZrj-_1qrMNsN8LqknJi0jZjjhjNfEHqOx6J6rZoDD3BkdeTiS1cKIO5diZzf7k-alUrzLCy5Jw99Zt1BHTn5SFDsBof2ibQ3tnmr6yxdx_Hw1ygqTLVNplu1aGqJlns4t0EfG2KVqxBXFx1miQFvxZNWqC6ISSawlXZPhjs1OYqInDp8mYmz_0mdaBpQKVBeZIWpUDDa8dsnVfqWtUWVaflW8I-U21wi1MwTNGLKaAhykGm2cRrTbudQekpQfwqT7fFU"
+                }
+            ]
+        },
+        {
+            "name": "Top 10",
+            "parameters": {
+                "uds": "AOm0WdE2fekQnsyfYEw8JPYozOKzQEIHAcjJmn2JuOO6RqYGTQw9YjUozA7bCpIpo7ljK8oNhG57piv1GvbhWe2qowWvWMObX6d0LDWH8l20ydp8kc59U8C6Bf4WIeDDrmpRCRr-EIUcO-rsERL2gckaKr6eU2A3gOde-dZQCLGHDgblclykvq-8yaH9064ypwieaosg37k7946uRTABaaH5CyEI5D5ifg",
+                "q": "Top 10 best foods"
+            },
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Top+10+best+foods&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzQEIHAcjJmn2JuOO6RqYGTQw9YjUozA7bCpIpo7ljK8oNhG57piv1GvbhWe2qowWvWMObX6d0LDWH8l20ydp8kc59U8C6Bf4WIeDDrmpRCRr-EIUcO-rsERL2gckaKr6eU2A3gOde-dZQCLGHDgblclykvq-8yaH9064ypwieaosg37k7946uRTABaaH5CyEI5D5ifg&sa=X&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQxKsJKAR6BAgkEAE&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=Top+10+best+foods&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzQEIHAcjJmn2JuOO6RqYGTQw9YjUozA7bCpIpo7ljK8oNhG57piv1GvbhWe2qowWvWMObX6d0LDWH8l20ydp8kc59U8C6Bf4WIeDDrmpRCRr-EIUcO-rsERL2gckaKr6eU2A3gOde-dZQCLGHDgblclykvq-8yaH9064ypwieaosg37k7946uRTABaaH5CyEI5D5ifg"
+        },
+        {
+            "name": "Recipes",
+            "parameters": {
+                "uds": "AOm0WdE2fekQnsyfYEw8JPYozOKzGWeHDqJP4_R-pEwmrnqxsvWaXhlg1qYn0Z72dwg49fuudg_ToGgPBZ917RKMJBBD6GfhphzZBDRxD0douwnnTEZcXnM7TQhcpYGRiK_EXO-Sr0vRoo2kk4Nai397kCmYJ81N1YCbWH3mMgr5cR-jR5SfVpWWfI4WRrZyEux0T-vjKB3l4JN2YLXp9UjzDP5c4AxjHg",
+                "q": "Best food recipes"
+            },
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Best+food+recipes&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzGWeHDqJP4_R-pEwmrnqxsvWaXhlg1qYn0Z72dwg49fuudg_ToGgPBZ917RKMJBBD6GfhphzZBDRxD0douwnnTEZcXnM7TQhcpYGRiK_EXO-Sr0vRoo2kk4Nai397kCmYJ81N1YCbWH3mMgr5cR-jR5SfVpWWfI4WRrZyEux0T-vjKB3l4JN2YLXp9UjzDP5c4AxjHg&sa=X&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQxKsJKAV6BQjdARAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=Best+food+recipes&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzGWeHDqJP4_R-pEwmrnqxsvWaXhlg1qYn0Z72dwg49fuudg_ToGgPBZ917RKMJBBD6GfhphzZBDRxD0douwnnTEZcXnM7TQhcpYGRiK_EXO-Sr0vRoo2kk4Nai397kCmYJ81N1YCbWH3mMgr5cR-jR5SfVpWWfI4WRrZyEux0T-vjKB3l4JN2YLXp9UjzDP5c4AxjHg"
+        },
+        {
+            "name": "Restaurants",
+            "parameters": {
+                "uds": "AOm0WdE2fekQnsyfYEw8JPYozOKzOUQrD4b8wildkDVTdo08-n0aKbqmYOZtr7G6LmRyhrGbVpSDP3t-tukaxIDTGLsdIHoZjnrn11pHid61mV-48fvwLwytBOoAke4wIYX0Y2nPxxrAVg6m8OEZ1-DSnneBQ8dIxbav7ZlylgJnBsDjhgnfdc8EQcuNMbcAY6WJ38-wAiaJh9daFYTH3ezwPl7KtNIUvQ",
+                "q": "Best food restaurants"
+            },
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Best+food+restaurants&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzOUQrD4b8wildkDVTdo08-n0aKbqmYOZtr7G6LmRyhrGbVpSDP3t-tukaxIDTGLsdIHoZjnrn11pHid61mV-48fvwLwytBOoAke4wIYX0Y2nPxxrAVg6m8OEZ1-DSnneBQ8dIxbav7ZlylgJnBsDjhgnfdc8EQcuNMbcAY6WJ38-wAiaJh9daFYTH3ezwPl7KtNIUvQ&sa=X&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQxKsJKAZ6BQjcARAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=Best+food+restaurants&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzOUQrD4b8wildkDVTdo08-n0aKbqmYOZtr7G6LmRyhrGbVpSDP3t-tukaxIDTGLsdIHoZjnrn11pHid61mV-48fvwLwytBOoAke4wIYX0Y2nPxxrAVg6m8OEZ1-DSnneBQ8dIxbav7ZlylgJnBsDjhgnfdc8EQcuNMbcAY6WJ38-wAiaJh9daFYTH3ezwPl7KtNIUvQ"
+        },
+        {
+            "name": "For diabetics",
+            "parameters": {
+                "uds": "AOm0WdE2fekQnsyfYEw8JPYozOKzLwO7xcmBLzyLI3VcHX3TBV6Sf1iyvW0q32LsMtjpX1kpitc_OB7fH-_Y9KUcMlf-7YZSxfNa1ZphPX45Ws7-m5kPEEwu4dZk7xnCn6c19i6expcGcZUmQfyH4rNmCK0R09GtQGngFxZUkCCS4ARg9xetjEIF0Xv9EihflIf-pey0pjE-jpyyr1kr5OjSOj3T29IllQ",
+                "q": "Best food for diabetics"
+            },
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Best+food+for+diabetics&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzLwO7xcmBLzyLI3VcHX3TBV6Sf1iyvW0q32LsMtjpX1kpitc_OB7fH-_Y9KUcMlf-7YZSxfNa1ZphPX45Ws7-m5kPEEwu4dZk7xnCn6c19i6expcGcZUmQfyH4rNmCK0R09GtQGngFxZUkCCS4ARg9xetjEIF0Xv9EihflIf-pey0pjE-jpyyr1kr5OjSOj3T29IllQ&sa=X&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQxKsJKAd6BQjYARAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=Best+food+for+diabetics&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzLwO7xcmBLzyLI3VcHX3TBV6Sf1iyvW0q32LsMtjpX1kpitc_OB7fH-_Y9KUcMlf-7YZSxfNa1ZphPX45Ws7-m5kPEEwu4dZk7xnCn6c19i6expcGcZUmQfyH4rNmCK0R09GtQGngFxZUkCCS4ARg9xetjEIF0Xv9EihflIf-pey0pjE-jpyyr1kr5OjSOj3T29IllQ"
+        },
+        {
+            "name": "To eat",
+            "parameters": {
+                "uds": "AOm0WdE2fekQnsyfYEw8JPYozOKzaybOgNsAVqY-vq-m89NZAJ-XQGu0Sac5q9vRQjshSDNU2ggMe6Lvy0mREVKLlwTXC2vfGmosVg_nkpO05ftwLI3SenKy53n3ath5Z8NLguduxuyn0WtjzmrDhzrYPExBdedZIu7t8oPVHgkHvIc3y9ginsJb-tF9yg3iGvJZT3Yy_egy58kMQGZ4EJvPjEvL6B4fcw",
+                "q": "Best foods to eat"
+            },
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Best+foods+to+eat&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzaybOgNsAVqY-vq-m89NZAJ-XQGu0Sac5q9vRQjshSDNU2ggMe6Lvy0mREVKLlwTXC2vfGmosVg_nkpO05ftwLI3SenKy53n3ath5Z8NLguduxuyn0WtjzmrDhzrYPExBdedZIu7t8oPVHgkHvIc3y9ginsJb-tF9yg3iGvJZT3Yy_egy58kMQGZ4EJvPjEvL6B4fcw&sa=X&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQxKsJKAh6BQjZARAB&ictx=0",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=Best+foods+to+eat&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzaybOgNsAVqY-vq-m89NZAJ-XQGu0Sac5q9vRQjshSDNU2ggMe6Lvy0mREVKLlwTXC2vfGmosVg_nkpO05ftwLI3SenKy53n3ath5Z8NLguduxuyn0WtjzmrDhzrYPExBdedZIu7t8oPVHgkHvIc3y9ginsJb-tF9yg3iGvJZT3Yy_egy58kMQGZ4EJvPjEvL6B4fcw"
+        }
+    ],
+    "related_searches": [
+        {
+            "block_position": 1,
+            "query": "Best food in the world",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Best+food+in+the+world&sa=X&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQ1QJ6BQi5ARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=Best+food+in+the+world"
+        },
+        {
+            "block_position": 1,
+            "query": "Best food recipes",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Best+food+recipes&sa=X&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQ1QJ6BQjKARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=Best+food+recipes"
+        },
+        {
+            "block_position": 1,
+            "query": "Best food restaurants",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Best+food+restaurants&sa=X&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQ1QJ6BQjJARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=Best+food+restaurants"
+        },
+        {
+            "block_position": 1,
+            "query": "Best Foods company",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Best+Foods+company&sa=X&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQ1QJ6BQjHARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=Best+Foods+company"
+        },
+        {
+            "block_position": 1,
+            "query": "Best Foods Mayonnaise",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Best+Foods+Mayonnaise&sa=X&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQ1QJ6BQjDARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=Best+Foods+Mayonnaise"
+        },
+        {
+            "block_position": 1,
+            "query": "Best Foods Unilever",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Best+Foods+Unilever&sa=X&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQ1QJ6BQjCARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=Best+Foods+Unilever"
+        },
+        {
+            "block_position": 1,
+            "query": "Best foods to eat",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Best+foods+to+eat&sa=X&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQ1QJ6BQi_ARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=Best+foods+to+eat"
+        },
+        {
+            "block_position": 1,
+            "query": "Best foods list",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Best+foods+list&sa=X&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQ1QJ6BQi9ARAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=Best+foods+list"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=best+food&num=50&sca_esv=cbb70bed2ede2303&ei=dHa4aIf6FKuNwbkP7_K9wAU&start=50&sa=N&sstk=Ac65TH5kAH5kRsfGD9qDFAR5a7YWAAemNRM0HRdDdbJvASImKF9ho8IHxuTlGO3-FhI-ihIDQ8ieNNgyN0Ym1ZVJMn0qrL3j2ZmRgg&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQ8NMDegQICRAI",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=best+food&num=50&sca_esv=cbb70bed2ede2303&ei=dHa4aIf6FKuNwbkP7_K9wAU&start=50&sa=N&sstk=Ac65TH5kAH5kRsfGD9qDFAR5a7YWAAemNRM0HRdDdbJvASImKF9ho8IHxuTlGO3-FhI-ihIDQ8ieNNgyN0Ym1ZVJMn0qrL3j2ZmRgg&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQ8tMDegQICRAE",
+            "3": "https://www.google.com/search?q=best+food&num=50&sca_esv=cbb70bed2ede2303&ei=dHa4aIf6FKuNwbkP7_K9wAU&start=100&sa=N&sstk=Ac65TH5kAH5kRsfGD9qDFAR5a7YWAAemNRM0HRdDdbJvASImKF9ho8IHxuTlGO3-FhI-ihIDQ8ieNNgyN0Ym1ZVJMn0qrL3j2ZmRgg&ved=2ahUKEwiHhOPrir2PAxWrRjABHW95D1gQ8tMDegQICRAG"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=best+food&start=50",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=best+food&start=50",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=best+food&start=50",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=50&q=best+food&start=100"
+        }
+    }
+}

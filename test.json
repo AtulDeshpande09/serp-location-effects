@@ -1,0 +1,2695 @@
+{
+    "search_metadata": {
+        "id": "68b7377faf5fdc7e5fabddbf",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/139e521821dd74ca/68b7377faf5fdc7e5fabddbf.json",
+        "pixel_position_endpoint": "https://serpapi.com/searches/139e521821dd74ca/68b7377faf5fdc7e5fabddbf.json_with_pixel_position",
+        "created_at": "2025-09-02 18:29:19 UTC",
+        "processed_at": "2025-09-02 18:29:19 UTC",
+        "google_url": "https://www.google.com/search?q=Coffee&oq=Coffee&uule=w+CAIQICIFSW5kaWE&num=10&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/139e521821dd74ca/68b7377faf5fdc7e5fabddbf.html",
+        "total_time_taken": 2.56
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Coffee",
+        "location_requested": "India",
+        "location_used": "India",
+        "google_domain": "google.com",
+        "num": "10",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "Coffee",
+        "total_results": 3010000000,
+        "time_taken_displayed": 0.3,
+        "organic_results_state": "Results for exact spelling",
+        "results_for": "India"
+    },
+    "local_map": {
+        "link": "https://www.google.com/search?sca_esv=7fc613d9cd9ef286&tbm=lcl&q=Coffee&rflfq=1&num=10&uule=w+CAIQICIFSW5kaWE&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQtgN6BAgyEAM",
+        "image": "https://serpapi.com/searches/68b7377faf5fdc7e5fabddbf/images/224e5ac8747fd4975c384c1c1a4ad4ee.png",
+        "gps_coordinates": {
+            "latitude": 21.18953362,
+            "longitude": 82.72155762
+        }
+    },
+    "local_results": {
+        "places": [
+            {
+                "position": 1,
+                "rating": 4.7,
+                "reviews": 18,
+                "reviews_original": "(18)",
+                "price": "\u20b91\u2013200",
+                "description": "\"Customer service good\"",
+                "thumbnail": "https://serpapi.com/searches/68b7377faf5fdc7e5fabddbf/images/24c34143239b66523b81263559168c6230e027bf6ac7aea53ec74f9b3c810c6fa000e54cf88bdb8d.jpeg",
+                "place_id": "11111255953659848521",
+                "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&ludocid=11111255953659848521&num=10&q=Coffee",
+                "gps_coordinates": {
+                    "latitude": 21.001266,
+                    "longitude": 83.05827
+                },
+                "title": "PINTU Tea & Coffee",
+                "type": "Coffee shop",
+                "address": "Padmapur, Odisha, India",
+                "hours": "Closed \u22c5 Opens 7 AM Wed"
+            },
+            {
+                "position": 2,
+                "rating": 3.2,
+                "reviews": 5,
+                "reviews_original": "(5)",
+                "thumbnail": "https://serpapi.com/searches/68b7377faf5fdc7e5fabddbf/images/24c34143239b66523b81263559168c629fe36cfa1b9c9bf110c5d69cb228fa021cd20512712f9bac.png",
+                "service_options": {
+                    "dine_in": true,
+                    "takeout": true
+                },
+                "place_id": "3954907121336883559",
+                "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&ludocid=3954907121336883559&num=10&q=Coffee",
+                "gps_coordinates": {
+                    "latitude": 21.044619,
+                    "longitude": 82.386795
+                },
+                "title": "Prem Tea & Coffee Store",
+                "type": "Cafe",
+                "address": "Bagbahara, Chhattisgarh, India"
+            },
+            {
+                "position": 3,
+                "rating": 4.8,
+                "reviews": 5,
+                "reviews_original": "(5)",
+                "description": "\"It's really really awesome SK chai.\"",
+                "thumbnail": "https://serpapi.com/searches/68b7377faf5fdc7e5fabddbf/images/24c34143239b66523b81263559168c626b8035da5af5e14a3f173597890d789306486e58ebd9de87.jpeg",
+                "place_id": "3608104609704885262",
+                "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&ludocid=3608104609704885262&num=10&q=Coffee",
+                "gps_coordinates": {
+                    "latitude": 21.299826,
+                    "longitude": 82.9445
+                },
+                "title": "S.K Chai tapri",
+                "type": "Coffee shop",
+                "address": "Lakhanpali, Chhattisgarh, India"
+            }
+        ],
+        "more_locations_link": "https://www.google.com/search?sca_esv=7fc613d9cd9ef286&tbm=lcl&q=Coffee&rflfq=1&num=10&uule=w+CAIQICIFSW5kaWE&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQjGp6BAgwEAE"
+    },
+    "knowledge_graph": {
+        "title": "Coffee",
+        "type": "Beverages",
+        "kgmid": "/m/02vqfm",
+        "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/02vqfm&hl=en-US&q=Coffee",
+        "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F02vqfm&location=India&num=10&q=Coffee",
+        "header_images": [
+            {
+                "image": "https://serpapi.com/searches/68b7377faf5fdc7e5fabddbf/images/427422fc047e8d22c2ef49ac609b434381e9e605b30823bb0f06b42b9468d0e0225dd45acb1e0a30.webp",
+                "source": "https://en.wikipedia.org/wiki/Coffee"
+            },
+            {
+                "image": "https://serpapi.com/searches/68b7377faf5fdc7e5fabddbf/images/427422fc047e8d22c2ef49ac609b434381e9e605b30823bb640c622b4577797776afecf9a64d9045.webp",
+                "source": "https://sco.wikipedia.org/wiki/Coffee"
+            },
+            {
+                "image": "https://serpapi.com/searches/68b7377faf5fdc7e5fabddbf/images/427422fc047e8d22c2ef49ac609b434381e9e605b30823bbabeccc5e428a03ebd5febf759d11a635.webp",
+                "source": "https://somedayilllearn.com/how-to-make-black-coffee/"
+            },
+            {
+                "image": "https://serpapi.com/searches/68b7377faf5fdc7e5fabddbf/images/427422fc047e8d22c2ef49ac609b434381e9e605b30823bbe6067234aa5f5af3fb3dd6ad60db4084.webp",
+                "source": "https://www.royalcupcoffee.com/blog/articles/selecting-right-coffee-every-time-day"
+            }
+        ],
+        "place_id": "ChIJe6GuCFyDJjoRSedWfmscM5o",
+        "description": "Coffee is a beverage brewed from roasted, ground coffee beans. Darkly colored, bitter, and slightly acidic, coffee has a stimulating effect on humans, primarily due to its caffeine content, but decaffeinated coffee is also commercially available. There are also various coffee substitutes.",
+        "source": {
+            "name": "\u00a0Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Coffee"
+        },
+        "sources_include": "USDAUSDAUSDAUSDAUSDAUSDAUSDACoffee1 Calories - 1 cup (8 fl oz) (237 g)",
+        "sources_include_links": [
+            {
+                "text": "USDA",
+                "link": "https://fdc.nal.usda.gov/food-details/171890/nutrients"
+            },
+            {
+                "text": "USDA",
+                "link": "https://fdc.nal.usda.gov/food-details/171889/nutrients"
+            },
+            {
+                "text": "USDA",
+                "link": "https://fdc.nal.usda.gov/food-details/171891/nutrients"
+            },
+            {
+                "text": "USDA",
+                "link": "https://fdc.nal.usda.gov/food-details/171893/nutrients"
+            },
+            {
+                "text": "USDA",
+                "link": "https://fdc.nal.usda.gov/food-details/174134/nutrients"
+            },
+            {
+                "text": "USDA",
+                "link": "https://fdc.nal.usda.gov/"
+            },
+            {
+                "text": "USDA",
+                "link": "https://fdc.nal.usda.gov/food-details/174135/nutrients"
+            }
+        ],
+        "list": {
+            "total_fat": [
+                "0 g",
+                "0%"
+            ],
+            "cholesterol": [
+                "0 mg",
+                "0%"
+            ],
+            "sodium": [
+                "5 mg",
+                "0%"
+            ],
+            "potassium": [
+                "116 mg",
+                "3%"
+            ],
+            "total_carbohydrate": [
+                "0 g",
+                "0%"
+            ],
+            "protein": [
+                "0.3 g",
+                "0%"
+            ],
+            "caffeine": [
+                "95 mg"
+            ]
+        }
+    },
+    "immersive_products": [
+        {
+            "category": "Popular products",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTyiImkxm7BL7GGtNo3eTT3YchvlhF9N6A5fg92bH1gXOoc4Ge2JumU5jzDDB5Df0Z-7bIz-Yi3DfDymwcdOyYdRkUGhln0dtjQDjQdP_caCgiSqkMLD-iX",
+            "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+            "source": "Walmart",
+            "title": "Folgers Classic Roast Ground Coffee",
+            "rating": 4.6,
+            "reviews": 14000,
+            "price": "$6.53",
+            "extracted_price": 6.53,
+            "immersive_product_page_token": "eyJlaSI6ImdEZTNhTV9iQ29lQzQtRVAyX0c1aUFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY5MTQ4Nzc2MjUyODA5Nzc4NjUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzMjM4MjI0ODQ0NjI0OTEyMTY5IiwiaW1hZ2VEb2NpZCI6IjQ3Njc0OTkxNTkwNjMyNzkxNCIsInJkcyI6IlBDXzMyNDU0NzY0MDA4MzM1NTE5NDh8UFJPRF9QQ18zMjQ1NDc2NDAwODMzNTUxOTQ4IiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjMyNDU0NzY0MDA4MzM1NTE5NDgiLCJtaWQiOiI1NzY0NjI2MTIyODAxMzA0ODEiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lGU1c1a2FXRSIsImdsIjpudWxsLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImdEZTNhTV9iQ29lQzQtRVAyX0c1aUFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY5MTQ4Nzc2MjUyODA5Nzc4NjUiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIzMjM4MjI0ODQ0NjI0OTEyMTY5IiwiaW1hZ2VEb2NpZCI6IjQ3Njc0OTkxNTkwNjMyNzkxNCIsInJkcyI6IlBDXzMyNDU0NzY0MDA4MzM1NTE5NDh8UFJPRF9QQ18zMjQ1NDc2NDAwODMzNTUxOTQ4IiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjMyNDU0NzY0MDA4MzM1NTE5NDgiLCJtaWQiOiI1NzY0NjI2MTIyODAxMzA0ODEiLCJwdnQiOiJoZyIsInV1bGUiOiJ3K0NBSVFJQ0lGU1c1a2FXRSIsImdsIjpudWxsLCJobCI6bnVsbCwiZW5naW5lIjoiZ29vZ2xlIn0%3D",
+            "product_id": "16914877625280977865",
+            "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&google_domain=google.com&location=India&product_id=16914877625280977865"
+        },
+        {
+            "category": "Popular products",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ6liCcxdqhLhAhzbJCNRUAH9rUCmCI71Iv-vdUEzLRV9pbV_TzhurAfh0J9n9C3O-zEvPdPHhe2IsHBb6mjr-cFLbnLg9MpYgyG7_0V8o8f3kDtT8gZJ4i",
+            "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSP-3CAlIHM4vrNOnJx5Jd7oBV13KVkk1fiPTxyM09zvi5dG3Cb77DP5Yk91NGg0tnVV2YHLB83fSvddh4G2eFtTFdFtAhWT5aKHscH",
+            "source": "Bones Coffee Company",
+            "title": "Ground Bones Coffee 5 Bag Sample Pack",
+            "rating": 4.8,
+            "reviews": 11000,
+            "price": "$33.00",
+            "extracted_price": 33.0,
+            "immersive_product_page_token": "eyJlaSI6ImdEZTNhTV9iQ29lQzQtRVAyX0c1aUFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzczMzU1MzAzMjAzNjY3NzU4NCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEzMzQ5Nzg0NzU0NDI4MjE1NzMwIiwiaW1hZ2VEb2NpZCI6Ijg3MzU5NzM3ODYwMjAyMjc4NTkiLCJyZHMiOiJQQ18xNDYxNTg0NTk1OTE3ODU2NTkwMXxQUk9EX1BDXzE0NjE1ODQ1OTU5MTc4NTY1OTAxIiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjE0NjE1ODQ1OTU5MTc4NTY1OTAxIiwibWlkIjoiNTc2NDYyNzgxOTA3ODA3ODE2IiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJRlNXNWthV0UiLCJnbCI6bnVsbCwiaGwiOm51bGwsImVuZ2luZSI6Imdvb2dsZSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImdEZTNhTV9iQ29lQzQtRVAyX0c1aUFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzczMzU1MzAzMjAzNjY3NzU4NCIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEzMzQ5Nzg0NzU0NDI4MjE1NzMwIiwiaW1hZ2VEb2NpZCI6Ijg3MzU5NzM3ODYwMjAyMjc4NTkiLCJyZHMiOiJQQ18xNDYxNTg0NTk1OTE3ODU2NTkwMXxQUk9EX1BDXzE0NjE1ODQ1OTU5MTc4NTY1OTAxIiwicXVlcnkiOiJDb2ZmZWUiLCJncGNpZCI6IjE0NjE1ODQ1OTU5MTc4NTY1OTAxIiwibWlkIjoiNTc2NDYyNzgxOTA3ODA3ODE2IiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJRlNXNWthV0UiLCJnbCI6bnVsbCwiaGwiOm51bGwsImVuZ2luZSI6Imdvb2dsZSJ9",
+            "product_id": "7733553032036677584",
+            "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&google_domain=google.com&location=India&product_id=7733553032036677584"
+        },
+        {
+            "category": "Popular products",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTAKDSyQ3gtHCGVhZ7aKPW7jJ_VCVOUNbeJuMbJZf83HkKz0MtpKQCk2C7TpvJBgaU4iBQ7_mrNgQAbyk3d9bbXhf4Gfh73gBUWGb2e9bev-tO6R7DwMNIsRA",
+            "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSr30EzBoxaXOgULwmzSRg2Ghmt2nLUWxW7wxBRnQFz9MCqXfeEmPsau3i2L2P5txeBQFvmxWBlaBJxPZoE0i4g2lMUCad3TsJ9TVnihhsXnio",
+            "source": "Black Rifle Coffee Company",
+            "title": "Black Rifle Coffee Company Freedom Roast Whole Bean Coffee",
+            "rating": 4.8,
+            "reviews": 1000,
+            "price": "$15.99",
+            "extracted_price": 15.99,
+            "delivery": "Free delivery on $75+",
+            "immersive_product_page_token": "eyJlaSI6ImdEZTNhTV9iQ29lQzQtRVAyX0c1aUFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzU1MDA3ODk0Nzg1OTkyNTEzNSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEyMTczOTQ1MTk2MDY5Nzk3OTk2IiwiaW1hZ2VEb2NpZCI6Ijc2NjQxMDUwMDc4NjY5MzMxNjIiLCJyZHMiOiJQQ184NjU3NDUzNjE3MzgxNzc2NjIzfFBST0RfUENfODY1NzQ1MzYxNzM4MTc3NjYyMyIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiI4NjU3NDUzNjE3MzgxNzc2NjIzIiwibWlkIjoiNTc2NDYyNDc3Mjk5NTAxOTg3IiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJRlNXNWthV0UiLCJnbCI6bnVsbCwiaGwiOm51bGwsImVuZ2luZSI6Imdvb2dsZSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImdEZTNhTV9iQ29lQzQtRVAyX0c1aUFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzU1MDA3ODk0Nzg1OTkyNTEzNSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEyMTczOTQ1MTk2MDY5Nzk3OTk2IiwiaW1hZ2VEb2NpZCI6Ijc2NjQxMDUwMDc4NjY5MzMxNjIiLCJyZHMiOiJQQ184NjU3NDUzNjE3MzgxNzc2NjIzfFBST0RfUENfODY1NzQ1MzYxNzM4MTc3NjYyMyIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiI4NjU3NDUzNjE3MzgxNzc2NjIzIiwibWlkIjoiNTc2NDYyNDc3Mjk5NTAxOTg3IiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJRlNXNWthV0UiLCJnbCI6bnVsbCwiaGwiOm51bGwsImVuZ2luZSI6Imdvb2dsZSJ9",
+            "product_id": "7550078947859925135",
+            "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&google_domain=google.com&location=India&product_id=7550078947859925135"
+        },
+        {
+            "category": "Popular products",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTfGAGoC0iGTRoeR7sE3FayDCk9qyefOiWUw_i_LgJavr7xS_UgeqfwuAP9a_hBsHfp-cxmsrHX7gP6Xe5M8csbAzkudxjdhM4Tjv8TGof0kvS7nlwEo7za",
+            "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT143YodH1qloW2td1Od12d60paDr7dN4TLdDWiR97uy8Z4R3avLmC6sQXnlTQTWLfeGJzeZPb79_DoPj1tmlKv3ZTyCMIaobLrMEGgQNzjjA",
+            "source": "Kitty Town Coffee",
+            "title": "Kitty Town Coffee The Albert Blend 2lb Whole Bean",
+            "rating": 4.9,
+            "reviews": 1300,
+            "price": "$85.00",
+            "extracted_price": 85.0,
+            "delivery": "Free delivery",
+            "immersive_product_page_token": "eyJlaSI6ImdEZTNhTV9iQ29lQzQtRVAyX0c1aUFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY2NDIyNjk1ODc0MDgzMzc5MyIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE0MTk5MTI2OTg1MjAwOTEwNTcwIiwiaW1hZ2VEb2NpZCI6IjExMzEzNzY5MDIzNTkzNjI1NTczIiwicmRzIjoiUENfODExMzIwODA1NjI4MjU0MzA4NnxQUk9EX1BDXzgxMTMyMDgwNTYyODI1NDMwODYiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiODExMzIwODA1NjI4MjU0MzA4NiIsIm1pZCI6IjU3NjQ2MjQ3NzcyMDg5MDY1MyIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSUZTVzVrYVdFIiwiZ2wiOm51bGwsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImdEZTNhTV9iQ29lQzQtRVAyX0c1aUFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY2NDIyNjk1ODc0MDgzMzc5MyIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE0MTk5MTI2OTg1MjAwOTEwNTcwIiwiaW1hZ2VEb2NpZCI6IjExMzEzNzY5MDIzNTkzNjI1NTczIiwicmRzIjoiUENfODExMzIwODA1NjI4MjU0MzA4NnxQUk9EX1BDXzgxMTMyMDgwNTYyODI1NDMwODYiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiODExMzIwODA1NjI4MjU0MzA4NiIsIm1pZCI6IjU3NjQ2MjQ3NzcyMDg5MDY1MyIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSUZTVzVrYVdFIiwiZ2wiOm51bGwsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ%3D%3D",
+            "product_id": "1664226958740833793",
+            "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&google_domain=google.com&location=India&product_id=1664226958740833793"
+        },
+        {
+            "category": "Popular products",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSREmsvRunR3XQBfUh2I5LfYfVnJpU1Q_5hGh6uAq7ZAsW8IcT8cWCODCFp2glQXE7KQVOOSdwk-PofQHVJRjoXJ-GFnqG7_WBq9tk9eD0o0hzbRcbQBP8D",
+            "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQunSkV9cWdjbbGEl8fydQDCrcImBAaisGyXjISTetptvY9KfYMN1QAE3Qgqeqg7wfFzEEGVMexQN67VYi0FuA3rkSvNghHD1oc",
+            "source": "Walgreens.com",
+            "title": "Dunkin Donuts Ground Coffee Original Blend",
+            "rating": 4.6,
+            "reviews": 8800,
+            "price": "$7.99",
+            "extracted_price": 7.99,
+            "original_price": "$15",
+            "extracted_original_price": 15,
+            "extensions": [
+                "48% OFF"
+            ],
+            "immersive_product_page_token": "eyJlaSI6ImdEZTNhTV9iQ29lQzQtRVAyX0c1aUFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTMxNDQ0MzkzNDMwODI3Nzc2MTAiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMzg0MjA2NTk0NjA2MjY2NTQyNiIsImltYWdlRG9jaWQiOiI4OTA5NTEyMjgxNzc0NTgwNTA2IiwicmRzIjoiUENfODQ4MTUyNzUwNTE0NDE5NDQwOHxQUk9EX1BDXzg0ODE1Mjc1MDUxNDQxOTQ0MDgiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiODQ4MTUyNzUwNTE0NDE5NDQwOCIsIm1pZCI6IjU3NjQ2MjQyMjk2ODQ0NTEyOCIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSUZTVzVrYVdFIiwiZ2wiOm51bGwsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImdEZTNhTV9iQ29lQzQtRVAyX0c1aUFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTMxNDQ0MzkzNDMwODI3Nzc2MTAiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMzg0MjA2NTk0NjA2MjY2NTQyNiIsImltYWdlRG9jaWQiOiI4OTA5NTEyMjgxNzc0NTgwNTA2IiwicmRzIjoiUENfODQ4MTUyNzUwNTE0NDE5NDQwOHxQUk9EX1BDXzg0ODE1Mjc1MDUxNDQxOTQ0MDgiLCJxdWVyeSI6IkNvZmZlZSIsImdwY2lkIjoiODQ4MTUyNzUwNTE0NDE5NDQwOCIsIm1pZCI6IjU3NjQ2MjQyMjk2ODQ0NTEyOCIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSUZTVzVrYVdFIiwiZ2wiOm51bGwsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ%3D%3D",
+            "product_id": "13144439343082777610",
+            "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&google_domain=google.com&location=India&product_id=13144439343082777610"
+        },
+        {
+            "category": "Popular products",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTVtW2_Eq6w9_w-jUtNuQRNDX2nETxrFKEbqWZHJ5XNmbmTPDd_x-ulCks86gs9-6hqNqrzFVAarvsVr3RKAe8NJFnZhgpc2gBYuSdrbtp2P6cBXPzgjRMI",
+            "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcR7OIdQrd5GyqtZ65yHSPo3L1xYc-ULKArkFmaZhjuFnYAenq-15FsQoR8cxNpMqTokJZEkrHl4-uX-R4KumopAacy0L59KEMro",
+            "source": "Purity Coffee",
+            "title": "FLOW Original Medium Roast Whole Bean Coffee",
+            "rating": 4.9,
+            "reviews": 15000,
+            "price": "$29.00",
+            "extracted_price": 29.0,
+            "delivery": "Free delivery on $58+",
+            "immersive_product_page_token": "eyJlaSI6ImdEZTNhTV9iQ29lQzQtRVAyX0c1aUFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY2OTA1NTU1MDY5MzMyNjUxOTMiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIyNzYxMzExNzI0OTEyNTE3NDUwIiwiaW1hZ2VEb2NpZCI6IjYyMDQ0MjUzNTQ2Mzg0NzgyIiwicmRzIjoiUENfMTU1NTA1NzY0Mjk1NTQ5MTAwMDh8UFJPRF9QQ18xNTU1MDU3NjQyOTU1NDkxMDAwOCIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiIxNTU1MDU3NjQyOTU1NDkxMDAwOCIsIm1pZCI6IjU3NjQ2Mjc3Nzc3OTA3NDI1OCIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSUZTVzVrYVdFIiwiZ2wiOm51bGwsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImdEZTNhTV9iQ29lQzQtRVAyX0c1aUFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY2OTA1NTU1MDY5MzMyNjUxOTMiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIyNzYxMzExNzI0OTEyNTE3NDUwIiwiaW1hZ2VEb2NpZCI6IjYyMDQ0MjUzNTQ2Mzg0NzgyIiwicmRzIjoiUENfMTU1NTA1NzY0Mjk1NTQ5MTAwMDh8UFJPRF9QQ18xNTU1MDU3NjQyOTU1NDkxMDAwOCIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiIxNTU1MDU3NjQyOTU1NDkxMDAwOCIsIm1pZCI6IjU3NjQ2Mjc3Nzc3OTA3NDI1OCIsInB2dCI6ImhnIiwidXVsZSI6IncrQ0FJUUlDSUZTVzVrYVdFIiwiZ2wiOm51bGwsImhsIjpudWxsLCJlbmdpbmUiOiJnb29nbGUifQ%3D%3D",
+            "product_id": "16690555506933265193",
+            "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&google_domain=google.com&location=India&product_id=16690555506933265193"
+        },
+        {
+            "category": "Popular products",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRWJQfzrBTXNkusJ3U-nc_lfiLGkV9YXCcj_WlfSfDVtCslB_DYSXoAFFcFfe3Xnu4Lvw9Ad0-spzZoHl-apinkxd6y5Oq_6m5R4I642L6MI8GuHIpyEWavTg",
+            "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQwNQuzSmDF8_rZu40RJ6kU6_tfvoEpQTNECF7aBM-ELm7BFVtUG0h0o0dHo34Vh8PfFRur4VqTIblTRXaYqBbgeOybVA",
+            "source": "CVS Pharmacy",
+            "title": "Maxwell House 100% Colombian Ground Coffee",
+            "rating": 4.4,
+            "reviews": 2500,
+            "price": "$17.99",
+            "extracted_price": 17.99,
+            "delivery": "Free delivery on $35+",
+            "immersive_product_page_token": "eyJlaSI6ImdEZTNhTV9iQ29lQzQtRVAyX0c1aUFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODA2NzM0NjY0MTQ2MjYxNjY1MyIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE3MTU1NDY0MDEyMTg4NTgyMzY0IiwiaW1hZ2VEb2NpZCI6IjkwOTc1NTM3MjcwNzcyMDk3NjgiLCJyZHMiOiJQQ18zNTY4MjUzMTc4MTYxMTUwNDMyfFBST0RfUENfMzU2ODI1MzE3ODE2MTE1MDQzMiIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiIzNTY4MjUzMTc4MTYxMTUwNDMyIiwibWlkIjoiNTc2NDYyNzc1NzA4NzkwNDkxIiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJRlNXNWthV0UiLCJnbCI6bnVsbCwiaGwiOm51bGwsImVuZ2luZSI6Imdvb2dsZSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImdEZTNhTV9iQ29lQzQtRVAyX0c1aUFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODA2NzM0NjY0MTQ2MjYxNjY1MyIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE3MTU1NDY0MDEyMTg4NTgyMzY0IiwiaW1hZ2VEb2NpZCI6IjkwOTc1NTM3MjcwNzcyMDk3NjgiLCJyZHMiOiJQQ18zNTY4MjUzMTc4MTYxMTUwNDMyfFBST0RfUENfMzU2ODI1MzE3ODE2MTE1MDQzMiIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiIzNTY4MjUzMTc4MTYxMTUwNDMyIiwibWlkIjoiNTc2NDYyNzc1NzA4NzkwNDkxIiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJRlNXNWthV0UiLCJnbCI6bnVsbCwiaGwiOm51bGwsImVuZ2luZSI6Imdvb2dsZSJ9",
+            "product_id": "8067346641462616653",
+            "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&google_domain=google.com&location=India&product_id=8067346641462616653"
+        },
+        {
+            "category": "Popular products",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR3LDihSlP8F8RUSF0NcrjAanNVOAReyKtKtE0cQLVDCwevktZY3kjlXs8sWZbeYyZ0vipwqOlz1QXfC2ugMiMv6queS7yrZYM05Gyetu0I4JhVcKfuRk_2",
+            "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQi-n5kDFGgAilLb9D3eOt7OSi_cC7b0FnOoa4_3Rz0H0fKoLrlVNYXHDhGNI1Dk-Z50DzBy8TH9T0upQzYpIit-0wc8xdA8wNC1RE",
+            "source": "Lavazzausa.com",
+            "title": "Lavazza Espresso Barista Gran Crema Whole Bean Coffee Blend",
+            "rating": 4.8,
+            "reviews": 1100,
+            "price": "$17.28",
+            "extracted_price": 17.28,
+            "original_price": "$22",
+            "extracted_original_price": 22,
+            "extensions": [
+                "20% OFF"
+            ],
+            "immersive_product_page_token": "eyJlaSI6ImdEZTNhTV9iQ29lQzQtRVAyX0c1aUFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMzEyMjc2Mzg2NTI4Mjc0MjA4MSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjcwMjUwNzc5NTg2NjE5OTU3MDQiLCJpbWFnZURvY2lkIjoiMTY4ODQxNjA2Mjg2NjM3NDg0NjciLCJyZHMiOiJQQ183ODU2NTE1MzcxODY1NjM2NTEzfFBST0RfUENfNzg1NjUxNTM3MTg2NTYzNjUxMyIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiI3ODU2NTE1MzcxODY1NjM2NTEzIiwibWlkIjoiNTc2NDYyNDg0MjkxOTU3NDE5IiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJRlNXNWthV0UiLCJnbCI6bnVsbCwiaGwiOm51bGwsImVuZ2luZSI6Imdvb2dsZSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6ImdEZTNhTV9iQ29lQzQtRVAyX0c1aUFVIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMzEyMjc2Mzg2NTI4Mjc0MjA4MSIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjcwMjUwNzc5NTg2NjE5OTU3MDQiLCJpbWFnZURvY2lkIjoiMTY4ODQxNjA2Mjg2NjM3NDg0NjciLCJyZHMiOiJQQ183ODU2NTE1MzcxODY1NjM2NTEzfFBST0RfUENfNzg1NjUxNTM3MTg2NTYzNjUxMyIsInF1ZXJ5IjoiQ29mZmVlIiwiZ3BjaWQiOiI3ODU2NTE1MzcxODY1NjM2NTEzIiwibWlkIjoiNTc2NDYyNDg0MjkxOTU3NDE5IiwicHZ0IjoiaGciLCJ1dWxlIjoidytDQUlRSUNJRlNXNWthV0UiLCJnbCI6bnVsbCwiaGwiOm51bGwsImVuZ2luZSI6Imdvb2dsZSJ9",
+            "product_id": "3122763865282742081",
+            "serpapi_product_api": "https://serpapi.com/search.json?engine=google_product&google_domain=google.com&location=India&product_id=3122763865282742081"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "Is coffee good or bad for health?",
+            "type": "ai_overview",
+            "text_blocks": [
+                {
+                    "type": "paragraph",
+                    "snippet": "Coffee is generally good for health in moderation for most adults, offering benefits like a reduced risk of type 2 diabetes, heart disease, and certain cancers, and improved mood and athletic performance. However, consuming too much caffeine can lead to negative side effects like anxiety, headaches, and sleep problems. Pregnant individuals, children, and those with specific health conditions should limit their intake, and the health effects of coffee can also depend on what is added to it, such as sugar and cream.",
+                    "snippet_highlighted_words": [
+                        "Coffee is generally good for health in moderation for most adults"
+                    ],
+                    "reference_indexes": [
+                        0,
+                        1,
+                        4,
+                        8,
+                        10
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "snippet": "Potential Benefits"
+                },
+                {
+                    "type": "list",
+                    "list": [
+                        {
+                            "title": "Reduced Risk of Chronic Diseases:",
+                            "snippet": "Moderate coffee consumption may lower your risk of type 2 diabetes, Parkinson's disease, liver disease, and certain types of cancer.",
+                            "reference_indexes": [
+                                1,
+                                2,
+                                4,
+                                6
+                            ]
+                        },
+                        {
+                            "title": "Improved Mood and Alertness:",
+                            "snippet": "The caffeine in coffee can enhance mood, alertness, and job performance.",
+                            "reference_indexes": [
+                                4,
+                                10,
+                                12
+                            ]
+                        },
+                        {
+                            "title": "Better Physical Performance:",
+                            "snippet": "Coffee can improve athletic performance by increasing energy and reaction time.",
+                            "reference_indexes": [
+                                4,
+                                10
+                            ]
+                        },
+                        {
+                            "title": "Antioxidant Properties:",
+                            "snippet": "Coffee contains antioxidants like flavonoids, which offer heart-healthy and immune-protective properties.",
+                            "reference_indexes": [
+                                4,
+                                11
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "snippet": "Potential Drawbacks"
+                },
+                {
+                    "type": "list",
+                    "list": [
+                        {
+                            "title": "Caffeine Sensitivity:",
+                            "snippet": "High caffeine intake can cause anxiety, jitters, headaches, and an increased heart rate.",
+                            "reference_indexes": [
+                                0,
+                                8
+                            ]
+                        },
+                        {
+                            "title": "Sleep Problems:",
+                            "snippet": "Caffeine can disrupt sleep patterns, especially if consumed later in the day.",
+                            "reference_indexes": [
+                                3,
+                                13
+                            ]
+                        },
+                        {
+                            "title": "Heartburn:",
+                            "snippet": "Caffeinated coffee can worsen heartburn symptoms.",
+                            "reference_indexes": [
+                                0
+                            ]
+                        },
+                        {
+                            "title": "Cholesterol Levels:",
+                            "snippet": "Unfiltered coffee, like that made with a French press, has been linked to a slight increase in cholesterol.",
+                            "reference_indexes": [
+                                0
+                            ]
+                        },
+                        {
+                            "title": "Bone Density:",
+                            "snippet": "Some studies suggest a link between high coffee consumption and lower bone density in certain groups of women, though this can be mitigated by adequate calcium intake.",
+                            "reference_indexes": [
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "snippet": "Who Should Be Cautious?"
+                },
+                {
+                    "type": "list",
+                    "list": [
+                        {
+                            "snippet": "Pregnant or Breastfeeding Individuals: Should limit caffeine intake to around 200 milligrams per day, about the amount in 12 ounces of coffee.",
+                            "reference_indexes": [
+                                0
+                            ]
+                        },
+                        {
+                            "snippet": "Children and Adolescents: May need to limit their coffee intake.",
+                            "reference_indexes": [
+                                10
+                            ]
+                        },
+                        {
+                            "snippet": "Individuals with Pre-existing Conditions: Those with heart conditions, anxiety, or sleep disorders should consult a healthcare provider.",
+                            "reference_indexes": [
+                                8,
+                                9,
+                                10
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "snippet": "Tips for Healthy Coffee Consumption"
+                },
+                {
+                    "type": "list",
+                    "list": [
+                        {
+                            "title": "Moderation is Key:",
+                            "snippet": "Aim for about 3 to 4 cups (1.5-3.5 cups for some studies) of coffee per day for most healthy adults.",
+                            "reference_indexes": [
+                                7,
+                                10
+                            ]
+                        },
+                        {
+                            "title": "Be Mindful of Add-ins:",
+                            "snippet": "Black coffee is generally healthy, but sugar, cream, and flavorings can add significant calories.",
+                            "reference_indexes": [
+                                8
+                            ]
+                        },
+                        {
+                            "title": "Filter Your Coffee:",
+                            "snippet": "If cholesterol is a concern, opt for filtered coffee over unfiltered methods like a French press.",
+                            "reference_indexes": [
+                                0,
+                                8,
+                                14
+                            ]
+                        },
+                        {
+                            "title": "Listen to Your Body:",
+                            "snippet": "Pay attention to how coffee affects you and adjust your intake accordingly.",
+                            "reference_indexes": [
+                                5
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "references": [
+                {
+                    "title": "Coffee and health: What does the research say? - Mayo Clinic",
+                    "link": "https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/coffee-and-health/faq-20058339#:~:text=Drinking%20coffee%20with%20caffeine%20has,and%20it%20may%20have%20benefits.",
+                    "snippet": "Drinking coffee with caffeine has been linked with improved mood and a lower risk of depression in some groups. Drinking 3 to 4 cu...",
+                    "source": "Mayo Clinic",
+                    "index": 0
+                },
+                {
+                    "title": "Is coffee good or bad for your health?",
+                    "link": "https://hsph.harvard.edu/news/is-coffee-good-or-bad-for-your-health/#:~:text=By,tends%20to%20come%20under%20scrutiny.",
+                    "snippet": "Apr 9, 2021 \u2014 By. April 9, 2021. Although early studies of coffee suggested that it could lead to health problems, recent research pr...",
+                    "source": "Harvard T.H. Chan School of Public Health",
+                    "index": 1
+                },
+                {
+                    "title": "9 Reasons Why (the Right Amount of) Coffee Is Good for You | Johns Hopkins Medicine",
+                    "link": "https://www.hopkinsmedicine.org/health/wellness-and-prevention/9-reasons-why-the-right-amount-of-coffee-is-good-for-you",
+                    "source": "Johns Hopkins Medicine",
+                    "index": 2
+                },
+                {
+                    "title": "Is Coffee Good or Bad for You? - Healthline",
+                    "link": "https://www.healthline.com/nutrition/coffee-good-or-bad#:~:text=Possible%20health%20benefits%20of%20coffee,coffee%20provides%20a%20source%20of:",
+                    "snippet": "Possible health benefits of coffee include providing essential nutrients and supporting brain health. However, it can cause side e...",
+                    "source": "Healthline",
+                    "index": 3
+                },
+                {
+                    "title": "Is coffee good for you? | Diet and Nutrition | UT Southwestern Medical Center",
+                    "link": "https://utswmed.org/medblog/is-coffee-good-for-you/",
+                    "source": "UT Southwestern Medical Center",
+                    "index": 4
+                },
+                {
+                    "title": "What Happens to Your Body When You Drink Coffee Every Day",
+                    "link": "https://www.eatingwell.com/article/8069479/is-coffee-good-for-you/#:~:text=Our%20Expert%20Take,provider%20before%20you%20sip%20away.",
+                    "snippet": "Jul 2, 2025 \u2014 Our Expert Take. Drinking coffee every day appears to be safe for generally healthy people, and this habit may actually...",
+                    "source": "EatingWell",
+                    "index": 5
+                },
+                {
+                    "title": "Why coffee could be good for your health - BBC",
+                    "link": "https://www.bbc.com/future/article/20201028-the-benefits-of-coffee-is-coffee-good-for-health#:~:text=A%202021%20population%20study%20found,2024%20to%20include%20recent%20research.&text=If%20you%20liked%20this%20story,us%20on%20Facebook%20and%20X.",
+                    "snippet": "Oct 29, 2020 \u2014 A 2021 population study found that all types of coffee \u2013 including decaffeinated, instant and ground \u2013 are associated ...",
+                    "source": "BBC",
+                    "index": 6
+                },
+                {
+                    "title": "Is Coffee Good for You? 9 Science-Backed Health Benefits to Note",
+                    "link": "https://www.prevention.com/food-nutrition/healthy-eating/a19831490/is-coffee-good-for-you/#:~:text=7.,from%20heart%20disease%20and%20cancer.",
+                    "snippet": "Oct 15, 2024 \u2014 7. Coffee might help you live longer. Most importantly, research shows that people who drink coffee may be less likely...",
+                    "source": "Prevention",
+                    "index": 7
+                },
+                {
+                    "title": "Is Coffee Bad for You? - Verywell Health",
+                    "link": "https://www.verywellhealth.com/is-coffee-bad-for-you-7089510#:~:text=Roasted%20coffee%20contains%20caffeine%20as,Coffee.&text=Johns%20Hopkins%20Medicine.,coffee%20is%20good%20for%20you.&text=U.S.%20Food%20and%20Drug%20Administration,much%20caffeine%20is%20too%20much?&text=Centers%20for%20Disease%20Control%20and,and%20HDL%20cholesterol%20and%20triglycerides.&text=American%20College%20of%20Obstetricians%20and,Coffee%2C%20brewed%20nutrients.",
+                    "snippet": "Jun 18, 2024 \u2014 Roasted coffee contains caffeine as well as many compounds that may be associated with health benefits. Regular coffee...",
+                    "source": "Verywell Health",
+                    "index": 8
+                },
+                {
+                    "title": "Five Ways Coffee May Be Good For Your Health | Piedmont Healthcare",
+                    "link": "https://www.piedmont.org/living-real-change/is-coffee-good-for-your-health",
+                    "source": "Piedmont Healthcare",
+                    "index": 9
+                },
+                {
+                    "title": "9 Health Benefits of Coffee: What the Science Says - Healthline",
+                    "link": "https://www.healthline.com/nutrition/top-evidence-based-health-benefits-of-coffee#:~:text=The%20bottom%20line%20*%20Coffee%20is%20a,is%20generally%20considered%20safe%20for%20most%20adults.",
+                    "snippet": "The bottom line * Coffee is a popular beverage that researchers have studied extensively for its many health benefits, including ...",
+                    "source": "Healthline",
+                    "index": 10
+                },
+                {
+                    "title": "10 benefits of coffee you didn't know - Nescafe",
+                    "link": "https://www.nescafe.com/in/coffee-culture/knowledge/coffee-benefits",
+                    "snippet": "10 benefits of coffee you didn't know * RICH IN ANTIOXIDANTS. ... * ACTIVATES THE MIND. ... * HELPS PROTECT AGAINST HEADACHES. ..",
+                    "source": "Nescafe Global",
+                    "index": 11
+                },
+                {
+                    "title": "Can Coffee Upset Your Stomach?",
+                    "link": "https://www.healthline.com/nutrition/coffee-upset-stomach#:~:text=It%20(%20Coffee%20)%20can%20not%20only,Trusted%20Source%20%2C%204%20Trusted%20Source%20).",
+                    "snippet": "Apr 3, 2020 \u2014 It ( Coffee ) can not only make you feel more alert but also potentially offer many other benefits, including improved ...",
+                    "source": "Healthline",
+                    "index": 12
+                },
+                {
+                    "title": "Caffeine Effects on Sleep Taken 0, 3, or 6 Hours before Going to Bed | Journal of Clinical Sleep Medicine",
+                    "link": "https://jcsm.aasm.org/doi/10.5664/jcsm.3170#:~:text=Importantly%2C%20the%20adverse%20effects%20of%20caffeine%20intake,day%20or%20when%20multiple%20doses%20are%20utilized.",
+                    "snippet": "Importantly, the adverse effects of caffeine intake are not limited to the cardiovascular system but also produce significant slee...",
+                    "source": "Journal of Clinical Sleep Medicine",
+                    "index": 13
+                },
+                {
+                    "title": "Update on: IS COFFEE HEALTHY? \u2013 A DOCTOR\u2019S REVIEW.",
+                    "link": "https://www.sabores.co.za/2020/07/27/coffee_and_health/#:~:text=Cholesterol:%20Limiting%20consumption%20of%20unfiltered%20coffee%20(French,coffee%20may%20help%20control%20serum%20cholesterol%20levels.",
+                    "snippet": "Jul 27, 2020 \u2014 Cholesterol: Limiting consumption of unfiltered coffee (French press, Turkish, or Scandinavian boiled coffee) and mode...",
+                    "source": "Sabores - Flavours of Colombia",
+                    "index": 14
+                }
+            ],
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSE9HMVBjVVZuUzBoNFVWbHlaVmRVYkUxblR6SXpZVFV6VFhGRE5tMVdhMGRqTlV4bExYTlZWVGcwT0dwaWQwRmlZbHBqVVV0TWNtdG5WRlpXUTFVMVJsRm1hRkIwTkZJNFVteG5URVoyVFY5eE1ucEtabHB3Um5aWVp4SVhaMFJsTTJGTlgySkRiMlZETkMxRlVESmZSelZwUVZVYUlrRkdUVUZIUjNJNE9YTmxMWEpWUjJkQlpETXpiRzlIU1RsbGRWWlRhV0pPUVdjIiwiZmN2IjoiMyIsImVpIjoiZ0RlM2FNX2JDb2VDNC1FUDJfRzVpQVUiLCJxYyI6IkNnWmpiMlptWldVUUFIME5YQzhfIiwicXVlc3Rpb24iOiJJcyBjb2ZmZWUgZ29vZCBvciBiYWQgZm9yIGhlYWx0aD8iLCJsayI6IkdpQnBjeUJqYjJabVpXVWdaMjl2WkNCdmNpQmlZV1FnWm05eUlHaGxZV3gwYUEiLCJicyI6ImMtUHk0bEwwTEZaSXprOUxTMDFWU01fUFQxSElMMUpJU2t4UlNBUFNHYW1KT1NVWjloS2JlSXlVcEJReUNhamo4dUZTQ3M5SUxBRXBMTWxJVmJBdzBEY3lVQ2dxelVrRks0TG90WmRZVkcya0xLVllqcUpRQVZNaGx4bVhQTmkweEtKVXNDb1RoWkxLZ3RSaWhmdzB1RkZYazQwRXBQaWdqb0xLYzVsd2lRRjlsRmtDY3l6TVJIdUpHUkZHNGxLaW1kZ2tCUmdCIiwiaWQiOiJmY19nRGUzYU1fYkNvZUM0LUVQMl9HNWlBVV8yIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSE9HMVBjVVZuUzBoNFVWbHlaVmRVYkUxblR6SXpZVFV6VFhGRE5tMVdhMGRqTlV4bExYTlZWVGcwT0dwaWQwRmlZbHBqVVV0TWNtdG5WRlpXUTFVMVJsRm1hRkIwTkZJNFVteG5URVoyVFY5eE1ucEtabHB3Um5aWVp4SVhaMFJsTTJGTlgySkRiMlZETkMxRlVESmZSelZwUVZVYUlrRkdUVUZIUjNJNE9YTmxMWEpWUjJkQlpETXpiRzlIU1RsbGRWWlRhV0pPUVdjIiwiZmN2IjoiMyIsImVpIjoiZ0RlM2FNX2JDb2VDNC1FUDJfRzVpQVUiLCJxYyI6IkNnWmpiMlptWldVUUFIME5YQzhfIiwicXVlc3Rpb24iOiJJcyBjb2ZmZWUgZ29vZCBvciBiYWQgZm9yIGhlYWx0aD8iLCJsayI6IkdpQnBjeUJqYjJabVpXVWdaMjl2WkNCdmNpQmlZV1FnWm05eUlHaGxZV3gwYUEiLCJicyI6ImMtUHk0bEwwTEZaSXprOUxTMDFWU01fUFQxSElMMUpJU2t4UlNBUFNHYW1KT1NVWjloS2JlSXlVcEJReUNhamo4dUZTQ3M5SUxBRXBMTWxJVmJBdzBEY3lVQ2dxelVrRks0TG90WmRZVkcya0xLVllqcUpRQVZNaGx4bVhQTmkweEtKVXNDb1RoWkxLZ3RSaWhmdzB1RkZYazQwRXBQaWdqb0xLYzVsd2lRRjlsRmtDY3l6TVJIdUpHUkZHNGxLaW1kZ2tCUmdCIiwiaWQiOiJmY19nRGUzYU1fYkNvZUM0LUVQMl9HNWlBVV8yIn0%3D"
+        },
+        {
+            "question": "What is the 80/20 rule for coffee?",
+            "type": "featured_snippet",
+            "snippet": "Quick answer: The 80/20 rule for coffee, often mentioned in the context of a coffee guide, suggests that 80% of coffee's flavor comes from the bean and its origin, while 20% depends on the brewing process. This principle emphasizes the importance of high-quality beans for achieving superior coffee flavors.",
+            "title": "What is the 80/20 rule for coffee?",
+            "date": "Aug 19, 2025",
+            "link": "https://scandalouscoffee.com/blogs/articles/what-is-the-80-20-rule-for-coffee#:~:text=Quick%20answer%3A%20The%2080%2F20,for%20achieving%20superior%20coffee%20flavors.",
+            "displayed_link": "https://scandalouscoffee.com \u203a blogs \u203a articles \u203a what-is-t...",
+            "source_logo": "https://serpapi.com/searches/68b7377faf5fdc7e5fabddbf/images/8721a83261ca1d7f71b708d1ea86cc6eb48780ae90f0080e3cf2bcdf2ff29cdc.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSE9HMVBjVVZuUzBoNFVWbHlaVmRVYkUxblR6SXpZVFV6VFhGRE5tMVdhMGRqTlV4bExYTlZWVGcwT0dwaWQwRmlZbHBqVVV0TWNtdG5WRlpXUTFVMVJsRm1hRkIwTkZJNFVteG5URVoyVFY5eE1ucEtabHB3Um5aWVp4SVhaMFJsTTJGTlgySkRiMlZETkMxRlVESmZSelZwUVZVYUlrRkdUVUZIUjNJNE9YTmxMWEpWUjJkQlpETXpiRzlIU1RsbGRWWlRhV0pPUVdjIiwiZmN2IjoiMyIsImVpIjoiZ0RlM2FNX2JDb2VDNC1FUDJfRzVpQVUiLCJxYyI6IkNnWmpiMlptWldVUUFIME5YQzhfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSA4MC8yMCBydWxlIGZvciBjb2ZmZWU/IiwibGsiOiJHaUYzYUdGMElHbHpJSFJvWlNBNE1DQXlNQ0J5ZFd4bElHWnZjaUJqYjJabVpXVSIsImJzIjoiYy1QeTRsTDBMRlpJems5TFMwMVZTTV9QVDFISUwxSklTa3hSU0FQU0dhbUpPU1VaOWhLYmVJeVVwQlF5Q2Fqajh1RlNDczlJTEFFcExNbElWYkF3MERjeVVDZ3F6VWtGSzRMb3RaZFlWRzJrTEtWWWpxSlFBVk1obHhtWFBOaTB4S0pVc0NvVGhaTEtndFJpaGZ3MHVGRlhrNDBFcFBpZ2pvTEtjNWx3aVFGOWxGa0NjeXpNUkh1SkdSRkc0bEtpbWRna0JSZ0IiLCJpZCI6ImZjX2dEZTNhTV9iQ29lQzQtRVAyX0c1aUFVXzIifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSE9HMVBjVVZuUzBoNFVWbHlaVmRVYkUxblR6SXpZVFV6VFhGRE5tMVdhMGRqTlV4bExYTlZWVGcwT0dwaWQwRmlZbHBqVVV0TWNtdG5WRlpXUTFVMVJsRm1hRkIwTkZJNFVteG5URVoyVFY5eE1ucEtabHB3Um5aWVp4SVhaMFJsTTJGTlgySkRiMlZETkMxRlVESmZSelZwUVZVYUlrRkdUVUZIUjNJNE9YTmxMWEpWUjJkQlpETXpiRzlIU1RsbGRWWlRhV0pPUVdjIiwiZmN2IjoiMyIsImVpIjoiZ0RlM2FNX2JDb2VDNC1FUDJfRzVpQVUiLCJxYyI6IkNnWmpiMlptWldVUUFIME5YQzhfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSA4MC8yMCBydWxlIGZvciBjb2ZmZWU%2FIiwibGsiOiJHaUYzYUdGMElHbHpJSFJvWlNBNE1DQXlNQ0J5ZFd4bElHWnZjaUJqYjJabVpXVSIsImJzIjoiYy1QeTRsTDBMRlpJems5TFMwMVZTTV9QVDFISUwxSklTa3hSU0FQU0dhbUpPU1VaOWhLYmVJeVVwQlF5Q2Fqajh1RlNDczlJTEFFcExNbElWYkF3MERjeVVDZ3F6VWtGSzRMb3RaZFlWRzJrTEtWWWpxSlFBVk1obHhtWFBOaTB4S0pVc0NvVGhaTEtndFJpaGZ3MHVGRlhrNDBFcFBpZ2pvTEtjNWx3aVFGOWxGa0NjeXpNUkh1SkdSRkc0bEtpbWRna0JSZ0IiLCJpZCI6ImZjX2dEZTNhTV9iQ29lQzQtRVAyX0c1aUFVXzIifQ%3D%3D"
+        },
+        {
+            "question": "What are the 4 types of coffee?",
+            "type": "featured_snippet",
+            "snippet": "The four main coffee types are Arabica, Robusta, Excelsa, and Liberica and all four of them have radically different taste profiles.",
+            "title": "Coffee Bean Types and Their Characteristics - Cafe Direct",
+            "link": "https://www.cafedirect.co.uk/shop/coffee-bean-types-and-their-characteristics/#:~:text=The%20four%20main%20coffee%20types,have%20radically%20different%20taste%20profiles.",
+            "displayed_link": "https://www.cafedirect.co.uk \u203a shop \u203a coffee-bean-types-...",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvUj6ZncJRA-6KzNbogWocF1kOJyNif8XIW9gGN958Dg&s",
+            "source_logo": "https://serpapi.com/searches/68b7377faf5fdc7e5fabddbf/images/8721a83261ca1d7f71b708d1ea86cc6ee287be9572873ec85d1f288e70d0e170.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSE9HMVBjVVZuUzBoNFVWbHlaVmRVYkUxblR6SXpZVFV6VFhGRE5tMVdhMGRqTlV4bExYTlZWVGcwT0dwaWQwRmlZbHBqVVV0TWNtdG5WRlpXUTFVMVJsRm1hRkIwTkZJNFVteG5URVoyVFY5eE1ucEtabHB3Um5aWVp4SVhaMFJsTTJGTlgySkRiMlZETkMxRlVESmZSelZwUVZVYUlrRkdUVUZIUjNJNE9YTmxMWEpWUjJkQlpETXpiRzlIU1RsbGRWWlRhV0pPUVdjIiwiZmN2IjoiMyIsImVpIjoiZ0RlM2FNX2JDb2VDNC1FUDJfRzVpQVUiLCJxYyI6IkNnWmpiMlptWldVUUFIME5YQzhfIiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgNCB0eXBlcyBvZiBjb2ZmZWU/IiwibGsiOiJHZzVqYjJabVpXVWdOQ0IwZVhCbGN3IiwiYnMiOiJjLVB5NGxMMExGWkl6azlMUzAxVlNNX1BUMUhJTDFKSVNreFJTQVBTR2FtSk9TVVo5aEtiZUl5VXBCUXlDYWpqOHVGU0NzOUlMQUVwTE1sSVZiQXcwRGN5VUNncXpVa0ZLNExvdFpkWVZHMmtMS1ZZanFKUUFWTWhseG1YUE5pMHhLSlVzQ29UaFpMS2d0UmloZncwdUZGWGs0MEVwUGlnam9MS2M1bHdpUUY5bEZrQ2N5ek1SSHVKR1JGRzRsS2ltZGdrQlJnQiIsImlkIjoiZmNfZ0RlM2FNX2JDb2VDNC1FUDJfRzVpQVVfMiJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSE9HMVBjVVZuUzBoNFVWbHlaVmRVYkUxblR6SXpZVFV6VFhGRE5tMVdhMGRqTlV4bExYTlZWVGcwT0dwaWQwRmlZbHBqVVV0TWNtdG5WRlpXUTFVMVJsRm1hRkIwTkZJNFVteG5URVoyVFY5eE1ucEtabHB3Um5aWVp4SVhaMFJsTTJGTlgySkRiMlZETkMxRlVESmZSelZwUVZVYUlrRkdUVUZIUjNJNE9YTmxMWEpWUjJkQlpETXpiRzlIU1RsbGRWWlRhV0pPUVdjIiwiZmN2IjoiMyIsImVpIjoiZ0RlM2FNX2JDb2VDNC1FUDJfRzVpQVUiLCJxYyI6IkNnWmpiMlptWldVUUFIME5YQzhfIiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgNCB0eXBlcyBvZiBjb2ZmZWU%2FIiwibGsiOiJHZzVqYjJabVpXVWdOQ0IwZVhCbGN3IiwiYnMiOiJjLVB5NGxMMExGWkl6azlMUzAxVlNNX1BUMUhJTDFKSVNreFJTQVBTR2FtSk9TVVo5aEtiZUl5VXBCUXlDYWpqOHVGU0NzOUlMQUVwTE1sSVZiQXcwRGN5VUNncXpVa0ZLNExvdFpkWVZHMmtMS1ZZanFKUUFWTWhseG1YUE5pMHhLSlVzQ29UaFpMS2d0UmloZncwdUZGWGs0MEVwUGlnam9MS2M1bHdpUUY5bEZrQ2N5ek1SSHVKR1JGRzRsS2ltZGdrQlJnQiIsImlkIjoiZmNfZ0RlM2FNX2JDb2VDNC1FUDJfRzVpQVVfMiJ9"
+        },
+        {
+            "question": "Is it coffee or coffe?",
+            "type": "ai_overview",
+            "text_blocks": [
+                {
+                    "type": "paragraph",
+                    "snippet": "The correct spelling is coffee; \"coffe\" is a misspelling of the caffeinated beverage, its seeds, or any tropical tree of the genus Coffea. The spelling \"coffee\" should be used in all standard contexts, although misspellings like \"coffe\" can sometimes be seen in informal online discussions or marketing due to typos or intentional branding.",
+                    "snippet_highlighted_words": [
+                        "The correct spelling is coffee"
+                    ],
+                    "reference_indexes": [
+                        0,
+                        1,
+                        2,
+                        5
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "snippet": "Correct spelling: coffee."
+                },
+                {
+                    "type": "heading",
+                    "snippet": "Why \"coffee\" is correct:",
+                    "reference_indexes": [
+                        3,
+                        4,
+                        5
+                    ]
+                },
+                {
+                    "type": "list",
+                    "list": [
+                        {
+                            "snippet": "Dictionaries and grammar resources consistently use \"coffee\" as the accurate spelling for the drink, its beans, or the plant."
+                        }
+                    ]
+                },
+                {
+                    "type": "heading",
+                    "snippet": "Why you might see \"coffe\" (or other variations):",
+                    "reference_indexes": [
+                        0,
+                        2
+                    ]
+                },
+                {
+                    "type": "list",
+                    "list": [
+                        {
+                            "title": "Typos:",
+                            "snippet": "Simple typing errors, especially on small keyboards or in fast communication, can lead to missed letters, such as typing \"coffe\" instead of \"coffee\"."
+                        },
+                        {
+                            "title": "Informal use:",
+                            "snippet": "In less formal online communication, people sometimes intentionally misspell \"coffee\" for emphasis or as part of a trend."
+                        },
+                        {
+                            "title": "Branding:",
+                            "snippet": "Some brands might use a misspelled name, like \"Cooffe,\" for unique and memorable branding."
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "snippet": "In summary: Always use \"coffee\" for correct English, but be aware that misspellings can appear online.",
+                    "reference_indexes": [
+                        0
+                    ]
+                }
+            ],
+            "references": [
+                {
+                    "title": "The Curious Case of Coffee Spelling Variations: What They Reveal About",
+                    "link": "https://42dayscoffee.com/blogs/news/coffee-spelling-variations#:~:text=Interestingly%2C%20these%20%22errors%22%20can,it's%20memorable%20and%20easily%20trademarked.",
+                    "snippet": "Dec 9, 2024 \u2014 Interestingly, these \"errors\" can take on a life of their own, becoming memes, hashtags, or even branding elements. 3.",
+                    "source": "42 Days Coffee",
+                    "index": 0
+                },
+                {
+                    "title": "Coffee or Cofee | How to spell it? - Word Finder",
+                    "link": "https://word.tips/spelling/coffee-vs-cofee/#:~:text=FAQ's,What%20does%20coffee%20mean?",
+                    "snippet": "FAQ's. Is it cofee or coffee? The correct word is coffee. How to pronounce coffee? The correct pronunciation is \u02c8k\u0252fi. What does c...",
+                    "source": "Word Finder",
+                    "index": 1
+                },
+                {
+                    "title": "The Curious Case of Coffee Spelling Variations: What They Reveal ...",
+                    "link": "https://42dayscoffee.com/es/blogs/news/coffee-spelling-variations#:~:text=2.,hurried%20typing%20on%20small%20keyboards.",
+                    "snippet": "Dec 9, 2024 \u2014 2. Typing Errors and Internet Trends. Digital communication has made us faster\u2014but not always more accurate. Here's how...",
+                    "source": "42 Days Coffee",
+                    "index": 2
+                },
+                {
+                    "title": "COFFEE Definition & Meaning - Merriam-Webster",
+                    "link": "https://www.merriam-webster.com/dictionary/coffee#:~:text=More%20from%20Merriam%2DWebster%20on%20coffee",
+                    "snippet": "Aug 17, 2025 \u2014 More from Merriam-Webster on coffee.",
+                    "source": "Merriam-Webster",
+                    "index": 3
+                },
+                {
+                    "title": "COFFEE | definition in the Cambridge English Dictionary",
+                    "link": "https://dictionary.cambridge.org/us/dictionary/english/coffee#:~:text=COFFEE%20%7C%20definition%20in%20the%20Cambridge%20English%20Dictionary",
+                    "snippet": "6 days ago \u2014 COFFEE | definition in the Cambridge English Dictionary.",
+                    "source": "Cambridge Dictionary",
+                    "index": 4
+                },
+                {
+                    "title": "COFFEE definition in American English - Collins Dictionary",
+                    "link": "https://www.collinsdictionary.com/us/dictionary/english/coffee",
+                    "snippet": "a beverage consisting of a decoction or infusion of the roasted ground or crushed seeds (coffee beans) of the two-seeded fruit (co...",
+                    "source": "Collins Dictionary",
+                    "index": 5
+                }
+            ],
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSE9HMVBjVVZuUzBoNFVWbHlaVmRVYkUxblR6SXpZVFV6VFhGRE5tMVdhMGRqTlV4bExYTlZWVGcwT0dwaWQwRmlZbHBqVVV0TWNtdG5WRlpXUTFVMVJsRm1hRkIwTkZJNFVteG5URVoyVFY5eE1ucEtabHB3Um5aWVp4SVhaMFJsTTJGTlgySkRiMlZETkMxRlVESmZSelZwUVZVYUlrRkdUVUZIUjNJNE9YTmxMWEpWUjJkQlpETXpiRzlIU1RsbGRWWlRhV0pPUVdjIiwiZmN2IjoiMyIsImVpIjoiZ0RlM2FNX2JDb2VDNC1FUDJfRzVpQVUiLCJxYyI6IkNnWmpiMlptWldVUUFIME5YQzhfIiwicXVlc3Rpb24iOiJJcyBpdCBjb2ZmZWUgb3IgY29mZmU/IiwibGsiOiJjNU1TelN4V3lDeFJTTTVQUzB0TlZjZ3ZnckFBIiwiYnMiOiJjLVB5NGxMMExGWkl6azlMUzAxVlNNX1BUMUhJTDFKSVNreFJTQVBTR2FtSk9TVVo5aEtiZUl5VXBCUXlDYWpqOHVGU0NzOUlMQUVwTE1sSVZiQXcwRGN5VUNncXpVa0ZLNExvdFpkWVZHMmtMS1ZZanFKUUFWTWhseG1YUE5pMHhLSlVzQ29UaFpMS2d0UmloZncwdUZGWGs0MEVwUGlnam9MS2M1bHdpUUY5bEZrQ2N5ek1SSHVKR1JGRzRsS2ltZGdrQlJnQiIsImlkIjoiZmNfZ0RlM2FNX2JDb2VDNC1FUDJfRzVpQVVfMiJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSE9HMVBjVVZuUzBoNFVWbHlaVmRVYkUxblR6SXpZVFV6VFhGRE5tMVdhMGRqTlV4bExYTlZWVGcwT0dwaWQwRmlZbHBqVVV0TWNtdG5WRlpXUTFVMVJsRm1hRkIwTkZJNFVteG5URVoyVFY5eE1ucEtabHB3Um5aWVp4SVhaMFJsTTJGTlgySkRiMlZETkMxRlVESmZSelZwUVZVYUlrRkdUVUZIUjNJNE9YTmxMWEpWUjJkQlpETXpiRzlIU1RsbGRWWlRhV0pPUVdjIiwiZmN2IjoiMyIsImVpIjoiZ0RlM2FNX2JDb2VDNC1FUDJfRzVpQVUiLCJxYyI6IkNnWmpiMlptWldVUUFIME5YQzhfIiwicXVlc3Rpb24iOiJJcyBpdCBjb2ZmZWUgb3IgY29mZmU%2FIiwibGsiOiJjNU1TelN4V3lDeFJTTTVQUzB0TlZjZ3ZnckFBIiwiYnMiOiJjLVB5NGxMMExGWkl6azlMUzAxVlNNX1BUMUhJTDFKSVNreFJTQVBTR2FtSk9TVVo5aEtiZUl5VXBCUXlDYWpqOHVGU0NzOUlMQUVwTE1sSVZiQXcwRGN5VUNncXpVa0ZLNExvdFpkWVZHMmtMS1ZZanFKUUFWTWhseG1YUE5pMHhLSlVzQ29UaFpMS2d0UmloZncwdUZGWGs0MEVwUGlnam9MS2M1bHdpUUY5bEZrQ2N5ek1SSHVKR1JGRzRsS2ltZGdrQlJnQiIsImlkIjoiZmNfZ0RlM2FNX2JDb2VDNC1FUDJfRzVpQVVfMiJ9"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Coffee",
+            "link": "https://en.wikipedia.org/wiki/Coffee",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Coffee&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQFnoECGoQAQ",
+            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Coffee",
+            "thumbnail": "https://serpapi.com/searches/68b7377faf5fdc7e5fabddbf/images/a3c583ad8d516cfec61d0e3ea8516bbdabcac6c3440f3dbf5e2fd8e1074a6fc0.jpeg",
+            "favicon": "https://serpapi.com/searches/68b7377faf5fdc7e5fabddbf/images/a3c583ad8d516cfec61d0e3ea8516bbd92630718bc64c675ba7b3442d63c060d.png",
+            "snippet": "Coffee is a beverage brewed from roasted, ground coffee beans. Darkly colored, bitter, and slightly acidic, coffee has a stimulating effect on humans",
+            "snippet_highlighted_words": [
+                "a beverage brewed from roasted, ground coffee beans"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "History",
+                        "link": "https://en.wikipedia.org/wiki/History_of_coffee"
+                    },
+                    {
+                        "title": "Coffee bean",
+                        "link": "https://en.wikipedia.org/wiki/Coffee_bean"
+                    },
+                    {
+                        "title": "Coffee preparation",
+                        "link": "https://en.wikipedia.org/wiki/Coffee_preparation"
+                    },
+                    {
+                        "title": "Coffee production",
+                        "link": "https://en.wikipedia.org/wiki/Coffee_production"
+                    }
+                ]
+            },
+            "source": "Wikipedia"
+        },
+        {
+            "position": 2,
+            "title": "r/Coffee",
+            "link": "https://www.reddit.com/r/Coffee/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/Coffee/&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQFnoECD0QAQ",
+            "displayed_link": "2.4M+ followers",
+            "favicon": "https://serpapi.com/searches/68b7377faf5fdc7e5fabddbf/images/a3c583ad8d516cfec61d0e3ea8516bbdf1eb8aa166610ca28ee3f3708493ef2c.png",
+            "snippet": "thread where you can share what you are brewing or ask for bean recommendations. This is a place to share and talk about your favorite coffee roasters or beans.",
+            "snippet_highlighted_words": [
+                "thread where you can share what you are brewing"
+            ],
+            "sitelinks": {
+                "list": [
+                    {
+                        "title": "New Coffee Beans are Dull",
+                        "link": "https://www.reddit.com/r/Coffee/comments/1n64f9n/new_coffee_beans_are_dull/",
+                        "answer_count": 21,
+                        "date": "Sep 1, 2025"
+                    },
+                    {
+                        "title": "[MOD] The Daily Question Thread - Coffee",
+                        "link": "https://www.reddit.com/r/Coffee/comments/1n6fesf/mod_the_daily_question_thread/",
+                        "answer_count": 9,
+                        "date": "Sep 2, 2025"
+                    }
+                ]
+            },
+            "source": "Reddit \u00b7 r/Coffee"
+        },
+        {
+            "position": 3,
+            "title": "Starbucks Coffee Company",
+            "link": "https://www.starbucks.com/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.starbucks.com/&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQFnoECDYQAQ",
+            "displayed_link": "https://www.starbucks.com",
+            "favicon": "https://serpapi.com/searches/68b7377faf5fdc7e5fabddbf/images/a3c583ad8d516cfec61d0e3ea8516bbd8a5cb6f94061801ec06b881e45614db4.png",
+            "snippet": "More than just great coffee. Explore the menu, sign up for Starbucks\u00ae Rewards, manage your gift card and more.",
+            "snippet_highlighted_words": [
+                "coffee"
+            ],
+            "source": "Starbucks"
+        },
+        {
+            "position": 4,
+            "title": "Buy Coffee, Tea, Powders Online | The Coffee Bean & Tea ...",
+            "link": "https://www.coffeebean.com/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.coffeebean.com/&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQFnoECGwQAQ",
+            "displayed_link": "https://www.coffeebean.com",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPC3CcvpQIJOKJxD1MdnXPWML4roLuCFh2FPPWWwWWUqW_Qo7aGf4I&usqp=CAE&s",
+            "favicon": "https://serpapi.com/searches/68b7377faf5fdc7e5fabddbf/images/a3c583ad8d516cfec61d0e3ea8516bbdc02192ab8baa9c60523a1eebfc0b66b2.png",
+            "snippet": "Every Tastemaker has a story. \u00b7 Great coffee starts with the hands that brew it. \u00b7 Try one of our delicious NEW Organic L.A Series coffees \u00b7 & get FREE SHIPPING ...",
+            "snippet_highlighted_words": [
+                "Great coffee starts with the hands that brew it"
+            ],
+            "source": "The Coffee Bean & Tea Leaf"
+        },
+        {
+            "position": 5,
+            "title": "Coffee - The Nutrition Source",
+            "link": "https://nutritionsource.hsph.harvard.edu/food-features/coffee/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://nutritionsource.hsph.harvard.edu/food-features/coffee/&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQFnoECGgQAQ",
+            "displayed_link": "https://nutritionsource.hsph.harvard.edu \u203a food-features",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNO-0LapqM3JQdt21pzBBppzh1IpFsCPOrwNimVez_h8bwNRpsD0rA&usqp=CAE&s",
+            "favicon": "https://serpapi.com/searches/68b7377faf5fdc7e5fabddbf/images/a3c583ad8d516cfec61d0e3ea8516bbd21330b1ab81aa9a7537e3fa32a0a7900.png",
+            "snippet": "A plain \u201cblack\u201d cup of coffee is a very low calorie drink\u20148 ounces only contains 2 calories! However, adding sugar, cream, and milk can quickly bump up the ...",
+            "snippet_highlighted_words": [
+                "is a very low calorie drink"
+            ],
+            "source": "The Nutrition Source"
+        },
+        {
+            "position": 6,
+            "title": "Specialty Coffee Beans",
+            "link": "https://bluebottlecoffee.com/us/eng/shop/coffee?srsltid=AfmBOop-Lp-YbPsnoq8LYgDx73lFrjI5jDoVQCPCs2vr1hP8q68Onv1B",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bluebottlecoffee.com/us/eng/shop/coffee%3Fsrsltid%3DAfmBOop-Lp-YbPsnoq8LYgDx73lFrjI5jDoVQCPCs2vr1hP8q68Onv1B&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQFnoECDcQAQ",
+            "displayed_link": "https://bluebottlecoffee.com \u203a eng \u203a shop \u203a coffee",
+            "favicon": "https://serpapi.com/searches/68b7377faf5fdc7e5fabddbf/images/a3c583ad8d516cfec61d0e3ea8516bbd5ff6e486383a890f0bd4791af063aae3.png",
+            "snippet": "Shop our specialty coffee collection online. Stock up on your favorite single origin coffee, espresso, decaf, coffee blends, and more at Blue Bottle Coffee.",
+            "snippet_highlighted_words": [
+                "Shop our specialty coffee collection online"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "detected_extensions": {
+                        "price": 40,
+                        "price_from": 12,
+                        "price_to": 66,
+                        "currency": "$"
+                    },
+                    "extensions": [
+                        "$12 to $66",
+                        "Free delivery over $40",
+                        "30-day returns"
+                    ]
+                }
+            },
+            "source": "Blue Bottle Coffee"
+        },
+        {
+            "position": 7,
+            "title": "What is coffee? - NCA",
+            "link": "https://www.aboutcoffee.org/origins/what-is-coffee/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.aboutcoffee.org/origins/what-is-coffee/&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQFnoECEAQAQ",
+            "displayed_link": "https://www.aboutcoffee.org \u203a Origins",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5oY42bUdI3aDNAHGEoWBSDjOEmVtML5lmsVWfwM9mrUpdsg7HBtd2&usqp=CAE&s",
+            "favicon": "https://serpapi.com/searches/68b7377faf5fdc7e5fabddbf/images/a3c583ad8d516cfec61d0e3ea8516bbd4585b0a28252e33ede6c2998d9148962.png",
+            "snippet": "What is coffee made of? Learn about the coffee tree, its lifespan, how it produces coffee beans, and the two most common coffee species, arabica and ...",
+            "snippet_highlighted_words": [
+                "Learn about the coffee tree, its lifespan, how it produces coffee beans"
+            ],
+            "source": "aboutcoffee.org"
+        },
+        {
+            "position": 8,
+            "title": "Black Rifle Coffee",
+            "link": "https://www.blackriflecoffee.com/collections/coffee?srsltid=AfmBOoq1GAgd_F8Xzd0MBDo1Gi3iRE4wq6MLmZG8rza6ULNhLIHGWY1p",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.blackriflecoffee.com/collections/coffee%3Fsrsltid%3DAfmBOoq1GAgd_F8Xzd0MBDo1Gi3iRE4wq6MLmZG8rza6ULNhLIHGWY1p&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQFnoECEMQAQ",
+            "displayed_link": "https://www.blackriflecoffee.com \u203a collections \u203a coffee",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSe4lBIZOc5X8_BRX8TW1hoWsdHPlrR7OUGo-BinN17spX7vvr7pzZ&usqp=CAE&s",
+            "favicon": "https://serpapi.com/searches/68b7377faf5fdc7e5fabddbf/images/a3c583ad8d516cfec61d0e3ea8516bbd044bace70020f1cbf6d2cdc2e8791703.png",
+            "snippet": "Black Rifle Coffee Company is a SOF veteran-owned coffee company, serving premium coffee and culture to people who love America.",
+            "snippet_highlighted_words": [
+                "Black Rifle Coffee Company"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "detected_extensions": {
+                        "price": 75,
+                        "price_from": 17,
+                        "price_to": 28,
+                        "currency": "$",
+                        "rating": 4.7,
+                        "reviews": 22
+                    },
+                    "extensions": [
+                        "4.7 store rating (22)",
+                        "$17 to $28",
+                        "Free delivery over $75"
+                    ]
+                }
+            },
+            "source": "Black Rifle Coffee"
+        },
+        {
+            "position": 9,
+            "title": "Stumptown Coffee Roasters: Craft Coffee Beans Online & ...",
+            "link": "https://www.stumptowncoffee.com/?srsltid=AfmBOoomBqUbfMTn10htDn-Z1a_-zLm4FYYHL1yTaELiyd648TRPsxHh",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.stumptowncoffee.com/%3Fsrsltid%3DAfmBOoomBqUbfMTn10htDn-Z1a_-zLm4FYYHL1yTaELiyd648TRPsxHh&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQFnoECEYQAQ",
+            "displayed_link": "https://www.stumptowncoffee.com",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRseHPfTlKwPY4f_QUeID9Q4yAxt0RqO_UR_ftKcCsttuAKWimLvg6z&usqp=CAE&s",
+            "favicon": "https://serpapi.com/searches/68b7377faf5fdc7e5fabddbf/images/a3c583ad8d516cfec61d0e3ea8516bbdf2c5dbb36a559db761214576d1ee864a.png",
+            "snippet": "Stumptown Coffee Roasters brings you fresh beans, cold brew, and good vibes. Order online, visit a shop, or subscribe for the long haul.",
+            "snippet_highlighted_words": [
+                "fresh beans, cold brew, and good vibes"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Locations",
+                        "link": "https://www.stumptowncoffee.com/pages/locations"
+                    },
+                    {
+                        "title": "Coffee",
+                        "link": "https://www.stumptowncoffee.com/collections/coffee"
+                    },
+                    {
+                        "title": "Coffee Quiz",
+                        "link": "https://www.stumptowncoffee.com/pages/quiz"
+                    },
+                    {
+                        "title": "Our Story",
+                        "link": "https://www.stumptowncoffee.com/pages/our-story"
+                    }
+                ]
+            },
+            "source": "Stumptown Coffee"
+        },
+        {
+            "position": 10,
+            "title": "Hear Me Out: Instant Coffee Is, in Fact, Good",
+            "link": "https://www.nytimes.com/wirecutter/reviews/instant-coffee-is-good/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.nytimes.com/wirecutter/reviews/instant-coffee-is-good/&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQFnoECFkQAQ",
+            "displayed_link": "https://www.nytimes.com \u203a Kitchen \u203a Coffee",
+            "favicon": "https://serpapi.com/searches/68b7377faf5fdc7e5fabddbf/images/a3c583ad8d516cfec61d0e3ea8516bbddfd5199f10f0270518df5024912a36e6.png",
+            "date": "8 hours ago",
+            "snippet": "Not all instant coffee tastes gross. The newest options are pretty delicious \u2014 and can save the day on chaotic mornings.",
+            "snippet_highlighted_words": [
+                "instant coffee tastes gross"
+            ],
+            "source": "The New York Times"
+        }
+    ],
+    "nutrition_information": {
+        "description": "Coffee",
+        "calories": "1",
+        "amount_per": "1 cup (8 fl oz) (237 g)",
+        "source": "USDA",
+        "source_link": "https://fdc.nal.usda.gov/food-details/171890/nutrients",
+        "total_fat": [
+            "0 g",
+            "0%"
+        ],
+        "cholesterol": [
+            "0 mg",
+            "0%"
+        ],
+        "sodium": [
+            "5 mg",
+            "0%"
+        ],
+        "potassium": [
+            "116 mg",
+            "3%"
+        ],
+        "total_carbohydrate": [
+            "0 g",
+            "0%"
+        ],
+        "protein": [
+            "0.3 g",
+            "0%"
+        ],
+        "caffeine": "95 mg",
+        "disclaimer": "Percent Daily Values are based on a 2,000 calorie diet. Your daily values may be higher or lower depending on your calorie needs."
+    },
+    "related_searches": [
+        {
+            "block_position": 1,
+            "query": "Coffee near me",
+            "link": "https://www.google.com/search?sca_esv=7fc613d9cd9ef286&q=Coffee+near+me&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ1QJ6BAhWEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=Coffee+near+me"
+        },
+        {
+            "block_position": 1,
+            "query": "Coffee brand",
+            "link": "https://www.google.com/search?sca_esv=7fc613d9cd9ef286&q=Coffee+brand&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ1QJ6BAhrEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=Coffee+brand"
+        },
+        {
+            "block_position": 1,
+            "query": "Coffee benefits",
+            "link": "https://www.google.com/search?sca_esv=7fc613d9cd9ef286&q=Coffee+benefits&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ1QJ6BAhnEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=Coffee+benefits"
+        },
+        {
+            "block_position": 1,
+            "query": "Coffee types",
+            "link": "https://www.google.com/search?sca_esv=7fc613d9cd9ef286&q=Coffee+types&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ1QJ6BAhlEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=Coffee+types"
+        },
+        {
+            "block_position": 1,
+            "query": "Coffee powder",
+            "link": "https://www.google.com/search?sca_esv=7fc613d9cd9ef286&q=Coffee+powder&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ1QJ6BAhjEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=Coffee+powder"
+        },
+        {
+            "block_position": 1,
+            "query": "Coffee Machine",
+            "link": "https://www.google.com/search?sca_esv=7fc613d9cd9ef286&q=Coffee+Machine&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ1QJ6BAhgEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=Coffee+Machine"
+        },
+        {
+            "block_position": 1,
+            "query": "Coffee recipe",
+            "link": "https://www.google.com/search?sca_esv=7fc613d9cd9ef286&q=Coffee+recipe&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ1QJ6BAhbEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=Coffee+recipe"
+        },
+        {
+            "block_position": 1,
+            "query": "Coffee beans",
+            "link": "https://www.google.com/search?sca_esv=7fc613d9cd9ef286&q=Coffee+beans&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ1QJ6BAhYEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=Coffee+beans"
+        }
+    ],
+    "refine_this_search": [
+        {
+            "query": "Nearby",
+            "link": "https://www.google.com/search?q=Coffee+nearby&shoprs=GAMqBmNvZmZlZTIMCAMSBk5lYXJieRgCWLfLH2AB&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQip4GKAF6BAgfEGw",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=Coffee+nearby"
+        },
+        {
+            "query": "Whole Bean",
+            "link": "https://www.google.com/search?q=whole+bean+coffee&shoprs=GAEqBmNvZmZlZTIaCAESCldob2xlIEJlYW46Cgju_jgQ8f44MAJYt8sfYAE&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQip4GKAJ6BAgfEG0",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=whole+bean+coffee"
+        },
+        {
+            "query": "Ground",
+            "link": "https://www.google.com/search?q=ground+coffee&shoprs=GAEqBmNvZmZlZTIWCAESBkdyb3VuZDoKCO7-OBDv_jgwAli3yx9gAQ&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQip4GKAN6BAgfEG4",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=ground+coffee"
+        },
+        {
+            "query": "Brand",
+            "link": "https://www.google.com/search?q=brand+coffee&shoprs=GBIqBmNvZmZlZTIJCBISBUJyYW5kYAE&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQip4GKAR6BAgfEG8",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=brand+coffee"
+        },
+        {
+            "query": "On sale",
+            "link": "https://www.google.com/search?q=Coffee+sale&shoprs=EgRKAhgBGAYqBmNvZmZlZTITCAYSB09uIHNhbGUYAiIESgIYAVi3yx9gAQ&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQip4GKAV6BAgfEHA",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=Coffee+sale"
+        },
+        {
+            "query": "Pod",
+            "link": "https://www.google.com/search?q=pod+coffee&shoprs=GAEqBmNvZmZlZTITCAESA1BvZDoKCPucZRD8nGUwA1i3yx9gAQ&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQip4GKAZ6BAgfEHE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=pod+coffee"
+        },
+        {
+            "query": "Get it today",
+            "link": "https://www.google.com/search?q=coffee&shoprs=Eg2aAQoKCBAAOAFAAkgBGBQqBmNvZmZlZTIlCBQSDEdldCBpdCB0b2RheSINmgEKCggQADgBQAJIASoEEAEYAWAB&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQip4GKAd6BAgfEHI",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=coffee"
+        },
+        {
+            "query": "Bag",
+            "link": "https://www.google.com/search?q=bag+coffee&shoprs=GAEqBmNvZmZlZTITCAESA0JhZzoKCIGdZRCEnWUwAFi3yx9gAQ&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQip4GKAh6BAgfEHM",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=bag+coffee"
+        },
+        {
+            "query": "Black",
+            "link": "https://www.google.com/search?q=black+coffee&shoprs=GAEqBmNvZmZlZTIXCAESBUJsYWNrOgwI2Iz1ARDlivUBMAtYt8sfYAE&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQip4GKAl6BAgfEHQ",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=black+coffee"
+        },
+        {
+            "query": "Buy",
+            "link": "https://www.google.com/search?q=buy+coffee&shoprs=GBIqBmNvZmZlZTIHCBISA0J1eWAB&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQip4GKAp6BAgfEHU",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=buy+coffee"
+        },
+        {
+            "query": "Brown",
+            "link": "https://www.google.com/search?q=brown+coffee&shoprs=GAEqBmNvZmZlZTIXCAESBUJyb3duOgwI2Iz1ARDrivUBMAtYt8sfYAE&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQip4GKAt6BAgfEHY",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=brown+coffee"
+        },
+        {
+            "query": "Medium Roast",
+            "link": "https://www.google.com/search?q=medium+roast+coffee&shoprs=GAEqBmNvZmZlZTIcCAESDE1lZGl1bSBSb2FzdDoKCJm4OxCbuDswAFi3yx9gAQ&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQip4GKAx6BAgfEHc",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=medium+roast+coffee"
+        },
+        {
+            "query": "Instant",
+            "link": "https://www.google.com/search?q=instant+coffee&shoprs=GAEqBmNvZmZlZTIXCAESB0luc3RhbnQ6Cgju_jgQ8P44MAJYt8sfYAE&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQip4GKA16BAgfEHg",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=instant+coffee"
+        },
+        {
+            "query": "Under $50",
+            "link": "https://www.google.com/search?q=Coffee+under+$50&shoprs=Eg0SCxEAAAAAhNeHQRgBGAUqBmNvZmZlZTIiCAUSCVVuZGVyICQ1MBgCIg0SCxEAAAAAhNeHQRgBKgIYAVi3yx9gAQ&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQip4GKA56BAgfEHk",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=Coffee+under+%2450"
+        },
+        {
+            "query": "Online",
+            "link": "https://www.google.com/search?q=online+coffee&shoprs=GBIqBmNvZmZlZTIKCBISBk9ubGluZWAB&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQip4GKA96BAgfEHo",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=online+coffee"
+        },
+        {
+            "query": "Store",
+            "link": "https://www.google.com/search?q=store+coffee&shoprs=GBIqBmNvZmZlZTIJCBISBVN0b3JlYAE&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQip4GKBB6BAgfEHs",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=store+coffee"
+        },
+        {
+            "query": "Organic",
+            "link": "https://www.google.com/search?q=organic+coffee&shoprs=GAEqBmNvZmZlZTIZCAESB09yZ2FuaWM6DAi--YcBEL_5hwEwA1i3yx9gAQ&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQip4GKBF6BAgfEHw",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=organic+coffee"
+        },
+        {
+            "query": "Caffeine-free",
+            "link": "https://www.google.com/search?q=caffeine-free+coffee&shoprs=GAEqBmNvZmZlZTIfCAESDUNhZmZlaW5lLWZyZWU6DAig8YoBEKHxigEwA1i3yx9gAQ&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQip4GKBJ6BAgfEH0",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=caffeine-free+coffee"
+        },
+        {
+            "query": "Dark Roast",
+            "link": "https://www.google.com/search?q=dark+roast+coffee&shoprs=GAEqBmNvZmZlZTIaCAESCkRhcmsgUm9hc3Q6CgiZuDsQnbg7MABYt8sfYAE&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQip4GKBN6BAgfEH4",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=dark+roast+coffee"
+        },
+        {
+            "query": "Price",
+            "link": "https://www.google.com/search?q=price+coffee&shoprs=GBIqBmNvZmZlZTIJCBISBVByaWNlYAE&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQip4GKBR6BAgfEH8",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=price+coffee"
+        },
+        {
+            "query": "Box",
+            "link": "https://www.google.com/search?q=box+coffee&shoprs=GAEqBmNvZmZlZTITCAESA0JveDoKCIGdZRCPnWUwAFi3yx9gAQ&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQip4GKBV6BQgfEIAB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=box+coffee"
+        },
+        {
+            "query": "Red",
+            "link": "https://www.google.com/search?q=red+coffee&shoprs=GAEqBmNvZmZlZTIVCAESA1JlZDoMCNiM9QEQ54r1ATALWLfLH2AB&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQip4GKBZ6BQgfEIEB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=red+coffee"
+        },
+        {
+            "query": "Recipe",
+            "link": "https://www.google.com/search?q=recipe+coffee&shoprs=GBIqBmNvZmZlZTIKCBISBlJlY2lwZWAB&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQip4GKBd6BQgfEIIB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=recipe+coffee"
+        },
+        {
+            "query": "For Sale",
+            "link": "https://www.google.com/search?q=coffee+for+sale&shoprs=GBIqBmNvZmZlZTIMCBISCEZvciBTYWxlYAE&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQip4GKBh6BQgfEIMB",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=coffee+for+sale"
+        }
+    ],
+    "refine_search_filters": [
+        {
+            "type": "Product Rating",
+            "options": [
+                {
+                    "title": "",
+                    "link": "https://www.google.com/search?q=Coffee&shoprs=EgViAwiQAxgeKgZjb2ZmZWUyFQgeEgg0IGFuZCB1cCIFYgMIkANABGAC&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ268JKAB6BAgfEAc",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=Coffee"
+                }
+            ]
+        },
+        {
+            "type": "Type",
+            "options": [
+                {
+                    "title": "Whole Bean",
+                    "link": "https://www.google.com/search?q=whole+bean+coffee&shoprs=GAEqBmNvZmZlZTIaCAESCldob2xlIEJlYW46Cgju_jgQ8f44MAJYt8sfYAI&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ268JKAB6BAgfEAw",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=whole+bean+coffee"
+                },
+                {
+                    "title": "Ground",
+                    "link": "https://www.google.com/search?q=ground+coffee&shoprs=GAEqBmNvZmZlZTIWCAESBkdyb3VuZDoKCO7-OBDv_jgwAli3yx9gAg&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ268JKAF6BAgfEA0",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=ground+coffee"
+                },
+                {
+                    "title": "Instant",
+                    "link": "https://www.google.com/search?q=instant+coffee&shoprs=GAEqBmNvZmZlZTIXCAESB0luc3RhbnQ6Cgju_jgQ8P44MAJYt8sfYAI&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ268JKAJ6BAgfEA4",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=instant+coffee"
+                }
+            ]
+        },
+        {
+            "type": "Features",
+            "options": [
+                {
+                    "title": "Pod",
+                    "link": "https://www.google.com/search?q=pod+coffee&shoprs=GAEqBmNvZmZlZTITCAESA1BvZDoKCPucZRD8nGUwA1i3yx9gAg&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ268JKAB6BAgfEBI",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=pod+coffee"
+                },
+                {
+                    "title": "Organic",
+                    "link": "https://www.google.com/search?q=organic+coffee&shoprs=GAEqBmNvZmZlZTIZCAESB09yZ2FuaWM6DAi--YcBEL_5hwEwA1i3yx9gAg&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ268JKAF6BAgfEBM",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=organic+coffee"
+                },
+                {
+                    "title": "Caffeine-free",
+                    "link": "https://www.google.com/search?q=caffeine-free+coffee&shoprs=GAEqBmNvZmZlZTIfCAESDUNhZmZlaW5lLWZyZWU6DAig8YoBEKHxigEwA1i3yx9gAg&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ268JKAJ6BAgfEBQ",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=caffeine-free+coffee"
+                },
+                {
+                    "title": "Kosher",
+                    "link": "https://www.google.com/search?q=kosher+coffee&shoprs=GAEqBmNvZmZlZTIYCAESBktvc2hlcjoMCPHfhwEQ8t-HATADWLfLH2AC&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ268JKAN6BAgfEBU",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=kosher+coffee"
+                }
+            ]
+        },
+        {
+            "type": "Container Type",
+            "options": [
+                {
+                    "title": "Bag",
+                    "link": "https://www.google.com/search?q=bag+coffee&shoprs=GAEqBmNvZmZlZTITCAESA0JhZzoKCIGdZRCEnWUwAFi3yx9gAg&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ268JKAB6BAgfEBs",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=bag+coffee"
+                },
+                {
+                    "title": "Box",
+                    "link": "https://www.google.com/search?q=box+coffee&shoprs=GAEqBmNvZmZlZTITCAESA0JveDoKCIGdZRCPnWUwAFi3yx9gAg&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ268JKAF6BAgfEBw",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=box+coffee"
+                },
+                {
+                    "title": "Canister",
+                    "link": "https://www.google.com/search?q=canister+coffee&shoprs=GAEqBmNvZmZlZTIYCAESCENhbmlzdGVyOgoIgZ1lEIKdZTAAWLfLH2AC&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ268JKAJ6BAgfEB0",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=canister+coffee"
+                },
+                {
+                    "title": "Jar",
+                    "link": "https://www.google.com/search?q=jar+coffee&shoprs=GAEqBmNvZmZlZTITCAESA0phcjoKCIGdZRCDnWUwAFi3yx9gAg&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ268JKAN6BAgfEB4",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=jar+coffee"
+                }
+            ]
+        },
+        {
+            "type": "Color",
+            "options": [
+                {
+                    "title": "Black",
+                    "link": "https://www.google.com/search?q=black+coffee&shoprs=GAEqBmNvZmZlZTIXCAESBUJsYWNrOgwI2Iz1ARDlivUBMAtYt8sfYAI&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ268JKAB6BAgfECI",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=black+coffee"
+                },
+                {
+                    "title": "Brown",
+                    "link": "https://www.google.com/search?q=brown+coffee&shoprs=GAEqBmNvZmZlZTIXCAESBUJyb3duOgwI2Iz1ARDrivUBMAtYt8sfYAI&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ268JKAF6BAgfECM",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=brown+coffee"
+                },
+                {
+                    "title": "Red",
+                    "link": "https://www.google.com/search?q=red+coffee&shoprs=GAEqBmNvZmZlZTIVCAESA1JlZDoMCNiM9QEQ54r1ATALWLfLH2AC&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ268JKAJ6BAgfECQ",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=red+coffee"
+                },
+                {
+                    "title": "Yellow",
+                    "link": "https://www.google.com/search?q=yellow+coffee&shoprs=GAEqBmNvZmZlZTIYCAESBlllbGxvdzoMCNiM9QEQ7Yr1ATALWLfLH2AC&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ268JKAN6BAgfECU",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=yellow+coffee"
+                }
+            ]
+        },
+        {
+            "type": "Roast",
+            "options": [
+                {
+                    "title": "Medium Roast",
+                    "link": "https://www.google.com/search?q=medium+roast+coffee&shoprs=GAEqBmNvZmZlZTIcCAESDE1lZGl1bSBSb2FzdDoKCJm4OxCbuDswAFi3yx9gAg&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ268JKAB6BAgfECs",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=medium+roast+coffee"
+                },
+                {
+                    "title": "Dark Roast",
+                    "link": "https://www.google.com/search?q=dark+roast+coffee&shoprs=GAEqBmNvZmZlZTIaCAESCkRhcmsgUm9hc3Q6CgiZuDsQnbg7MABYt8sfYAI&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ268JKAF6BAgfECw",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=dark+roast+coffee"
+                },
+                {
+                    "title": "Light Roast",
+                    "link": "https://www.google.com/search?q=light+roast+coffee&shoprs=GAEqBmNvZmZlZTIbCAESC0xpZ2h0IFJvYXN0OgoImbg7EJq4OzAAWLfLH2AC&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ268JKAJ6BAgfEC0",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=light+roast+coffee"
+                },
+                {
+                    "title": "Medium-Dark Roast",
+                    "link": "https://www.google.com/search?q=medium-dark+roast+coffee&shoprs=GAEqBmNvZmZlZTIhCAESEU1lZGl1bS1EYXJrIFJvYXN0OgoImbg7EJy4OzAAWLfLH2AC&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ268JKAN6BAgfEC4",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=medium-dark+roast+coffee"
+                }
+            ]
+        },
+        {
+            "type": "Stores",
+            "options": [
+                {
+                    "title": "Walmart",
+                    "link": "https://www.google.com/search?q=walmart+coffee&shoprs=GAIqBmNvZmZlZTILCAISB1dhbG1hcnRYt8sfYAI&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ268JKAB6BAgfEDI",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=walmart+coffee"
+                },
+                {
+                    "title": "Target",
+                    "link": "https://www.google.com/search?q=target+coffee&shoprs=GAIqBmNvZmZlZTIKCAISBlRhcmdldFi3yx9gAg&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ268JKAF6BAgfEDM",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=target+coffee"
+                },
+                {
+                    "title": "Bass Pro Shops",
+                    "link": "https://www.google.com/search?q=bass+pro+shops+coffee&shoprs=GAIqBmNvZmZlZTISCAISDkJhc3MgUHJvIFNob3BzWLfLH2AC&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ268JKAJ6BAgfEDQ",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=bass+pro+shops+coffee"
+                },
+                {
+                    "title": "Cabela's",
+                    "link": "https://www.google.com/search?q=cabela's+coffee&shoprs=GAIqBmNvZmZlZTIMCAISCENhYmVsYSdzWLfLH2AC&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ268JKAN6BAgfEDU",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=cabela%27s+coffee"
+                }
+            ]
+        },
+        {
+            "type": "Price",
+            "options": [
+                {
+                    "title": "Under $50",
+                    "link": "https://www.google.com/search?q=Coffee+under+$50&shoprs=Eg0SCxEAAAAAhNeHQRgBGAUqBmNvZmZlZTIiCAUSCVVuZGVyICQ1MBgCIg0SCxEAAAAAhNeHQRgBKgIYAVi3yx9gAg&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ268JKAB6BAgfEDs",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=Coffee+under+%2450"
+                },
+                {
+                    "title": "Over $50",
+                    "link": "https://www.google.com/search?q=Coffee+over+$50&shoprs=Eg0SCwkAAAAAhNeHQRgBGAUqBmNvZmZlZTIhCAUSCE92ZXIgJDUwGAIiDRILCQAAAACE14dBGAEqAhgBWLfLH2AC&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ268JKAF6BAgfEDw",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=Coffee+over+%2450"
+                }
+            ]
+        },
+        {
+            "type": "Sort by",
+            "options": [
+                {
+                    "title": "Price: low to high",
+                    "link": "https://www.google.com/search?q=coffee&shoprs=GBcqBmNvZmZlZTIcCBcSElByaWNlOiBsb3cgdG8gaGlnaCoEEAEYAWACiAEB&udm=3&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ268JKAB6BAgfEEM",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=coffee"
+                },
+                {
+                    "title": "Price: high to low",
+                    "link": "https://www.google.com/search?q=coffee&shoprs=GBcqBmNvZmZlZTIcCBcSElByaWNlOiBoaWdoIHRvIGxvdyoEEAEYAWACiAEC&udm=3&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ268JKAF6BAgfEEQ",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=coffee"
+                }
+            ]
+        },
+        {
+            "type": "Flavor",
+            "options": [
+                {
+                    "title": "Chocolate",
+                    "link": "https://www.google.com/search?q=chocolate+coffee&shoprs=GAEqBmNvZmZlZTIZCAESCUNob2NvbGF0ZToKCIidZRCMnWUwAFi3yx9gAg&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ268JKAB6BAgfEEg",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=chocolate+coffee"
+                },
+                {
+                    "title": "Caramel",
+                    "link": "https://www.google.com/search?q=caramel+coffee&shoprs=GAEqBmNvZmZlZTIXCAESB0NhcmFtZWw6CgiInWUQjZ1lMABYt8sfYAI&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ268JKAF6BAgfEEk",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=caramel+coffee"
+                },
+                {
+                    "title": "Vanilla",
+                    "link": "https://www.google.com/search?q=vanilla+coffee&shoprs=GAEqBmNvZmZlZTIXCAESB1ZhbmlsbGE6CgiInWUQi51lMABYt8sfYAI&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ268JKAJ6BAgfEEo",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=vanilla+coffee"
+                },
+                {
+                    "title": "Hazelnut",
+                    "link": "https://www.google.com/search?q=hazelnut+coffee&shoprs=GAEqBmNvZmZlZTIYCAESCEhhemVsbnV0OgoIiJ1lEImdZTAAWLfLH2AC&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ268JKAN6BAgfEEs",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=hazelnut+coffee"
+                }
+            ]
+        },
+        {
+            "type": "Sugar Content",
+            "options": [
+                {
+                    "title": "No Sugar Added",
+                    "link": "https://www.google.com/search?q=no+sugar+added+coffee&shoprs=GAEqBmNvZmZlZTIgCAESDk5vIFN1Z2FyIEFkZGVkOgwI99-HARCLiIwBMABYt8sfYAI&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ268JKAB6BAgfEE8",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=no+sugar+added+coffee"
+                },
+                {
+                    "title": "Sugar Free",
+                    "link": "https://www.google.com/search?q=sugar+free+coffee&shoprs=GAEqBmNvZmZlZTIcCAESClN1Z2FyIEZyZWU6DAj334cBEPnfhwEwAFi3yx9gAg&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ268JKAF6BAgfEFA",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=sugar+free+coffee"
+                }
+            ]
+        },
+        {
+            "type": "Free shipping",
+            "options": [
+                {
+                    "title": "Free shipping",
+                    "link": "https://www.google.com/search?q=Coffee+free+shipping&shoprs=EgRSAhABGBkqBmNvZmZlZTIXCBkSDUZyZWUgc2hpcHBpbmciBFICEAFgAg&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ268JKAB6BAgfEFQ",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=Coffee+free+shipping"
+                }
+            ]
+        },
+        {
+            "type": "Count",
+            "options": [
+                {
+                    "title": "5 count",
+                    "link": "https://www.google.com/search?q=5+count+coffee&shoprs=EhoqGAiAnWUSEgkAAAAAAAAUQBEAAAAAAAAUQBgBKgZjb2ZmZWUyNQgBEgc1IGNvdW50IhoqGAiAnWUSEgkAAAAAAAAUQBEAAAAAAAAUQCoCGAE6CAiAnWUQADAGWLfLH2AC&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ268JKAB6BAgfEFg",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=5+count+coffee"
+                },
+                {
+                    "title": "12 count",
+                    "link": "https://www.google.com/search?q=12+count+coffee&shoprs=EhoqGAiAnWUSEgkAAAAAAAAoQBEAAAAAAAAoQBgBKgZjb2ZmZWUyNggBEggxMiBjb3VudCIaKhgIgJ1lEhIJAAAAAAAAKEARAAAAAAAAKEAqAhgBOggIgJ1lEAAwBli3yx9gAg&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ268JKAF6BAgfEFk",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=12+count+coffee"
+                },
+                {
+                    "title": "22 count",
+                    "link": "https://www.google.com/search?q=22+count+coffee&shoprs=EhoqGAiAnWUSEgkAAAAAAAA2QBEAAAAAAAA2QBgBKgZjb2ZmZWUyNggBEggyMiBjb3VudCIaKhgIgJ1lEhIJAAAAAAAANkARAAAAAAAANkAqAhgBOggIgJ1lEAAwBli3yx9gAg&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ268JKAJ6BAgfEFo",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=22+count+coffee"
+                },
+                {
+                    "title": "40 count",
+                    "link": "https://www.google.com/search?q=40+count+coffee&shoprs=EhoqGAiAnWUSEgkAAAAAAABEQBEAAAAAAABEQBgBKgZjb2ZmZWUyNggBEgg0MCBjb3VudCIaKhgIgJ1lEhIJAAAAAAAAREARAAAAAAAAREAqAhgBOggIgJ1lEAAwBli3yx9gAg&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ268JKAN6BAgfEFs",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=40+count+coffee"
+                }
+            ]
+        },
+        {
+            "type": "Brand",
+            "options": [
+                {
+                    "title": "Folgers",
+                    "link": "https://www.google.com/search?q=folgers+coffee&shoprs=GAEqBmNvZmZlZTIXCAESB0ZvbGdlcnM6CgiD8zwQ5IlAMAFYt8sfYAI&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ268JKAB6BAgfEGE",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=folgers+coffee"
+                },
+                {
+                    "title": "Starbucks",
+                    "link": "https://www.google.com/search?q=starbucks+coffee&shoprs=GAEqBmNvZmZlZTIZCAESCVN0YXJidWNrczoKCIPzPBCdmUAwAVi3yx9gAg&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ268JKAF6BAgfEGI",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=starbucks+coffee"
+                },
+                {
+                    "title": "NESCAF\u00c9",
+                    "link": "https://www.google.com/search?q=nescaf%C3%89+coffee&shoprs=GAEqBmNvZmZlZTIYCAESCE5FU0NBRsOJOgoIg_M8ENWSQDABWLfLH2AC&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ268JKAJ6BAgfEGM",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=nescaf%C3%89+coffee"
+                },
+                {
+                    "title": "Maxwell House",
+                    "link": "https://www.google.com/search?q=maxwell+house+coffee&shoprs=GAEqBmNvZmZlZTIdCAESDU1heHdlbGwgSG91c2U6CgiD8zwQraNAMAFYt8sfYAI&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ268JKAN6BAgfEGQ",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=maxwell+house+coffee"
+                }
+            ]
+        }
+    ],
+    "things_to_know": {
+        "buttons": [
+            {
+                "text": "Types",
+                "subtitle": "What Are The Different Types Of Coffee?",
+                "search_link": "https://www.google.com/search?sca_esv=7fc613d9cd9ef286&q=types+of+coffee&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQrooIegQIDRAQ",
+                "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=types+of+coffee",
+                "ai_overview": {
+                    "text_blocks": [
+                        {
+                            "type": "paragraph",
+                            "snippet": "Types of coffee include four main coffee bean species (Arabica, Robusta, Liberica, and Excelsa) and various roast levels (light, medium, medium-dark, and dark) that change flavor and caffeine levels. Coffee can also be categorized by preparation method, leading to diverse drinks like espresso and its variations (americano, latte, cappuccino), cold brew, and other popular choices.",
+                            "snippet_highlighted_words": [
+                                "Arabica, Robusta, Liberica, and Excelsa"
+                            ],
+                            "reference_indexes": [
+                                0,
+                                2,
+                                5,
+                                8,
+                                20
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "snippet": "Types of Coffee Beans"
+                        },
+                        {
+                            "type": "heading",
+                            "snippet": "These are the four main species of coffee plants grown commercially:"
+                        },
+                        {
+                            "type": "list",
+                            "list": [
+                                {
+                                    "snippet": "Arabica: Known for being more expensive and offering complex flavors, though with lower crop yields.",
+                                    "reference_indexes": [
+                                        8,
+                                        20
+                                    ]
+                                },
+                                {
+                                    "snippet": "Robusta: Generally more affordable and a major part of the world's coffee production.",
+                                    "reference_indexes": [
+                                        8,
+                                        13
+                                    ]
+                                },
+                                {
+                                    "snippet": "Liberica: Another type of coffee bean grown commercially.",
+                                    "reference_indexes": [
+                                        8
+                                    ]
+                                },
+                                {
+                                    "snippet": "Excelsa: Often grouped with Liberica, it's a distinct variety of coffee bean.",
+                                    "reference_indexes": [
+                                        6,
+                                        8
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "snippet": "Types of Coffee Roasts"
+                        },
+                        {
+                            "type": "heading",
+                            "snippet": "Roasting changes the flavor profile and color of the beans:"
+                        },
+                        {
+                            "type": "list",
+                            "list": [
+                                {
+                                    "snippet": "Light Roast: Mildly acidic with a softer aroma, as it isn't exposed to high heat for long.",
+                                    "reference_indexes": [
+                                        2,
+                                        19
+                                    ]
+                                },
+                                {
+                                    "snippet": "Medium Roast: Offers a balanced flavor with less acidity than light roasts.",
+                                    "reference_indexes": [
+                                        2
+                                    ]
+                                },
+                                {
+                                    "snippet": "Medium-Dark Roast: Contains more surface oils, resulting in a complex mix of sweet and bitter flavors.",
+                                    "reference_indexes": [
+                                        2
+                                    ]
+                                },
+                                {
+                                    "snippet": "Dark Roast: Very bold and smoky, with a strong bitter flavor and less acidity.",
+                                    "reference_indexes": [
+                                        2,
+                                        12,
+                                        19,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "snippet": "Types of Coffee Drinks"
+                        },
+                        {
+                            "type": "heading",
+                            "snippet": "This category includes various preparations and mixtures of coffee and other ingredients:"
+                        },
+                        {
+                            "type": "list",
+                            "list": [
+                                {
+                                    "snippet": "Espresso: A concentrated coffee made by forcing hot water through finely ground beans.",
+                                    "reference_indexes": [
+                                        5,
+                                        9,
+                                        18
+                                    ]
+                                },
+                                {
+                                    "snippet": "Doppio: A double shot of espresso.",
+                                    "reference_indexes": [
+                                        9
+                                    ]
+                                },
+                                {
+                                    "snippet": "Americano: Espresso diluted with hot water.",
+                                    "reference_indexes": [
+                                        5,
+                                        11,
+                                        17
+                                    ]
+                                },
+                                {
+                                    "snippet": "Latte: A drink with espresso, steamed milk, and a thin layer of foam.",
+                                    "reference_indexes": [
+                                        4,
+                                        7,
+                                        14,
+                                        16,
+                                        25,
+                                        27
+                                    ]
+                                },
+                                {
+                                    "snippet": "Cappuccino: Espresso with equal parts steamed milk and a thick layer of foamed milk.",
+                                    "reference_indexes": [
+                                        4,
+                                        5,
+                                        7,
+                                        15,
+                                        26
+                                    ]
+                                },
+                                {
+                                    "snippet": "Cortado: An espresso cut with an equal amount of warm, steamed milk.",
+                                    "reference_indexes": [
+                                        7
+                                    ]
+                                },
+                                {
+                                    "snippet": "Flat White: Similar to a latte but with less foam.",
+                                    "reference_indexes": [
+                                        1,
+                                        4
+                                    ]
+                                },
+                                {
+                                    "snippet": "Iced Coffee: Hot brewed coffee cooled down and served over ice.",
+                                    "reference_indexes": [
+                                        10
+                                    ]
+                                },
+                                {
+                                    "snippet": "Cold Brew: Coffee steeped in cold water for a long time, resulting in a smooth, less bitter taste.",
+                                    "reference_indexes": [
+                                        0,
+                                        21,
+                                        22,
+                                        24
+                                    ]
+                                },
+                                {
+                                    "snippet": "Nitro Cold Brew: A thicker, creamier version of cold brew that is infused with nitrogen.",
+                                    "reference_indexes": [
+                                        0
+                                    ]
+                                },
+                                {
+                                    "snippet": "Mocha: A latte that includes chocolate.",
+                                    "reference_indexes": [
+                                        3
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "references": [
+                        {
+                            "title": "Types of Coffee Drinks",
+                            "link": "https://www.folgerscoffee.com/coffee/articles/types-of-coffee#:~:text=The%20coffee%20is%20then%20filtered,of%20a%20cold%20brew%20coffee.",
+                            "snippet": "The coffee is then filtered, and coffee grounds are removed, resulting in coffee that is less bitter and acidic than hot coffee. L...",
+                            "source": "Folgers Coffee",
+                            "index": 0
+                        },
+                        {
+                            "title": "Difference Between Coffees - Flat White, Cappuccino, Cortado & More.",
+                            "link": "https://coffeeblog.co.uk/types-of-coffee-difference-between-them/#:~:text=Difference%20Between%20Coffees%20%2D%20Flat%20White%2C%20Cappuccino%2C%20Cortado%20&%20More.",
+                            "snippet": "Jul 26, 2025 \u2014 Difference Between Coffees - Flat White, Cappuccino, Cortado & More.",
+                            "source": "Coffee Blog",
+                            "index": 1
+                        },
+                        {
+                            "title": "9 Types of Coffee + All 4 Different Coffee Beans - Tartelette",
+                            "link": "https://www.tarteletteblog.com/types-of-coffee/#:~:text=Lightly%20roasted%20coffee%20beans%20tend%20to%20taste%20fairly%20acidic.,caffeine%20than%20their%20paler%20counterparts.",
+                            "snippet": "Lightly roasted coffee beans tend to taste fairly acidic. They aren't exposed to high enough heat to develop oils at their surface...",
+                            "source": "Tartelette",
+                            "index": 2
+                        },
+                        {
+                            "title": "Can someone explain the different types of coffee to me? : r/starbucks",
+                            "link": "https://www.reddit.com/r/starbucks/comments/166lx94/can_someone_explain_the_different_types_of_coffee/#:~:text=Americano:%20espresso%20and%20water%20Flat,espresso%20two%20percent%20and%20whip.",
+                            "snippet": "Aug 31, 2023 \u2014 Americano: espresso and water Flat white : ristretto style shots, one additional per size and whole milk Macchiato: li...",
+                            "source": "Reddit \u00b7 r/starbucks",
+                            "index": 3
+                        },
+                        {
+                            "title": "Coffee Menu Explained - What the most common coffees are and how ...",
+                            "link": "https://www.youtube.com/watch?v=rLaVDQy0q8Y&t=339",
+                            "snippet": "Jul 15, 2021 \u2014 in house especially I can do this. let's give ourselves enough milk jump in here i'm going to get both of these out of...",
+                            "source": "YouTube \u00b7 Artisti Coffee Roasters.",
+                            "index": 4
+                        },
+                        {
+                            "title": "List of coffee drinks - Wikipedia",
+                            "link": "https://en.wikipedia.org/wiki/List_of_coffee_drinks#:~:text=",
+                            "snippet": "Espresso. Espresso Caff\u00e8 lungo Caff\u00e8 americano Cappuccino.",
+                            "source": "Wikipedia, the free encyclopedia",
+                            "index": 5
+                        },
+                        {
+                            "title": "Types of Coffee Beans and What Sets Them Apart",
+                            "link": "https://districtroasters.com/blogs/news/types-of-coffee-beans#:~:text=Excelsa%20The%20final%20type%20of%20coffee%20bean,but%20its%20species%20is%20actually%20incredibly%20distinct.",
+                            "snippet": "Mar 13, 2019 \u2014 Excelsa The final type of coffee bean we introduce today is Excelsa. Excelsa is technically a member of the Liberica (",
+                            "source": "DISTRICT Roasters",
+                            "index": 6
+                        },
+                        {
+                            "title": "14 Different Types of Coffee Drinks Explained | Nespresso Canada",
+                            "link": "https://www.nespresso.com/ca/en/nespresso-blog/types-of-coffee#:~:text=Cortado,classic%20combination%20of%20the%20two.",
+                            "snippet": "Cortado. The cortado originates from Latin America and combines a 1:1 ratio of espresso to steamed milk. Unlike the Italian-based ...",
+                            "source": "Nespresso",
+                            "index": 7
+                        },
+                        {
+                            "title": "The Complete List of Types of Coffee (Beans, Drinks, and Roasts)",
+                            "link": "https://luckygoatcoffee.com/blogs/news/types-of-coffee",
+                            "snippet": "Oct 7, 2022 \u2014 Types of Coffee Beans * While there are over a hundred different types of coffee plants, there are four main types of ...",
+                            "source": "Lucky Goat Coffee",
+                            "index": 8
+                        },
+                        {
+                            "title": "30 Different types of coffee drinks explained",
+                            "link": "https://www.gridlockcoffee.com.au/blog/30-different-types-of-coffee-drinks-explained/#:~:text=13.,as%20a%20%22straight%20shot.%22",
+                            "snippet": "May 21, 2023 \u2014 13. Doppio. A doppio is a type of coffee made with a double shot of espresso. The word \"doppio\" means \"double\" in Ital...",
+                            "source": "Gridlock Coffee Roasters",
+                            "index": 9
+                        },
+                        {
+                            "title": "The Ultimate Guide to Different Types of Coffee Drinks",
+                            "link": "https://sfbaycoffee.com/blogs/articles/the-ultimate-guide-to-different-types-of-coffee-drinks#:~:text=Iced%20coffee%20is%20essentially%20hot,but%20with%20a%20refreshing%20coolness.",
+                            "snippet": "Iced coffee is essentially hot brewed coffee that is cooled down and served over ice. Unlike cold brew, iced coffee tends to retai...",
+                            "source": "San Francisco Bay Coffee",
+                            "index": 10
+                        },
+                        {
+                            "title": "Experiencing Coffee First-Hand in Italy - The Land of Espresso",
+                            "link": "https://japanesecoffeeco.com/blogs/japanese-coffee-blog/experiencing-coffee-first-hand-in-italy-the-land-of-espresso#:~:text=Americano:%20Espresso%20diluted%20with%20the%20addition%20of%20hot%20water.",
+                            "snippet": "Americano: Espresso diluted with the addition of hot water.",
+                            "source": "Japanese Coffee Co.",
+                            "index": 11
+                        },
+                        {
+                            "title": "Types of Coffee Roasts: Everything You Need to Know Before Choosing Yo",
+                            "link": "https://coffeekreis.com/blogs/the-coffee-blog/types-of-coffee-roasts-everything-you-need-to-know-before-choosing-your-favorite-coffee#:~:text=4.%20Dark%20Roast%20Dark%20roasts%20dominate%20in,bean%20but%20offer%20a%20comforting%2C%20strong%20cup.",
+                            "snippet": "May 27, 2025 \u2014 4. Dark Roast Dark roasts dominate in many espresso-based drinks and are known for their intense, sometimes bitter pro...",
+                            "source": "Coffee Kreis",
+                            "index": 12
+                        },
+                        {
+                            "title": "Arabica vs Robusta Coffee Beans | Starbucks\u00ae Coffee at Home",
+                            "link": "https://athome.starbucks.com/learn/arabica-coffee-vs-robusta-coffee-beans#:~:text=The%20two%20most%20common%20coffee,of%20the%20world's%20coffee%20production.",
+                            "snippet": "The two most common coffee tree species are arabica and robusta. They make up nearly all of the world's coffee production.",
+                            "source": "Starbucks",
+                            "index": 13
+                        },
+                        {
+                            "title": "Journey into the World of Coffee: From the Aroma of Arabica to the Bitterness of Espresso | ALIFARD CO",
+                            "link": "https://www.sunich.org/en/blog/types-of-coffee#:~:text=Journey%20into%20the%20World%20of%20Coffee:%20From,consumed%20in%20different%20ways%20around%20the%20world.",
+                            "snippet": "Aug 31, 2024 \u2014 Journey into the World of Coffee: From the Aroma of Arabica to the Bitterness of Espresso Coffee is one of the most po...",
+                            "source": "\u0639\u0627\u0644\u06cc\u0641\u0631\u062f",
+                            "index": 14
+                        },
+                        {
+                            "title": "Calories Hidden In Your Coffee: Time To Decode Your Drink! - Viking UK Blog",
+                            "link": "https://blog.viking-direct.co.uk/how-many-calories-are-in-a-coffee/#:~:text=A%20shot%20of%20espresso%2C%20the%20concentrated%20form,per%20serving.%20Now%20that's%20a%20calorific%20leap!",
+                            "snippet": "Feb 21, 2025 \u2014 A shot of espresso, the concentrated form of coffee, also contains around two calories. But surprise, surprise! Your c...",
+                            "source": "Viking Direct",
+                            "index": 15
+                        },
+                        {
+                            "title": "What are the different varieties of coffee- understanding the nearest ...",
+                            "link": "https://coffee.stackexchange.com/questions/3109/what-are-the-different-varieties-of-coffee-understanding-the-nearest-coffee-sho#:~:text=Corretto%2D%20Espresso%20%22corrected%22%20with,produce%20a%20more%20bitter%20cup.",
+                            "snippet": "Sep 27, 2016 \u2014 Corretto- Espresso \"corrected\" with a touch of grappa, cognac, sambuca, or other spirit. Doppio- Italian term for doub...",
+                            "source": "Coffee Stack Exchange",
+                            "index": 16
+                        },
+                        {
+                            "title": "The ultimate coffee glossary | All coffee terms",
+                            "link": "https://essense.coffee/en/the-ultimate-coffee-glossary/#:~:text=It's%20a%20type%20of%20Coffee%20drink%20prepared,espresso%20and%20then%20diluted%20with%20hot%20water.",
+                            "snippet": "Jun 21, 2019 \u2014 It's a type of Coffee drink prepared with a shot of espresso and then diluted with hot water.",
+                            "source": "Essense Coffee",
+                            "index": 17
+                        },
+                        {
+                            "title": "Coffee Dictionary: The A-Z of Coffee",
+                            "link": "https://ravecoffee.co.uk/blogs/news/coffee-jargon-the-a-z-of-coffee#:~:text=E%20Espresso:%20Coffee%20brewing%20method%20whereby%20hot,flavour%20is%20drawn%20from%20the%20coffee%20grounds.",
+                            "snippet": "Sep 16, 2022 \u2014 E Espresso: Coffee brewing method whereby hot water is forced at pressure through fine ground beans. Invented early in...",
+                            "source": "RAVE Coffee",
+                            "index": 18
+                        },
+                        {
+                            "title": "Best Coffee for Beginners: Smooth and Easy Brews to Start With",
+                            "link": "https://cafely.com/blogs/info/best-coffee-for-beginners#:~:text=Light%20roast%20coffee%20has%20a,finally%2C%20a%20smoky%20dark%20roast.&text=Colombian%20coffee%20has%20sweeter%20notes,flavor%20of%20the%20robusta%20bean.",
+                            "snippet": "Jan 20, 2025 \u2014 Light roast coffee has a softer aroma and flavor, making it a good start for beginners. You can advance to a more full...",
+                            "source": "CAFELY",
+                            "index": 19
+                        },
+                        {
+                            "title": "Discovering the Flavors of Coffee: A Beginner's Guide",
+                            "link": "https://qualityblends.coffee/en/blogs/noticias/descubriendo-los-sabores-del-cafe-una-guia-para-principiantes#:~:text=With%20at%20least%20129%20known%20species%2C%20each,with%20its%20own%20characteristics%20and%20flavor%20profiles.",
+                            "snippet": "Feb 15, 2024 \u2014 With at least 129 known species, each one provides a different set of flavors. For example, Arabica coffee is prized f...",
+                            "source": "Quality Blends",
+                            "index": 20
+                        },
+                        {
+                            "title": "15 Hot Ideas for Cold Coffee",
+                            "link": "https://www.nestleprofessional.us/cold-coffee-ideas#:~:text=Cold%20Brew:%20The%20past%20year%20has%20seen,water%20to%20slowly%20draw%20out%20the%20flavors.",
+                            "snippet": "Jul 3, 2023 \u2014 Cold Brew: The past year has seen cold brew menu penetration continue to rise by 20%. Consumers love its smooth, less b...",
+                            "source": "nestleprofessional.us",
+                            "index": 21
+                        },
+                        {
+                            "title": "Coffee Consumption and Market Trends in 2025 \u2013 Pro Coffee Gear",
+                            "link": "https://procoffeegear.com/blogs/articles/coffee-consumption-market-trends#:~:text=The%20unique%20brewing%20method%2C%20which%20involves%20steeping,for%20a%20refreshing%20alternative%20to%20hot%20coffee.",
+                            "snippet": "Apr 24, 2025 \u2014 The unique brewing method, which involves steeping coffee grounds in cold water for an extended period, creates a smoo...",
+                            "source": "Pro Coffee Gear",
+                            "index": 22
+                        },
+                        {
+                            "title": "The Ultimate Guide to Coffee Roasts: Light, Medium, and Dark Explained",
+                            "link": "https://archiescoffee.com/blog/the-ultimate-guide-to-coffee-roasts-light-medium-and-dark-explained/#:~:text=The%20beans%20range%20from%20dark%20brown%20to,a%20deeper%2C%20more%20intense%2C%20sometimes%20bitter%20taste.",
+                            "snippet": "Sep 17, 2024 \u2014 The beans range from dark brown to almost black, often glistening with oils released during the long roasting process.",
+                            "source": "archiescoffee.com",
+                            "index": 23
+                        },
+                        {
+                            "title": "Coffee Glossary",
+                            "link": "https://www.johnwattcoffeeandtea.com/news/coffee-glossary/#:~:text=The%20brewing%20of%20coffee%20using%20cold%20water,and%20tends%20to%20deliver%20a%20different%20drink.",
+                            "snippet": "The brewing of coffee using cold water over a longer period of time and tends to deliver a different drink.",
+                            "source": "John Watt Coffee and Tea",
+                            "index": 24
+                        },
+                        {
+                            "title": "What Is a Latte? Ingredients, Recipes, and Variations",
+                            "link": "https://hotshotsleeves.com/coffee/what-are-lattes/#:~:text=Key%20Ingredients:%20Espresso:%20A%20strong%2C%20concentrated%20coffee,tops%20the%20drink%2C%20adding%20a%20smooth%20finish.",
+                            "snippet": "Jan 20, 2025 \u2014 Key Ingredients: Espresso: A strong, concentrated coffee base, typically made with a single or double shot. Steamed Mi...",
+                            "source": "HotShot Coffee Sleeves",
+                            "index": 25
+                        },
+                        {
+                            "title": "Cappuccino vs. Latte Coffee Guide",
+                            "link": "https://www.nespresso.com/ie/en/articles/cappuccino-vs-latte#:~:text=A%20standard%20cappuccino%20can%20range%20from%2080%2D120,count%20lower%20than%20in%20a%20milk%2Dheavy%20latte.",
+                            "snippet": "A standard cappuccino can range from 80-120 calories, depending on the type of milk used. The thick layer of foam adds volume to t...",
+                            "source": "Nespresso",
+                            "index": 26
+                        },
+                        {
+                            "title": "How Coffee Shops Are Improving On TikTok\u2019s Viral Whipped Coffee",
+                            "link": "https://vinepair.com/articles/coffee-shops-whipped-coffee-trend/#:~:text=Popular%20coffee%20shops%20like%20Mean%20Bean%20Caf%C3%A9,top%20of%20a%20thin%20layer%20of%20espresso.",
+                            "snippet": "Oct 16, 2023 \u2014 Popular coffee shops like Mean Bean Caf\u00e9 and Do Not Feed Alligators have taken the concept of frothed milk and run wit...",
+                            "source": "VinePair",
+                            "index": 27
+                        }
+                    ]
+                }
+            },
+            {
+                "text": "Discovery Date",
+                "subtitle": "When Was Coffee First Discovered?",
+                "search_link": "https://www.google.com/search?sca_esv=7fc613d9cd9ef286&q=when+was+coffee+first+discovered&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQrooIegQIDRAg",
+                "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=when+was+coffee+first+discovered",
+                "ai_overview": {
+                    "text_blocks": [
+                        {
+                            "type": "paragraph",
+                            "snippet": "Coffee's origins are in Ethiopia, with a legend crediting an Ethiopian goat herder named Kaldi with discovering the energizing properties of the coffee plant around the 9th century. While the plant was discovered in Ethiopia, the practice of brewing it into a beverage began in Yemen in the 15th century, notably by Sufi monks who used it to stay awake during their nighttime devotions.",
+                            "snippet_highlighted_words": [
+                                "around the 9th century"
+                            ],
+                            "reference_indexes": [
+                                0,
+                                1,
+                                2,
+                                5,
+                                6
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "snippet": "The discovery legend"
+                        },
+                        {
+                            "type": "list",
+                            "list": [
+                                {
+                                    "snippet": "The widely accepted story involves Kaldi, who noticed his goats became energetic after eating berries from a particular bush.",
+                                    "reference_indexes": [
+                                        1,
+                                        5
+                                    ]
+                                },
+                                {
+                                    "snippet": "He tried the berries himself and felt a similar energizing effect.",
+                                    "reference_indexes": [
+                                        1,
+                                        4
+                                    ]
+                                },
+                                {
+                                    "snippet": "The berries were then brought to monks, who initially threw them into a fire.",
+                                    "reference_indexes": [
+                                        4
+                                    ]
+                                },
+                                {
+                                    "snippet": "However, the aroma prompted them to retrieve the beans and mix them with hot water to create the first brewed coffee.",
+                                    "reference_indexes": [
+                                        4
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "snippet": "The development of coffee as a beverage"
+                        },
+                        {
+                            "type": "list",
+                            "list": [
+                                {
+                                    "snippet": "Coffee was consumed in various forms in Ethiopia as early as the 9th century, but it was in the 15th century that the brewing process was developed in Yemen.",
+                                    "reference_indexes": [
+                                        6
+                                    ]
+                                },
+                                {
+                                    "snippet": "By the 16th century, coffee had become a popular and standard beverage throughout the Arabian Peninsula, with coffee houses opening in Mecca and other cities.",
+                                    "reference_indexes": [
+                                        0,
+                                        6
+                                    ]
+                                },
+                                {
+                                    "snippet": "The first known coffeehouse opened in Constantinople (modern-day Istanbul) in 1475, according to one source.",
+                                    "reference_indexes": [
+                                        3
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "references": [
+                        {
+                            "title": "History of coffee - Wikipedia",
+                            "link": "https://en.wikipedia.org/wiki/History_of_coffee#:~:text=Sufis%20in%20Yemen%20used%20the,allowing%20the%20consumption%20of%20coffee.",
+                            "snippet": "Sufis in Yemen used the beverage as an aid to concentration and as a kind of spiritual intoxication when they chanted the name of ...",
+                            "source": "Wikipedia, the free encyclopedia",
+                            "index": 0
+                        },
+                        {
+                            "title": "History of Coffee - Melitta",
+                            "link": "https://www.melitta.com/en/History-of-Coffee-629.html#:~:text=History%20of%20Coffee-,History%20of%20Coffee,the%20goatherder%20what%20caused%20it.",
+                            "snippet": "History of Coffee. Historians are quite certain that coffee beans (actually \"pits\") were first eaten, not drunk, in Ethiopia, East...",
+                            "source": "Melitta",
+                            "index": 1
+                        },
+                        {
+                            "title": "The rich history of coffee - Nescafe",
+                            "link": "https://www.nescafe.com/in/coffee-culture/knowledge/coffee-history#:~:text=Add%20to%20Favourites,goat%20herder%2C%20around%20800%20AD.",
+                            "snippet": "Add to Favourites. The legend of coffee origin begins in Ethiopia. Ethiopia is widely considered to be the epicentre of where coff...",
+                            "source": "Nescafe",
+                            "index": 2
+                        },
+                        {
+                            "title": "World History of Coffee - Esselon Caf\u00e9",
+                            "link": "https://www.esselon.com/coffee-terminology/world-history-of-coffee/",
+                            "snippet": "Dec 20, 2016 \u2014 Save 10% when you buy coffee in bulk! Click here to browse our beans. * The history of coffee goes back to 10th centu...",
+                            "source": "Esselon Coffee",
+                            "index": 3
+                        },
+                        {
+                            "title": "History of Coffee: How it became a beloved beverage",
+                            "link": "https://88coffeecompany.com/blogs/manifest-greatness-blog/history-of-coffee#:~:text=The%20Coffee%20Discovery%20Story,were%20imported%20products%20from%20Ethiopia.",
+                            "snippet": "Nov 12, 2024 \u2014 The Coffee Discovery Story The most common story about coffee discovery credits a goat herder named Kaldi in 800 A.D.",
+                            "source": "88 COFFEE Company",
+                            "index": 4
+                        },
+                        {
+                            "title": "History of Coffee",
+                            "link": "https://www.taylorlane.com/blogs/read/history-of-coffee#:~:text=The%20Discovery%20of%20Coffee,the%20process%20of%20brewing%20coffee.",
+                            "snippet": "Oct 27, 2022 \u2014 The Discovery of Coffee According to legend, a goat herder named Kaldi first discovered the power of coffee beans in t...",
+                            "source": "taylorlane.com",
+                            "index": 5
+                        },
+                        {
+                            "title": "The History of Coffee: From Ethiopia to Global Culture",
+                            "link": "https://cuplacoffee.com/history-of-coffee/#:~:text=Who%20Invented%20Coffee%20and%20When,popular%20amongst%20traders%20and%20pilgrims.",
+                            "snippet": "May 1, 2025 \u2014 Who Invented Coffee and When Was it Invented? While using coffee beans in various forms was invented in Ethiopia in the...",
+                            "source": "Cupla Coffee",
+                            "index": 6
+                        }
+                    ]
+                }
+            },
+            {
+                "text": "Health Benefits",
+                "subtitle": "What Are The Health Benefits Of Coffee?",
+                "search_link": "https://www.google.com/search?sca_esv=7fc613d9cd9ef286&q=health+benefits+of+coffee&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQrooIegQIDRAw",
+                "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=health+benefits+of+coffee",
+                "ai_overview": {
+                    "text_blocks": [
+                        {
+                            "type": "paragraph",
+                            "snippet": "Coffee offers various potential health benefits, including reduced risk of type 2 diabetes, certain cancers (like liver and uterine), and Parkinson's disease, as well as improved mood, energy levels, and heart health. It is also rich in antioxidants and nutrients like B vitamins, manganese, and potassium. However, excessive consumption can lead to anxiety, increased heart rate, and sleep issues.",
+                            "snippet_highlighted_words": [
+                                "reduced risk of type 2 diabetes, certain cancers (like liver and uterine), and Parkinson's disease, as well as improved mood, energy levels, and heart health"
+                            ],
+                            "reference_indexes": [
+                                0,
+                                1,
+                                2,
+                                7,
+                                9
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "snippet": "Disease Prevention"
+                        },
+                        {
+                            "type": "list",
+                            "list": [
+                                {
+                                    "title": "Type 2 Diabetes:",
+                                    "snippet": "Several studies show that regular coffee consumption lowers the risk of developing type 2 diabetes.",
+                                    "reference_indexes": [
+                                        1,
+                                        9,
+                                        11
+                                    ]
+                                },
+                                {
+                                    "title": "Cancer:",
+                                    "snippet": "Coffee intake has been linked to a reduced risk of certain cancers, including liver, uterine, and colorectal cancers.",
+                                    "reference_indexes": [
+                                        9,
+                                        15
+                                    ]
+                                },
+                                {
+                                    "title": "Parkinson's Disease:",
+                                    "snippet": "Caffeine in coffee may help lower the risk of developing Parkinson's disease, a degenerative brain condition.",
+                                    "reference_indexes": [
+                                        5,
+                                        9
+                                    ]
+                                },
+                                {
+                                    "title": "Heart Health:",
+                                    "snippet": "Some research suggests coffee consumption may lower the risk of stroke and could have a cardioprotective effect due to its high antioxidant content.",
+                                    "reference_indexes": [
+                                        2,
+                                        3
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "snippet": "Cognitive & Mood Benefits",
+                            "reference_indexes": [
+                                1,
+                                9,
+                                11
+                            ]
+                        },
+                        {
+                            "type": "list",
+                            "list": [
+                                {
+                                    "title": "Improved Mood & Mental Alertness:",
+                                    "snippet": "Coffee's caffeine content acts as a central nervous system stimulant, enhancing alertness and decreasing mental fatigue."
+                                },
+                                {
+                                    "title": "Energy Boost:",
+                                    "snippet": "By blocking adenosine receptors, coffee increases the levels of other neurotransmitters, leading to increased energy and reduced fatigue."
+                                }
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "snippet": "Rich in Antioxidants & Nutrients",
+                            "reference_indexes": [
+                                4,
+                                7,
+                                14
+                            ]
+                        },
+                        {
+                            "type": "list",
+                            "list": [
+                                {
+                                    "title": "Antioxidants:",
+                                    "snippet": "Coffee is an excellent source of antioxidants like chlorogenic acids and polyphenols, which help fight free radicals and inflammation.",
+                                    "reference_indexes": [
+                                        4,
+                                        8,
+                                        9,
+                                        10,
+                                        12,
+                                        13
+                                    ]
+                                },
+                                {
+                                    "title": "Nutrients:",
+                                    "snippet": "A single cup of coffee provides several essential nutrients, including B vitamins (riboflavin, pantothenic acid), manganese, potassium, and magnesium.",
+                                    "reference_indexes": [
+                                        7
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "snippet": "Important Considerations"
+                        },
+                        {
+                            "type": "list",
+                            "list": [
+                                {
+                                    "title": "Moderation is Key:",
+                                    "snippet": "While beneficial, excessive coffee intake can lead to negative side effects, including increased heart rate, high blood pressure, anxiety, and trouble sleeping.",
+                                    "reference_indexes": [
+                                        0
+                                    ]
+                                },
+                                {
+                                    "title": "Individual Variation:",
+                                    "snippet": "The optimal amount of coffee for health benefits varies, but the Dietary Guidelines for Americans suggest that up to 400 milligrams of caffeine per day (about three to five cups) is safe for most healthy adults.",
+                                    "reference_indexes": [
+                                        0
+                                    ]
+                                },
+                                {
+                                    "title": "Consult a Professional:",
+                                    "snippet": "Always consult with a healthcare provider for personalized advice, especially if you have underlying health conditions or are taking medications.",
+                                    "reference_indexes": [
+                                        6
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "references": [
+                        {
+                            "title": "9 Reasons Why (the Right Amount of) Coffee Is Good for You",
+                            "link": "https://www.hopkinsmedicine.org/health/wellness-and-prevention/9-reasons-why-the-right-amount-of-coffee-is-good-for-you#:~:text=In%20fact%2C%20researchers%20found%20that,ounce%20cup%20has%2095%20milligrams.)",
+                            "snippet": "In fact, researchers found that women age 65 and older who drank two to three cups of coffee a day were less likely to develop dem...",
+                            "source": "Johns Hopkins Medicine",
+                            "index": 0
+                        },
+                        {
+                            "title": "9 Health Benefits of Coffee: What the Science Says - Healthline",
+                            "link": "https://www.healthline.com/nutrition/top-evidence-based-health-benefits-of-coffee#:~:text=1.,risk%20of%20type%202%20diabetes",
+                            "snippet": "1. Boosts energy levels. Coffee contains caffeine, a central nervous system stimulant that can fight fatigue and increase energy l...",
+                            "source": "Healthline",
+                            "index": 1
+                        },
+                        {
+                            "title": "Coffee and health: What does the research say? - Mayo Clinic",
+                            "link": "https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/coffee-and-health/faq-20058339#:~:text=Drinking%20coffee%20with%20caffeine%20has,the%20evidence%20isn't%20conclusive.",
+                            "snippet": "Drinking coffee with caffeine has been linked with improved mood and a lower risk of depression in some groups. Drinking 3 to 4 cu...",
+                            "source": "Mayo Clinic",
+                            "index": 2
+                        },
+                        {
+                            "title": "10 benefits of coffee you didn't know - Nescafe",
+                            "link": "https://www.nescafe.com/in/coffee-culture/knowledge/coffee-benefits#:~:text=This%20is%20probably%20because%20caffeine,same%20benefits%20from%20decaffeinated%20coffee!",
+                            "snippet": "This is probably because caffeine is a known stimulant, but the truth is that regularly drinking coffee - black, or with milk - lo...",
+                            "source": "Nescafe",
+                            "index": 3
+                        },
+                        {
+                            "title": "Coffee: Health Benefits, Nutrients, Preparation, and More - WebMD",
+                            "link": "https://www.webmd.com/diet/health-benefits-coffee#:~:text=Coffee%20is%20an%20excellent%20source,several%20chronic%20and%20acute%20conditions.",
+                            "snippet": "Dec 29, 2024 \u2014 Coffee is an excellent source of several antioxidants, including hydrocinnamic acids and polyphenols. These compounds ...",
+                            "source": "WebMD",
+                            "index": 4
+                        },
+                        {
+                            "title": "News: The Health Benefits of Coffee (The New York Times) - NCBI",
+                            "link": "https://www.ncbi.nlm.nih.gov/search/research-news/13805#:~:text=Drinking%20coffee%20has%20been%20linked,%2C%20prostate%20cancer%2C%20even%20suicide.",
+                            "snippet": "Drinking coffee has been linked to a reduced risk of all kinds of ailments, including Parkinson's disease, melanoma, prostate canc...",
+                            "source": "National Institutes of Health (NIH) | (.gov)",
+                            "index": 5
+                        },
+                        {
+                            "title": "Health benefits of coffee - NCA",
+                            "link": "https://www.aboutcoffee.org/health/health-benefits-of-coffee/#:~:text=The%20science%20of%20coffee's%20benefits%20for%20longevity,ground%2C%20and%20decaffeinated%20coffee%E2%80%A6%E2%80%9D&text=All%20information%20presented%20is%20general,provider%20about%20your%20personal%20health.",
+                            "snippet": "The science of coffee's benefits for longevity There is a large body of scientific research that specifically links drinking coffe...",
+                            "source": "aboutcoffee.org",
+                            "index": 6
+                        },
+                        {
+                            "title": "Is Coffee Good or Bad for You? - Healthline",
+                            "link": "https://www.healthline.com/nutrition/coffee-good-or-bad#:~:text=Provides%20essential%20nutrients,phosphorus",
+                            "snippet": "Provides essential nutrients. Coffee is rich in many of the nutrients naturally found in coffee beans. A typical 8-ounce (237-gram...",
+                            "source": "Healthline",
+                            "index": 7
+                        },
+                        {
+                            "title": "9 Impressive Benefits of Cold Brew Coffee (Plus How to Make It)",
+                            "link": "https://www.healthline.com/nutrition/cold-brew-coffee-benefits#:~:text=These%20benefits%20may%20be%20largely%20due%20to,in%20coffee%20(%2011%20Trusted%20Source%20).",
+                            "snippet": "May 8, 2019 \u2014 These benefits may be largely due to chlorogenic acids, which are powerful antioxidants in coffee ( 11 Trusted Source )",
+                            "source": "Healthline",
+                            "index": 8
+                        },
+                        {
+                            "title": "Is coffee good for your health? - Piedmont Healthcare",
+                            "link": "https://www.piedmont.org/living-real-change/is-coffee-good-for-your-health",
+                            "snippet": "Here are five ways coffee may be good for your health: * It lowers the risk of type 2 diabetes. A report in the American Chemical...",
+                            "source": "Piedmont Healthcare",
+                            "index": 9
+                        },
+                        {
+                            "title": "Health Benefits of Coffee: Why Your Morning Brew is Better Than You Th",
+                            "link": "https://methodicalcoffee.com/blogs/coffee-culture/health-benefits-of-coffee-why-your-morning-brew-is-better-than-you-think#:~:text=The%20antioxidants%20in%20coffee%20also%20combat%20oxidative,indirectly%20curbing%20inflammation%20associated%20with%20these%20conditions.",
+                            "snippet": "Jan 13, 2025 \u2014 The antioxidants in coffee also combat oxidative stress, a major driver of inflammation. Additionally, coffee can impr...",
+                            "source": "Methodical Coffee",
+                            "index": 10
+                        },
+                        {
+                            "title": "Bulletproof Coffee with Ghee: Health Benefits",
+                            "link": "https://advaitliving.com/blogs/nutrition/the-science-behind-ghee-bulletproof-coffee-worth-the-hype#:~:text=Studies%20have%20shown%20that%20regular%20coffee%20consumption,improve%20mood%2C%20thanks%20to%20its%20caffeine%20content.",
+                            "snippet": "May 25, 2024 \u2014 Studies have shown that regular coffee consumption may reduce the risk of several chronic diseases, including type 2 d...",
+                            "source": "Advait Living",
+                            "index": 11
+                        },
+                        {
+                            "title": "What are the health benefits of specialty coffee?",
+                            "link": "https://www.siatecbrasil.com.br/en/what-are-the-health-benefits-of-specialty-coffee/#:~:text=One%20of%20the%20health%20benefits%20of%20special,antioxidants%20that%20fight%20free%20radicals.%20Know%20more!",
+                            "snippet": "May 7, 2024 \u2014 One of the health benefits of special coffee is that it is rich in antioxidants that fight free radicals. Know more!",
+                            "source": "siatecbrasil.com.br",
+                            "index": 12
+                        },
+                        {
+                            "title": "14 Health Benefits of Daily Coffee Consumption \u2013 Seven Trees Coffee",
+                            "link": "https://seventreescoffee.com.au/blogs/coffee-news/14-health-benefits-of-daily-coffee-consumption#:~:text=Coffee%20is%20packed%20with%20antioxidants%2C%20which%20help,inflammation%20and%20protecting%20cells%20from%20premature%20aging.",
+                            "snippet": "Feb 11, 2025 \u2014 Coffee is packed with antioxidants, which help combat oxidative stress and free radical damage in the body. These anti...",
+                            "source": "Seven Trees Coffee",
+                            "index": 13
+                        },
+                        {
+                            "title": "Benefits of Black Coffee",
+                            "link": "https://batchcoffee.co.uk/stories/black-coffee-benefits/",
+                            "snippet": "5. Intake Of Antioxidants And Nutrients Coffee contains a large number of antioxidants for the body. Some important nutrients it c...",
+                            "source": "batchcoffee.co.uk",
+                            "index": 14
+                        },
+                        {
+                            "title": "What are the benefits of drinking coffee? \u2615\ufe0f - Reddit",
+                            "link": "https://www.reddit.com/r/Productivitycafe/comments/1j38z1d/what_are_the_benefits_of_drinking_coffee/#:~:text=Studies%20have%20found%20that%20coffee,of%20developing%20type%202%20diabetes.",
+                            "snippet": "Mar 4, 2025 \u2014 Studies have found that coffee may help lower the risk for some forms of cancer, including breast, colorectal, and live...",
+                            "source": "Reddit \u00b7 r/Productivitycafe",
+                            "index": 15
+                        }
+                    ]
+                }
+            },
+            {
+                "text": "Brewing Process",
+                "subtitle": "How Is Coffee Made?",
+                "search_link": "https://www.google.com/search?sca_esv=7fc613d9cd9ef286&q=how+is+coffee+made&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQrooIegQIDRBA",
+                "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=how+is+coffee+made",
+                "ai_overview": {
+                    "text_blocks": [
+                        {
+                            "type": "paragraph",
+                            "snippet": "Coffee is made by cultivating coffee plants and harvesting the \"cherries\" containing the beans, which are then processed, dried, and milled into green coffee beans. These green beans are roasted to develop their flavor and aroma, ground into smaller particles, and finally brewed by steeping them in hot or cold water. The brewing method separates the flavorful liquid from the used grounds, resulting in the coffee beverage.",
+                            "snippet_highlighted_words": [
+                                "cultivating coffee plants and harvesting the \"cherries\" containing the beans, which are then processed, dried, and milled into green coffee beans"
+                            ],
+                            "reference_indexes": [
+                                1,
+                                2,
+                                3,
+                                6
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "snippet": "From Plant to Bean"
+                        },
+                        {
+                            "type": "list",
+                            "list": [
+                                {
+                                    "title": "1. Planting & Growth:",
+                                    "snippet": "The process starts with planting coffee seeds, which grow into coffee plants bearing fruit called coffee cherries.",
+                                    "reference_indexes": [
+                                        2,
+                                        3
+                                    ]
+                                },
+                                {
+                                    "title": "2. Harvesting:",
+                                    "snippet": "Ripe coffee cherries are picked from the plants.",
+                                    "reference_indexes": [
+                                        0,
+                                        2
+                                    ]
+                                },
+                                {
+                                    "title": "3. Processing:",
+                                    "snippet": "The seeds (beans) are removed from the cherries through a process called depulping. The beans then go through either a wet, dry, or honey processing method to clean and prepare them.",
+                                    "reference_indexes": [
+                                        2,
+                                        4,
+                                        5,
+                                        7,
+                                        9
+                                    ]
+                                },
+                                {
+                                    "title": "4. Drying & Milling:",
+                                    "snippet": "The processed beans are dried, typically in the sun, to reduce moisture content. A thin outer shell, called parchment, is then removed.",
+                                    "reference_indexes": [
+                                        0,
+                                        4,
+                                        7
+                                    ]
+                                },
+                                {
+                                    "title": "5. Exporting:",
+                                    "snippet": "The green coffee beans are sorted and graded before being exported to roasters.",
+                                    "reference_indexes": [
+                                        2,
+                                        3,
+                                        8
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "snippet": "This video explains how coffee beans are processed:",
+                            "video": {
+                                "link": "https://www.youtube.com/watch?v=piEU2gZaL5Q&t=287",
+                                "thumbnail": "https://i.ytimg.com/vi/piEU2gZaL5Q/mqdefault.jpg?sqp=-oaymwEGCPgEEOQC&rs=AMzJL3n_y3oiGX7H0u2xWg4EOtfhFykkQQ",
+                                "source": "CNBC",
+                                "date": "Feb 20, 2024"
+                            }
+                        },
+                        {
+                            "type": "paragraph",
+                            "snippet": "From Bean to Cup"
+                        },
+                        {
+                            "type": "list",
+                            "list": [
+                                {
+                                    "title": "1. Roasting:",
+                                    "snippet": "Green coffee beans are heated to high temperatures, which transforms their sugars and oils, releasing their characteristic aroma and flavor. The length of the roast determines the strength and taste profile of the coffee.",
+                                    "reference_indexes": [
+                                        0,
+                                        2,
+                                        3
+                                    ]
+                                },
+                                {
+                                    "title": "2. Grinding:",
+                                    "snippet": "The roasted beans are then ground into smaller particles to increase their surface area for brewing. The coarseness of the grind depends on the brewing method.",
+                                    "reference_indexes": [
+                                        2,
+                                        3
+                                    ]
+                                },
+                                {
+                                    "title": "3. Brewing:",
+                                    "snippet": "Hot or cold water is used to extract the flavor, color, and caffeine from the ground coffee.",
+                                    "reference_indexes": [
+                                        3,
+                                        6
+                                    ]
+                                },
+                                {
+                                    "title": "4. Separation:",
+                                    "snippet": "The liquid coffee extract is separated from the spent grounds, often by filtering.",
+                                    "reference_indexes": [
+                                        1,
+                                        6
+                                    ]
+                                },
+                                {
+                                    "title": "5. Serving:",
+                                    "snippet": "The extracted coffee is then served, and may be combined with other ingredients like milk, cream, or sugar.",
+                                    "reference_indexes": [
+                                        1,
+                                        6
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "references": [
+                        {
+                            "title": "How Coffee Is Been Made #shorts",
+                            "link": "https://m.youtube.com/shorts/-YdrvWkn_Nw",
+                            "snippet": "Apr 8, 2022 \u2014 right now I'm going to explain you how coffee is being processed to look from this to this first of all you have to col...",
+                            "source": "YouTube \u00b7 Michy Herzog",
+                            "index": 0
+                        },
+                        {
+                            "title": "Coffee preparation - Wikipedia",
+                            "link": "https://en.wikipedia.org/wiki/Coffee_preparation#:~:text=While%20the%20particular%20steps%20vary,(such%20as%20shaved%20chocolate).",
+                            "snippet": "While the particular steps vary with the type of coffee and with the raw materials, the process includes four basic steps: raw cof...",
+                            "source": "Wikipedia, the free encyclopedia",
+                            "index": 1
+                        },
+                        {
+                            "title": "How Coffee is Made: From Bean to Cup",
+                            "link": "https://www.verenastreet.com/blogs/all-about-coffee/how-coffee-is-made-from-bean-to-cup",
+                            "snippet": "Mar 24, 2025 \u2014 FAQs About How Coffee Is Made * How is coffee made from bean to cup? Coffee starts as a fruit that grows on tropical ...",
+                            "source": "Verena Street Coffee Co.",
+                            "index": 2
+                        },
+                        {
+                            "title": "\ud83d\uddfa\ufe0f The Coffee Making Processes",
+                            "link": "https://www.youtube.com/watch?v=W-_YFHE_nwA",
+                            "snippet": "Jul 12, 2023 \u2014 the coffee making process today I want to bring you to a journey how the coffee is made starting with cultivation. the...",
+                            "source": "YouTube \u00b7 Pack Katisomsakul",
+                            "index": 3
+                        },
+                        {
+                            "title": "How to Process Coffee at Home in 7 Steps (2.5 Minute Version)",
+                            "link": "https://www.youtube.com/watch?v=HCx6FEvjIng",
+                            "snippet": "Jan 4, 2017 \u2014 my friend Steven did a 2-minute technique video recently which was great. however this video clocks in at 2.5. minutes ...",
+                            "source": "YouTube \u00b7 David The Good",
+                            "index": 4
+                        },
+                        {
+                            "title": "How is real coffee made?",
+                            "link": "https://www.quora.com/How-is-real-coffee-made",
+                            "snippet": "Oct 18, 2024",
+                            "source": "Quora",
+                            "index": 5
+                        },
+                        {
+                            "title": "ELI5: How does the process of making liquid coffee out of the beans work ...",
+                            "link": "https://www.reddit.com/r/explainlikeimfive/comments/md11oo/eli5_how_does_the_process_of_making_liquid_coffee/#:~:text=Beans%20are%20usually%20pre%2Droasted,Upvote%201%20Downvote",
+                            "snippet": "Mar 25, 2021 \u2014 Beans are usually pre-roasted and sometimes pre-ground. The grounds are soaked in hot water, where the flavor and colo...",
+                            "source": "Reddit \u00b7 r/explainlikeimfive",
+                            "index": 6
+                        },
+                        {
+                            "title": "Ever wondered how coffee is made? - Steemit",
+                            "link": "https://steemit.com/photography/@olegnator/ever-wondered-how-coffee-is-made#:~:text=harvest%20the%20fruit,Drop%20them%20in%20the%20comments!",
+                            "snippet": "harvest the fruit. separate the first class fruit (the big juicy dark red ones on the pic) from the second class (green, small, dr...",
+                            "source": "Steemit",
+                            "index": 7
+                        },
+                        {
+                            "title": "The Awesome Science of Coffee Production",
+                            "link": "https://scienceatl.org/awesome-science-coffee-production/#:~:text=Once%20the%20seeds%20undergo%20one%20of%20these,then%20sell%20these%20bags%20to%20an%20exporter.",
+                            "snippet": "Jun 29, 2020 \u2014 Once the seeds undergo one of these processes, the resulting beans, often referred to as \u201cgreen coffee,\u201d are sorted by...",
+                            "source": "Science ATL",
+                            "index": 8
+                        },
+                        {
+                            "title": "Coffee processing method; washed vs natural",
+                            "link": "https://www.singleestatecoffee.nl/en/coffee-processing-method-washed-vs-natural/#:~:text=WASHED%20COFFEE%20After%20harvesting%20the%20coffee%20cherries%2C,seeds%20are%20placed%20in%20containers%20with%20water.",
+                            "snippet": "WASHED COFFEE After harvesting the coffee cherries, the farmer removes the skin and pulp from the coffee cherries, which is also k...",
+                            "source": "Single Estate Coffee Roasters",
+                            "index": 9
+                        }
+                    ]
+                }
+            },
+            {
+                "text": "Discovery Location",
+                "subtitle": "Where Was Coffee First Discovered?",
+                "search_link": "https://www.google.com/search?sca_esv=7fc613d9cd9ef286&q=where+was+coffee+first+discovered&sa=X&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQrooIegQIDRBQ",
+                "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=where+was+coffee+first+discovered",
+                "ai_overview": {
+                    "text_blocks": [
+                        {
+                            "type": "paragraph",
+                            "snippet": "Coffee's origin is in the highland forests of Ethiopia, where the wild coffee plants are native, but the first documented use of coffee as a beverage and its cultivation occurred in Yemen around the 15th century. Legend says an Ethiopian goat herder named Kaldi first noticed the stimulating effects of coffee berries on his goats.",
+                            "snippet_highlighted_words": [
+                                "highland forests of Ethiopia"
+                            ],
+                            "reference_indexes": [
+                                0,
+                                1,
+                                4,
+                                5
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "snippet": "Discovery in Ethiopia"
+                        },
+                        {
+                            "type": "list",
+                            "list": [
+                                {
+                                    "title": "Native Land:",
+                                    "snippet": "The coffee plant (Coffea arabica) is native to the western and southern regions of Ethiopia, also known as the ancient land of Abyssinia.",
+                                    "reference_indexes": [
+                                        1,
+                                        4
+                                    ]
+                                },
+                                {
+                                    "title": "Early Use:",
+                                    "snippet": "Early inhabitants, possibly the Oromo people, may have discovered the stimulating properties of the coffee plant. They initially used the coffee cherries in ways such as mixing them with animal fat for energy-boosting snacks or consuming them in a weak tea.",
+                                    "reference_indexes": [
+                                        3,
+                                        4,
+                                        5
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "snippet": "Cultivation and Beverage in Yemen"
+                        },
+                        {
+                            "type": "list",
+                            "list": [
+                                {
+                                    "snippet": "Cultivation: Coffee was first cultivated and developed into a beverage in Yemen.",
+                                    "reference_indexes": [
+                                        0,
+                                        1
+                                    ]
+                                },
+                                {
+                                    "snippet": "First Brewed Beverage: The drink was first brewed in the 15th century by mystical Sufi monks, who used it to stay awake during all-night prayers.",
+                                    "reference_indexes": [
+                                        1
+                                    ]
+                                },
+                                {
+                                    "snippet": "Mokha Port: From the port of Mokha in Yemen, coffee was traded throughout the world, giving the region its name in the early coffee culture.",
+                                    "reference_indexes": [
+                                        1,
+                                        6
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "snippet": "The Spread of Coffee"
+                        },
+                        {
+                            "type": "list",
+                            "list": [
+                                {
+                                    "title": "Global Trade:",
+                                    "snippet": "After its cultivation in Yemen, coffee spread to the Islamic world and then to Europe, eventually reaching the Americas.",
+                                    "reference_indexes": [
+                                        1,
+                                        2
+                                    ]
+                                },
+                                {
+                                    "title": "Coffee Houses:",
+                                    "snippet": "The popularity of coffee led to the opening of coffee houses, which played a significant role in the global coffee drinking culture.",
+                                    "reference_indexes": [
+                                        1,
+                                        7,
+                                        8,
+                                        9
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "references": [
+                        {
+                            "title": "The discovery of the coffee bean | Origin & Legends",
+                            "link": "https://www.espresso-international.com/where-does-coffee-come-from",
+                            "source": "espresso-international.com",
+                            "index": 0
+                        },
+                        {
+                            "title": "Where did coffee come from originally?",
+                            "link": "https://iburucoffee.com/blogs/blog/where-did-coffee-come-from-originally#:~:text=Origin%20of%20coffee%20drinking,coffee%20shops%20and%20caf%C3%A9%20businesses.",
+                            "snippet": "Oct 21, 2021 \u2014 Origin of coffee drinking Most agree that that the original coffee plants are native to the western regions of Ethiopi...",
+                            "source": "Iburu Coffee",
+                            "index": 1
+                        },
+                        {
+                            "title": "The History of the Coffee Bean: A Comprehensive Guide",
+                            "link": "https://colombiancoffee.us/blogs/news/the-history-of-the-coffee-bean-a-comprehensive-guide#:~:text=The%20Coffee%20Bean's%20Influence%20on,and%20import%20coffee%20from%20Colombia.",
+                            "snippet": "The Coffee Bean's Influence on Italian Culture After making its way from Ethiopia to India to Europe, the coffee bean finally arri...",
+                            "source": "Best Colombian Coffee Online",
+                            "index": 2
+                        },
+                        {
+                            "title": "History of Coffee: How it became a beloved beverage",
+                            "link": "https://88coffeecompany.com/blogs/manifest-greatness-blog/history-of-coffee#:~:text=Coffee's%20Birthplace%20in%20Africa,interesting%20legends%20about%20coffee's%20birthplace.",
+                            "snippet": "Nov 12, 2024 \u2014 Coffee's Birthplace in Africa Most sources consider the birthplace of coffee to be Ethiopia, a landlocked country in E...",
+                            "source": "88 COFFEE Company",
+                            "index": 3
+                        },
+                        {
+                            "title": "Coffee - University of Wisconsin-Stevens Point",
+                            "link": "https://www.uwsp.edu/sbcb/tropical-conservatory/coffee/#:~:text=Origins%20and%20history:,the%20largest%20producer%20of%20coffee.",
+                            "snippet": "Origins and history: The origin of coffee is believed to be in the 'ancient land of Abyssinia' which is currently known as Ethiopi...",
+                            "source": "University of Wisconsin-Stevens Point",
+                            "index": 4
+                        },
+                        {
+                            "title": "The History of Coffee: From Ethiopia to Global Culture",
+                            "link": "https://cuplacoffee.com/history-of-coffee/#:~:text=The%20Origins%20of%20Coffee,Ethiopia's%20rich%20history%20of%20coffee.",
+                            "snippet": "May 1, 2025 \u2014 The Origins of Coffee So, where did coffee originate? Many people consider Ethiopia to be the epicenter of where coffee...",
+                            "source": "Cupla Coffee",
+                            "index": 5
+                        },
+                        {
+                            "title": "Coffee in Italy - Wikipedia",
+                            "link": "https://en.wikipedia.org/wiki/Coffee_in_Italy#:~:text=Caff%C3%A8%20(pronounced%20%5Bkaf%CB%88f%C9%9B%5D),the%20Europeans%20named%20it%20mokka.",
+                            "snippet": "Caff\u00e8 (pronounced [kaf\u02c8f\u025b]) is the Italian word for coffee and probably originates from Kaffa (Arabic: \u0642\u0647\u0648\u0629, romanized: Qahwa), th...",
+                            "source": "Wikipedia",
+                            "index": 6
+                        },
+                        {
+                            "title": "Are the \"waves\" of coffee an outdated concept?",
+                            "link": "https://perfectdailygrind.com/2025/03/the-waves-of-coffee-outdated-concept/#:~:text=Built%20on%20colonial%20trade%20models%2C%20coffee%20was,stimulating%20conversation%2C%20establishing%20a%20thriving%20coffee%2Ddrinking%20culture.",
+                            "snippet": "Mar 5, 2025 \u2014 Built on colonial trade models, coffee was shipped to Europe, where growing interest led to the establishment of coffee...",
+                            "source": "Perfect Daily Grind",
+                            "index": 7
+                        },
+                        {
+                            "title": "A brief 2 Minute History of Coffee",
+                            "link": "https://www.hillroasters.com.au/a-brief-2minute-history-of-coffee/#:~:text=This%20lead%20to%20a%20proliferation%20of%20coffee,also%20became%20associated%20with%20intellectualism%20and%20enlightenment.",
+                            "snippet": "Mar 27, 2023 \u2014 This lead to a proliferation of coffee houses which became popular gathering places for socializing and conducting bus...",
+                            "source": "Hill Roasters",
+                            "index": 8
+                        },
+                        {
+                            "title": "Beyond Brazil: Uncommon South American Coffee Origins You Need to Try",
+                            "link": "https://libertybeanscoffee.com/blogs/beyond-brazil-uncommon-south-american-coffee-origins-you-need-to-try/#:~:text=Its%20journey%20from%20Ethiopia%20to%20becoming%20a,hubs%20for%20intellectual%20discourse%20and%20community%20gatherings.",
+                            "snippet": "Its journey from Ethiopia to becoming a beloved beverage worldwide has shaped the history and traditions of numerous regions. Coff...",
+                            "source": "Liberty Beans Coffee Company",
+                            "index": 9
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=Coffee&sca_esv=7fc613d9cd9ef286&ei=gDe3aM_bCoeC4-EP2_G5iAU&start=10&sa=N&sstk=Ac65TH7IDnDyaC3jmjdY5CZ6RW2uFsL81bwdZKgQ37RbO_YH5SpGQIxKqB7QrFVdW5hTMqtqi8xqUD1OZyUvUUBYqL4Nxssk9sZSag&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ8NMDegQICRAW",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=Coffee&sca_esv=7fc613d9cd9ef286&ei=gDe3aM_bCoeC4-EP2_G5iAU&start=10&sa=N&sstk=Ac65TH7IDnDyaC3jmjdY5CZ6RW2uFsL81bwdZKgQ37RbO_YH5SpGQIxKqB7QrFVdW5hTMqtqi8xqUD1OZyUvUUBYqL4Nxssk9sZSag&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ8tMDegQICRAE",
+            "3": "https://www.google.com/search?q=Coffee&sca_esv=7fc613d9cd9ef286&ei=gDe3aM_bCoeC4-EP2_G5iAU&start=20&sa=N&sstk=Ac65TH7IDnDyaC3jmjdY5CZ6RW2uFsL81bwdZKgQ37RbO_YH5SpGQIxKqB7QrFVdW5hTMqtqi8xqUD1OZyUvUUBYqL4Nxssk9sZSag&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ8tMDegQICRAG",
+            "4": "https://www.google.com/search?q=Coffee&sca_esv=7fc613d9cd9ef286&ei=gDe3aM_bCoeC4-EP2_G5iAU&start=30&sa=N&sstk=Ac65TH7IDnDyaC3jmjdY5CZ6RW2uFsL81bwdZKgQ37RbO_YH5SpGQIxKqB7QrFVdW5hTMqtqi8xqUD1OZyUvUUBYqL4Nxssk9sZSag&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ8tMDegQICRAI",
+            "5": "https://www.google.com/search?q=Coffee&sca_esv=7fc613d9cd9ef286&ei=gDe3aM_bCoeC4-EP2_G5iAU&start=40&sa=N&sstk=Ac65TH7IDnDyaC3jmjdY5CZ6RW2uFsL81bwdZKgQ37RbO_YH5SpGQIxKqB7QrFVdW5hTMqtqi8xqUD1OZyUvUUBYqL4Nxssk9sZSag&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ8tMDegQICRAK",
+            "6": "https://www.google.com/search?q=Coffee&sca_esv=7fc613d9cd9ef286&ei=gDe3aM_bCoeC4-EP2_G5iAU&start=50&sa=N&sstk=Ac65TH7IDnDyaC3jmjdY5CZ6RW2uFsL81bwdZKgQ37RbO_YH5SpGQIxKqB7QrFVdW5hTMqtqi8xqUD1OZyUvUUBYqL4Nxssk9sZSag&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ8tMDegQICRAM",
+            "7": "https://www.google.com/search?q=Coffee&sca_esv=7fc613d9cd9ef286&ei=gDe3aM_bCoeC4-EP2_G5iAU&start=60&sa=N&sstk=Ac65TH7IDnDyaC3jmjdY5CZ6RW2uFsL81bwdZKgQ37RbO_YH5SpGQIxKqB7QrFVdW5hTMqtqi8xqUD1OZyUvUUBYqL4Nxssk9sZSag&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ8tMDegQICRAO",
+            "8": "https://www.google.com/search?q=Coffee&sca_esv=7fc613d9cd9ef286&ei=gDe3aM_bCoeC4-EP2_G5iAU&start=70&sa=N&sstk=Ac65TH7IDnDyaC3jmjdY5CZ6RW2uFsL81bwdZKgQ37RbO_YH5SpGQIxKqB7QrFVdW5hTMqtqi8xqUD1OZyUvUUBYqL4Nxssk9sZSag&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ8tMDegQICRAQ",
+            "9": "https://www.google.com/search?q=Coffee&sca_esv=7fc613d9cd9ef286&ei=gDe3aM_bCoeC4-EP2_G5iAU&start=80&sa=N&sstk=Ac65TH7IDnDyaC3jmjdY5CZ6RW2uFsL81bwdZKgQ37RbO_YH5SpGQIxKqB7QrFVdW5hTMqtqi8xqUD1OZyUvUUBYqL4Nxssk9sZSag&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ8tMDegQICRAS",
+            "10": "https://www.google.com/search?q=Coffee&sca_esv=7fc613d9cd9ef286&ei=gDe3aM_bCoeC4-EP2_G5iAU&start=90&sa=N&sstk=Ac65TH7IDnDyaC3jmjdY5CZ6RW2uFsL81bwdZKgQ37RbO_YH5SpGQIxKqB7QrFVdW5hTMqtqi8xqUD1OZyUvUUBYqL4Nxssk9sZSag&ved=2ahUKEwjPm_7U2rqPAxUHwTgGHdt4DlEQ8tMDegQICRAU"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=Coffee&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=Coffee&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=Coffee&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=Coffee&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=Coffee&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=Coffee&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=Coffee&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=Coffee&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=Coffee&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=Coffee&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=India&num=10&q=Coffee&start=90"
+        }
+    }
+}

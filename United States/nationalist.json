@@ -1,0 +1,2084 @@
+{
+    "search_metadata": {
+        "id": "68b876572b15b908351b07f5",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/47eaec8b9db83ada/68b876572b15b908351b07f5.json",
+        "pixel_position_endpoint": "https://serpapi.com/searches/47eaec8b9db83ada/68b876572b15b908351b07f5.json_with_pixel_position",
+        "created_at": "2025-09-03 17:09:43 UTC",
+        "processed_at": "2025-09-03 17:09:43 UTC",
+        "google_url": "https://www.google.com/search?q=nationalist&oq=nationalist&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&num=50&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/47eaec8b9db83ada/68b876572b15b908351b07f5.html",
+        "total_time_taken": 1.47
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "nationalist",
+        "location_requested": "United States",
+        "location_used": "United States",
+        "google_domain": "google.com",
+        "num": "50",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "nationalist",
+        "total_results": 28900000,
+        "time_taken_displayed": 0.39,
+        "organic_results_state": "Showing results for exact spelling despite spelling suggestion",
+        "spelling_fix": "nationalism"
+    },
+    "inline_images": [
+        {
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=nationalist&si=AMgyJEu2dDdE8z0NZJJsg3Fd0ziYYuO0CAwjWdJHtxveujiJ3gXGvAtlIL6EzuhuCh3r9upArAlkDjmibRQF9l3N-YxgGhIN4PS1w7IZk4pXrZ2dX8qjdjM%3D&expnd=1&sa=X&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQ2v4IegQIGBAc#imgrc=oeAAIx20xsx7uM",
+            "source": "https://www.cnn.com/2018/10/23/politics/nationalism-explainer-trnd",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn4-juaWbM3c_mTpUcYlj9s72e_MXxxuS3eI2mBRX5s4IQZ1ot&s&ec=73068123",
+            "original": "https://media.cnn.com/api/v1/images/stellar/prod/181022232247-president-trump-nationalist-sot-rally.jpg?q=w_1920,h_1080,x_0,y_0,c_fill",
+            "title": "Trump declares himself a nationalist",
+            "source_name": "CNN"
+        },
+        {
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=nationalist&si=AMgyJEu2dDdE8z0NZJJsg3Fd0ziYYuO0CAwjWdJHtxveujiJ3gXGvAtlIL6EzuhuCh3r9upArAlkDjmibRQF9l3N-YxgGhIN4PS1w7IZk4pXrZ2dX8qjdjM%3D&expnd=1&sa=X&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQ2v4IegQIGBAc#imgrc=K1fTLtJv4cvK3M",
+            "source": "https://www.nytimes.com/2018/12/18/books/review/john-b-judis-nationalist-revival.html",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3R9ocvOOPiN3rAlkrYibAwQ9yPuB7j0MqoQM5uReSqcuBD5357JFbEah4XCBaijY&s&ec=73068123",
+            "original": "https://static01.nyt.com/images/2018/12/23/books/23FREEDLAND-COMBO/23FREEDLAND-COMBO-superJumbo.jpg",
+            "title": "Explaining Trump, Brexit and Other Expressions of ...",
+            "source_name": "The New York Times"
+        },
+        {
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=nationalist&si=AMgyJEu2dDdE8z0NZJJsg3Fd0ziYYuO0CAwjWdJHtxveujiJ3gXGvAtlIL6EzuhuCh3r9upArAlkDjmibRQF9l3N-YxgGhIN4PS1w7IZk4pXrZ2dX8qjdjM%3D&expnd=1&sa=X&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQ2v4IegQIGBAc#imgrc=g2ncOyCC_vqAKM",
+            "source": "https://www.politico.com/story/2018/10/23/donald-trump-nationalist-934498",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9weXdZSEXl0EQ7fuGOeQ69ihPzvEUYhKsuahy9rHC2V86kzrFxCwIwMOdf0PlMJQ&s&ec=73068123",
+            "original": "https://static.politico.com/f8/5b/c3ed2627440795bb24fdea2c94ec/181023-trump-getty-773.jpg",
+            "title": "Trump: I'm a nationalist, but not a white nationalist - POLITICO",
+            "source_name": "Politico"
+        },
+        {
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=nationalist&si=AMgyJEu2dDdE8z0NZJJsg3Fd0ziYYuO0CAwjWdJHtxveujiJ3gXGvAtlIL6EzuhuCh3r9upArAlkDjmibRQF9l3N-YxgGhIN4PS1w7IZk4pXrZ2dX8qjdjM%3D&expnd=1&sa=X&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQ2v4IegQIGBAc#imgrc=yvFaTIbVQrtV0M",
+            "source": "https://en.wikipedia.org/wiki/Nationalism",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOBLyZ3LmC7BGbJrK_wGVqoIq-o8qY7T28X6WSSWBLW91w4ekDJHtpbjWPuqkp8z8&s&ec=73068123",
+            "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/%22Onward_to_Victory%22%2C_World_War_I_Allied_propaganda_postcard.jpg/250px-%22Onward_to_Victory%22%2C_World_War_I_Allied_propaganda_postcard.jpg",
+            "title": "Nationalism - Wikipedia",
+            "source_name": "Wikipedia"
+        },
+        {
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=nationalist&si=AMgyJEu2dDdE8z0NZJJsg3Fd0ziYYuO0CAwjWdJHtxveujiJ3gXGvAtlIL6EzuhuCh3r9upArAlkDjmibRQF9l3N-YxgGhIN4PS1w7IZk4pXrZ2dX8qjdjM%3D&expnd=1&sa=X&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQ2v4IegQIGBAc#imgrc=gxZYmlC8IamrmM",
+            "source": "https://www.nytimes.com/2018/10/23/us/politics/nationalist-president-trump.html",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSA2Bc3xXethaRnctzOVm1I5eMDDPM0hMkWkzWGW1LmGe_ka-u1qBm5_ybJOgVt4M&s&ec=73068123",
+            "original": "https://static01.nyt.com/images/2018/10/24/us/politics/24dc-nationalist-sub/24dc-nationalist-sub-videoSixteenByNine3000-v3.jpg?year=2018&h=1686&w=3000&s=e8a374ce463cabb2b6bf46f2edd86899d4e751079832f22fa8ece2a354043a11&k=ZQJBKqZ0VN&tw=1",
+            "title": "Use That Word!': Trump Embraces the 'Nationalist' Label ...",
+            "source_name": "The New York Times"
+        },
+        {
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=nationalist&si=AMgyJEu2dDdE8z0NZJJsg3Fd0ziYYuO0CAwjWdJHtxveujiJ3gXGvAtlIL6EzuhuCh3r9upArAlkDjmibRQF9l3N-YxgGhIN4PS1w7IZk4pXrZ2dX8qjdjM%3D&expnd=1&sa=X&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQ2v4IegQIGBAc#imgrc=DHtjYoHSIufNLM",
+            "source": "https://www.fairobserver.com/region/north_america/donald-trump-nationalist-comments-midterm-elections-campaign-ted-cruz-rally-32390/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxFvT4MB_hsVLDK4tAc-0cWoSIWyVJepVpYndOl5Uou54RAB9HQgC5aB5os7AStUQ&s&ec=73068123",
+            "original": "https://www.fairobserver.com/wp-content/uploads/2018/10/Donald-Trump-nationalist-Donald-Trump-nationalism-midterm-elections-Ted-Cruz.jpg",
+            "title": "What Does Trump Mean by Calling Himself a \u201cNationalist\u201d?",
+            "source_name": "Fair Observer"
+        },
+        {
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=nationalist&si=AMgyJEu2dDdE8z0NZJJsg3Fd0ziYYuO0CAwjWdJHtxveujiJ3gXGvAtlIL6EzuhuCh3r9upArAlkDjmibRQF9l3N-YxgGhIN4PS1w7IZk4pXrZ2dX8qjdjM%3D&expnd=1&sa=X&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQ2v4IegQIGBAc#imgrc=IAmFAuq4dzA5gM",
+            "source": "https://en.wikipedia.org/wiki/Nationalist_Movement_Party",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD78EytpbDWbpmEaVFVoj2qKfYW1cGwa4BeNcYp2xpKTuprqX1q69BP1hhDCjFTD8&s&ec=73068123",
+            "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Flag_of_the_Nationalist_Movement_Party.svg/1200px-Flag_of_the_Nationalist_Movement_Party.svg.png",
+            "title": "Nationalist Movement Party - Wikipedia",
+            "source_name": "Wikipedia, the free encyclopedia"
+        },
+        {
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=nationalist&si=AMgyJEu2dDdE8z0NZJJsg3Fd0ziYYuO0CAwjWdJHtxveujiJ3gXGvAtlIL6EzuhuCh3r9upArAlkDjmibRQF9l3N-YxgGhIN4PS1w7IZk4pXrZ2dX8qjdjM%3D&expnd=1&sa=X&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQ2v4IegQIGBAc#imgrc=_k5A9lRECU7isM",
+            "source": "https://www.newyorker.com/news/news-desk/putins-nationalist-strategy",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDa5RE80aTHLmP5TM8Yner-DF2tPvddaFt1BcPW6QlnpAQg-I4k7yrNaIBh1yb6l4&s&ec=73068123",
+            "original": "https://media.newyorker.com/photos/5909515f019dfc3494e9d9f6/master/w_2560%2Cc_limit/lipman-ukraine-580.jpg",
+            "title": "Putin's Nationalist Strategy | The New Yorker",
+            "source_name": "The New Yorker"
+        },
+        {
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=nationalist&si=AMgyJEu2dDdE8z0NZJJsg3Fd0ziYYuO0CAwjWdJHtxveujiJ3gXGvAtlIL6EzuhuCh3r9upArAlkDjmibRQF9l3N-YxgGhIN4PS1w7IZk4pXrZ2dX8qjdjM%3D&expnd=1&sa=X&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQ2v4IegQIGBAc#imgrc=bjEdratz380GIM",
+            "source": "https://theconversation.com/what-is-the-difference-between-nationalism-and-patriotism-208170",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSrjq4d7jci2FWBACzsN_vCw8QHH8PzBm4TRXH4sQCxztdp-VXIQNgyipRq-cBTr8&s&ec=73068123",
+            "original": "https://images.theconversation.com/files/533816/original/file-20230623-4805-h1p42y.png?ixlib=rb-4.1.0&rect=0%2C0%2C4578%2C2289&q=45&auto=format&w=1356&h=668&fit=crop",
+            "title": "What is the difference between nationalism and patriotism?",
+            "source_name": "The Conversation"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "What does it mean to be a nationalist?",
+            "type": "featured_snippet",
+            "snippet": "A nationalist is a person who favors independence for a country. A Scottish nationalist, for example, believes that Scotland should be independent and separate from Great Britain.",
+            "title": "Nationalist - Definition, Meaning & Synonyms - Vocabulary.com",
+            "link": "https://www.vocabulary.com/dictionary/nationalist#:~:text=A%20nationalist%20is%20a%20person,and%20separate%20from%20Great%20Britain.",
+            "displayed_link": "https://www.vocabulary.com \u203a dictionary \u203a nationalist",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSFZFcE5XVnBMT1U5WVRDMVpURlZUUmxvMk5IWTRVVE50VkdaaFVtRlRTbEZqUjJ0RlNWbEpOM1pZVUVZM1J6bDZMVkZSWkZZM2JYaEhhMDl6YVVGU2QyTnZUV1ZsUkZZeU1IVlRhbk0zYmtKbFNWb3hZVkoyVldWbVFSSVhWMGhoTkdGT1MxTkNjekkyYTFCSlVIVnlMVGR2UVVVYUlrRkdUVUZIUjNKMlFWUjZVRFpuZEVsc1RHWmxUVXM1TVRSdVVWQlNjazV0VVVFIiwiZmN2IjoiMyIsImVpIjoiV0hhNGFOS1NCczI2a1BJUHVyLTdvQUUiLCJxYyI6IkNndHVZWFJwYjI1aGJHbHpkQkFBTVFBQUFBRHk3YzhfZlY2X0d6OCIsInF1ZXN0aW9uIjoiV2hhdCBkb2VzIGl0IG1lYW4gdG8gYmUgYSBuYXRpb25hbGlzdD8iLCJsayI6IkdobGlaV2x1WnlCdVlYUnBiMjVoYkdsemRDQnRaV0Z1YVc1biIsImJzIjoiYy1QeTRGSUx6MGdzVVVqSlR5MVd5Q3hSeUUxTnpGTW95VmRJU2xWSVZNaExMTW5NejB2TXlTd3VzWmRZNjJva0xTV1psSnFabDQ0c0FkWUJGT095NDVMMkxFYVN5VlZJejg5UFVjZ3ZVa2hLVExHWC1NRmtKQ01sbFlsVEJaY2JsN3hqVVNxeTBjVUtPYWxwSlNENW9zejBES0FUdnFvYktVakpKZUpWeFJYRnBZbmJSNkhCcUo0NndtNmtKYVZSamxOOUtiSjdTd1FZQVEiLCJpZCI6ImZjX1dIYTRhTktTQnMyNmtQSVB1ci03b0FFXzIifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSFZFcE5XVnBMT1U5WVRDMVpURlZUUmxvMk5IWTRVVE50VkdaaFVtRlRTbEZqUjJ0RlNWbEpOM1pZVUVZM1J6bDZMVkZSWkZZM2JYaEhhMDl6YVVGU2QyTnZUV1ZsUkZZeU1IVlRhbk0zYmtKbFNWb3hZVkoyVldWbVFSSVhWMGhoTkdGT1MxTkNjekkyYTFCSlVIVnlMVGR2UVVVYUlrRkdUVUZIUjNKMlFWUjZVRFpuZEVsc1RHWmxUVXM1TVRSdVVWQlNjazV0VVVFIiwiZmN2IjoiMyIsImVpIjoiV0hhNGFOS1NCczI2a1BJUHVyLTdvQUUiLCJxYyI6IkNndHVZWFJwYjI1aGJHbHpkQkFBTVFBQUFBRHk3YzhfZlY2X0d6OCIsInF1ZXN0aW9uIjoiV2hhdCBkb2VzIGl0IG1lYW4gdG8gYmUgYSBuYXRpb25hbGlzdD8iLCJsayI6IkdobGlaV2x1WnlCdVlYUnBiMjVoYkdsemRDQnRaV0Z1YVc1biIsImJzIjoiYy1QeTRGSUx6MGdzVVVqSlR5MVd5Q3hSeUUxTnpGTW95VmRJU2xWSVZNaExMTW5NejB2TXlTd3VzWmRZNjJva0xTV1psSnFabDQ0c0FkWUJGT095NDVMMkxFYVN5VlZJejg5UFVjZ3ZVa2hLVExHWC1NRmtKQ01sbFlsVEJaY2JsN3hqVVNxeTBjVUtPYWxwSlNENW9zejBES0FUdnFvYktVakpKZUpWeFJYRnBZbmJSNkhCcUo0NndtNmtKYVZSamxOOUtiSjdTd1FZQVEiLCJpZCI6ImZjX1dIYTRhTktTQnMyNmtQSVB1ci03b0FFXzIifQ%3D%3D"
+        },
+        {
+            "question": "Is nationalism good or bad?",
+            "type": "featured_snippet",
+            "snippet": "In practice, nationalism is seen as positive or negative depending on its ideology and outcomes. Nationalism has been a feature of movements for freedom and justice, has been associated with cultural revivals, and encourages pride in national achievements.",
+            "title": "Nationalism - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Nationalism#:~:text=In%20practice%2C%20nationalism%20is%20seen,encourages%20pride%20in%20national%20achievements.",
+            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Nationalism",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSFZFcE5XVnBMT1U5WVRDMVpURlZUUmxvMk5IWTRVVE50VkdaaFVtRlRTbEZqUjJ0RlNWbEpOM1pZVUVZM1J6bDZMVkZSWkZZM2JYaEhhMDl6YVVGU2QyTnZUV1ZsUkZZeU1IVlRhbk0zYmtKbFNWb3hZVkoyVldWbVFSSVhWMGhoTkdGT1MxTkNjekkyYTFCSlVIVnlMVGR2UVVVYUlrRkdUVUZIUjNKMlFWUjZVRFpuZEVsc1RHWmxUVXM1TVRSdVVWQlNjazV0VVVFIiwiZmN2IjoiMyIsImVpIjoiV0hhNGFOS1NCczI2a1BJUHVyLTdvQUUiLCJxYyI6IkNndHVZWFJwYjI1aGJHbHpkQkFBTVFBQUFBRHk3YzhfZlY2X0d6OCIsInF1ZXN0aW9uIjoiSXMgbmF0aW9uYWxpc20gZ29vZCBvciBiYWQ/IiwibGsiOiJHaHBwY3lCdVlYUnBiMjVoYkdsemJTQm5iMjlrSUc5eUlHSmhaQSIsImJzIjoiYy1QeTRGSUx6MGdzVVVqSlR5MVd5Q3hSeUUxTnpGTW95VmRJU2xWSVZNaExMTW5NejB2TXlTd3VzWmRZNjJva0xTV1psSnFabDQ0c0FkWUJGT095NDVMMkxFYVN5VlZJejg5UFVjZ3ZVa2hLVExHWC1NRmtKQ01sbFlsVEJaY2JsN3hqVVNxeTBjVUtPYWxwSlNENW9zejBES0FUdnFvYktVakpKZUpWeFJYRnBZbmJSNkhCcUo0NndtNmtKYVZSamxOOUtiSjdTd1FZQVEiLCJpZCI6ImZjX1dIYTRhTktTQnMyNmtQSVB1ci03b0FFXzIifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSFZFcE5XVnBMT1U5WVRDMVpURlZUUmxvMk5IWTRVVE50VkdaaFVtRlRTbEZqUjJ0RlNWbEpOM1pZVUVZM1J6bDZMVkZSWkZZM2JYaEhhMDl6YVVGU2QyTnZUV1ZsUkZZeU1IVlRhbk0zYmtKbFNWb3hZVkoyVldWbVFSSVhWMGhoTkdGT1MxTkNjekkyYTFCSlVIVnlMVGR2UVVVYUlrRkdUVUZIUjNKMlFWUjZVRFpuZEVsc1RHWmxUVXM1TVRSdVVWQlNjazV0VVVFIiwiZmN2IjoiMyIsImVpIjoiV0hhNGFOS1NCczI2a1BJUHVyLTdvQUUiLCJxYyI6IkNndHVZWFJwYjI1aGJHbHpkQkFBTVFBQUFBRHk3YzhfZlY2X0d6OCIsInF1ZXN0aW9uIjoiSXMgbmF0aW9uYWxpc20gZ29vZCBvciBiYWQ%2FIiwibGsiOiJHaHBwY3lCdVlYUnBiMjVoYkdsemJTQm5iMjlrSUc5eUlHSmhaQSIsImJzIjoiYy1QeTRGSUx6MGdzVVVqSlR5MVd5Q3hSeUUxTnpGTW95VmRJU2xWSVZNaExMTW5NejB2TXlTd3VzWmRZNjJva0xTV1psSnFabDQ0c0FkWUJGT095NDVMMkxFYVN5VlZJejg5UFVjZ3ZVa2hLVExHWC1NRmtKQ01sbFlsVEJaY2JsN3hqVVNxeTBjVUtPYWxwSlNENW9zejBES0FUdnFvYktVakpKZUpWeFJYRnBZbmJSNkhCcUo0NndtNmtKYVZSamxOOUtiSjdTd1FZQVEiLCJpZCI6ImZjX1dIYTRhTktTQnMyNmtQSVB1ci03b0FFXzIifQ%3D%3D"
+        },
+        {
+            "question": "Are nationalists left or right?",
+            "type": "featured_snippet",
+            "snippet": "Though nationalism is generally regarded as a right-wing doctrine, some nationalists favor egalitarian distributions of resources. There are also civic nationalists, as well as left-wing nationalists.",
+            "title": "Left\u2013right political spectrum - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Left%E2%80%93right_political_spectrum#:~:text=Though%20nationalism%20is%20generally%20regarded,well%20as%20left%2Dwing%20nationalists.",
+            "displayed_link": "https://en.wikipedia.org \u203a wiki",
+            "source_logo": "https://serpapi.com/searches/68b876572b15b908351b07f5/images/0a38add8f3da0d603464f6728eda0d13f92c57cd7a9f2fafb9f4db77787ce815.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSFZFcE5XVnBMT1U5WVRDMVpURlZUUmxvMk5IWTRVVE50VkdaaFVtRlRTbEZqUjJ0RlNWbEpOM1pZVUVZM1J6bDZMVkZSWkZZM2JYaEhhMDl6YVVGU2QyTnZUV1ZsUkZZeU1IVlRhbk0zYmtKbFNWb3hZVkoyVldWbVFSSVhWMGhoTkdGT1MxTkNjekkyYTFCSlVIVnlMVGR2UVVVYUlrRkdUVUZIUjNKMlFWUjZVRFpuZEVsc1RHWmxUVXM1TVRSdVVWQlNjazV0VVVFIiwiZmN2IjoiMyIsImVpIjoiV0hhNGFOS1NCczI2a1BJUHVyLTdvQUUiLCJxYyI6IkNndHVZWFJwYjI1aGJHbHpkQkFBTVFBQUFBRHk3YzhfZlY2X0d6OCIsInF1ZXN0aW9uIjoiQXJlIG5hdGlvbmFsaXN0cyBsZWZ0IG9yIHJpZ2h0PyIsImxrIjoiR2g1aGNtVWdibUYwYVc5dVlXeHBjM1J6SUd4bFpuUWdiM0lnY21sbmFIUSIsImJzIjoiYy1QeTRGSUx6MGdzVVVqSlR5MVd5Q3hSeUUxTnpGTW95VmRJU2xWSVZNaExMTW5NejB2TXlTd3VzWmRZNjJva0xTV1psSnFabDQ0c0FkWUJGT095NDVMMkxFYVN5VlZJejg5UFVjZ3ZVa2hLVExHWC1NRmtKQ01sbFlsVEJaY2JsN3hqVVNxeTBjVUtPYWxwSlNENW9zejBES0FUdnFvYktVakpKZUpWeFJYRnBZbmJSNkhCcUo0NndtNmtKYVZSamxOOUtiSjdTd1FZQVEiLCJpZCI6ImZjX1dIYTRhTktTQnMyNmtQSVB1ci03b0FFXzIifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSFZFcE5XVnBMT1U5WVRDMVpURlZUUmxvMk5IWTRVVE50VkdaaFVtRlRTbEZqUjJ0RlNWbEpOM1pZVUVZM1J6bDZMVkZSWkZZM2JYaEhhMDl6YVVGU2QyTnZUV1ZsUkZZeU1IVlRhbk0zYmtKbFNWb3hZVkoyVldWbVFSSVhWMGhoTkdGT1MxTkNjekkyYTFCSlVIVnlMVGR2UVVVYUlrRkdUVUZIUjNKMlFWUjZVRFpuZEVsc1RHWmxUVXM1TVRSdVVWQlNjazV0VVVFIiwiZmN2IjoiMyIsImVpIjoiV0hhNGFOS1NCczI2a1BJUHVyLTdvQUUiLCJxYyI6IkNndHVZWFJwYjI1aGJHbHpkQkFBTVFBQUFBRHk3YzhfZlY2X0d6OCIsInF1ZXN0aW9uIjoiQXJlIG5hdGlvbmFsaXN0cyBsZWZ0IG9yIHJpZ2h0PyIsImxrIjoiR2g1aGNtVWdibUYwYVc5dVlXeHBjM1J6SUd4bFpuUWdiM0lnY21sbmFIUSIsImJzIjoiYy1QeTRGSUx6MGdzVVVqSlR5MVd5Q3hSeUUxTnpGTW95VmRJU2xWSVZNaExMTW5NejB2TXlTd3VzWmRZNjJva0xTV1psSnFabDQ0c0FkWUJGT095NDVMMkxFYVN5VlZJejg5UFVjZ3ZVa2hLVExHWC1NRmtKQ01sbFlsVEJaY2JsN3hqVVNxeTBjVUtPYWxwSlNENW9zejBES0FUdnFvYktVakpKZUpWeFJYRnBZbmJSNkhCcUo0NndtNmtKYVZSamxOOUtiSjdTd1FZQVEiLCJpZCI6ImZjX1dIYTRhTktTQnMyNmtQSVB1ci03b0FFXzIifQ%3D%3D"
+        },
+        {
+            "question": "What does it mean to be a US nationalist?",
+            "type": "ai_overview",
+            "text_blocks": [
+                {
+                    "type": "paragraph",
+                    "snippet": "An American nationalist believes the United States has a significant and often superior position in the world and prioritizes its national interests above others. American nationalism can range from a sense of national pride and loyalty to ideals and institutions to more extreme forms emphasizing ethnic or racial identity, which is often viewed negatively due to its historical association with intolerance and conflict.",
+                    "reference_indexes": [
+                        2,
+                        4
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "snippet": "Key Characteristics of American Nationalism"
+                },
+                {
+                    "type": "list",
+                    "list": [
+                        {
+                            "title": "Belief in National Supremacy:",
+                            "snippet": "A core tenet is the idea that the United States holds a special or superior place among nations.",
+                            "reference_indexes": [
+                                2,
+                                3
+                            ]
+                        },
+                        {
+                            "title": "Prioritizing National Interests:",
+                            "snippet": "American nationalists advocate for policies that put the United States first, sometimes at the expense of other countries' interests.",
+                            "reference_indexes": [
+                                2
+                            ]
+                        },
+                        {
+                            "title": "Civic vs. Ethnic Nationalism:",
+                            "reference_indexes": [
+                                0,
+                                3
+                            ],
+                            "list": [
+                                {
+                                    "snippet": "Civic Nationalism: This form emphasizes loyalty to the nation's ideals and institutions, such as its democratic system.",
+                                    "reference_indexes": [
+                                        0,
+                                        3
+                                    ]
+                                },
+                                {
+                                    "snippet": "Ethnic or Sectarian Nationalism: This more extreme form roots national identity in shared heritage, culture, ethnicity, or religion and can be seen as pernicious and dangerous.",
+                                    "reference_indexes": [
+                                        0
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "snippet": "Forms and Manifestations"
+                },
+                {
+                    "type": "list",
+                    "list": [
+                        {
+                            "title": "Patriotism:",
+                            "snippet": "A positive form of nationalism, involving love and devotion to one's country and its values.",
+                            "reference_indexes": [
+                                2,
+                                8
+                            ]
+                        },
+                        {
+                            "title": "Manifest Destiny:",
+                            "snippet": "The 19th-century belief in the divine mission of the United States to expand its dominion and spread democracy and capitalism across the North American continent.",
+                            "reference_indexes": [
+                                2,
+                                11
+                            ]
+                        },
+                        {
+                            "title": "White Nationalism:",
+                            "snippet": "An extreme form of nationalism that is rooted in the belief of white superiority and a desire to maintain dominance in American society. This ideology often involves hostility toward non-white immigrants and advocacy for restricted immigration.",
+                            "reference_indexes": [
+                                5,
+                                6
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "snippet": "Perceptions of American Nationalism"
+                },
+                {
+                    "type": "list",
+                    "list": [
+                        {
+                            "title": "Negative View:",
+                            "snippet": "Many Americans, particularly among policymakers and scholars, view nationalism negatively, associating it with archaic, intolerant, racist, and dangerous movements that led to conflicts like the World Wars.",
+                            "reference_indexes": [
+                                1,
+                                4
+                            ]
+                        },
+                        {
+                            "title": "Positive View:",
+                            "snippet": "Others view nationalism more positively, seeing it as a way to foster national unity, pride in achievements, and support for democratic values.",
+                            "reference_indexes": [
+                                2,
+                                7,
+                                9,
+                                10
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "references": [
+                {
+                    "title": "The definition of a nationalist | CNN Politics",
+                    "link": "https://www.cnn.com/2018/10/23/politics/nationalism-explainer-trnd#:~:text=It's%20also%20a%20word%20that,interests%2C%E2%80%9D%20he%20told%20CNN.",
+                    "snippet": "Oct 23, 2018 \u2014 It's also a word that means different things to different people. \u201cThere are different definitions depending on whose ...",
+                    "source": "CNN",
+                    "index": 0
+                },
+                {
+                    "title": "America\u2019s Uncomfortable Relationship With Nationalism | Stanley Center for Peace and Security",
+                    "link": "https://stanleycenter.org/publications/americas-uncomfortable-relationship-with-nationalism/",
+                    "source": "Stanley Center for Peace and Security",
+                    "index": 1
+                },
+                {
+                    "title": "American nationalism | EBSCO Research Starters",
+                    "link": "https://www.ebsco.com/research-starters/political-science/american-nationalism#:~:text=American%20nationalism%20is%20the%20belief,agenda%20of%20the%2019th%20century.",
+                    "snippet": "American nationalism is the belief that the United States holds a significant, often superior, position in the world, and prioriti...",
+                    "source": "EBSCO",
+                    "index": 2
+                },
+                {
+                    "title": "The Paradoxes of American Nationalism",
+                    "link": "https://ciaotest.cc.columbia.edu/olj/fp/fp_mayjune03l.html#:~:text=As%20befits%20a%20nation%20of,the%20power%20of%20nationalism%20abroad.",
+                    "snippet": "As befits a nation of immigrants, American nationalism is defined not by notions of ethnic superiority, but by a belief in the sup...",
+                    "source": "Columbia International Affairs Online",
+                    "index": 3
+                },
+                {
+                    "title": "The Case Against Nationalism - Cato Institute",
+                    "link": "https://www.cato.org/outside-articles/case-against-nationalism#:~:text=But%20we%20should%20hesitate%20to,are%20on%20no%20firmer%20ground.",
+                    "snippet": "But we should hesitate to give up a foundation that has brought greater freedom and prosperity to more people than any other in hu...",
+                    "source": "Cato Institute",
+                    "index": 4
+                },
+                {
+                    "title": "White nationalism - Wikipedia",
+                    "link": "https://en.wikipedia.org/wiki/White_nationalism#:~:text=historically%20white%20nations.-,They%20hold%20that%20white%20people%20should%20maintain%20their%20majority%20in,(e.g.%20Wotanism)%20and%20atheism.",
+                    "snippet": "They hold that white people should maintain their majority in mainly-white countries, maintain their dominance of its political an...",
+                    "source": "Wikipedia",
+                    "index": 5
+                },
+                {
+                    "title": "\u2018Nationalism\u2019 redefines the American right | CNN Politics",
+                    "link": "https://www.cnn.com/2023/05/06/politics/nationalism-conservatism-what-matters#:~:text=Nationalism%20is%20identity%20over%20philosophy,Christian%20nationalism%20or%20White%20nationalism.",
+                    "snippet": "May 6, 2023 \u2014 Nationalism is identity over philosophy So what is a nationalist and what is a conservative? And does it matter if we u...",
+                    "source": "CNN",
+                    "index": 6
+                },
+                {
+                    "title": "3. Views of the U.S. as a \u2018Christian nation\u2019 and opinions about \u2018Christian nationalism\u2019",
+                    "link": "https://www.pewresearch.org/religion/2022/10/27/views-of-the-u-s-as-a-christian-nation-and-opinions-about-christian-nationalism/#:~:text=Though%20Americans%20with%20unfavorable%20views%20of%20Christian,influence%2C%20sometimes%20their%20views%20transcend%20these%20categories.",
+                    "snippet": "Oct 27, 2022 \u2014 Though Americans with unfavorable views of Christian nationalism often describe it in a dominant way and those with fa...",
+                    "source": "Pew Research Center",
+                    "index": 7
+                },
+                {
+                    "title": "What is the difference between nationalism and patriotism?",
+                    "link": "https://theconversation.com/what-is-the-difference-between-nationalism-and-patriotism-208170#:~:text=In%20contrast%20to%20nationalism's%20loyalty,means%20%E2%80%9Cof%20one's%20father.%E2%80%9D",
+                    "snippet": "Jun 28, 2023 \u2014 In contrast to nationalism's loyalty for or devotion to one's nation, patriotism is, per the same dictionary, \u201clove fo...",
+                    "source": "The Conversation",
+                    "index": 8
+                },
+                {
+                    "title": "Nationalism - Wikipedia",
+                    "link": "https://en.wikipedia.org/wiki/Nationalism#:~:text=The%20moral%20value%20of%20nationalism,cause%20of%20both%20world%20wars.",
+                    "snippet": "The moral value of nationalism, the relationship between nationalism and patriotism, and the compatibility of nationalism and cosm...",
+                    "source": "Wikipedia",
+                    "index": 9
+                },
+                {
+                    "title": "Chapter eight. Does nationalism support liberal-democratic values?",
+                    "link": "https://books.openedition.org/ceup/467#:~:text=A%20SOURCE%20OF%20DEMOCRATIC%20ENERGY%201%20Let,values.%201%20Here%20is%20the%20nationalist's%20line.",
+                    "snippet": "A SOURCE OF DEMOCRATIC ENERGY 1 Let us now pass to the morally most important claims, concerning the liberal-democratic credential...",
+                    "source": "OpenEdition Books",
+                    "index": 10
+                },
+                {
+                    "title": "Manifest Destiny 2.0 of USA: Canada, Panama, and Greenland",
+                    "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5096527#:~:text=Abstract%20The%20concept%20of%20Manifest%20Destiny%2C%20a,territory%20westward%20across%20the%20North%20American%20continent.",
+                    "snippet": "Mar 6, 2025 \u2014 Abstract The concept of Manifest Destiny, a potent ideology that emerged in the mid-19th century United States ( the Un...",
+                    "source": "SSRN eLibrary",
+                    "index": 11
+                }
+            ],
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSFZFcE5XVnBMT1U5WVRDMVpURlZUUmxvMk5IWTRVVE50VkdaaFVtRlRTbEZqUjJ0RlNWbEpOM1pZVUVZM1J6bDZMVkZSWkZZM2JYaEhhMDl6YVVGU2QyTnZUV1ZsUkZZeU1IVlRhbk0zYmtKbFNWb3hZVkoyVldWbVFSSVhWMGhoTkdGT1MxTkNjekkyYTFCSlVIVnlMVGR2UVVVYUlrRkdUVUZIUjNKMlFWUjZVRFpuZEVsc1RHWmxUVXM1TVRSdVVWQlNjazV0VVVFIiwiZmN2IjoiMyIsImVpIjoiV0hhNGFOS1NCczI2a1BJUHVyLTdvQUUiLCJxYyI6IkNndHVZWFJwYjI1aGJHbHpkQkFBTVFBQUFBRHk3YzhfZlY2X0d6OCIsInF1ZXN0aW9uIjoiV2hhdCBkb2VzIGl0IG1lYW4gdG8gYmUgYSBVUyBuYXRpb25hbGlzdD8iLCJsayI6IkdpaDNhR0YwSUdSdlpYTWdhWFFnYldWaGJpQjBieUJpWlNCaElIVnpJRzVoZEdsdmJtRnNhWE4wIiwiYnMiOiJjLVB5NEZJTHowZ3NVVWpKVHkxV3lDeFJ5RTFOekZNb3lWZElTbFZJVk1oTExNbk16MHZNeVN3dXNaZFk2Mm9rTFNXWmxKcVpsNDRzQWRZQkZPT3k0NUwyTEVhU3lWVkl6ODlQVWNndlVraEtUTEdYLU1Ga0pDTWxsWWxUQlpjYmw3eGpVU3F5MGNVS09hbHBKU0Q1b3N6MERLQVR2cW9iS1VqSkplSlZ4UlhGcFluYlI2SEJxSjQ2d202a0phVlJqbE45S2JKN1N3UVlBUSIsImlkIjoiZmNfV0hhNGFOS1NCczI2a1BJUHVyLTdvQUVfMiJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaSFZFcE5XVnBMT1U5WVRDMVpURlZUUmxvMk5IWTRVVE50VkdaaFVtRlRTbEZqUjJ0RlNWbEpOM1pZVUVZM1J6bDZMVkZSWkZZM2JYaEhhMDl6YVVGU2QyTnZUV1ZsUkZZeU1IVlRhbk0zYmtKbFNWb3hZVkoyVldWbVFSSVhWMGhoTkdGT1MxTkNjekkyYTFCSlVIVnlMVGR2UVVVYUlrRkdUVUZIUjNKMlFWUjZVRFpuZEVsc1RHWmxUVXM1TVRSdVVWQlNjazV0VVVFIiwiZmN2IjoiMyIsImVpIjoiV0hhNGFOS1NCczI2a1BJUHVyLTdvQUUiLCJxYyI6IkNndHVZWFJwYjI1aGJHbHpkQkFBTVFBQUFBRHk3YzhfZlY2X0d6OCIsInF1ZXN0aW9uIjoiV2hhdCBkb2VzIGl0IG1lYW4gdG8gYmUgYSBVUyBuYXRpb25hbGlzdD8iLCJsayI6IkdpaDNhR0YwSUdSdlpYTWdhWFFnYldWaGJpQjBieUJpWlNCaElIVnpJRzVoZEdsdmJtRnNhWE4wIiwiYnMiOiJjLVB5NEZJTHowZ3NVVWpKVHkxV3lDeFJ5RTFOekZNb3lWZElTbFZJVk1oTExNbk16MHZNeVN3dXNaZFk2Mm9rTFNXWmxKcVpsNDRzQWRZQkZPT3k0NUwyTEVhU3lWVkl6ODlQVWNndlVraEtUTEdYLU1Ga0pDTWxsWWxUQlpjYmw3eGpVU3F5MGNVS09hbHBKU0Q1b3N6MERLQVR2cW9iS1VqSkplSlZ4UlhGcFluYlI2SEJxSjQ2d202a0phVlJqbE45S2JKN1N3UVlBUSIsImlkIjoiZmNfV0hhNGFOS1NCczI2a1BJUHVyLTdvQUVfMiJ9"
+        }
+    ],
+    "answer_box": {
+        "type": "dictionary_results",
+        "syllables": "na\u00b7tion\u00b7al\u00b7ist",
+        "pronunciation_audio": "https://ssl.gstatic.com/dictionary/static/sounds/20220808/nationalist--_us_1.mp3",
+        "word_type": "noun",
+        "definitions": [
+            "a person who strongly identifies with their own nation and vigorously supports its interests, especially to the exclusion or detriment of the interests of other nations.",
+            "relating to nationalists or nationalism."
+        ],
+        "examples": [
+            "/\u02c8naSH(\u0259)n\u0259l\u0259st/",
+            "noun",
+            "he was a staunch nationalist during his 22 years in power",
+            "adjective",
+            "a nationalist movement"
+        ]
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Nationalism",
+            "link": "https://en.wikipedia.org/wiki/Nationalism",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Nationalism&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQFnoECBoQAQ",
+            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Nationalism",
+            "favicon": "https://serpapi.com/searches/68b876572b15b908351b07f5/images/a61e25b46ac55b5f4eb2c0c726d52f9ade23f35a8c85a21532a96a4a0b673cde.png",
+            "snippet": "Nationalism is an idea or movement that holds that the nation should be congruent with the state. As a movement, it presupposes the existence and tends to ...",
+            "snippet_highlighted_words": [
+                "Nationalism"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Types",
+                        "link": "https://en.wikipedia.org/wiki/Types_of_nationalism"
+                    },
+                    {
+                        "title": "American nationalism",
+                        "link": "https://en.wikipedia.org/wiki/American_nationalism"
+                    },
+                    {
+                        "title": "Neo-nationalism",
+                        "link": "https://en.wikipedia.org/wiki/Neo-nationalism"
+                    },
+                    {
+                        "title": "Nationalist (disambiguation)",
+                        "link": "https://en.wikipedia.org/wiki/Nationalist_(disambiguation)"
+                    }
+                ]
+            },
+            "source": "Wikipedia"
+        },
+        {
+            "position": 2,
+            "title": "NATIONALIST Definition & Meaning",
+            "link": "https://www.merriam-webster.com/dictionary/nationalist",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.merriam-webster.com/dictionary/nationalist&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQFnoECCoQAQ",
+            "displayed_link": "https://www.merriam-webster.com \u203a dictionary \u203a nation...",
+            "favicon": "https://serpapi.com/searches/68b876572b15b908351b07f5/images/a61e25b46ac55b5f4eb2c0c726d52f9a9a00dc2cd8ebb71f94fe5e725e9e1042.png",
+            "snippet": ": an advocate of or believer in nationalism: such as a : a member of a political party or group advocating a government that is strongly committed to ...",
+            "snippet_highlighted_words": [
+                "an advocate of or believer in nationalism"
+            ],
+            "source": "Merriam-Webster"
+        },
+        {
+            "position": 3,
+            "title": "NATIONALIST | definition in the Cambridge English Dictionary",
+            "link": "https://dictionary.cambridge.org/us/dictionary/english/nationalist",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://dictionary.cambridge.org/us/dictionary/english/nationalist&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQFnoECHQQAQ",
+            "displayed_link": "https://dictionary.cambridge.org \u203a dictionary \u203a nationalist",
+            "favicon": "https://serpapi.com/searches/68b876572b15b908351b07f5/images/a61e25b46ac55b5f4eb2c0c726d52f9aca1ec36327afe1253fb9ae4224cb94dc.jpeg",
+            "snippet": "a person who wants their country to be politically independent. a person who strongly believes their country is better than others.",
+            "snippet_highlighted_words": [
+                "a person who wants their country to be politically independent"
+            ],
+            "source": "Cambridge Dictionary"
+        },
+        {
+            "position": 4,
+            "title": "Nationalism | Definition, History, Examples, Principles, & ...",
+            "link": "https://www.britannica.com/topic/nationalism",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.britannica.com/topic/nationalism&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQFnoFCJABEAE",
+            "displayed_link": "https://www.britannica.com \u203a topic \u203a nationalism",
+            "favicon": "https://serpapi.com/searches/68b876572b15b908351b07f5/images/a61e25b46ac55b5f4eb2c0c726d52f9a7ed0b57f694111ea6280a15c0a7d8758.png",
+            "date": "Jul 22, 2025",
+            "snippet": "Nationalism, ideology based on the idea that the individual's loyalty and devotion to the nation-state surpass other individual or group ...",
+            "snippet_highlighted_words": [
+                "Nationalism"
+            ],
+            "source": "Britannica"
+        },
+        {
+            "position": 5,
+            "title": "Nationalist - Definition, Meaning & Synonyms",
+            "link": "https://www.vocabulary.com/dictionary/nationalist",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.vocabulary.com/dictionary/nationalist&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQFnoFCKMBEAE",
+            "displayed_link": "https://www.vocabulary.com \u203a dictionary \u203a nationalist",
+            "favicon": "https://serpapi.com/searches/68b876572b15b908351b07f5/images/a61e25b46ac55b5f4eb2c0c726d52f9a884485b61e365af6ef4864fc6633cd0c.jpeg",
+            "snippet": "A nationalist is a person who favors independence for a country. A Scottish nationalist, for example, believes that Scotland should be independent and separate ...",
+            "snippet_highlighted_words": [
+                "a person who favors independence for a country"
+            ],
+            "source": "Vocabulary.com"
+        },
+        {
+            "position": 6,
+            "title": "The definition of a nationalist | CNN Politics",
+            "link": "https://www.cnn.com/2018/10/23/politics/nationalism-explainer-trnd",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cnn.com/2018/10/23/politics/nationalism-explainer-trnd&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQFnoECDAQAQ",
+            "displayed_link": "https://www.cnn.com \u203a nationalism-explainer-trnd",
+            "favicon": "https://serpapi.com/searches/68b876572b15b908351b07f5/images/a61e25b46ac55b5f4eb2c0c726d52f9a6320097666d18bd795e9fa1ed7eb6151.png",
+            "date": "Oct 23, 2018",
+            "snippet": "The dictionary's definition of the word seems innocent enough: a person devoted to nationalism (the devotion and loyalty to one's own country).",
+            "snippet_highlighted_words": [
+                "a person devoted to nationalism"
+            ],
+            "source": "CNN"
+        },
+        {
+            "position": 7,
+            "title": "Nationalists - an overview | ScienceDirect Topics",
+            "link": "https://www.sciencedirect.com/topics/social-sciences/nationalists",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sciencedirect.com/topics/social-sciences/nationalists&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQFnoECEMQAQ",
+            "displayed_link": "https://www.sciencedirect.com \u203a topics \u203a social-sciences",
+            "favicon": "https://serpapi.com/searches/68b876572b15b908351b07f5/images/a61e25b46ac55b5f4eb2c0c726d52f9abbcfb99428c2ea0e6747e0e144abdd79.png",
+            "snippet": "A nationalist is defined as a member of a nation who feels a responsibility to enhance their nation's competitive position and may undertake actions to improve ...",
+            "snippet_highlighted_words": [
+                "a member of a nation who feels a responsibility to enhance their nation's competitive position"
+            ],
+            "source": "ScienceDirect.com"
+        },
+        {
+            "position": 8,
+            "title": "NATIONALIST Definition & Meaning",
+            "link": "https://www.dictionary.com/browse/nationalist",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.dictionary.com/browse/nationalist&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQFnoECFoQAQ",
+            "displayed_link": "https://www.dictionary.com \u203a browse \u203a nationalist",
+            "favicon": "https://serpapi.com/searches/68b876572b15b908351b07f5/images/a61e25b46ac55b5f4eb2c0c726d52f9a8547f139b2182fb670dc31ad28f6302e.png",
+            "snippet": "noun \u00b7 a person devoted to nationalism. \u00b7 (initial capital letter), a member of a political group advocating or fighting for national independence, a strong ...",
+            "snippet_highlighted_words": [
+                "a person devoted to nationalism"
+            ],
+            "source": "Dictionary.com"
+        },
+        {
+            "position": 9,
+            "title": "What Is A Nationalist In The Age Of Trump?",
+            "link": "https://www.npr.org/2018/10/24/660042653/what-is-a-nationalist-in-the-age-of-trump",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.npr.org/2018/10/24/660042653/what-is-a-nationalist-in-the-age-of-trump&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQFnoFCIcBEAE",
+            "displayed_link": "https://www.npr.org \u203a 2018/10/24 \u203a what-is-a-nationalist...",
+            "date": "Oct 24, 2018",
+            "snippet": "The word nationalist can be taken to refer to the distinctly American idea of a melting pot of races, ethnicities and faiths.",
+            "snippet_highlighted_words": [
+                "nationalist"
+            ],
+            "source": "NPR"
+        },
+        {
+            "position": 10,
+            "title": "American nationalism",
+            "link": "https://en.wikipedia.org/wiki/American_nationalism",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/American_nationalism&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQFnoFCJIBEAE",
+            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a American_nationalism",
+            "favicon": "https://serpapi.com/searches/68b876572b15b908351b07f5/images/a61e25b46ac55b5f4eb2c0c726d52f9af7e7602ede4464e4b1967c1d88ddc212.png",
+            "snippet": "American nationalism is a form of civic, ethnic, cultural or economic influences [1] found in the United States.",
+            "snippet_highlighted_words": [
+                "American nationalism"
+            ],
+            "source": "Wikipedia"
+        },
+        {
+            "position": 11,
+            "title": "The Case Against Nationalism",
+            "link": "https://www.cato.org/outside-articles/case-against-nationalism",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cato.org/outside-articles/case-against-nationalism&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQFnoFCJEBEAE",
+            "displayed_link": "https://www.cato.org \u203a outside-articles \u203a case-against-nati...",
+            "favicon": "https://serpapi.com/searches/68b876572b15b908351b07f5/images/a61e25b46ac55b5f4eb2c0c726d52f9a6185b76c60a600e09651b083fae3c63d.png",
+            "author": "by A Nowrasteh",
+            "snippet": "Nationalism has become a dominant ideology on the American political right and has gained ground in many European countries over the last decade.",
+            "snippet_highlighted_words": [
+                "Nationalism has become a dominant ideology on the American political right"
+            ],
+            "source": "Cato Institute"
+        },
+        {
+            "position": 12,
+            "title": "Notes on Nationalism",
+            "link": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/notes-on-nationalism/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/notes-on-nationalism/&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQFnoFCK0BEAE",
+            "displayed_link": "https://www.orwellfoundation.com \u203a orwell \u203a notes-on-...",
+            "favicon": "https://serpapi.com/searches/68b876572b15b908351b07f5/images/a61e25b46ac55b5f4eb2c0c726d52f9a908a2297f72ad8d0e3aeaade4ae608f7.png",
+            "snippet": "A nationalist is one who thinks solely, or mainly, in terms of competitive prestige. He may be a positive or a negative nationalist \u2013 that is, he may use ...",
+            "snippet_highlighted_words": [
+                "one who thinks solely, or mainly, in terms of competitive prestige"
+            ],
+            "source": "The Orwell Foundation"
+        },
+        {
+            "position": 13,
+            "title": "What is a nationalist? | Connect the Dots",
+            "link": "https://www.youtube.com/watch?v=ZquyP24rNjQ",
+            "displayed_link": "4.5K+ views \u00b7 6 years ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwg5cbCxJohMO0YoDSMjbm_zP7pw1VX4e2hyS3QsI93Zb5&s",
+            "favicon": "https://serpapi.com/searches/68b876572b15b908351b07f5/images/a61e25b46ac55b5f4eb2c0c726d52f9ae097ea5ad480e1c8e22fad41ed0e1aea.png",
+            "snippet": "What is a nationalist? | Connect the Dots Did you catch President Donald Trump, from a rally in Texas, calling himself a \"nationalist\"?",
+            "duration": "1:26",
+            "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTSRCqJHqAkanKU4HctRCpxu_Z3_2beYRHRFg",
+            "source": "YouTube \u00b7 ABC10"
+        },
+        {
+            "position": 14,
+            "title": "What is a nationalist movement?",
+            "link": "https://www.britannica.com/question/What-is-a-nationalist-movement",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.britannica.com/question/What-is-a-nationalist-movement&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQFnoFCK4BEAE",
+            "displayed_link": "https://www.britannica.com \u203a question \u203a What-is-a-natio...",
+            "favicon": "https://serpapi.com/searches/68b876572b15b908351b07f5/images/a61e25b46ac55b5f4eb2c0c726d52f9a8bf845e4cf9ac1e9b0ea86f426003ca1.png",
+            "snippet": "A political nationalist movement is a political, sometimes also military, struggle by a national group for statehood or for some measure of independence.",
+            "snippet_highlighted_words": [
+                "a political, sometimes also military, struggle by a national group"
+            ],
+            "source": "Britannica"
+        },
+        {
+            "position": 15,
+            "title": "Nationalism - Stanford Encyclopedia of Philosophy",
+            "link": "https://plato.stanford.edu/entries/nationalism/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://plato.stanford.edu/entries/nationalism/&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQFnoECCwQAQ",
+            "displayed_link": "https://plato.stanford.edu \u203a entries \u203a nationalism",
+            "favicon": "https://serpapi.com/searches/68b876572b15b908351b07f5/images/a61e25b46ac55b5f4eb2c0c726d52f9a932d759962e7b305790ffc61f98034de.png",
+            "date": "Jun 19, 2025",
+            "snippet": "Nationalism is a word with a number of different meanings. It may refer to a political movement, to a psychological disposition (devotion to one's nation), or ...",
+            "snippet_highlighted_words": [
+                "Nationalism"
+            ],
+            "source": "Stanford Encyclopedia of Philosophy"
+        },
+        {
+            "position": 16,
+            "title": "Trump: 'I'm a nationalist'",
+            "link": "https://www.politico.com/story/2018/10/22/trump-nationalist-926745",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.politico.com/story/2018/10/22/trump-nationalist-926745&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQFnoECCsQAQ",
+            "displayed_link": "https://www.politico.com \u203a story \u203a 2018/10/22 \u203a trump...",
+            "favicon": "https://serpapi.com/searches/68b876572b15b908351b07f5/images/a61e25b46ac55b5f4eb2c0c726d52f9aeb55742f79673046551b0be96339fda8.png",
+            "date": "Oct 22, 2018",
+            "snippet": "President Donald Trump on Monday evening proudly asserted that he is a \u201cnationalist\u201d \u2014 a designation some of his fiercest critics have ...",
+            "snippet_highlighted_words": [
+                "nationalist"
+            ],
+            "source": "Politico"
+        },
+        {
+            "position": 17,
+            "title": "Are you a nationalist? : r/AskALiberal",
+            "link": "https://www.reddit.com/r/AskALiberal/comments/1mt7e1v/are_you_a_nationalist/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/AskALiberal/comments/1mt7e1v/are_you_a_nationalist/&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQFnoECEYQAQ",
+            "displayed_link": "120+ comments \u00b7 2 weeks ago",
+            "favicon": "https://serpapi.com/searches/68b876572b15b908351b07f5/images/a61e25b46ac55b5f4eb2c0c726d52f9a1c5899f7d0a83893fdccac6d13344263.png",
+            "snippet": "Nationalism usually doesn't mean just are you in favor of a state. Usually it means favoring your nation over the well being of others outside ...",
+            "snippet_highlighted_words": [
+                "favoring your nation over the well being of others"
+            ],
+            "source": "Reddit \u00b7 r/AskALiberal"
+        },
+        {
+            "position": 18,
+            "title": "The Problem of Nationalism",
+            "link": "https://www.heritage.org/conservatism/commentary/the-problem-nationalism",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.heritage.org/conservatism/commentary/the-problem-nationalism&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQFnoECEUQAQ",
+            "displayed_link": "https://www.heritage.org \u203a conservatism \u203a commentary",
+            "favicon": "https://serpapi.com/searches/68b876572b15b908351b07f5/images/a61e25b46ac55b5f4eb2c0c726d52f9ada616a4ee2295d8dbb7388b8bf2104db.png",
+            "date": "Dec 13, 2019",
+            "snippet": "Nationalism is not the same thing as national identity. It's not the same thing as respect for national sovereignty. It's not even the same thing as national ...",
+            "snippet_highlighted_words": [
+                "Nationalism is not the same thing as national identity"
+            ],
+            "source": "The Heritage Foundation"
+        },
+        {
+            "position": 19,
+            "title": "The Man Driving the Nationalist Revival on the Right | The ...",
+            "link": "https://www.youtube.com/watch?v=Qa_PCNgW79E",
+            "displayed_link": "373.8K+ views \u00b7 1 month ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_u6h_gnGJdrNFWk07HRVIjfgGhchOfWcysY6l5_QVORDm&s",
+            "favicon": "https://serpapi.com/searches/68b876572b15b908351b07f5/images/a61e25b46ac55b5f4eb2c0c726d52f9a0e3cd96fd0a729901b2cffa64f5b5dc8.png",
+            "snippet": "The Man Driving the Nationalist Revival on the Right | The Ezra Klein Show \u00b7 Comments.",
+            "duration": "1:20:41",
+            "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRigx_23RKO27dlFODoHy2sSZPRY3kyn3ZPkA",
+            "source": "YouTube \u00b7 The Ezra Klein Show"
+        },
+        {
+            "position": 20,
+            "title": "The history, origin, and ideology of nationalism",
+            "link": "https://www.britannica.com/video/Questions-answers-nationalism/-244443",
+            "displayed_link": "https://www.britannica.com \u00b7 Feb 24, 2020",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvz-wwa2bztMghWFHmsZ4SywkUNwJPjxTzMKR1BS9i2NS_&s",
+            "favicon": "https://serpapi.com/searches/68b876572b15b908351b07f5/images/a61e25b46ac55b5f4eb2c0c726d52f9a972c4a013cde676735196b9cc3546cf7.png",
+            "snippet": "Nationalism is an ideology that emphasizes loyalty, devotion, or allegiance to a nation or nation-state and holds that such obligations outweigh other ...",
+            "duration": "1:43",
+            "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcROhCdCfCOC3i0uRWcmNrP9BcYsCphIe4Xc7g",
+            "source": "Britannica"
+        },
+        {
+            "position": 21,
+            "title": "NATIONALIST definition in American English",
+            "link": "https://www.collinsdictionary.com/us/dictionary/english/nationalist",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.collinsdictionary.com/us/dictionary/english/nationalist&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQFnoECF8QAQ",
+            "displayed_link": "https://www.collinsdictionary.com \u203a dictionary \u203a nation...",
+            "favicon": "https://serpapi.com/searches/68b876572b15b908351b07f5/images/a61e25b46ac55b5f4eb2c0c726d52f9a689224a8666fa3e033c9a0c7107fbda2.png",
+            "snippet": "nationalist in American English \u00b7 1. a person devoted to nationalism \u00b7 2. (cap). a member of a political group advocating or fighting for national independence, ...",
+            "snippet_highlighted_words": [
+                "a person devoted to nationalism"
+            ],
+            "source": "Collins Dictionary"
+        },
+        {
+            "position": 22,
+            "title": "'Nationalism' redefines the American right | CNN Politics",
+            "link": "https://www.cnn.com/2023/05/06/politics/nationalism-conservatism-what-matters",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cnn.com/2023/05/06/politics/nationalism-conservatism-what-matters&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQFnoECHUQAQ",
+            "displayed_link": "https://www.cnn.com \u203a 2023/05/06 \u203a politics \u203a national...",
+            "favicon": "https://serpapi.com/searches/68b876572b15b908351b07f5/images/a61e25b46ac55b5f4eb2c0c726d52f9a9036642c572ad85adf4805d1b35447a3.png",
+            "date": "May 6, 2023",
+            "snippet": "'Nationalism' redefines the American right \u00b7 Nationalism is identity over philosophy. So what is a nationalist and what is a conservative?",
+            "snippet_highlighted_words": [
+                "Nationalism is identity over philosophy"
+            ],
+            "source": "CNN"
+        },
+        {
+            "position": 23,
+            "title": "What is Nationalism & Why Does it Matter?",
+            "link": "https://www.youtube.com/watch?v=7KrgiJ6051g",
+            "displayed_link": "123.1K+ views \u00b7 4 years ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf5--J3WFkyOMMJ2TVciWlMM4wwyjW5jp-AA_Iv95BSv57&s",
+            "favicon": "https://serpapi.com/searches/68b876572b15b908351b07f5/images/a61e25b46ac55b5f4eb2c0c726d52f9af9c06f604d865ae66da957d8d823e7b5.png",
+            "snippet": "Nationalism is an ideology that makes it possible for millions of people including you who have never and will never meet each other to care about one another.",
+            "duration": "11:32",
+            "key_moments": [
+                {
+                    "time": "02:28",
+                    "title": "What is a Nation?",
+                    "link": "https://www.youtube.com/watch?v=7KrgiJ6051g&t=148"
+                },
+                {
+                    "time": "05:46",
+                    "title": "Unifying Europe",
+                    "link": "https://www.youtube.com/watch?v=7KrgiJ6051g&t=346"
+                },
+                {
+                    "time": "07:00",
+                    "title": "World War I",
+                    "link": "https://www.youtube.com/watch?v=7KrgiJ6051g&t=420"
+                },
+                {
+                    "time": "08:35",
+                    "title": "Myths and rituals",
+                    "link": "https://www.youtube.com/watch?v=7KrgiJ6051g&t=515"
+                },
+                {
+                    "time": "10:32",
+                    "title": "Conclusion",
+                    "link": "https://www.youtube.com/watch?v=7KrgiJ6051g&t=632"
+                }
+            ],
+            "source": "YouTube \u00b7 OER Project"
+        },
+        {
+            "position": 24,
+            "title": "ELI5: \"Nationalism\" : r/explainlikeimfive",
+            "link": "https://www.reddit.com/r/explainlikeimfive/comments/75cx6d/eli5_nationalism/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/explainlikeimfive/comments/75cx6d/eli5_nationalism/&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQFnoECHkQAQ",
+            "displayed_link": "10+ comments \u00b7 7 years ago",
+            "favicon": "https://serpapi.com/searches/68b876572b15b908351b07f5/images/a61e25b46ac55b5f4eb2c0c726d52f9acc7fd6075e9c8343cb2ef1916208aa43.png",
+            "snippet": "For a nationalist, each nation should have its own state, because otherwise they're oppressed (but different nationalists may disagree on what ...",
+            "snippet_highlighted_words": [
+                "For a nationalist, each nation should have its own state"
+            ],
+            "source": "Reddit \u00b7 r/explainlikeimfive"
+        },
+        {
+            "position": 25,
+            "title": "NATIONALISM Definition & Meaning",
+            "link": "https://www.merriam-webster.com/dictionary/nationalism",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.merriam-webster.com/dictionary/nationalism&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQFnoFCIgBEAE",
+            "displayed_link": "https://www.merriam-webster.com \u203a dictionary \u203a nation...",
+            "favicon": "https://serpapi.com/searches/68b876572b15b908351b07f5/images/a61e25b46ac55b5f4eb2c0c726d52f9a0dd94e5c470a8fc543b58b9acc9bd732.png",
+            "date": "2 days ago",
+            "snippet": "1. an ideology that elevates one nation or nationality above all others and that places primary emphasis on promotion of its culture and interests.",
+            "snippet_highlighted_words": [
+                "an ideology that elevates one nation or nationality above all others"
+            ],
+            "source": "Merriam-Webster"
+        },
+        {
+            "position": 26,
+            "title": "Nationalist - Etymology, Origin & Meaning",
+            "link": "https://www.etymonline.com/word/nationalist",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.etymonline.com/word/nationalist&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQFnoFCI8BEAE",
+            "displayed_link": "https://www.etymonline.com \u203a word \u203a nationalist",
+            "favicon": "https://serpapi.com/searches/68b876572b15b908351b07f5/images/a61e25b46ac55b5f4eb2c0c726d52f9ae1c86297d7c10da4c54fe95b8c71fb10.png",
+            "snippet": "Originating in 1715 from \"national\" (patriotic) + -ist, \"nationalist\" means one devoted to their nation, advocating patriotism or national independence, ...",
+            "snippet_highlighted_words": [
+                "one devoted to their nation"
+            ],
+            "source": "Online Etymology Dictionary"
+        },
+        {
+            "position": 27,
+            "title": "The Nationalist Revival - Columbia Global Reports",
+            "link": "https://globalreports.columbia.edu/books/the-nationalist-revival/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://globalreports.columbia.edu/books/the-nationalist-revival/&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQFnoFCJMBEAE",
+            "displayed_link": "https://globalreports.columbia.edu \u203a Books",
+            "favicon": "https://serpapi.com/searches/68b876572b15b908351b07f5/images/a61e25b46ac55b5f4eb2c0c726d52f9a20203296aec493b4ebd83f6cb8320340.png",
+            "snippet": "Based on travels in America, Europe, and Asia, veteran political analyst John B. Judis found that almost all people share nationalist sentiments.",
+            "snippet_highlighted_words": [
+                "almost all people share nationalist sentiments"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "detected_extensions": {
+                        "price": 15.99,
+                        "currency": "$"
+                    },
+                    "extensions": [
+                        "$15.99"
+                    ]
+                }
+            },
+            "source": "Columbia Global Reports"
+        },
+        {
+            "position": 28,
+            "title": "'I am a nationalist': Trump's embrace of controversial label ...",
+            "link": "https://www.usatoday.com/story/news/politics/2018/10/24/trump-says-hes-nationalist-what-means-why-its-controversial/1748521002/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.usatoday.com/story/news/politics/2018/10/24/trump-says-hes-nationalist-what-means-why-its-controversial/1748521002/&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQFnoFCJQBEAE",
+            "displayed_link": "https://www.usatoday.com \u203a news \u203a politics \u203a 2018/10/24",
+            "favicon": "https://serpapi.com/searches/68b876572b15b908351b07f5/images/a61e25b46ac55b5f4eb2c0c726d52f9ad581e9320b0db30a7751d32515243c20.png",
+            "date": "Oct 24, 2018",
+            "snippet": "Trump is facing criticism for stating what many observers of his politics and rhetoric would say is obvious: that he is a nationalist.",
+            "snippet_highlighted_words": [
+                "nationalist"
+            ],
+            "source": "USA Today"
+        },
+        {
+            "position": 29,
+            "title": "Nationalism | Oxford Research Encyclopedia of Politics",
+            "link": "https://oxfordre.com/politics/display/10.1093/acrefore/9780190228637.001.0001/acrefore-9780190228637-e-2039",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://oxfordre.com/politics/display/10.1093/acrefore/9780190228637.001.0001/acrefore-9780190228637-e-2039&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQFnoFCJkBEAE",
+            "displayed_link": "https://oxfordre.com \u203a acrefore-9780190228637-e-2039",
+            "favicon": "https://serpapi.com/searches/68b876572b15b908351b07f5/images/a61e25b46ac55b5f4eb2c0c726d52f9a7a2ee2b1ac90354c3bbfccae540b364f.png",
+            "date": "May 18, 2022",
+            "snippet": "Nationalism is a set of beliefs about the nation: its origins, nature, and value. For nationalists, we are particular social animals. On the one ...",
+            "snippet_highlighted_words": [
+                "Nationalism is a set of beliefs about the nation"
+            ],
+            "source": "Oxford Research Encyclopedias"
+        },
+        {
+            "position": 30,
+            "title": "Is Nationalism on the Rise? Assessing Global Trends",
+            "link": "https://www.tandfonline.com/doi/full/10.1080/17449057.2018.1532633",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tandfonline.com/doi/full/10.1080/17449057.2018.1532633&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQFnoFCKQBEAE",
+            "displayed_link": "https://www.tandfonline.com \u203a ... \u203a Volume 17, Issue 5",
+            "favicon": "https://serpapi.com/searches/68b876572b15b908351b07f5/images/a61e25b46ac55b5f4eb2c0c726d52f9aa8e30c7f0fc3fe8080c202e2d66146b1.png",
+            "author": "by F Bieber",
+            "snippet": "First, nationalist attitudes did not rise globally, while the rise of nationalist parties and candidates has been regional, focused primarily on ...",
+            "snippet_highlighted_words": [
+                "nationalist attitudes did not rise globally"
+            ],
+            "source": "Taylor & Francis Online: Peer-reviewed Journals"
+        },
+        {
+            "position": 31,
+            "title": "What is a Nationalist?",
+            "link": "https://www.pilleater.com/p/what-is-a-nationalist",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pilleater.com/p/what-is-a-nationalist&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQFnoFCK8BEAE",
+            "displayed_link": "https://www.pilleater.com \u203a what-is-a-nationalist",
+            "favicon": "https://serpapi.com/searches/68b876572b15b908351b07f5/images/a61e25b46ac55b5f4eb2c0c726d52f9a3e8262fda5a0f1506c0ba4aeeed4c45a.png",
+            "date": "Oct 20, 2023",
+            "snippet": "A \u201cnationalist\u201d is an advocate that likes to draw lines. A nationalist should know where he belongs, what he likes, and how his economic reality ...",
+            "snippet_highlighted_words": [
+                "an advocate that likes to draw lines"
+            ],
+            "source": "pilleater"
+        },
+        {
+            "position": 32,
+            "title": "Why You Should Be a Nationalist | 5 Minute Video",
+            "link": "https://www.youtube.com/watch?v=BfJ25LXtLTg",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/watch%3Fv%3DBfJ25LXtLTg&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQFnoFCLEBEAE",
+            "displayed_link": "1.9M+ views \u00b7 6 years ago",
+            "favicon": "https://serpapi.com/searches/68b876572b15b908351b07f5/images/a61e25b46ac55b5f4eb2c0c726d52f9adcf3a9ab069bd6166bb58fe5482b4bd7.png",
+            "snippet": "A nationalist believes that the world is governed best when nations are free to chart their own independent course.",
+            "snippet_highlighted_words": [
+                "believes that the world is governed best when nations are free"
+            ],
+            "source": "YouTube \u00b7 PragerU"
+        },
+        {
+            "position": 33,
+            "title": "Carlow Nationalist: Homepage",
+            "link": "https://www.carlow-nationalist.ie/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.carlow-nationalist.ie/&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQFnoFCLABEAE",
+            "displayed_link": "https://www.carlow-nationalist.ie",
+            "favicon": "https://serpapi.com/searches/68b876572b15b908351b07f5/images/a61e25b46ac55b5f4eb2c0c726d52f9a93f720aedfa3d82ab69dc5ca6cf4c628.png",
+            "snippet": "Sport \u00b7 Carlow trio help Wexford FC to All-Island Cup final win \u00b7 Murphy wary of Bohs threat ahead of cup final \u00b7 O'Brien set to start again as Ireland make ...",
+            "snippet_highlighted_words": [
+                "Carlow trio help Wexford FC to All-Island Cup final win"
+            ],
+            "source": "carlow-nationalist.ie"
+        },
+        {
+            "position": 34,
+            "title": "What Is Nationalism? Definition and Examples",
+            "link": "https://www.thoughtco.com/nationalism-definition-4158265",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.thoughtco.com/nationalism-definition-4158265&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQFnoECC4QAQ",
+            "displayed_link": "https://www.thoughtco.com \u203a Humanities \u203a Issues",
+            "favicon": "https://serpapi.com/searches/68b876572b15b908351b07f5/images/a61e25b46ac55b5f4eb2c0c726d52f9a5b6c5135e30ae69f164f285841abab26.png",
+            "date": "Sep 4, 2024",
+            "snippet": "Nationalism is an ideology expressed by people with a devotion and loyalty to their country that takes precedence over obligations to other groups.",
+            "snippet_highlighted_words": [
+                "an ideology expressed by people with a devotion and loyalty to their country"
+            ],
+            "source": "ThoughtCo"
+        },
+        {
+            "position": 35,
+            "title": "Nationalists of the world, unite?",
+            "link": "https://www.brookings.edu/articles/nationalists-of-the-world-unite/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.brookings.edu/articles/nationalists-of-the-world-unite/&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQFnoECC0QAQ",
+            "displayed_link": "https://www.brookings.edu \u203a articles \u203a nationalists-of-th...",
+            "favicon": "https://serpapi.com/searches/68b876572b15b908351b07f5/images/a61e25b46ac55b5f4eb2c0c726d52f9a1b6b6b0503f51b7ef00e6f88a2d71127.png",
+            "date": "Nov 26, 2018",
+            "snippet": "Kemal Dervi\u015f and Caroline Conroy explore the motive behind Steve Bannon's efforts to build a federation of nationalist parties in Europe.",
+            "snippet_highlighted_words": [
+                "nationalist"
+            ],
+            "source": "Brookings"
+        },
+        {
+            "position": 36,
+            "title": "The Case for Nationalism: How It Made Us Powerful, ...",
+            "link": "https://www.cato.org/cato-journal/spring/summer-2020/case-nationalism-how-it-made-us-powerful-united-free-rich-lowry",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cato.org/cato-journal/spring/summer-2020/case-nationalism-how-it-made-us-powerful-united-free-rich-lowry&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQFnoECEEQAQ",
+            "displayed_link": "https://www.cato.org \u203a spring \u203a summer-2020 \u203a case-nati...",
+            "favicon": "https://serpapi.com/searches/68b876572b15b908351b07f5/images/a61e25b46ac55b5f4eb2c0c726d52f9a719d8bf98c17b724bde0753bd50d3200.png",
+            "author": "by A Nowrasteh",
+            "snippet": "Nationalists' claim that their ideology is not militaristic is like communists' refusal to admit that their ideology would lead to the expropriation of private ...",
+            "snippet_highlighted_words": [
+                "Nationalists' claim that their ideology is not militaristic"
+            ],
+            "source": "Cato Institute"
+        },
+        {
+            "position": 37,
+            "title": "What Is Nationalism and What Does it Mean for Liberty?",
+            "link": "https://www.libertarianism.org/publications/essays/what-is-nationalism-what-does-it-mean-liberty",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.libertarianism.org/publications/essays/what-is-nationalism-what-does-it-mean-liberty&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQFnoECFkQAQ",
+            "displayed_link": "https://www.libertarianism.org \u203a publications \u203a essays",
+            "favicon": "https://serpapi.com/searches/68b876572b15b908351b07f5/images/a61e25b46ac55b5f4eb2c0c726d52f9adc2243fa9be9cea0bfc796ab45bdfc5f.png",
+            "date": "Jan 4, 2018",
+            "snippet": "Nationalism is a simple and relativist political ideology that holds tremendous sway with millions of voters and many governments.",
+            "snippet_highlighted_words": [
+                "Nationalism is a simple and relativist political ideology"
+            ],
+            "source": "Libertarianism.org"
+        },
+        {
+            "position": 38,
+            "title": "nationalist, n. & adj. meanings, etymology and more",
+            "link": "https://www.oed.com/dictionary/nationalist_n",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.oed.com/dictionary/nationalist_n&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQFnoECEIQAQ",
+            "displayed_link": "https://www.oed.com \u203a dictionary \u203a nationalist_n",
+            "favicon": "https://serpapi.com/searches/68b876572b15b908351b07f5/images/a61e25b46ac55b5f4eb2c0c726d52f9a1d8cb5bb71ed5ea822d290788ffc05fb.png",
+            "snippet": "The earliest known use of the word nationalist is in the mid 1600s. OED's earliest evidence for nationalist is from 1654, in the writing of J. Rogers ...",
+            "snippet_highlighted_words": [
+                "nationalist",
+                "nationalist"
+            ],
+            "source": "Oxford English Dictionary"
+        },
+        {
+            "position": 39,
+            "title": "Video: What is Nationalism and How Did It Spread?",
+            "link": "https://www.oerproject.com/OER-Materials/OER-Media/Videos/WHP-1750/Unit2/Nationalism",
+            "displayed_link": "https://www.oerproject.com \u00b7 Aug 7, 2025",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFGoWynfNOpsNB7kT_sLPvzLOLMGHgLmXuaN5rfKOTCW1O&s",
+            "favicon": "https://serpapi.com/searches/68b876572b15b908351b07f5/images/a61e25b46ac55b5f4eb2c0c726d52f9ac346c93386776076a2ab37e5143ab82e.png",
+            "snippet": "Nationalists make historical claims that help them achieve their political goals. It's time for you to test those claims. Is nationalism good or bad?",
+            "duration": "11:31",
+            "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTOxrJJsjye3KEMam8o3cY2xnQwV-X79cF9Tw",
+            "source": "OER Project"
+        },
+        {
+            "position": 40,
+            "title": "What is nationalism?",
+            "link": "https://files.libcom.org/files/What%20is%20nationalism.pdf",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://files.libcom.org/files/What%2520is%2520nationalism.pdf&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQFnoECEQQAQ",
+            "displayed_link": "https://files.libcom.org \u203a files",
+            "snippet": "Throughout history, the nationalists have encouraged denouncement and animosity between people in order to form an amorphous mass of them. This is common to ...",
+            "snippet_highlighted_words": [
+                "nationalists"
+            ],
+            "source": "Libcom.org"
+        },
+        {
+            "position": 41,
+            "title": "Defining Nationalism",
+            "link": "https://www.heritage.org/conservatism/commentary/defining-nationalism",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.heritage.org/conservatism/commentary/defining-nationalism&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQFnoECFYQAQ",
+            "displayed_link": "https://www.heritage.org \u203a conservatism \u203a commentary",
+            "favicon": "https://serpapi.com/searches/68b876572b15b908351b07f5/images/a61e25b46ac55b5f4eb2c0c726d52f9a07a561aef12f99b77de554663e1657c8.png",
+            "date": "Mar 30, 2023",
+            "snippet": "... nationalists and traditional conservatives. ... As Jennifer Frey noted in the panel, recent nationalist movements have largely rejected civility ...",
+            "snippet_highlighted_words": [
+                "nationalists",
+                "nationalist"
+            ],
+            "source": "The Heritage Foundation"
+        },
+        {
+            "position": 42,
+            "title": "Nationalism Overview, History & Examples - Lesson",
+            "link": "https://study.com/academy/lesson/nationalism-grows-in-europe-timeline-events-impact.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://study.com/academy/lesson/nationalism-grows-in-europe-timeline-events-impact.html&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQFnoECFgQAQ",
+            "displayed_link": "https://study.com \u203a ... \u203a Political Ideologies",
+            "favicon": "https://serpapi.com/searches/68b876572b15b908351b07f5/images/a61e25b46ac55b5f4eb2c0c726d52f9ac6c20ac66f3f0e7dc329cc37f37e0595.png",
+            "snippet": "Nations, nationalists further claim, must be independent and ruled by their own people, who rally around their national flags and other national symbols to ...",
+            "snippet_highlighted_words": [
+                "nationalists"
+            ],
+            "source": "Study.com"
+        },
+        {
+            "position": 43,
+            "title": "League of nationalists",
+            "link": "https://www.economist.com/international/2016/11/19/league-of-nationalists",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.economist.com/international/2016/11/19/league-of-nationalists&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQFnoECGQQAQ",
+            "displayed_link": "https://www.economist.com \u203a international \u203a 2016/11/19",
+            "favicon": "https://serpapi.com/searches/68b876572b15b908351b07f5/images/a61e25b46ac55b5f4eb2c0c726d52f9a62a9740865296e551dbc4ddcf473f1d2.png",
+            "date": "Nov 19, 2016",
+            "snippet": "All societies draw on nationalism of one sort or another to define relations between the state, the citizen and the outside world.",
+            "source": "The Economist"
+        },
+        {
+            "position": 44,
+            "title": "NATIONALISTIC definition | Cambridge English Dictionary",
+            "link": "https://dictionary.cambridge.org/us/dictionary/english/nationalistic",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://dictionary.cambridge.org/us/dictionary/english/nationalistic&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQFnoECGUQAQ",
+            "displayed_link": "https://dictionary.cambridge.org \u203a dictionary \u203a nationali...",
+            "favicon": "https://serpapi.com/searches/68b876572b15b908351b07f5/images/a61e25b46ac55b5f4eb2c0c726d52f9ac5b387f7924a9b8fc996029213789dc1.jpeg",
+            "snippet": "strongly supporting your country or its political independence: A series of nationalistic speeches prepared the country for going to war.",
+            "snippet_highlighted_words": [
+                "nationalistic"
+            ],
+            "source": "Cambridge Dictionary"
+        },
+        {
+            "position": 45,
+            "title": "BNP: Bangladesh Nationalist Party",
+            "link": "https://www.bnpbd.org/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bnpbd.org/&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQFnoECHMQAQ",
+            "displayed_link": "https://www.bnpbd.org",
+            "favicon": "https://serpapi.com/searches/68b876572b15b908351b07f5/images/a61e25b46ac55b5f4eb2c0c726d52f9a05bbc07a2e3eea9f5dd874ff0589c274.png",
+            "snippet": "Valiant freedom fighters and Bangladeshi Nationalists founded the party under the leadership of President Ziaur Rahman in 1978.",
+            "snippet_highlighted_words": [
+                "Nationalists"
+            ],
+            "source": "Bangladesh Nationalist Party - BNP"
+        },
+        {
+            "position": 46,
+            "title": "NATIONALISM: An Idea That Swept the World",
+            "link": "https://www.youtube.com/watch?v=ZwScRYptkDI",
+            "displayed_link": "1.1M+ views \u00b7 1 year ago",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4W7KewfRFFENdDGrIMEqYUiEoS38pIaJCryJPSCpO6kBn&s",
+            "favicon": "https://serpapi.com/searches/68b876572b15b908351b07f5/images/a61e25b46ac55b5f4eb2c0c726d52f9a46021e57c9106bd5a1483a2fd602d074.png",
+            "snippet": "An in-depth explanation of nationalism and its spread across the globe. This video isn't sponsored. If you want to support me, here are the ...",
+            "duration": "50:47",
+            "key_moments": [
+                {
+                    "time": "00:00",
+                    "title": "Intro",
+                    "link": "https://www.youtube.com/watch?v=ZwScRYptkDI&t=0",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEAdM72ne80Jew-9x7RNtYTuQYYLGwY4sA2eJ5U010YA&s"
+                },
+                {
+                    "time": "01:21",
+                    "title": "Before Nationalism",
+                    "link": "https://www.youtube.com/watch?v=ZwScRYptkDI&t=81",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGXlPGz3zNQFZRJhyMQDWAP_vn0VMLz6uUYD7rWMEAKA&s"
+                },
+                {
+                    "time": "04:49",
+                    "title": "France: Nationalism Develops",
+                    "link": "https://www.youtube.com/watch?v=ZwScRYptkDI&t=289",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3kMNgIijuSN25yPKeO2XKXEBMuGR4DEjg-ibXivmiog&s"
+                },
+                {
+                    "time": "21:42",
+                    "title": "Nationalism Spreads",
+                    "link": "https://www.youtube.com/watch?v=ZwScRYptkDI&t=1302",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsgz8i1vVR4eNc91Xl1m-ZE4dB-OWllWRrfiArTPGx3Q&s"
+                },
+                {
+                    "time": "28:47",
+                    "title": "The Enlightenment vs. Romanticism",
+                    "link": "https://www.youtube.com/watch?v=ZwScRYptkDI&t=1727",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIRcs9UK2UT08iNwsvRbR69TTsOBHabr3vwDeyCcQN4g&s"
+                },
+                {
+                    "time": "32:08",
+                    "title": "Germany & Romantic Nationalism",
+                    "link": "https://www.youtube.com/watch?v=ZwScRYptkDI&t=1928",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpSSAWbFCENfk7ZPzz_bkBLbZ2qMG2NrWS_fOXmwJJ_g&s"
+                },
+                {
+                    "time": "41:23",
+                    "title": "Nationalism Mixes",
+                    "link": "https://www.youtube.com/watch?v=ZwScRYptkDI&t=2483",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-3qYwdJ9Ikga63YKMomkmsjLbpLwAKy53HSiwjWR6tQ&s"
+                },
+                {
+                    "time": "43:23",
+                    "title": "Fascism",
+                    "link": "https://www.youtube.com/watch?v=ZwScRYptkDI&t=2603",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6bZo8OJphw6lQ_nLXkCE4KsEuF55e53UPu01c6lh9Gg&s"
+                },
+                {
+                    "time": "48:00",
+                    "title": "After Fascism",
+                    "link": "https://www.youtube.com/watch?v=ZwScRYptkDI&t=2880",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvRGr2hZfSvBZwNvVA8E1loP2neQ_WgAUeDmv40jVuyw&s"
+                },
+                {
+                    "time": "48:12",
+                    "title": "Outro",
+                    "link": "https://www.youtube.com/watch?v=ZwScRYptkDI&t=2892",
+                    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqH4XnBgl6gC0n-Fymycq4Y4IhxMo47Z3ADj2ESPAZvw&s"
+                }
+            ],
+            "source": "YouTube \u00b7 Ryan Chapman"
+        },
+        {
+            "position": 47,
+            "title": "DHS deploys white nationalist, anti-immigrant graphics to ...",
+            "link": "https://www.splcenter.org/resources/hatewatch/dhs-white-nationalist-anti-immigrant-social-media/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.splcenter.org/resources/hatewatch/dhs-white-nationalist-anti-immigrant-social-media/&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQFnoECHYQAQ",
+            "displayed_link": "https://www.splcenter.org \u203a Hatewatch",
+            "favicon": "https://serpapi.com/searches/68b876572b15b908351b07f5/images/a61e25b46ac55b5f4eb2c0c726d52f9a6279320b1315a19586bd06b2ee7ae7cb.png",
+            "date": "6 days ago",
+            "snippet": "The Department of Homeland Security (DHS) is using white nationalist imagery and language to recruit new employees and arrest immigrants. A ...",
+            "snippet_highlighted_words": [
+                "nationalist"
+            ],
+            "source": "Southern Poverty Law Center"
+        },
+        {
+            "position": 48,
+            "title": "What is nationalism? - C-REX \u2013 Center for Research on ...",
+            "link": "https://www.sv.uio.no/c-rex/english/resources/key-consepts-and-questions/what-is-nationalism.html",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sv.uio.no/c-rex/english/resources/key-consepts-and-questions/what-is-nationalism.html&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQFnoFCIIBEAE",
+            "displayed_link": "https://www.sv.uio.no \u203a key-consepts-and-questions \u203a w...",
+            "favicon": "https://serpapi.com/searches/68b876572b15b908351b07f5/images/a61e25b46ac55b5f4eb2c0c726d52f9a0acb5487f3aa7970e03293e481d94b88.png",
+            "date": "Aug 31, 2020",
+            "snippet": "Ethnic nationalism comprises of an eclectic mix of ideology, combining both racial and cultural nationalist thinking. Ethnic nationalists ...",
+            "snippet_highlighted_words": [
+                "nationalist",
+                "nationalists"
+            ],
+            "source": "UiO Det samfunnsvitenskapelige fakultet"
+        },
+        {
+            "position": 49,
+            "title": "Nationalism: What We Know and What We Still Need to Know",
+            "link": "https://www.annualreviews.org/doi/10.1146/annurev-polisci-041719-101841",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.annualreviews.org/doi/10.1146/annurev-polisci-041719-101841&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQFnoECHgQAQ",
+            "displayed_link": "https://www.annualreviews.org \u203a doi \u203a annurev-polisci-0...",
+            "favicon": "https://serpapi.com/searches/68b876572b15b908351b07f5/images/a61e25b46ac55b5f4eb2c0c726d52f9a26009cd3736dedddb6ade5adef21a80d.png",
+            "date": "May 11, 2021",
+            "snippet": "Amid the global resurgence of nationalist governments, what do we know about nationalism? This review takes stock of political science ...",
+            "snippet_highlighted_words": [
+                "nationalist"
+            ],
+            "source": "Annual Reviews"
+        }
+    ],
+    "related_searches": [
+        {
+            "block_position": 1,
+            "items": [
+                {
+                    "name": "Capitalism",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXCseIPVuvVCn8ScMz91Vdhop3-fd0nGgI9VYN0Q9AE7xr7d-UJvvI&s=0",
+                    "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Capitalism&stick=H4sIAAAAAAAAAOMwVOLQz9U3MMxLNvjFyLCBheEVCxcXXAjOMTJKyoBzzDOSyxEyOcYIGeOcHGOEAUVJSYtYuZwTCzJLEnMyi3NvsUky7F7U8ZPFdb_hRkvjjZvEHm9n_-X-tzZtxspFHGIBqfkFOakKiTnF-QrFqYlFyRkKaflFKzgYAR_Hw1alAAAA&sa=X&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQs9oBKAB6BAgvEAo",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=50&q=Capitalism&stick=H4sIAAAAAAAAAOMwVOLQz9U3MMxLNvjFyLCBheEVCxcXXAjOMTJKyoBzzDOSyxEyOcYIGeOcHGOEAUVJSYtYuZwTCzJLEnMyi3NvsUky7F7U8ZPFdb_hRkvjjZvEHm9n_-X-tzZtxspFHGIBqfkFOakKiTnF-QrFqYlFyRkKaflFKzgYAR_Hw1alAAAA"
+                },
+                {
+                    "name": "Colonialism",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD-kxPdLHGOxmPluHU6ogTluvYcKgoK4Tz5vo4V5YKefjSv0oHNtPh&s=0",
+                    "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Colonialism&stick=H4sIAAAAAAAAAOMwVOLQz9U3MDJKyvjFyLCBheEVCxcXWMgwL9kAzgHJwznmGcnlCJkcY4SMcU6OMcKAoqSkRazczvk5-XmZiTmZxbm32CQZdi_q-Mniut9wo6Xxxk1ij7ez_3L_W5s2Y-UiDrGA1PyCnFSFxJzifIXi1MSi5AyFtPyiFRyMAKyMI3SmAAAA&sa=X&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQs9oBKAB6BAgvEA8",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=50&q=Colonialism&stick=H4sIAAAAAAAAAOMwVOLQz9U3MDJKyvjFyLCBheEVCxcXWMgwL9kAzgHJwznmGcnlCJkcY4SMcU6OMcKAoqSkRazczvk5-XmZiTmZxbm32CQZdi_q-Mniut9wo6Xxxk1ij7ez_3L_W5s2Y-UiDrGA1PyCnFSFxJzifIXi1MSi5AyFtPyiFRyMAKyMI3SmAAAA"
+                },
+                {
+                    "name": "Totalitarianism",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFGlmlBBwUfccOWdeCeLlFoHPCaE6KPWq1dZJGbIoTX25s9zNi6zv5&s=0",
+                    "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Totalitarianism&stick=H4sIAAAAAAAAAOMwVOLQz9U3MM9ILv_FyLCBheEVCxcXWMgwL9kAzjEySsqAc0CKETI5xggZ45wcY4QBRUlJi1j5Q_JLEnMySxKLMhPzMotzb7FJMuxe1PGTxXW_4UZL442bxB5vZ__l_rc2bcbKRRxiAan5BTmpCok5xfkKxamJRckZCmn5RSs4GAFOyvUfqgAAAA&sa=X&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQs9oBKAB6BAgvEBQ",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=50&q=Totalitarianism&stick=H4sIAAAAAAAAAOMwVOLQz9U3MM9ILv_FyLCBheEVCxcXWMgwL9kAzjEySsqAc0CKETI5xggZ45wcY4QBRUlJi1j5Q_JLEnMySxKLMhPzMotzb7FJMuxe1PGTxXW_4UZL442bxB5vZ__l_rc2bcbKRRxiAan5BTmpCok5xfkKxamJRckZCmn5RSs4GAFOyvUfqgAAAA"
+                },
+                {
+                    "name": "Election contest",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrVTHNULgYYPgPUVA9k12hyjMrdUVtxSM-8Yj3rFk14SJLG1C-YZ1-&s=0",
+                    "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=election&stick=H4sIAAAAAAAAAOMwVOLQz9U3MMoxzvjFyLCBheEVCxcXWMgwL9kAzjEySsqAc8wzkssRMkCdcI5xTo4xwoCipKRFrBypOanJJZn5ebfYJBl2L-r4yeK633CjpfHGTWKPt7P_cv9bmzZj5SIOsYDU_IKcVIXEnOJ8heLUxKLkDIW0_KIVHIwA4hei86MAAAA&sa=X&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQs9oBKAB6BAgvEBk",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=50&q=election&stick=H4sIAAAAAAAAAOMwVOLQz9U3MMoxzvjFyLCBheEVCxcXWMgwL9kAzjEySsqAc8wzkssRMkCdcI5xTo4xwoCipKRFrBypOanJJZn5ebfYJBl2L-r4yeK633CjpfHGTWKPt7P_cv9bmzZj5SIOsYDU_IKcVIXEnOJ8heLUxKLkDIW0_KIVHIwA4hei86MAAAA"
+                },
+                {
+                    "name": "Human rights",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqHyDJDN7Uy95YzJTKnCdbaC8ItnBCpNffj8zovJkRjR_i0cjjOtUs&s=0",
+                    "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Human+rights&stick=H4sIAAAAAAAAAOMwVOLQz9U3MM7JMf7FyLCBheEVCxcXWMgwL9kAzjEySsqAc8wzkssRMjnGCBmQMQgDipKSFrHyeJTmJuYpFGWmZ5QU32KTZNi9qOMni-t-w42Wxhs3iT3ezv7L_W9t2oyVizjEAlLzC3JSFRJzivMVilMTi5IzFNLyi1ZwMAIAEzNuvacAAAA&sa=X&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQs9oBKAB6BAgvEB4",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=50&q=Human+rights&stick=H4sIAAAAAAAAAOMwVOLQz9U3MM7JMf7FyLCBheEVCxcXWMgwL9kAzjEySsqAc8wzkssRMjnGCBmQMQgDipKSFrHyeJTmJuYpFGWmZ5QU32KTZNi9qOMni-t-w42Wxhs3iT3ezv7L_W9t2oyVizjEAlLzC3JSFRJzivMVilMTi5IzFNLyi1ZwMAIAEzNuvacAAAA"
+                },
+                {
+                    "name": "Crime",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL9cvVVRR8eb9AB7-FdtP_0uOn0UZQHEzCdaqNMTcBH2j3jtdLopn6&s=0",
+                    "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Crime&stick=H4sIAAAAAAAAAOMwVOLQz9U3MCxKSvrFyLCBheEVCxcXRCgv2QDOMTJKyoBzzDOSyxEyOcYIGeOcHGOEAUAzF7GyOhdl5qbeYpNk2L2o4yeL637DjZbGGzeJPd7O_sv9b23ajJWLOMQCUvMLclIVEnOK8xWKUxOLkjMU0vKLVnAwAgDZX5tVoAAAAA&sa=X&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQs9oBKAB6BAgvECM",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=50&q=Crime&stick=H4sIAAAAAAAAAOMwVOLQz9U3MCxKSvrFyLCBheEVCxcXRCgv2QDOMTJKyoBzzDOSyxEyOcYIGeOcHGOEAUAzF7GyOhdl5qbeYpNk2L2o4yeL637DjZbGGzeJPd7O_sv9b23ajJWLOMQCUvMLclIVEnOK8xWKUxOLkjMU0vKLVnAwAgDZX5tVoAAAAA"
+                }
+            ]
+        },
+        {
+            "block_position": 1,
+            "query": "Nationalist meaning in history",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Nationalist+meaning+in+history&sa=X&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQ1QJ6BAhtEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=50&q=Nationalist+meaning+in+history"
+        },
+        {
+            "block_position": 1,
+            "query": "Nationalist examples",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Nationalist+examples&sa=X&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQ1QJ6BAhrEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=50&q=Nationalist+examples"
+        },
+        {
+            "block_position": 1,
+            "query": "Nationalist China",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Nationalist+China&sa=X&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQ1QJ6BAhnEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=50&q=Nationalist+China"
+        },
+        {
+            "block_position": 1,
+            "query": "What is a nationalist government",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=What+is+a+nationalist+government&sa=X&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQ1QJ6BAhgEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=50&q=What+is+a+nationalist+government"
+        },
+        {
+            "block_position": 1,
+            "query": "What is a Nationalist Party",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=What+is+a+Nationalist+Party&sa=X&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQ1QJ6BAhcEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=50&q=What+is+a+Nationalist+Party"
+        },
+        {
+            "block_position": 1,
+            "query": "Who is a nationalist leader",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Who+is+a+nationalist+leader&sa=X&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQ1QJ6BAhbEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=50&q=Who+is+a+nationalist+leader"
+        },
+        {
+            "block_position": 1,
+            "query": "Nationalist vs patriot",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Nationalist+vs+patriot&sa=X&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQ1QJ6BAhXEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=50&q=Nationalist+vs+patriot"
+        },
+        {
+            "block_position": 1,
+            "query": "Nationalist vs communist",
+            "link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=Nationalist+vs+communist&sa=X&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQ1QJ6BAhVEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=50&q=Nationalist+vs+communist"
+        }
+    ],
+    "things_to_know": {
+        "buttons": [
+            {
+                "text": "Criticisms",
+                "subtitle": "What Are The Criticisms Of Nationalism?",
+                "search_link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=what+are+the+criticisms+of+nationalism&sa=X&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQrooIegQIMRAJ",
+                "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=50&q=what+are+the+criticisms+of+nationalism",
+                "ai_overview": {
+                    "text_blocks": [
+                        {
+                            "type": "paragraph",
+                            "snippet": "Criticisms of nationalism include its potential to incite xenophobia, ethnic hatred, and war; its tendency to undermine human rights and democratic principles; and its support for authoritarianism, cultural dominance, and oppressive policies like immigration restrictions and protectionism. Nationalism is criticized for promoting a narrow, irrational, and intolerant worldview, hindering global cooperation and understanding, and for its historical association with violence and the suppression of minorities.",
+                            "reference_indexes": [
+                                0,
+                                2,
+                                3,
+                                4,
+                                5,
+                                8,
+                                12
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "snippet": "Divisiveness and Conflict"
+                        },
+                        {
+                            "type": "list",
+                            "list": [
+                                {
+                                    "title": "Ethnic and racial division:",
+                                    "snippet": "Nationalism can legitimize racial, ethnic, and religious divisions, creating an \"us vs. them\" mentality that leads to prejudice, intolerance, and conflict with other nations or groups within a nation.",
+                                    "reference_indexes": [
+                                        0,
+                                        8
+                                    ]
+                                },
+                                {
+                                    "title": "War and aggression:",
+                                    "snippet": "Historically, nationalism has been a significant cause of wars, including both world wars, by fostering a sense of national superiority and a drive to expand power and territory.",
+                                    "reference_indexes": [
+                                        0,
+                                        6,
+                                        9,
+                                        11,
+                                        13
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "snippet": "Threats to Human Rights and Democracy"
+                        },
+                        {
+                            "type": "list",
+                            "list": [
+                                {
+                                    "title": "Authoritarianism:",
+                                    "snippet": "Nationalist ideologies can concentrate power in centralized states and lead to the suppression of individual rights and democratic traditions in favor of the perceived national will.",
+                                    "reference_indexes": [
+                                        0,
+                                        2
+                                    ]
+                                },
+                                {
+                                    "title": "Conspiracy theories:",
+                                    "snippet": "The promotion of a unified national identity can foster conspiracy theories and a single, authoritative viewpoint, which subverts democratic discourse and institutions.",
+                                    "reference_indexes": [
+                                        2
+                                    ]
+                                },
+                                {
+                                    "title": "Suppression of minorities:",
+                                    "snippet": "Nationalism can be used to enforce cultural homogeneity, leading to the suppression or marginalization of minority groups, including refugees who are often viewed with suspicion.",
+                                    "reference_indexes": [
+                                        0,
+                                        7,
+                                        8
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "snippet": "Narrow and Irrational Ideology",
+                            "reference_indexes": [
+                                5
+                            ]
+                        },
+                        {
+                            "type": "list",
+                            "list": [
+                                {
+                                    "title": "Intolerance and prejudice:",
+                                    "snippet": "Critics view nationalism as an irrational and intolerant doctrine that hinders progress toward a more globalized world.",
+                                    "reference_indexes": [
+                                        5
+                                    ]
+                                },
+                                {
+                                    "title": "Obstruction of international cooperation:",
+                                    "snippet": "By prioritizing national interests above all else, nationalism creates a barrier to the international cooperation necessary to address global challenges.",
+                                    "reference_indexes": [
+                                        0,
+                                        5,
+                                        10
+                                    ]
+                                },
+                                {
+                                    "title": "Cultural dominance:",
+                                    "snippet": "Nationalism can lead to the promotion of a specific national culture and history, leading to cultural dominance over others and a narrowing of cultural appreciation.",
+                                    "reference_indexes": [
+                                        1,
+                                        2
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "snippet": "Economic and Political Consequences"
+                        },
+                        {
+                            "type": "list",
+                            "list": [
+                                {
+                                    "title": "Protectionism:",
+                                    "snippet": "Economic nationalism can lead to restrictive trade policies that harm international commerce and economic development.",
+                                    "reference_indexes": [
+                                        2
+                                    ]
+                                },
+                                {
+                                    "title": "Immigration restrictions:",
+                                    "snippet": "Nationalist sentiments often fuel immigration restrictions, which can prevent the free movement of people and contribute to a lack of empathy and understanding across borders.",
+                                    "reference_indexes": [
+                                        2,
+                                        7
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "references": [
+                        {
+                            "title": "Nationalism - Wikipedia",
+                            "link": "https://en.wikipedia.org/wiki/Nationalism#:~:text=The%20moral%20value%20of%20nationalism,cause%20of%20both%20world%20wars.",
+                            "snippet": "The moral value of nationalism, the relationship between nationalism and patriotism, and the compatibility of nationalism and cosm...",
+                            "source": "Wikipedia",
+                            "index": 0
+                        },
+                        {
+                            "title": "Scholars@Duke publication: Schopenhauer's Critique of Nationalism",
+                            "link": "https://scholars.duke.edu/publication/1532378#:~:text=In%20his%20own%20era%2C%20Arthur,meaningful%20cultural%20or%20literary%20phenomenon.",
+                            "snippet": "In his own era, Arthur Schopenhauer was criticized for his conspicuous lack of patriotism. The critics were correct in the sense t...",
+                            "source": "Scholars@Duke",
+                            "index": 1
+                        },
+                        {
+                            "title": "The Case Against Nationalism | Cato Institute",
+                            "link": "https://www.cato.org/outside-articles/case-against-nationalism",
+                            "source": "Cato Institute",
+                            "index": 2
+                        },
+                        {
+                            "title": "Wokeness Is Awful. Nationalism Is Far Worse. - Cato Institute",
+                            "link": "https://www.cato.org/commentary/wokeness-awful-nationalism-far-worse#:~:text=By%20fiat%20alone%2C%20he%20could,is%20a%20recipe%20for%20disaster.",
+                            "snippet": "Jul 1, 2024 \u2014 By fiat alone, he could upend not only consequential policies like trade and immigration, but even democratic instituti...",
+                            "source": "Cato Institute",
+                            "index": 3
+                        },
+                        {
+                            "title": "The consequences of nationalism: A scholarly exchange - Hau - 2023",
+                            "link": "https://onlinelibrary.wiley.com/doi/10.1111/nana.12947#:~:text=Nationalism%20is%20central%20to%20our,nationalism%20matters%20in%20contemporary%20politics.",
+                            "snippet": "Apr 2, 2023 \u2014 Nationalism is central to our understanding of some of the most important political developments in the modern world. I...",
+                            "source": "Wiley Online Library",
+                            "index": 4
+                        },
+                        {
+                            "title": "America\u2019s Uncomfortable Relationship With Nationalism | Stanley Center for Peace and Security",
+                            "link": "https://stanleycenter.org/publications/americas-uncomfortable-relationship-with-nationalism/",
+                            "source": "Stanley Center for Peace and Security",
+                            "index": 5
+                        },
+                        {
+                            "title": "After the Great War: Nationalism, Degenerationism and Mass ...",
+                            "link": "https://jspp.psychopen.eu/index.php/jspp/article/view/4847/4847.html",
+                            "snippet": "Abstract * At the end of World War I, a number of intellectuals and scholars who had suffered the devastating consequences of the...",
+                            "source": "Journal of Social and Political Psychology",
+                            "index": 6
+                        },
+                        {
+                            "title": "The Dangers of Nationalism | 2022-2023 | University Writing Program | Brandeis University",
+                            "link": "https://www.brandeis.edu/writing-program/write-now/2022-2023/li-jessica/index.html",
+                            "source": "Brandeis University",
+                            "index": 7
+                        },
+                        {
+                            "title": "The good and bad that comes with the rise of nationalism | At Issue",
+                            "link": "https://www.youtube.com/watch?v=5dJVxlTypyQ&t=61",
+                            "snippet": "Nov 15, 2018 \u2014 but what in your mind was Mron warning against uh nationalism something that he's seen before what What was he trying ...",
+                            "source": "YouTube \u00b7 CBC News: The National",
+                            "index": 8
+                        },
+                        {
+                            "title": "Nationalism | EBSCO Research Starters",
+                            "link": "https://www.ebsco.com/research-starters/political-science/nationalism#:~:text=Nationalism%20can%20be%20a%20unifying,better%20world%20for%20all%20people.",
+                            "snippet": "Nationalism can be a unifying or a divisive force. The negative aspects of nationalism have caused many wars, while its positive c...",
+                            "source": "EBSCO",
+                            "index": 9
+                        },
+                        {
+                            "title": "The far-right may think they own \u2018nationalism\u2019, but we can reclaim it as a force for good",
+                            "link": "https://theconversation.com/the-far-right-may-think-they-own-nationalism-but-we-can-reclaim-it-as-a-force-for-good-107788#:~:text=But%20nationalism%20is%20not%20just%20a%20political,there%20being%20nations%20in%20the%20first%20place.",
+                            "snippet": "Jan 6, 2019 \u2014 But nationalism is not just a political ideology that demands the needs of the national group sit above those of outsid...",
+                            "source": "The Conversation",
+                            "index": 10
+                        },
+                        {
+                            "title": "Ultranationalism as a Form of Mass Insanity",
+                            "link": "https://link.springer.com/chapter/10.1007/978-3-031-36056-5_4#:~:text=Nationalism%20also%20may%20morph%20into%20a%20drive,that%20defines%20members%20of%20out%2Dgroups%20as%20subhuman.",
+                            "snippet": "Sep 2, 2023 \u2014 Nationalism also may morph into a drive for dominance through conquest, compelled by hatred and a lust for power, as we...",
+                            "source": "Springer",
+                            "index": 11
+                        },
+                        {
+                            "title": "Nationalism and Human Rights - Emir Yazici, 2019",
+                            "link": "https://journals.sagepub.com/doi/10.1177/1065912918781187#:~:text=Nationalism%2C%20differently%20from%20other%20ideologies%20such%20as,practitioners%20that%20inherently%20contradicts%20with%20human%20rights.",
+                            "snippet": "Jun 20, 2018 \u2014 Nationalism, differently from other ideologies such as liberalism or socialism, increases violation of human rights by...",
+                            "source": "Sage Journals",
+                            "index": 12
+                        },
+                        {
+                            "title": "Project MUSE - The Romance of Canada: Nationalism and Canadian Historiography",
+                            "link": "https://muse.jhu.edu/pub/50/article/847257#:~:text=The%20rest%2C%20as%20they%20say%2C%20is%20history,it%20can%20be%20a%20radically%20destabilizing%20dogma.",
+                            "snippet": "The rest, as they say, is history \u2013 and sobering history at that. Since nationalism is infused with a conviction of moral superior...",
+                            "source": "Project MUSE",
+                            "index": 13
+                        }
+                    ]
+                }
+            },
+            {
+                "text": "Patriotism",
+                "subtitle": "How Does Nationalism Relate To Patriotism?",
+                "search_link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=how+does+nationalism+relate+to+patriotism&sa=X&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQrooIegQIMRAS",
+                "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=50&q=how+does+nationalism+relate+to+patriotism",
+                "ai_overview": {
+                    "text_blocks": [
+                        {
+                            "type": "paragraph",
+                            "snippet": "Patriotism is a positive love for one's country and a willingness to work for its betterment, while nationalism is an aggressive, often xenophobic belief in one's nation's superiority over others. Patriotism is a civic attachment to the values and ideals of the nation, but nationalism is a spiritual or cultural attachment that can lead to a desire for national dominance or separation.",
+                            "snippet_highlighted_words": [
+                                "Patriotism is a positive love for one's country and a willingness to work for its betterment, while nationalism is an aggressive, often xenophobic belief in one's nation's superiority over others"
+                            ],
+                            "reference_indexes": [
+                                0,
+                                2,
+                                3
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "snippet": "Patriotism"
+                        },
+                        {
+                            "type": "list",
+                            "list": [
+                                {
+                                    "title": "Definition:",
+                                    "snippet": "Love and pride for one's country, with a willingness to defend its interests and values.",
+                                    "reference_indexes": [
+                                        0,
+                                        2
+                                    ]
+                                },
+                                {
+                                    "title": "Focus:",
+                                    "snippet": "Adherence to the country's positive principles, such as freedom, justice, and equality.",
+                                    "reference_indexes": [
+                                        2
+                                    ]
+                                },
+                                {
+                                    "title": "Comparison:",
+                                    "snippet": "It is generally independent of comparisons with other nations and can coexist with an appreciation for other countries' cultures.",
+                                    "reference_indexes": [
+                                        1,
+                                        3,
+                                        5,
+                                        7
+                                    ]
+                                },
+                                {
+                                    "title": "Connotation:",
+                                    "snippet": "It has a positive and inclusive connotation, emphasizing unity within the nation.",
+                                    "reference_indexes": [
+                                        2,
+                                        6
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "snippet": "Nationalism"
+                        },
+                        {
+                            "type": "list",
+                            "list": [
+                                {
+                                    "title": "Definition:",
+                                    "snippet": "An ideology emphasizing the interests of a particular nation, often to the exclusion or detriment of other nations.",
+                                    "reference_indexes": [
+                                        2,
+                                        3
+                                    ]
+                                },
+                                {
+                                    "title": "Focus:",
+                                    "snippet": "A sense of national unity and cultural distinctiveness that can foster a belief in the nation's superiority.",
+                                    "reference_indexes": [
+                                        0,
+                                        3
+                                    ]
+                                },
+                                {
+                                    "title": "Comparison:",
+                                    "snippet": "It inherently involves a sense of superiority over other nations and can lead to distrust or hostility toward outsiders.",
+                                    "reference_indexes": [
+                                        2,
+                                        3
+                                    ]
+                                },
+                                {
+                                    "title": "Connotation:",
+                                    "snippet": "It has a negative and exclusive connotation, potentially leading to extremism and separatism.",
+                                    "reference_indexes": [
+                                        0,
+                                        2
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "snippet": "Key Differences Summarized"
+                        },
+                        {
+                            "type": "list",
+                            "list": [
+                                {
+                                    "title": "Comparison to Others:",
+                                    "snippet": "Patriotism does not require negative comparisons to other countries, whereas nationalism does.",
+                                    "reference_indexes": [
+                                        1,
+                                        3
+                                    ]
+                                },
+                                {
+                                    "title": "Scope of Loyalty:",
+                                    "snippet": "Patriotism is a devotion to the country as a whole, including its people. Nationalism is a devotion to one nation over others, often prioritizing its group over all others.",
+                                    "reference_indexes": [
+                                        4
+                                    ]
+                                },
+                                {
+                                    "title": "Outcome:",
+                                    "snippet": "Patriotism seeks to improve the nation's well-being, while nationalism can lead to destructive behavior and conflict.",
+                                    "reference_indexes": [
+                                        2,
+                                        3
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "references": [
+                        {
+                            "title": "Nationalism vs. Patriotism | Origin and Differences - Britannica",
+                            "link": "https://www.britannica.com/topic/Nationalism-vs-Patriotism-Whats-the-Difference#:~:text=Patriotism%20traditionally%20involves%20a%20civic,a%20key%20distinction%20from%20patriotism.",
+                            "snippet": "8 days ago \u2014 Patriotism traditionally involves a civic spirit and a willingness to sacrifice for the common liberty of a political co...",
+                            "source": "Britannica",
+                            "index": 0
+                        },
+                        {
+                            "title": "Differences in gray matter structure correlated to nationalism and ...",
+                            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4945903/#:~:text=Abstract,associated%20with%20quality%20of%20life.",
+                            "snippet": "Jul 15, 2016 \u2014 Abstract. Nationalism and patriotism both entail positive evaluations of one's nation. However, the former inherently ...",
+                            "source": "PubMed Central",
+                            "index": 1
+                        },
+                        {
+                            "title": "What does being a patriot or nationalist mean to you?",
+                            "link": "https://missouriindependent.com/2023/07/04/what-does-being-a-patriot-or-nationalist-mean-to-you/#:~:text=confused%20with%20nationalism.-,While%20they%20may%20share%20the%20love%20of%20country%2C%20they%20are,Nationalist%E2%80%9D%20look%20like?%3C/",
+                            "snippet": "Jul 4, 2023 \u2014 While they may share the love of country, they are not the same. Patriotism, historically and now, is based on positiv...",
+                            "source": "Missouri Independent",
+                            "index": 2
+                        },
+                        {
+                            "title": "Differentiating between pure patriots and nationalistic patriots: A model ...",
+                            "link": "https://www.sciencedirect.com/science/article/abs/pii/S0147176718305625#:~:text=Introduction,et%20al.%2C%202012).",
+                            "snippet": "Introduction. Although variably defined, conceptualizations of national identity often distinguish between two types of national a...",
+                            "source": "ScienceDirect.com",
+                            "index": 3
+                        },
+                        {
+                            "title": "What is the difference between nationalism and patriotism?",
+                            "link": "https://missouriindependent.com/2023/06/29/what-is-the-difference-between-nationalism-and-patriotism/#:~:text=In%20contrast%20to%20nationalism's%20loyalty,that%20of%20advancing%20its%20interests.%E2%80%9D",
+                            "snippet": "Jun 29, 2023 \u2014 In contrast to nationalism's loyalty for or devotion to one's nation, patriotism is, per the same dictionary, \u201clove fo...",
+                            "source": "Missouri Independent",
+                            "index": 4
+                        },
+                        {
+                            "title": "The Patriotic Societist Manifesto: Patriotic Societism is the nemesis of Islamo-Communism",
+                            "link": "https://iranism.org/patriotic-societism/#:~:text=It%20(%20patriotism%20)%20fosters%20a%20love,values%20and%20mutual%20respect%20for%20cultural%20heritage.",
+                            "snippet": "Mar 9, 2025 \u2014 It ( patriotism ) fosters a love for one's homeland without descending into \u201cnationalistic rivalry\u201d that demands confro...",
+                            "source": "iranism.org",
+                            "index": 5
+                        },
+                        {
+                            "title": "Why is it Important to Be Patriotic?",
+                            "link": "https://patriotcrew.co/blogs/articles/why-is-it-important-to-be-patriotic#:~:text=Fostering%20National%20Unity%20and%20Identity%20A%20sense,shared%20identity%20that%20is%20celebrated%20and%20revered.",
+                            "snippet": "Feb 14, 2024 \u2014 Fostering National Unity and Identity A sense of national unity is essential for the survival and prosperity of a coun...",
+                            "source": "Patriot Crew",
+                            "index": 6
+                        },
+                        {
+                            "title": "7 Steps to Raising an American Patriot",
+                            "link": "https://www.apologia.com/blog/7-steps-to-raising-an-american-patriot/#:~:text=It%20(%20patriotism%20)%20is%20not%20inherently,diversity%20and%20interconnectedness%20of%20the%20global%20community.",
+                            "snippet": "Jun 21, 2023 \u2014 It ( patriotism ) is not inherently exclusionary or hostile toward other nations or cultures. Patriotism should ideall...",
+                            "source": "Apologia",
+                            "index": 7
+                        }
+                    ]
+                }
+            },
+            {
+                "text": "Characteristics",
+                "subtitle": "What Are The Key Characteristics Of Nationalism?",
+                "search_link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=what+are+the+key+characteristics+of+nationalism&sa=X&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQrooIegQIMRAb",
+                "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=50&q=what+are+the+key+characteristics+of+nationalism",
+                "ai_overview": {
+                    "text_blocks": [
+                        {
+                            "type": "paragraph",
+                            "snippet": "Key characteristics of nationalism include a strong belief in the superiority and unity of one's own nation, a demand for national sovereignty and self-determination, a strong sense of loyalty to the nation that can supersede other loyalties, and a profound respect for a shared culture, history, and language that defines the nation's identity. Nationalism's manifestations can range from positive patriotic feelings to negative, exclusionary attitudes and has historically been a powerful force in shaping modern states and promoting independence.",
+                            "snippet_highlighted_words": [
+                                "a strong belief in the superiority and unity of one's own nation, a demand for national sovereignty and self-determination, a strong sense of loyalty to the nation that can supersede other loyalties, and a profound respect for a shared culture, history, and language that defines the nation's identity"
+                            ],
+                            "reference_indexes": [
+                                0,
+                                1,
+                                2,
+                                3,
+                                6
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "snippet": "Loyalty and Unity"
+                        },
+                        {
+                            "type": "list",
+                            "list": [
+                                {
+                                    "title": "National allegiance:",
+                                    "snippet": "Nationalism fosters a strong bond and sense of loyalty among individuals towards their nation, often placing national interests above those of other groups.",
+                                    "reference_indexes": [
+                                        2,
+                                        6
+                                    ]
+                                },
+                                {
+                                    "title": "Shared goals:",
+                                    "snippet": "Nationalists encourage solidarity and mutual support among the people to achieve common national objectives.",
+                                    "reference_indexes": [
+                                        0
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "snippet": "Self-Determination and Sovereignty",
+                            "reference_indexes": [
+                                5
+                            ]
+                        },
+                        {
+                            "type": "list",
+                            "list": [
+                                {
+                                    "title": "Right to rule:",
+                                    "snippet": "A core goal is for a nation to achieve and maintain political sovereignty, allowing it to govern itself free from foreign influence.",
+                                    "reference_indexes": [
+                                        0,
+                                        6
+                                    ]
+                                },
+                                {
+                                    "title": "Political independence:",
+                                    "snippet": "Nationalism often fuels movements for self-determination, where a nation seeks control over its own territory and affairs.",
+                                    "reference_indexes": [
+                                        0,
+                                        5
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "snippet": "Shared Culture and Identity"
+                        },
+                        {
+                            "type": "list",
+                            "list": [
+                                {
+                                    "title": "Cultural pride:",
+                                    "snippet": "There is a deep appreciation for a nation's unique cultural elements, such as folklore, traditions, language, and historical narratives.",
+                                    "reference_indexes": [
+                                        0,
+                                        1
+                                    ]
+                                },
+                                {
+                                    "title": "Unified identity:",
+                                    "snippet": "Nationalism seeks to build and promote a single national identity based on shared characteristics that bind the people together.",
+                                    "reference_indexes": [
+                                        1,
+                                        6
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "snippet": "Superiority and Exclusivity"
+                        },
+                        {
+                            "type": "list",
+                            "list": [
+                                {
+                                    "title": "\"Us vs. Them\":",
+                                    "snippet": "In some cases, nationalism can lead to a belief in one's nation's superiority over others, fostering exclusionary attitudes towards outsiders and minority groups.",
+                                    "reference_indexes": [
+                                        0
+                                    ]
+                                },
+                                {
+                                    "title": "National claims:",
+                                    "snippet": "It can involve the belief that the nation has a special claim to its territory, resources, and cultural traditions.",
+                                    "reference_indexes": [
+                                        4
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "references": [
+                        {
+                            "title": "[FREE] List the characteristics of nationalism. - brainly.com",
+                            "link": "https://brainly.com/question/42377872#:~:text=Many%20nationalist%20movements%20aim%20to,regions%20into%20a%20single%20nation.",
+                            "snippet": "Nov 11, 2023 \u2014 Many nationalist movements aim to form or maintain a nation-state where the people can rule themselves, free from fore...",
+                            "source": "Brainly",
+                            "index": 0
+                        },
+                        {
+                            "title": "Nationalism - Wikipedia",
+                            "link": "https://en.wikipedia.org/wiki/Nationalism#:~:text=It%20further%20aims%20to%20build,promote%20national%20unity%20or%20solidarity.",
+                            "snippet": "It further aims to build and maintain a single national identity, based on a combination of shared social characteristics such as ...",
+                            "source": "Wikipedia, the free encyclopedia",
+                            "index": 1
+                        },
+                        {
+                            "title": "Nationalism | Oxford Research Encyclopedia of Politics",
+                            "link": "https://oxfordre.com/politics/display/10.1093/acrefore/9780190228637.001.0001/acrefore-9780190228637-e-2039#:~:text=Rather%20than%20treat%20the%20interests,nationalism%20conflict%20with%20human%20rights?",
+                            "snippet": "May 18, 2022 \u2014 Rather than treat the interests or claims of persons and groups impartially, the nationalist demands that one favors o...",
+                            "source": "Oxford Research Encyclopedias",
+                            "index": 2
+                        },
+                        {
+                            "title": "Nationalism | EBSCO Research Starters",
+                            "link": "https://www.ebsco.com/research-starters/political-science/nationalism#:~:text=Nationalism%20can%20serve%20both%20unifying,dynamics%20and%20social%20movements%20worldwide.",
+                            "snippet": "Nationalism can serve both unifying and divisive roles, fostering a sense of community and identity while also potentially leading...",
+                            "source": "EBSCO",
+                            "index": 3
+                        },
+                        {
+                            "title": "Nationalism - Stanford Encyclopedia of Philosophy",
+                            "link": "https://plato.stanford.edu/archives/spr2014/entries/nationalism/#:~:text=It%20is%20the%20one%20which,still%20marks%20many%20contemporary%20nationalisms.",
+                            "snippet": "Nov 29, 2001 \u2014 It is the one which features the supremacy of the nation's claims over other claims to individual allegiance, and whic...",
+                            "source": "Stanford Encyclopedia of Philosophy",
+                            "index": 4
+                        },
+                        {
+                            "title": "Key Elements of Nationalism",
+                            "link": "https://www.gwleidyddiaeth.cymru/nationalism/key-elements-of-nationalism/",
+                            "snippet": "We discuss the most important of these elements below. * The nation. The fundamental principle to all forms of nationalism is the...",
+                            "source": "gwleidyddiaeth.cymru",
+                            "index": 5
+                        },
+                        {
+                            "title": "What Is Nationalism? Definition and Examples - ThoughtCo",
+                            "link": "https://www.thoughtco.com/nationalism-definition-4158265#:~:text=What%20Is%20Nationalism?-,Definition%20and%20Examples,Capitol%20building%20in%20the%20background.&text=Nationalism%20is%20an%20ideology%20expressed,as%20the%20antithesis%20of%20globalism.",
+                            "snippet": "Sep 4, 2024 \u2014 Definition and Examples. Four American flags flying with the Capitol building in the background. ... Nationalism is an ...",
+                            "source": "ThoughtCo",
+                            "index": 6
+                        }
+                    ]
+                }
+            },
+            {
+                "text": "Causes",
+                "subtitle": "What Are The Causes Of Nationalism?",
+                "search_link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=what+are+the+causes+of+nationalism&sa=X&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQrooIegQIMRAk",
+                "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=50&q=what+are+the+causes+of+nationalism",
+                "ai_overview": {
+                    "text_blocks": [
+                        {
+                            "type": "paragraph",
+                            "snippet": "Nationalism arises from factors like modernization processes (industrialization, urbanization), the desire for political and economic autonomy from foreign rule, and the promotion of a shared cultural or ethnic identity, history, and symbols. Historical events such as revolutions, colonial exploitation, and wars also foster national consciousness by creating common goals, driving a need for self-determination, and fostering a collective sense of pride and identity.",
+                            "snippet_highlighted_words": [
+                                "modernization processes (industrialization, urbanization), the desire for political and economic autonomy from foreign rule, and the promotion of a shared cultural or ethnic identity, history, and symbols"
+                            ],
+                            "reference_indexes": [
+                                0,
+                                1,
+                                2,
+                                3,
+                                5,
+                                7
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "snippet": "Social and Cultural Factors"
+                        },
+                        {
+                            "type": "list",
+                            "list": [
+                                {
+                                    "title": "Shared Identity:",
+                                    "snippet": "Nationalism is built on a shared identity that includes a common language, history, culture, and set of customs among a group of people.",
+                                    "reference_indexes": [
+                                        5
+                                    ]
+                                },
+                                {
+                                    "title": "Cultural Pride:",
+                                    "snippet": "It fosters a sense of pride in one's national culture and traditions, uniting people under a common cultural banner.",
+                                    "reference_indexes": [
+                                        7,
+                                        8
+                                    ]
+                                },
+                                {
+                                    "title": "Modernization:",
+                                    "snippet": "Processes like industrialization, urbanization, and mass education, associated with modernization, create a foundation for collective national consciousness to emerge.",
+                                    "reference_indexes": [
+                                        0
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "snippet": "Political Factors"
+                        },
+                        {
+                            "type": "list",
+                            "list": [
+                                {
+                                    "title": "Self-Determination:",
+                                    "snippet": "A key cause is the desire for a nation's people to govern themselves and control their own political destiny, free from outside rule.",
+                                    "reference_indexes": [
+                                        2,
+                                        5
+                                    ]
+                                },
+                                {
+                                    "title": "Colonialism:",
+                                    "snippet": "The experience of colonial rule often sparks nationalism as people react against exploitation and unite to gain independence and control over their own territory.",
+                                    "reference_indexes": [
+                                        1
+                                    ]
+                                },
+                                {
+                                    "title": "Popular Sovereignty:",
+                                    "snippet": "The concept of popular sovereignty, where the people are the source of political power, is a powerful driver of nationalist movements, as seen in events like the French Revolution.",
+                                    "reference_indexes": [
+                                        2,
+                                        6
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "snippet": "Economic Factors"
+                        },
+                        {
+                            "type": "list",
+                            "list": [
+                                {
+                                    "title": "Economic Gain:",
+                                    "snippet": "Nationalistic sentiments can be driven by a desire to improve the economic standing of a nation through domestic industry and by promoting national products.",
+                                    "reference_indexes": [
+                                        4,
+                                        7
+                                    ]
+                                },
+                                {
+                                    "title": "Exploitation:",
+                                    "snippet": "Awareness of economic exploitation by foreign powers can fuel nationalism and a movement to secure economic interests.",
+                                    "reference_indexes": [
+                                        1
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "snippet": "Historical Factors",
+                            "reference_indexes": [
+                                2,
+                                3
+                            ]
+                        },
+                        {
+                            "type": "list",
+                            "list": [
+                                {
+                                    "title": "Shared Experiences:",
+                                    "snippet": "Major historical events, such as wars or revolutions, can create a unifying sense of purpose and destiny among a population, fostering nationalism."
+                                },
+                                {
+                                    "title": "Decline of Feudalism:",
+                                    "snippet": "The decline of feudal structures and the rise of nation-states in Europe created the conditions for nationalism to flourish as loyalty shifted from local lords to the nation."
+                                }
+                            ]
+                        },
+                        {
+                            "type": "paragraph",
+                            "snippet": "Geographic Factors",
+                            "reference_indexes": [
+                                3,
+                                7
+                            ]
+                        },
+                        {
+                            "type": "list",
+                            "list": [
+                                {
+                                    "snippet": "Territorial Affiliation: A connection to a specific territory or land can strengthen national identity and serve as a basis for nationalist movements, such as the belief in a national destiny to conquer a continent."
+                                }
+                            ]
+                        }
+                    ],
+                    "references": [
+                        {
+                            "title": "Nationalism - Wikipedia",
+                            "link": "https://en.wikipedia.org/wiki/Nationalism#:~:text=Modernization%20theory%2C%20currently%20the%20most,which%20made%20national%20consciousness%20possible.",
+                            "snippet": "Modernization theory, currently the most commonly accepted theory of nationalism, adopts a constructivist approach and proposes th...",
+                            "source": "Wikipedia, the free encyclopedia",
+                            "index": 0
+                        },
+                        {
+                            "title": "Which factor were responsible for the emergence of nationalism?",
+                            "link": "https://www.quora.com/Which-factor-were-responsible-for-the-emergence-of-nationalism#:~:text=Indian%20nationalism%20grew%20in%20the,Racism:%20The%20racial%20discrimination%20prac",
+                            "snippet": "Indian nationalism grew in the second half of the 19th century partly as a result of colonial policies and partly as a reaction to...",
+                            "source": "Quora",
+                            "index": 1
+                        },
+                        {
+                            "title": "Rise Of Nationalism In India - SATHEE",
+                            "link": "https://sathee.iitk.ac.in/article/social-science/rise-of-nationalism-in-india/#:~:text=Nationalism%20emerged%20as%20a%20response,and%20the%20rights%20of%20citizens.",
+                            "snippet": "Nationalism emerged as a response to the decline of feudalism and the rise of nation-states in Europe during the 18th and 19th cen...",
+                            "source": "SATHEE",
+                            "index": 2
+                        },
+                        {
+                            "title": "American Nationalism History, Types & Examples - Study.com",
+                            "link": "https://study.com/academy/lesson/american-nationalism-history-examples.html",
+                            "snippet": "What originally created American nationalism? American nationalism grew as a result of the Revolutionary War and the Civil War. Th...",
+                            "source": "Study.com",
+                            "index": 3
+                        },
+                        {
+                            "title": "The Rising Trend of Nationalism and Its Implications on Human Rights",
+                            "link": "https://sites.uab.edu/humanrights/2020/10/21/the-rising-trend-of-nationalism-and-its-implications-on-human-rights/#:~:text=Nationalism%20can%20be%20utilized%20for%20development.%20Throughout,a%20country%20is%20a%20motivator%20among%20citizens.",
+                            "snippet": "Oct 21, 2020 \u2014 Nationalism can be utilized for development. Throughout history, nationalism can be attributed to a rise in the buying...",
+                            "source": "University of Alabama at Birmingham",
+                            "index": 4
+                        },
+                        {
+                            "title": "Nationalism Overview, History & Examples - Lesson - Study.com",
+                            "link": "https://study.com/academy/lesson/nationalism-grows-in-europe-timeline-events-impact.html#:~:text=Video%20Transcript-,Defining%20Nationalism,increase%20and%20express%20their%20patriotism.",
+                            "snippet": "Defining Nationalism Nationalism is an ideology that asserts that a nation is formed by a group of people with a common identity,",
+                            "source": "Study.com",
+                            "index": 5
+                        },
+                        {
+                            "title": "The Politics Shed - Key ideas of nationalism",
+                            "link": "https://sites.google.com/site/thepoliticsteacherorg/key-ideas-of-nationalism#:~:text=Sovereign%20power%20thus%20resided%20with%20the%20'French,community:%20it%20is%20a%20natural%20political%20community.",
+                            "snippet": "Sovereign power thus resided with the 'French nation'. The form of nationalism that emerged from the French Revolution was therefo...",
+                            "source": "Google Sites",
+                            "index": 6
+                        },
+                        {
+                            "title": "Critical Challenge: The Roots of Nationalism - LearnAlberta.ca",
+                            "link": "https://www.learnalberta.ca/content/ssoc11/html/rootsofnationalism_cc.html",
+                            "snippet": "Introduce the roots of nationalism * historical\u2014attachment to longstanding conditions and practices. * political\u2014desire for power...",
+                            "source": "LearnAlberta",
+                            "index": 7
+                        },
+                        {
+                            "title": "What are the main benefits and drawbacks of nationalism?",
+                            "link": "https://krunal75777.quora.com/What-are-the-main-benefits-and-drawbacks-of-nationalism#:~:text=Some%20positive%20effects%20of%20nationalism%20include:%20*,create%20public%20infrastructure%20programs%20that%20create%20jobs.",
+                            "snippet": "Feb 10, 2024 \u2014 Some positive effects of nationalism include: * Promotes identity: Nationalism can promote a sense of identity and pr...",
+                            "source": "Quora",
+                            "index": 8
+                        }
+                    ]
+                }
+            },
+            {
+                "text": "Effects",
+                "subtitle": "What Are The Effects Of Nationalism?",
+                "title": "Critical Challenge: Effects of Nationalism",
+                "link": "https://www.learnalberta.ca/content/ssoc11/html/effectsofnationalism_cc.html#:~:text=Explore%20the%20effects%20of%20nationalism&text=As%20a%20class%2C%20sort%20this,someone%20will%20take%20them%20over.",
+                "displayed_link": "https://www.learnalberta.ca \u203a content \u203a ssoc11 \u203a html \u203a e...",
+                "snippet": "Explore the effects of nationalism As a class, sort this list into positive and negative outcomes: positive outcomes\u2014promotes a sense of identity, unites people, promotes pride. negative outcomes\u2014leads to conflict with others, infringes on rights of others, creates xenophobia\u2014the fear that someone will take them over.",
+                "favicon": "https://serpapi.com/searches/68b876572b15b908351b07f5/images/fd8d44ced12fe807ffe276fce4bae1595704f498f7edc0ef1ce8ef20163ad14b56942e53bf1673aa.png",
+                "source": "learnalberta.ca",
+                "search_link": "https://www.google.com/search?num=50&sca_esv=cbb70bed2ede2303&q=what+are+the+effects+of+nationalism&sa=X&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQrooIegQIMRAq",
+                "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=50&q=what+are+the+effects+of+nationalism"
+            }
+        ]
+    },
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=nationalist&num=50&sca_esv=cbb70bed2ede2303&ei=WHa4aNKSBs26kPIPur-7oAE&start=50&sa=N&sstk=Ac65TH47WwWzQCmdi0R_0RZn-CnC6Y97Ig3rDYIu7mpwOcGC9NIPIGfgLr8oO_Oa-a4fLp5wN9w4WZQDSy_TvGvelDE-HEGFXRHSZg&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQ8NMDegQICBAM",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=nationalist&num=50&sca_esv=cbb70bed2ede2303&ei=WHa4aNKSBs26kPIPur-7oAE&start=50&sa=N&sstk=Ac65TH47WwWzQCmdi0R_0RZn-CnC6Y97Ig3rDYIu7mpwOcGC9NIPIGfgLr8oO_Oa-a4fLp5wN9w4WZQDSy_TvGvelDE-HEGFXRHSZg&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQ8tMDegQICBAE",
+            "3": "https://www.google.com/search?q=nationalist&num=50&sca_esv=cbb70bed2ede2303&ei=WHa4aNKSBs26kPIPur-7oAE&start=100&sa=N&sstk=Ac65TH47WwWzQCmdi0R_0RZn-CnC6Y97Ig3rDYIu7mpwOcGC9NIPIGfgLr8oO_Oa-a4fLp5wN9w4WZQDSy_TvGvelDE-HEGFXRHSZg&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQ8tMDegQICBAG",
+            "4": "https://www.google.com/search?q=nationalist&num=50&sca_esv=cbb70bed2ede2303&ei=WHa4aNKSBs26kPIPur-7oAE&start=150&sa=N&sstk=Ac65TH47WwWzQCmdi0R_0RZn-CnC6Y97Ig3rDYIu7mpwOcGC9NIPIGfgLr8oO_Oa-a4fLp5wN9w4WZQDSy_TvGvelDE-HEGFXRHSZg&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQ8tMDegQICBAI",
+            "5": "https://www.google.com/search?q=nationalist&num=50&sca_esv=cbb70bed2ede2303&ei=WHa4aNKSBs26kPIPur-7oAE&start=200&sa=N&sstk=Ac65TH47WwWzQCmdi0R_0RZn-CnC6Y97Ig3rDYIu7mpwOcGC9NIPIGfgLr8oO_Oa-a4fLp5wN9w4WZQDSy_TvGvelDE-HEGFXRHSZg&ved=2ahUKEwjSnqfeir2PAxVNHUQIHbrfDhQQ8tMDegQICBAK"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=50&q=nationalist&start=50",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=50&q=nationalist&start=50",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=50&q=nationalist&start=50",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=50&q=nationalist&start=100",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=50&q=nationalist&start=150",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=United+States&num=50&q=nationalist&start=200"
+        }
+    }
+}
