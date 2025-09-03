@@ -29,17 +29,16 @@ def search_web(query,location,num):
 
 if __name__ == "__main__":
 
-    file_path = "test.json"
-    
-    l = "India"
-    q = "Coffee"
-    num = 10
-    results = search_web(q,l,num)
-    print("Results : ",results)
-    print()
-    print("Type ",type(results))
-    
-    with open(file_path,'w') as file:
-        json.dump(results,file,indent=4)
-    print("File Saved Succefully!!!")
-    
+    num = 50
+
+    for location in loc_list:
+        for query in query_list:
+            
+            results = search_web(query,location,num)
+            
+            path = location + "/" + query
+            file_path = f"{path}.txt"
+            
+            with open(file_path,'w') as file:
+                json.dump(results,file,indent=4)
+            print(f"File Saved at {file_path}")
