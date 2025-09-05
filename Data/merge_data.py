@@ -15,10 +15,18 @@ def curate_metadata(data):
 
     metadata = data['search_metadata']
     
-    metadata['id'] = metadata["id"]
+    metadata_dic['id'] = metadata["id"]
     metadata_dic["created_at"] = metadata["created_at"]
     metadata_dic["processed_at"] = metadata["processed_at"]
     metadata_dic["time_taken"] = metadata["total_time_taken"]
+    
+
+    metadata = data["search_parameters"]
+    
+    metadata_dic["location"] = metadata["location_used"]
+    metadata_dic["query"] = metadata["q"]
+    metadata_dic["search_engine"] = metadata['engine']
+    
     return metadata_dic
 
 
@@ -32,11 +40,14 @@ def get_search_metadata(path_list, csv:bool=False):
 
         data = curate_metadata(data)
         
+        
         search_metadata_dic[path] = data
 
     if csv:
         import pandas as pd
         df = pd.DataFrame(search_metadata_dic)
+        df = df.transpose()
+
         df.to_csv("metadata.csv",index=False)
     
         print("Metadata csv created")
@@ -99,4 +110,4 @@ if __name__ == "__main__":
 
     #print(n)
 
-    #m = get_search_metadata(a,csv=True) 
+    m = get_search_metadata(a,csv=True) 

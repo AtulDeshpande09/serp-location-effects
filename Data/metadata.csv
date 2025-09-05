@@ -1,4 +1,46 @@
-United States/climate change facts.json,United States/latest AI research.json,United States/mathematicians.json,United States/best food.json,United States/cultural values.json,United States/nationalist.json,United States/best laptop.json,United States/study abroad programs.json,United States/buy electronics online.json,India/climate change facts.json,India/latest AI research.json,India/mathematicians.json,India/best food.json,India/cultural values.json,India/nationalist.json,India/best laptop.json,India/study abroad programs.json,India/buy electronics online.json,Japan/climate change facts.json,Japan/latest AI research.json,Japan/mathematicians.json,Japan/best food.json,Japan/cultural values.json,Japan/nationalist.json,Japan/best laptop.json,Japan/study abroad programs.json,Japan/buy electronics online.json,Germany/climate change facts.json,Germany/latest AI research.json,Germany/mathematicians.json,Germany/best food.json,Germany/cultural values.json,Germany/nationalist.json,Germany/best laptop.json,Germany/study abroad programs.json,Germany/buy electronics online.json,Brazil/climate change facts.json,Brazil/latest AI research.json,Brazil/mathematicians.json,Brazil/best food.json,Brazil/cultural values.json,Brazil/nationalist.json,Brazil/best laptop.json,Brazil/study abroad programs.json,Brazil/buy electronics online.json
-2025-09-03 17:09:27 UTC,2025-09-03 17:09:30 UTC,2025-09-03 17:09:34 UTC,2025-09-03 17:09:38 UTC,2025-09-03 17:09:40 UTC,2025-09-03 17:09:43 UTC,2025-09-03 17:09:46 UTC,2025-09-03 17:09:48 UTC,2025-09-03 17:09:55 UTC,2025-09-03 17:09:58 UTC,2025-09-03 17:10:03 UTC,2025-09-03 17:10:06 UTC,2025-09-03 17:10:11 UTC,2025-09-03 17:10:14 UTC,2025-09-03 17:10:17 UTC,2025-09-03 17:10:21 UTC,2025-09-03 17:10:25 UTC,2025-09-03 17:10:27 UTC,2025-09-03 17:10:29 UTC,2025-09-03 17:10:32 UTC,2025-09-03 17:10:34 UTC,2025-09-03 17:10:39 UTC,2025-09-03 17:10:43 UTC,2025-09-03 17:10:46 UTC,2025-09-03 17:10:48 UTC,2025-09-03 17:10:52 UTC,2025-09-03 17:10:55 UTC,2025-09-03 17:10:58 UTC,2025-09-03 17:11:01 UTC,2025-09-03 17:11:04 UTC,2025-09-03 17:11:07 UTC,2025-09-03 17:11:12 UTC,2025-09-03 17:11:17 UTC,2025-09-03 17:11:21 UTC,2025-09-03 17:11:24 UTC,2025-09-03 17:11:27 UTC,2025-09-03 17:11:30 UTC,2025-09-03 17:11:34 UTC,2025-09-03 17:11:36 UTC,2025-09-03 17:11:41 UTC,2025-09-03 17:11:45 UTC,2025-09-03 17:11:47 UTC,2025-09-03 17:11:50 UTC,2025-09-03 17:11:53 UTC,2025-09-03 17:11:55 UTC
-2025-09-03 17:09:27 UTC,2025-09-03 17:09:30 UTC,2025-09-03 17:09:34 UTC,2025-09-03 17:09:38 UTC,2025-09-03 17:09:40 UTC,2025-09-03 17:09:43 UTC,2025-09-03 17:09:46 UTC,2025-09-03 17:09:48 UTC,2025-09-03 17:09:55 UTC,2025-09-03 17:09:58 UTC,2025-09-03 17:10:03 UTC,2025-09-03 17:10:06 UTC,2025-09-03 17:10:11 UTC,2025-09-03 17:10:14 UTC,2025-09-03 17:10:17 UTC,2025-09-03 17:10:21 UTC,2025-09-03 17:10:25 UTC,2025-09-03 17:10:27 UTC,2025-09-03 17:10:29 UTC,2025-09-03 17:10:32 UTC,2025-09-03 17:10:34 UTC,2025-09-03 17:10:39 UTC,2025-09-03 17:10:43 UTC,2025-09-03 17:10:46 UTC,2025-09-03 17:10:48 UTC,2025-09-03 17:10:52 UTC,2025-09-03 17:10:55 UTC,2025-09-03 17:10:58 UTC,2025-09-03 17:11:01 UTC,2025-09-03 17:11:04 UTC,2025-09-03 17:11:07 UTC,2025-09-03 17:11:12 UTC,2025-09-03 17:11:17 UTC,2025-09-03 17:11:21 UTC,2025-09-03 17:11:24 UTC,2025-09-03 17:11:27 UTC,2025-09-03 17:11:30 UTC,2025-09-03 17:11:34 UTC,2025-09-03 17:11:36 UTC,2025-09-03 17:11:41 UTC,2025-09-03 17:11:45 UTC,2025-09-03 17:11:47 UTC,2025-09-03 17:11:50 UTC,2025-09-03 17:11:53 UTC,2025-09-03 17:11:55 UTC
-1.57,1.97,1.65,1.57,2.01,1.47,1.77,4.45,1.23,3.76,2.32,3.99,1.8,1.34,2.33,2.37,1.81,1.0,1.94,0.95,3.88,2.66,1.57,1.46,1.9,2.16,1.32,1.04,1.4,1.46,2.66,4.01,2.35,0.84,1.72,2.08,2.34,1.43,2.8,2.03,1.01,2.77,1.56,0.9,1.16
+id,created_at,processed_at,time_taken,location,query,search_engine
+68b87647bde979bb58ca5e08,2025-09-03 17:09:27 UTC,2025-09-03 17:09:27 UTC,1.57,United States,climate change facts,google
+68b8764a71ff8ce9972c90e0,2025-09-03 17:09:30 UTC,2025-09-03 17:09:30 UTC,1.97,United States,latest AI research,google
+68b8764ea7d78415b5e88e25,2025-09-03 17:09:34 UTC,2025-09-03 17:09:34 UTC,1.65,United States,mathematicians,google
+68b87652fdfbab9321b9e215,2025-09-03 17:09:38 UTC,2025-09-03 17:09:38 UTC,1.57,United States,best food,google
+68b87654079a2b4c11c3fe7d,2025-09-03 17:09:40 UTC,2025-09-03 17:09:40 UTC,2.01,United States,cultural values,google
+68b876572b15b908351b07f5,2025-09-03 17:09:43 UTC,2025-09-03 17:09:43 UTC,1.47,United States,nationalist,google
+68b8765a895d9090d6c1e4c9,2025-09-03 17:09:46 UTC,2025-09-03 17:09:46 UTC,1.77,United States,best laptop,google
+68b8765c560433f0c6364f35,2025-09-03 17:09:48 UTC,2025-09-03 17:09:48 UTC,4.45,United States,study abroad programs,google
+68b876630fa72e357849fd6b,2025-09-03 17:09:55 UTC,2025-09-03 17:09:55 UTC,1.23,United States,buy electronics online,google
+68b876665922f4bcf6c66da3,2025-09-03 17:09:58 UTC,2025-09-03 17:09:58 UTC,3.76,India,climate change facts,google
+68b8766bbb40c8f43a326f55,2025-09-03 17:10:03 UTC,2025-09-03 17:10:03 UTC,2.32,India,latest AI research,google
+68b8766ebd1731f7dd65c434,2025-09-03 17:10:06 UTC,2025-09-03 17:10:06 UTC,3.99,India,mathematicians,google
+68b87673b255a87af0fc4c8c,2025-09-03 17:10:11 UTC,2025-09-03 17:10:11 UTC,1.8,India,best food,google
+68b87676bdfe4927e45cc83d,2025-09-03 17:10:14 UTC,2025-09-03 17:10:14 UTC,1.34,India,cultural values,google
+68b876795abea56fab7e8c29,2025-09-03 17:10:17 UTC,2025-09-03 17:10:17 UTC,2.33,India,nationalist,google
+68b8767d28b27bb7eb2521fd,2025-09-03 17:10:21 UTC,2025-09-03 17:10:21 UTC,2.37,India,best laptop,google
+68b8768104e10a55b6d638fc,2025-09-03 17:10:25 UTC,2025-09-03 17:10:25 UTC,1.81,India,study abroad programs,google
+68b8768370e9d04ca2ef3332,2025-09-03 17:10:27 UTC,2025-09-03 17:10:27 UTC,1.0,India,buy electronics online,google
+68b8768565f701a0aef3093a,2025-09-03 17:10:29 UTC,2025-09-03 17:10:29 UTC,1.94,Japan,climate change facts,google
+68b876888270317f12c75957,2025-09-03 17:10:32 UTC,2025-09-03 17:10:32 UTC,0.95,Japan,latest AI research,google
+68b8768aa0cb10af557c5e69,2025-09-03 17:10:34 UTC,2025-09-03 17:10:34 UTC,3.88,Japan,mathematicians,google
+68b8768fae39f3bf2a9bc9b4,2025-09-03 17:10:39 UTC,2025-09-03 17:10:39 UTC,2.66,Japan,best food,google
+68b876930ccffb9544ad8bdc,2025-09-03 17:10:43 UTC,2025-09-03 17:10:43 UTC,1.57,Japan,cultural values,google
+68b876969a1f2cc0f603bca7,2025-09-03 17:10:46 UTC,2025-09-03 17:10:46 UTC,1.46,Japan,nationalist,google
+68b8769822abf77a30b3e66f,2025-09-03 17:10:48 UTC,2025-09-03 17:10:48 UTC,1.9,Japan,best laptop,google
+68b8769b10b5cf2e8ddeb8b1,2025-09-03 17:10:52 UTC,2025-09-03 17:10:52 UTC,2.16,Japan,study abroad programs,google
+68b8769fbadf0b11d61af3c5,2025-09-03 17:10:55 UTC,2025-09-03 17:10:55 UTC,1.32,Japan,buy electronics online,google
+68b876a2badf0b2c40894c79,2025-09-03 17:10:58 UTC,2025-09-03 17:10:58 UTC,1.04,Germany,climate change facts,google
+68b876a5b13aa7a673ee3b7e,2025-09-03 17:11:01 UTC,2025-09-03 17:11:01 UTC,1.4,Germany,latest AI research,google
+68b876a8998aadbc5863d84b,2025-09-03 17:11:04 UTC,2025-09-03 17:11:04 UTC,1.46,Germany,mathematicians,google
+68b876ab8270319e535a773c,2025-09-03 17:11:07 UTC,2025-09-03 17:11:07 UTC,2.66,Germany,best food,google
+68b876b0124815d492255666,2025-09-03 17:11:12 UTC,2025-09-03 17:11:12 UTC,4.01,Germany,cultural values,google
+68b876b5683863eb635b9bce,2025-09-03 17:11:17 UTC,2025-09-03 17:11:17 UTC,2.35,Germany,nationalist,google
+68b876b9f8cc78ff371115b3,2025-09-03 17:11:21 UTC,2025-09-03 17:11:21 UTC,0.84,Germany,best laptop,google
+68b876bc14537b6c4f0c4fad,2025-09-03 17:11:24 UTC,2025-09-03 17:11:24 UTC,1.72,Germany,study abroad programs,google
+68b876bf4fa3ba25449e22e7,2025-09-03 17:11:27 UTC,2025-09-03 17:11:27 UTC,2.08,Germany,buy electronics online,google
+68b876c29c2312ef52605271,2025-09-03 17:11:30 UTC,2025-09-03 17:11:30 UTC,2.34,Brazil,climate change facts,google
+68b876c6d2d7405288e0ce97,2025-09-03 17:11:34 UTC,2025-09-03 17:11:34 UTC,1.43,Brazil,latest AI research,google
+68b876c889ec19fcbd896ad3,2025-09-03 17:11:36 UTC,2025-09-03 17:11:36 UTC,2.8,Brazil,mathematicians,google
+68b876cdeeabd32cde94ae3f,2025-09-03 17:11:41 UTC,2025-09-03 17:11:41 UTC,2.03,Brazil,best food,google
+68b876d180f30ed67f5c0d1f,2025-09-03 17:11:45 UTC,2025-09-03 17:11:45 UTC,1.01,Brazil,cultural values,google
+68b876d3d1a72b2ce4e69c4d,2025-09-03 17:11:47 UTC,2025-09-03 17:11:47 UTC,2.77,Brazil,nationalist,google
+68b876d64de49a89932ef907,2025-09-03 17:11:50 UTC,2025-09-03 17:11:50 UTC,1.56,Brazil,best laptop,google
+68b876d9e6cb3005ed4165bd,2025-09-03 17:11:53 UTC,2025-09-03 17:11:53 UTC,0.9,Brazil,study abroad programs,google
+68b876db2b15b90656b2a34c,2025-09-03 17:11:55 UTC,2025-09-03 17:11:55 UTC,1.16,Brazil,buy electronics online,google
