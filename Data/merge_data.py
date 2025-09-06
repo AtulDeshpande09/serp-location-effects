@@ -12,14 +12,12 @@ query_list = [query.strip('\n') for query in queries]
 def curate_metadata(data):
     
     metadata_dic = {}
-
     metadata = data['search_metadata']
     
     metadata_dic['id'] = metadata["id"]
     metadata_dic["created_at"] = metadata["created_at"]
     metadata_dic["processed_at"] = metadata["processed_at"]
     metadata_dic["time_taken"] = metadata["total_time_taken"]
-    
 
     metadata = data["search_parameters"]
     
@@ -38,9 +36,7 @@ def get_search_metadata(path_list, csv:bool=False):
         with open(path,'r') as f:
             data = json.load(f)
 
-        data = curate_metadata(data)
-        
-        
+        data = curate_metadata(data)        
         search_metadata_dic[path] = data
 
     if csv:
@@ -53,10 +49,6 @@ def get_search_metadata(path_list, csv:bool=False):
         print("Metadata csv created")
 
     return search_metadata_dic
-
-
-
-
 
 
 def create_path(location,query):
@@ -75,39 +67,39 @@ def create_path(location,query):
 
 def all_json_file(path_list):
 
-    combined_json_list = []
-    for path in path_list:
+    combined = {query:{} for query in query_list}
+ 
+    for query in query_list:
 
-        with open(path,'r') as f:
-            data = json.load(f)
+        combined[query] = {}
 
-        data = data['organic_results']
-        combined_json_list.append(data)
+        for location in loc_list:
+            path = location+"/"+query+".json"
 
-    return combined_json_list
+            if path in path_list:
+                
+                with open(path,'r') as f:
+                    data = json.load(f)
+                data = data['organic_results']
 
+                data = {location : data}
+
+                combined[query].update(data)
+        
+    return combined
+    
 
 
 if __name__ == "__main__":
 
-    a = create_path(loc_list,query_list)
-    #a = a[:2]
+    paths = create_path(loc_list,query_list)
 
-    #b = all_json_file(a)
+    combined = all_json_file(paths)
 
-    l = []
 
-    """
-    for results in b:
-        # results contains around 50 dic 
-        
-        for result in results:
-            print(len(result)) # result is dictionary
-            for key in result.keys():
-                l.append(key)
-    """
-    #n = set(l)
+    with open('merged.json','w') as file:
+        json.dump( combined , file , indent=4)    
+    print("File Stored successsfully!!!")
 
-    #print(n)
 
-    m = get_search_metadata(a,csv=True) 
+    #metadata_dic = get_search_metadata(a,csv=True) 
