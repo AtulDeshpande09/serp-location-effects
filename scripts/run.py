@@ -36,9 +36,11 @@ if __name__ == "__main__":
             
             results = search_web(query,location,num)
             
-            path = location + "/" + query
-            file_path = f"{path}.json"
+            path = location + "/" + query 
+            file_path = f"../Data/{path}.json"
             
             with open(file_path,'w') as file:
                 json.dump(results,file,indent=4)
             print(f"File Saved at {file_path}")
+
+
