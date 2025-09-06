@@ -44,9 +44,9 @@ def get_search_metadata(path_list, csv:bool=False):
         df = pd.DataFrame(search_metadata_dic)
         df = df.transpose()
 
-        df.to_csv("metadata.csv",index=False)
+        df.to_csv("../Data/metadata.csv",index=False)
     
-        print("Metadata csv created")
+        print("Metadata csv created!!!")
 
     return search_metadata_dic
 
@@ -58,7 +58,7 @@ def create_path(location,query):
         for query in query_list:
            
             path = location + "/" + query
-            file_path = f"{path}.json"
+            file_path = f"../Data/{path}.json"
             path_list.append(file_path)
     
     return path_list
@@ -75,7 +75,7 @@ def all_json_file(path_list):
 
         for location in loc_list:
             path = location+"/"+query+".json"
-
+            path = f'../Data/{path}'
             if path in path_list:
                 
                 with open(path,'r') as f:
@@ -97,9 +97,8 @@ if __name__ == "__main__":
     combined = all_json_file(paths)
 
 
-    with open('merged.json','w') as file:
+    with open('../Data/merged.json','w') as file:
         json.dump( combined , file , indent=4)    
     print("File Stored successsfully!!!")
 
-
-    #metadata_dic = get_search_metadata(a,csv=True) 
+    metadata_dic = get_search_metadata(a,csv=True) 
