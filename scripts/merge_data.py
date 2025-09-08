@@ -8,6 +8,8 @@ from project_utils.preprocessing import get_organic_search_results, get_titles ,
 
 from project_utils.metadata import get_search_metadata
 
+from project_utils.metrics import jaccard_matrix
+
 # List of locations
 locations = open("locations.txt",'r')
 loc_list = [location.strip('\n') for location in locations]
@@ -37,7 +39,10 @@ if __name__ == "__main__":
 
     combined = get_organic_search_results(paths,query_list,loc_list)
 
-    print(get_snippets(combined))
+    title_dic = get_titles(combined)
+
+    title_jaccard = jaccard_matrix(title_dic)
+    print(title_jaccard)
 
 """
 
