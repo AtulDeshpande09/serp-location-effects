@@ -15,3 +15,13 @@ def jaccard_similarity(a, b):
 
 
 
+
+def overlap(a, b):
+
+    a = set(a)
+    b = set(b)
+
+    return len(a.intersection(b))
+
+
+
