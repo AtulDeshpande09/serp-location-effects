@@ -39,15 +39,9 @@ if __name__ == "__main__":
 
     combined = get_organic_search_results(paths,query_list,loc_list)
 
-    title_dic = get_titles(combined)
-
-    title_jaccard = jaccard_matrix(title_dic)
-    print(title_jaccard)
-
-"""
 
     with open('../Data/merged.json','w') as file:
         json.dump( combined , file , indent=4)    
     print("File Stored successsfully!!!")
 
-    metadata_dic = get_search_metadata(a,csv=True) """
+    metadata_dic = get_search_metadata(a,csv=True)
